@@ -116,6 +116,19 @@ class Organism:
                 DecoyCount += 1
         return DecoyCount
 
+    def ApplyTwoPeptideFilter(self):
+        ### this removes proteins that have only one peptide
+        ## it's optional way of filtering. I don't think it
+        ## is terribly relevant to the PTM story, because we're looking at spectra
+        KillMeList = []
+        for Accession in self.Proteins.keys():
+            ProteinObject = self.Proteins[Accession]
+            if len(ProteinObject.Peptides) < 2:
+                KillMeList.append(Accession)
+        #now go back and kill. Can't remove during a loop.
+        for Accession in KillMeList:
+            del self.Proteins[Accession]
+            
 
 
 class ParserClass:
