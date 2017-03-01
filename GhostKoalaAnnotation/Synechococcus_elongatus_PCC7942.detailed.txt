@@ -1,0 +1,2874 @@
+sp|Q31QG8|3MGH_SYNE7	K03652	MPG; DNA-3-methyladenine glycosylase [EC:3.2.2.21]	184		
+sp|P21577|6PGD_SYNE7	K00033	PGD; 6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343]	716		
+sp|Q54765|AAR_SYNE7	K14330	fatty aldehyde-generating acyl-ACP reductase [EC:1.2.1.80]	513		
+sp|Q54766|ACCA_SYNE7	K01962	accA; acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2]	464		
+sp|Q54776|ACCD_SYNE7	K01963	accD; acetyl-CoA carboxylase carboxyl transferase subunit beta [EC:6.4.1.2]	453		
+sp|Q31QV1|ACP_SYNE7	K02078	acpP; acyl carrier protein	117		
+sp|Q31LY2|ACSF_SYNE7	K04035	E1.14.13.81; magnesium-protoporphyrin IX monomethyl ester (oxidative) cyclase [EC:1.14.13.81]	438		
+sp|Q54764|ALDEC_SYNE7	K14331	fatty aldehyde decarbonylase [EC:4.1.99.5]	359		
+sp|Q55320|ALPH_SYNE7			582		
+sp|O06865|AMPA_SYNE7	K01255	CARP; leucyl aminopeptidase [EC:3.4.11.1]	597		
+sp|Q31P96|ANMK_SYNE7	K09001	anmK; anhydro-N-acetylmuramic acid kinase [EC:2.7.1.170]	384		
+sp|Q6V1L5|ARGB_SYNE7	K00930	argB; acetylglutamate kinase [EC:2.7.2.8]	437		
+sp|Q31NA6|ARGC_SYNE7	K00145	argC; N-acetyl-gamma-glutamyl-phosphate reductase [EC:1.2.1.38]	527		
+sp|Q8GIS1|ARLY_SYNE7	K01755	argH; argininosuccinate lyase [EC:4.3.2.1]	711		
+sp|Q31RQ5|AROA_SYNE7	K00800	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19]	623		
+sp|Q31RS5|AROC_SYNE7	K01736	aroC; chorismate synthase [EC:4.2.3.5]	597		
+sp|Q31PU5|AROK_SYNE7	K00891	E2.7.1.71; shikimate kinase [EC:2.7.1.71]	198		
+sp|Q31SC8|ASSY_SYNE7	K01940	argG; argininosuccinate synthase [EC:6.3.4.5]	659		
+sp|P37279|ATCS_SYNE7	K17686	copA; Cu+-exporting ATPase [EC:3.6.3.54]	1018		
+sp|P37278|ATCL_SYNE7	K01537	E3.6.3.8; Ca2+-transporting ATPase [EC:3.6.3.8]	1113		
+sp|Q31RF6|ATP6_SYNE7	K02108	ATPF0A; F-type H+-transporting ATPase subunit a	361		
+sp|Q31RF1|ATPA_SYNE7	K02111	ATPF1A; F-type H+-transporting ATPase subunit alpha [EC:3.6.3.14]	795		
+sp|Q31KS4|ATPB_SYNE7	K02112	ATPF1B; F-type H+-transporting ATPase subunit beta [EC:3.6.3.14]	818		
+sp|Q31RF2|ATPD_SYNE7	K02113	ATPF1D; F-type H+-transporting ATPase subunit delta	177		
+sp|P0A2Z8|ATPE_SYNE7	K02114	ATPF1E; F-type H+-transporting ATPase subunit epsilon	173		
+sp|Q31RF3|ATPF_SYNE7	K02109	ATPF0B; F-type H+-transporting ATPase subunit b	133		
+sp|Q31RF0|ATPG_SYNE7	K02115	ATPF1G; F-type H+-transporting ATPase subunit gamma	465		
+sp|Q31RF5|ATPL_SYNE7	K02110	ATPF0C; F-type H+-transporting ATPase subunit c	125		
+sp|Q31RF4|ATPX_SYNE7	K02109	ATPF0B; F-type H+-transporting ATPase subunit b	148		
+sp|P37385|ATSY_SYNE7	K01533	copB; Cu2+-exporting ATPase [EC:3.6.3.4]	610		
+sp|Q31R68|BIOB_SYNE7	K01012	bioB; biotin synthase [EC:2.8.1.6]	408		
+sp|Q31LB7|CARA_SYNE7	K01956	carA; carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]	560		
+sp|Q31RU7|CBID_SYNE7	K02188	cbiD; cobalt-precorrin-5B (C1)-methyltransferase [EC:2.1.1.195]	328		
+sp|Q03511|CCMK_SYNE7	K08696	ccmK; carbon dioxide concentrating mechanism protein CcmK	185		
+sp|P46205|CCMO_SYNE7	K08700	ccmO; carbon dioxide concentrating mechanism protein CcmO	289		
+sp|Q03513|CCMM_SYNE7	K08698	ccmM; carbon dioxide concentrating mechanism protein CcmM	574		
+sp|Q03512|CCML_SYNE7	K08697	ccmL; carbon dioxide concentrating mechanism protein CcmL	139		
+sp|Q31RG5|CCS1_SYNE7	K07399	resB; cytochrome c biogenesis protein	562		
+sp|Q31QX6|CCSA_SYNE7			488		
+sp|P22880|CH10_SYNE7	K04078	groES; chaperonin GroES	178		
+sp|P22879|CH60_SYNE7	K04077	groEL; chaperonin GroEL	890		
+sp|Q8GJN0|CHLB_SYNE7	K04039	chlB; light-independent protochlorophyllide reductase subunit B [EC:1.3.7.7]	826		
+sp|O07345|CHLD_SYNE7	K03404	chlD; magnesium chelatase subunit D [EC:6.6.1.1]	892		
+sp|P54207|CHLL_SYNE7	K04037	chlL; light-independent protochlorophyllide reductase subunit L [EC:1.3.7.7]	504		
+sp|P54208|CHLN_SYNE7	K04038	chlN; light-independent protochlorophyllide reductase subunit N [EC:1.3.7.7]	750		
+sp|Q31RK7|CINAL_SYNE7	K03742	pncC; nicotinamide-nucleotide amidase [EC:3.5.1.42]	528		
+sp|P53533|CLPB1_SYNE7	K03695	clpB; ATP-dependent Clp protease ATP-binding subunit ClpB	1377		
+sp|O34209|CLPB2_SYNE7	K03695	clpB; ATP-dependent Clp protease ATP-binding subunit ClpB	1055		
+sp|P54415|CLPP1_SYNE7	K01358	clpP; ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]	309		
+sp|O34125|CLPP2_SYNE7	K01358	clpP; ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]	327		
+sp|Q9L4P3|CLPP3_SYNE7	K01358	clpP; ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]	331		
+sp|Q9L4P4|CLPR_SYNE7	K01358	clpP; ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]	362		
+sp|Q31QE7|CLPS_SYNE7	K06891	clpS; ATP-dependent Clp protease adaptor protein ClpS	148		
+sp|O34126|CLPX_SYNE7	K03544	clpX; ATP-dependent Clp protease ATP-binding subunit ClpX	665		
+sp|P39660|CMPA_SYNE7	K11950	cmpA; bicarbonate transport system substrate-binding protein	569		
+sp|Q55106|CMPB_SYNE7	K11951	cmpB; bicarbonate transport system permease protein	392		
+sp|Q55108|CMPD_SYNE7	K11953	cmpD; bicarbonate transport system ATP-binding protein [EC:3.6.3.-]	455		
+sp|Q55107|CMPC_SYNE7	K11952	cmpC; bicarbonate transport system ATP-binding protein [EC:3.6.3.-]	1022		
+sp|Q9F1R2|CMPR_SYNE7			414		
+sp|Q55235|COAD_SYNE7	K00954	E2.7.7.3A; pantetheine-phosphate adenylyltransferase [EC:2.7.7.3]	229		
+sp|Q31RL4|COAE_SYNE7	K00859	coaE; dephospho-CoA kinase [EC:2.7.1.24]	204		
+sp|Q31M81|COAX_SYNE7	K03525	coaX; type III pantothenate kinase [EC:2.7.1.33]	160		
+sp|Q31RS6|COBQ_SYNE7	K02232	cobQ; adenosylcobyric acid synthase [EC:6.3.5.10]	689		
+sp|Q8GMS2|COBS_SYNE7	K02233	E2.7.8.26; adenosylcobinamide-GDP ribazoletransferase [EC:2.7.8.26]	199		
+sp|Q31PU7|COFG_SYNE7	K11780	cofG; FO synthase subunit 1 [EC:2.5.1.77]	427		
+sp|Q31QF1|COFH_SYNE7	K11781	cofH; FO synthase subunit 2 [EC:2.5.1.77]	510		
+sp|Q31JY9|COXX_SYNE7	K02301	cyoE; protoheme IX farnesyltransferase [EC:2.5.1.-]	314		
+sp|Q44116|CPCF_SYNE7	K02289	cpcF; phycocyanobilin lyase subunit beta [EC:4.4.1.32]	178		
+sp|Q44115|CPCE_SYNE7	K02288	cpcE; phycocyanobilin lyase subunit alpha [EC:4.4.1.32]	297		
+sp|P37269|CRTB_SYNE7	K02291	crtB; phytoene synthase [EC:2.5.1.32]	421		
+sp|Q31LM9|CY550_SYNE7	K02720	psbV; photosystem II cytochrome c550	225		
+sp|Q54711|CYB6_SYNE7	K02635	petB; cytochrome b6	410		
+sp|P25935|CYC6_SYNE7	K08906	petJ; cytochrome c6	129		
+sp|Q31NV8|CYF_SYNE7	K02634	petA; apocytochrome f	408		
+sp|Q59948|CYNS_SYNE7	K01725	cynS; cyanate lyase [EC:4.2.1.104]	216		
+sp|P27134|CYNT_SYNE7	K01673	cynT; carbonic anhydrase [EC:4.2.1.1]	301		
+sp|P14788|CYSA_SYNE7	K02045	cysA; sulfate transport system ATP-binding protein [EC:3.6.3.25]	521		
+sp|Q56002|CYSE_SYNE7	K00640	cysE; serine O-acetyltransferase [EC:2.3.1.30]	358		
+sp|Q55309|CYSH_SYNE7	K00390	cysH; phosphoadenosine phosphosulfate reductase [EC:1.8.4.8 1.8.4.10]	334		
+sp|Q59966|CYSK_SYNE7	K01738	cysK; cysteine synthase A [EC:2.5.1.47]	496		
+sp|P27369|CYSR_SYNE7			168		
+sp|P27367|CYST_SYNE7	K02046	cysU; sulfate transport system permease protein	340		
+sp|P27370|CYSW_SYNE7	K02047	cysW; sulfate transport system permease protein	371		
+sp|Q31PY6|DAPAT_SYNE7	K10206	E2.6.1.83; LL-diaminopimelate aminotransferase [EC:2.6.1.83]	715		
+sp|Q31M42|DAPA_SYNE7	K01714	dapA; 4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7]	388		
+sp|Q31LA3|DAPB_SYNE7	K00215	dapB; 4-hydroxy-tetrahydrodipicolinate reductase [EC:1.17.1.8]	403		
+sp|Q31LW2|DAPF_SYNE7	K01778	dapF; diaminopimelate epimerase [EC:5.1.1.7]	387		
+sp|P16891|DCUP_SYNE7	K01599	hemE; uroporphyrinogen decarboxylase [EC:4.1.1.37]	552		
+sp|Q31KL4|DDL_SYNE7	K01921	ddl; D-alanine-D-alanine ligase [EC:6.3.2.4]	448		
+sp|Q31KP9|DER_SYNE7	K03977	engA; GTPase	661		
+sp|P74893|DNAG_SYNE7	K02316	dnaG; DNA primase [EC:2.7.7.-]	683		
+sp|P50026|DNAJ_SYNE7	K05516	cbpA; curved DNA-binding protein	261		
+sp|P50020|DNAK1_SYNE7	K04043	dnaK; molecular chaperone DnaK	810		
+sp|P50021|DNAK2_SYNE7	K04043	dnaK; molecular chaperone DnaK	999		
+sp|P50022|DNAK3_SYNE7	K04043	dnaK; molecular chaperone DnaK	934		
+sp|Q31ME5|DNCH_SYNE7	K12073	E3.1.2.28; 1,4-dihydroxy-2-naphthoyl-CoA hydrolase [EC:3.1.2.28]	130		
+sp|Q31RL0|DNLJ_SYNE7	K01972	E6.5.1.2; DNA ligase (NAD+) [EC:6.5.1.2]	847		
+sp|P52023|DPO3B_SYNE7	K02338	DPO3B; DNA polymerase III subunit beta [EC:2.7.7.7]	449		
+sp|Q55024|DPS_SYNE7			246		
+sp|Q31N26|DXR_SYNE7	K00099	dxr; 1-deoxy-D-xylulose-5-phosphate reductoisomerase [EC:1.1.1.267]	597		
+sp|Q8GAA0|DXS_SYNE7	K01662	dxs; 1-deoxy-D-xylulose-5-phosphate synthase [EC:2.2.1.7]	993		
+sp|Q31PV4|EFG_SYNE7	K02355	fusA; elongation factor G	1118		
+sp|Q54760|EFP_SYNE7	K02356	efp; elongation factor P	316		
+sp|Q31K58|EFTS_SYNE7	K02357	tsf; elongation factor Ts	341		
+sp|P33171|EFTU_SYNE7	K02358	tuf; elongation factor Tu	674		
+sp|Q31QJ8|ENO_SYNE7	K01689	ENO; enolase [EC:4.2.1.11]	616		
+sp|Q31R15|EX7S_SYNE7	K03602	xseB; exodeoxyribonuclease VII small subunit [EC:3.1.11.6]	55		
+sp|Q59943|F16PA_SYNE7	K03841	FBP; fructose-1,6-bisphosphatase I [EC:3.1.3.11]	503		
+sp|Q31N84|FABH_SYNE7	K00648	fabH; 3-oxoacyl-[acyl-carrier-protein] synthase III [EC:2.3.1.180]	445		
+sp|Q31PQ9|FABZ_SYNE7	K02372	fabZ; 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59]	223		
+sp|Q31QY2|FBSB_SYNE7	K11532	glpX-SEBP; fructose-1,6-bisphosphatase II / sedoheptulose-1,7-bisphosphatase [EC:3.1.3.11 3.1.3.37]	559		
+sp|P0A3D2|FER1_SYNE7	K02639	petF; ferredoxin	173		
+sp|P10340|FLAV_SYNE7	K03839	fldA; flavodoxin I	278		
+sp|Q31LC9|FMT_SYNE7	K00604	MTFMT; methionyl-tRNA formyltransferase [EC:2.1.2.9]	347		
+sp|Q31Q60|FOLD_SYNE7	K01491	folD; methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9]	367		
+sp|Q55244|FUR_SYNE7	K03711	fur; Fur family transcriptional regulator, ferric uptake regulator	238		
+sp|P29686|G6PD_SYNE7	K00036	G6PD; glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49 1.1.1.363]	789		
+sp|Q31LL0|G6PI_SYNE7	K01810	GPI; glucose-6-phosphate isomerase [EC:5.3.1.9]	703		
+sp|Q31LC2|GATA_SYNE7	K02433	gatA; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A [EC:6.3.5.6 6.3.5.7]	733		
+sp|Q31S19|GATB_SYNE7	K02434	gatB; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]	761		
+sp|Q54769|GCH1_SYNE7	K01495	GCH1; GTP cyclohydrolase I [EC:3.5.4.16]	336		
+sp|Q31LJ3|GCSH_SYNE7	K02437	gcvH; glycine cleavage system H protein	168		
+sp|Q31KT1|GCST_SYNE7	K00605	gcvT; aminomethyltransferase [EC:2.1.2.10]	424		
+sp|Q935Y7|GLGA_SYNE7	K00703	E2.4.1.21; starch synthase [EC:2.4.1.21]	756		
+sp|P16954|GLGB_SYNE7	K00700	glgB; 1,4-alpha-glucan branching enzyme [EC:2.4.1.18]	1283		
+sp|Q31QN4|GLGC_SYNE7	K00975	glgC; glucose-1-phosphate adenylyltransferase [EC:2.7.7.27]	664		
+sp|Q31LA7|GLMM_SYNE7	K03431	glmM; phosphoglucosamine mutase [EC:5.4.2.10]	568		
+sp|Q31RJ9|GLMU_SYNE7	K04042	glmU; bifunctional UDP-N-acetylglucosamine pyrophosphorylase / Glucosamine-1-phosphate N-acetyltransferase [EC:2.7.7.23 2.3.1.157]	600		
+sp|P0A3F4|GLNB_SYNE7	K04751	glnB; nitrogen regulatory protein P-II 1	204		
+sp|Q31ND6|GLO2_SYNE7	K01069	E3.1.2.6; hydroxyacylglutathione hydrolase [EC:3.1.2.6]	327		
+sp|Q31RK5|GLYA_SYNE7	K00600	glyA; glycine hydroxymethyltransferase [EC:2.1.2.1]	687		
+sp|Q935Z2|GPDA_SYNE7	K00057	gpsA; glycerol-3-phosphate dehydrogenase (NAD(P)+) [EC:1.1.1.94]	358		
+sp|Q55039|GPH_SYNE7	K01091	gph; phosphoglycolate phosphatase [EC:3.1.3.18]	159		
+sp|Q31R18|GPMI_SYNE7	K15633	gpmI; 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12]	755		
+sp|Q59984|GRPE_SYNE7	K03687	GRPE; molecular chaperone GrpE	208		
+sp|Q31QJ2|GSA_SYNE7	K01845	hemL; glutamate-1-semialdehyde 2,1-aminomutase [EC:5.4.3.8]	752		
+sp|O32463|GSHB_SYNE7	K01920	gshB; glutathione synthase [EC:6.3.2.3]	411		
+sp|Q31QY3|HEM1_SYNE7	K02492	hemA; glutamyl-tRNA reductase [EC:1.2.1.70]	585		
+sp|P43087|HEM2_SYNE7	K01698	hemB; porphobilinogen synthase [EC:4.2.1.24]	567		
+sp|Q31PM2|HEM3_SYNE7	K01749	hemC; hydroxymethylbilane synthase [EC:2.5.1.61]	471		
+sp|P42452|HEM4_SYNE7	K13542	cobA-hemD; uroporphyrinogen III methyltransferase / synthase [EC:2.1.1.107 4.2.1.75]	83	K01719	41
+sp|Q31S00|HEMH_SYNE7	K01772	hemH; ferrochelatase [EC:4.99.1.1]	585		
+sp|Q31Q54|HIS1_SYNE7	K00765	hisG; ATP phosphoribosyltransferase [EC:2.4.2.17]	316		
+sp|Q8GJM0|HIS4_SYNE7	K01814	hisA; phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase [EC:5.3.1.16]	316		
+sp|Q31N58|HIS5_SYNE7	K02501	hisH; glutamine amidotransferase [EC:2.4.2.-]	289		
+sp|Q31S12|HIS7_SYNE7	K01693	hisB; imidazoleglycerol-phosphate dehydratase [EC:4.2.1.19]	330		
+sp|Q31PF9|HIS8_SYNE7	K00817	hisC; histidinol-phosphate aminotransferase [EC:2.6.1.9]	401		
+sp|Q55267|HISZ_SYNE7	K02502	hisZ; ATP phosphoribosyltransferase regulatory subunit	389		
+sp|Q31QM1|HRCA_SYNE7	K03705	hrcA; heat-inducible transcriptional repressor	328		
+sp|Q31QS8|HSLO_SYNE7	K04083	hslO; molecular chaperone Hsp33	372		
+sp|Q31K36|HYPA_SYNE7	K04651	hypA; hydrogenase nickel incorporation protein HypA/HybF	76		
+sp|Q31L64|IDIA_SYNE7	K02012	afuA; iron(III) transport system substrate-binding protein	386		
+sp|Q31LL9|IF2_SYNE7	K02519	infB; translation initiation factor IF-2	995		
+sp|Q31MY7|ILVC_SYNE7	K00053	ilvC; ketol-acid reductoisomerase [EC:1.1.1.86]	553		
+sp|Q31QL1|ILVD_SYNE7	K01687	ilvD; dihydroxy-acid dehydratase [EC:4.2.1.9]	979		
+sp|P12608|IRPA_SYNE7			211		
+sp|P15347|ISIA_SYNE7			533		
+sp|Q31QF6|ISPD_SYNE7	K00991	ispD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase [EC:2.7.7.60]	289		
+sp|Q31RH7|ISPE_SYNE7	K00919	ispE; 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase [EC:2.7.1.148]	302		
+sp|Q31P19|ISPF_SYNE7	K01770	ispF; 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:4.6.1.12]	264		
+sp|Q31QC4|ISPG_SYNE7	K03526	gcpE; (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase [EC:1.17.7.1 1.17.7.3]	680		
+sp|Q31S64|ISPH_SYNE7	K03527	ispH; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase [EC:1.17.7.4]	629		
+sp|Q31L26|KAD_SYNE7	K00939	adk; adenylate kinase [EC:2.7.4.3]	225		
+sp|Q79PF6|KAIA_SYNE7	K08480	kaiA; circadian clock protein KaiA	239		
+sp|Q79PF5|KAIB_SYNE7	K08481	kaiB; circadian clock protein KaiB	172		
+sp|Q79PF4|KAIC_SYNE7	K08482	kaiC; circadian clock protein KaiC	815		
+sp|Q31MN3|KATG_SYNE7	K03782	katG; catalase-peroxidase [EC:1.11.1.21]	1287		
+sp|Q31KV0|KDSA_SYNE7	K01627	kdsA; 2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase) [EC:2.5.1.55]	387		
+sp|Q31KU9|KDSB_SYNE7	K00979	kdsB; 3-deoxy-manno-octulosonate cytidylyltransferase (CMP-KDO synthetase) [EC:2.7.7.38]	242		
+sp|Q8KPQ7|KGUA_SYNE7	K00942	E2.7.4.8; guanylate kinase [EC:2.7.4.8]	231		
+sp|Q31N99|KHSE_SYNE7	K00872	thrB1; homoserine kinase [EC:2.7.1.39]	347		
+sp|Q59988|KPRS_SYNE7	K00948	PRPS; ribose-phosphate pyrophosphokinase [EC:2.7.6.1]	566		
+sp|Q55276|LCYB_SYNE7	K06443	lcyB; lycopene beta-cyclase [EC:5.5.1.19]	346	K06444	46
+sp|Q31R08|LEPA_SYNE7	K03596	lepA; GTP-binding protein LepA	1002		
+sp|Q31N34|LEU3_SYNE7	K00052	leuB; 3-isopropylmalate dehydrogenase [EC:1.1.1.85]	569		
+sp|Q31LZ1|LEUC_SYNE7	K01703	leuC; 3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]	776		
+sp|Q31NV9|LGT_SYNE7	K13292	lgt; phosphatidylglycerol:prolipoprotein diacylglycerol transferase [EC:2.-.-.-]	337		
+sp|Q31KN6|LIPB_SYNE7	K03801	lipB; lipoyl(octanoyl) transferase [EC:2.3.1.181]	274		
+sp|Q31N90|LPXD_SYNE7	K02536	lpxD; UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [EC:2.3.1.191]	417		
+sp|P52691|LRRA_SYNE7			334		
+sp|Q31NA4|MEND_SYNE7	K02551	menD; 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [EC:2.2.1.9]	574		
+sp|Q31P90|MENG_SYNE7	K03183	ubiE; demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201]	250		
+sp|Q31RB6|META_SYNE7	K00651	metA; homoserine O-succinyltransferase [EC:2.3.1.46]	337		
+sp|Q31KC6|METK_SYNE7	K00789	metK; S-adenosylmethionine synthetase [EC:2.5.1.6]	668		
+sp|Q8GIT6|MIAA_SYNE7	K00791	miaA; tRNA dimethylallyltransferase [EC:2.5.1.75]	339		
+sp|Q31KL5|MIAB_SYNE7	K06168	miaB; tRNA-2-methylthio-N6-dimethylallyladenosine synthase [EC:2.8.4.3]	709		
+sp|Q31PU2|MINE_SYNE7	K03608	minE; cell division topological specificity factor	117		
+sp|Q31N30|MNMA_SYNE7	K00566	mnmA; tRNA-specific 2-thiouridylase [EC:2.8.1.-]	506		
+sp|Q8KPU2|MNME_SYNE7	K03650	mnmE; tRNA modification GTPase [EC:3.6.-.-]	591		
+sp|Q31KG6|MNMG_SYNE7	K03495	gidA; tRNA uridine 5-carboxymethylaminomethyl modification enzyme	961		
+sp|Q56211|MOAA_SYNE7	K03639	MOCS1; cyclic pyranopterin phosphate synthase [EC:4.1.99.18]	314		
+sp|Q56208|MOACB_SYNE7			223	K03637	19
+sp|Q56209|MOAD_SYNE7	K03636	moaD; molybdopterin synthase sulfur carrier subunit	13		
+sp|Q56210|MOAE_SYNE7	K03635	MOCS2; molybdopterin synthase catalytic subunit [EC:2.8.1.12]	105	K11996	11
+sp|O06866|MOBA_SYNE7	K03752	mobA; molybdopterin-guanine dinucleotide biosynthesis protein A [EC:2.7.7.77]	164		
+sp|Q56207|MOEA_SYNE7	K03750	moeA; molybdopterin molybdotransferase [EC:2.10.1.1]	213		
+sp|Q31RY5|MRAY_SYNE7	K01000	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase [EC:2.7.8.13]	342		
+sp|Q31LP8|MSCL_SYNE7	K03282	mscL; large conductance mechanosensitive channel	132		
+sp|Q31LP7|MTNA_SYNE7	K08963	mtnA; methylthioribose-1-phosphate isomerase [EC:5.3.1.23]	332		
+sp|Q31LP5|MTNC_SYNE7	K09880	mtnC; enolase-phosphatase E1 [EC:3.1.3.77]	190		
+sp|Q31QM9|MTND_SYNE7	K08967	mtnD; 1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase [EC:1.13.11.53 1.13.11.54]	195		
+sp|P30331|MT_SYNE7			74		
+sp|P95837|MURB_SYNE7	K00075	murB; UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98]	327		
+sp|P95836|MURC_SYNE7	K01924	murC; UDP-N-acetylmuramate--alanine ligase [EC:6.3.2.8]	560		
+sp|Q31MM2|MURD_SYNE7	K01925	murD; UDP-N-acetylmuramoylalanine--D-glutamate ligase [EC:6.3.2.9]	497		
+sp|Q31N55|MURE_SYNE7	K01928	murE; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase [EC:6.3.2.13]	597		
+sp|Q31KS7|MURG_SYNE7	K02563	murG; UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227]	365		
+sp|O33701|MURQ_SYNE7	K07106	murQ; N-acetylmuramic acid 6-phosphate etherase [EC:4.2.1.126]	376		
+sp|Q31KZ2|MUTS_SYNE7	K03555	mutS; DNA mismatch repair protein MutS	1125		
+sp|Q9L790|NADA_SYNE7	K03517	nadA; quinolinate synthase [EC:2.5.1.72]	468		
+sp|Q31KC5|NANE_SYNE7	K01788	nanE; N-acylglucosamine-6-phosphate 2-epimerase [EC:5.1.3.9]	231		
+sp|P39458|NARB_SYNE7	K00367	narB; ferredoxin-nitrate reductase [EC:1.7.7.2]	960		
+sp|P35087|NBLA_SYNE7			17	K01990	3
+sp|Q31ME6|NDHH_SYNE7	K05579	ndhH; NAD(P)H-quinone oxidoreductase subunit H [EC:1.6.5.3]	714		
+sp|Q31NJ5|NDHI_SYNE7	K05580	ndhI; NAD(P)H-quinone oxidoreductase subunit I [EC:1.6.5.3]	350		
+sp|Q31P07|NDHJ_SYNE7	K05581	ndhJ; NAD(P)H-quinone oxidoreductase subunit J [EC:1.6.5.3]	279		
+sp|Q31P08|NDHK_SYNE7	K05582	ndhK; NAD(P)H-quinone oxidoreductase subunit K [EC:1.6.5.3]	345		
+sp|Q31R74|NDHL_SYNE7	K05583	ndhL; NAD(P)H-quinone oxidoreductase subunit L [EC:1.6.5.3]	61		
+sp|Q31LQ7|NDHM_SYNE7	K05584	ndhM; NAD(P)H-quinone oxidoreductase subunit M [EC:1.6.5.3]	169		
+sp|Q31L05|NDHN_SYNE7	K05585	ndhN; NAD(P)H-quinone oxidoreductase subunit N [EC:1.6.5.3]	198		
+sp|Q8GIT3|NDHO_SYNE7			92		
+sp|P50590|NDK_SYNE7	K00940	ndk; nucleoside-diphosphate kinase [EC:2.7.4.6]	242		
+sp|P39661|NIR_SYNE7	K00366	nirA; ferredoxin-nitrite reductase [EC:1.7.7.1]	694		
+sp|Q31QE2|NRDR_SYNE7	K07738	nrdR; transcriptional repressor NrdR	201		
+sp|P38043|NRTA_SYNE7	K15576	nrtA; nitrate/nitrite transport system substrate-binding protein	556		
+sp|P38044|NRTB_SYNE7	K15577	nrtB; nitrate/nitrite transport system permease protein	311		
+sp|P38045|NRTC_SYNE7	K15578	nrtC; nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-]	687		
+sp|P38046|NRTD_SYNE7	K11953	cmpD; bicarbonate transport system ATP-binding protein [EC:3.6.3.-]	315	K15579	66
+sp|P29283|NTCA_SYNE7			344		
+sp|P52693|NTCB_SYNE7			341		
+sp|Q31NJ6|NU1C_SYNE7	K05572	ndhA; NAD(P)H-quinone oxidoreductase subunit 1 [EC:1.6.5.3]	611		
+sp|P29801|NU2C_SYNE7	K05573	ndhB; NAD(P)H-quinone oxidoreductase subunit 2 [EC:1.6.5.3]	732		
+sp|Q8KPP6|NU3C_SYNE7	K05574	ndhC; NAD(P)H-quinone oxidoreductase subunit 3 [EC:1.6.5.3]	207		
+sp|Q31NA0|NU4C1_SYNE7	K05575	ndhD; NAD(P)H-quinone oxidoreductase subunit 4 [EC:1.6.5.3]	670		
+sp|Q31LR3|NU4C2_SYNE7	K05575	ndhD; NAD(P)H-quinone oxidoreductase subunit 4 [EC:1.6.5.3]	836		
+sp|Q8GIR7|NUSB_SYNE7	K03625	nusB; N utilization substance protein B	207		
+sp|Q31PN0|OBG_SYNE7	K03979	obgE; GTPase [EC:3.6.5.-]	450		
+sp|Q54709|OPCA_SYNE7			528		
+sp|Q935Y4|OTC_SYNE7	K00611	OTC; ornithine carbamoyltransferase [EC:2.1.3.3]	415		
+sp|Q31KK8|PANB_SYNE7	K00606	panB; 3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11]	336		
+sp|Q31P38|PANCY_SYNE7	K13799	panC-cmk; pantoate ligase / cytidylate kinase [EC:6.3.2.1 2.7.4.14]	507		
+sp|Q31PJ8|PCXA_SYNE7			383		
+sp|Q8KPS9|PCYA_SYNE7	K05371	pcyA; phycocyanobilin:ferredoxin oxidoreductase [EC:1.3.7.5]	307		
+sp|P26294|PDS_SYNE7	K02293	PDS; 15-cis-phytoene desaturase [EC:1.3.5.5]	756		
+sp|Q8KPR0|PDXJ_SYNE7	K03474	pdxJ; pyridoxine 5-phosphate synthase [EC:2.6.99.2]	353		
+sp|Q54710|PETD_SYNE7	K02637	petD; cytochrome b6-f complex subunit 4	283		
+sp|Q9Z3G1|PETG_SYNE7	K02640	petG; cytochrome b6-f complex subunit 5	62		
+sp|Q31KG3|PETM_SYNE7			15	K03313	2
+sp|Q31R12|PETN_SYNE7	K03689	petN; cytochrome b6-f complex subunit 8	14		
+sp|Q31P73|PGK_SYNE7	K00927	PGK; phosphoglycerate kinase [EC:2.7.2.3]	607		
+sp|P13530|PHCA_SYNE7	K02284	cpcA; phycocyanin alpha chain	258		
+sp|P06539|PHCB_SYNE7	K02285	cpcB; phycocyanin beta chain	281		
+sp|Q31LF9|PHK_SYNE7	K01621	xfp; xylulose-5-phosphate/fructose-6-phosphate phosphoketolase [EC:4.1.2.9 4.1.2.22]	1226		
+sp|P55020|PLAS_SYNE7	K02638	petE; plastocyanin	159		
+sp|Q31N85|PLSX_SYNE7	K03621	plsX; glycerol-3-phosphate acyltransferase PlsX [EC:2.3.1.15]	438		
+sp|Q31LI2|PLSY_SYNE7	K08591	plsY; glycerol-3-phosphate acyltransferase PlsY [EC:2.3.1.15]	197		
+sp|Q31KE9|PNP_SYNE7	K00962	pnp; polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]	1083		
+sp|P29820|PPI_SYNE7	K03768	PPIB; peptidyl-prolyl cis-trans isomerase B (cyclophilin B) [EC:5.2.1.8]	204		
+sp|Q31N39|PRMA_SYNE7	K02687	prmA; ribosomal protein L11 methyltransferase [EC:2.1.1.-]	270		
+sp|Q31KX4|PROA_SYNE7	K00147	proA; glutamate-5-semialdehyde dehydrogenase [EC:1.2.1.41]	524		
+sp|Q31L42|PROB_SYNE7	K00931	proB; glutamate 5-kinase [EC:2.7.2.11]	508		
+sp|Q31LJ0|PSAA_SYNE7	K02689	psaA; photosystem I P700 chlorophyll a apoprotein A1	1345		
+sp|Q31LJ1|PSAB_SYNE7	K02690	psaB; photosystem I P700 chlorophyll a apoprotein A2	1365		
+sp|Q31QV2|PSAC_SYNE7	K02691	psaC; photosystem I subunit VII	176		
+sp|Q31NL7|PSAE_SYNE7	K02693	psaE; photosystem I subunit IV	106		
+sp|Q31NU0|PSAJ_SYNE7	K02697	psaJ; photosystem I subunit IX	63		
+sp|P95822|PSAL_SYNE7	K02699	psaL; photosystem I subunit XI	192		
+sp|Q31ML0|PSB28_SYNE7	K08903	psb28; photosystem II 13kDa protein	163		
+sp|P04996|PSBA1_SYNE7	K02703	psbA; photosystem II P680 reaction center D1 protein [EC:1.10.3.9]	692		
+sp|P04997|PSBA2_SYNE7	K02703	psbA; photosystem II P680 reaction center D1 protein [EC:1.10.3.9]	704		
+sp|P31094|PSBB_SYNE7	K02704	psbB; photosystem II CP47 chlorophyll apoprotein	897		
+sp|P11004|PSBC_SYNE7	K02705	psbC; photosystem II CP43 chlorophyll apoprotein	821		
+sp|P11005|PSBD_SYNE7	K02706	psbD; photosystem II P680 reaction center D2 protein [EC:1.10.3.9]	693		
+sp|Q8KPP3|PSBE_SYNE7	K02707	psbE; photosystem II cytochrome b559 subunit alpha	145		
+sp|Q8KPP2|PSBF_SYNE7	K02708	psbF; photosystem II cytochrome b559 subunit beta	80		
+sp|Q31RR2|PSBH_SYNE7	K02709	psbH; photosystem II PsbH protein	102		
+sp|Q31MI4|PSBI_SYNE7	K02710	psbI; photosystem II PsbI protein	35		
+sp|Q8KPP0|PSBJ_SYNE7	K02711	psbJ; photosystem II PsbJ protein	53		
+sp|Q79AV1|PSBK_SYNE7	K02712	psbK; photosystem II PsbK protein	62		
+sp|Q8KPP1|PSBL_SYNE7	K02713	psbL; photosystem II PsbL protein	60		
+sp|Q31QD8|PSBM_SYNE7	K02714	psbM; photosystem II PsbM protein	16		
+sp|Q31RR3|PSBN_SYNE7	K02715	psbN; PsbN protein	59		
+sp|P11472|PSBO_SYNE7	K02716	psbO; photosystem II oxygen-evolving enhancer protein 1	342		
+sp|Q31QE1|PSBT_SYNE7	K02718	psbT; photosystem II PsbT protein	13		
+sp|Q31M07|PSBU_SYNE7	K02719	psbU; photosystem II PsbU protein	108		
+sp|Q31LM3|PSBX_SYNE7			10	K02722	7
+sp|Q31LS7|PSBY_SYNE7			13	K02723	12
+sp|Q31KZ4|PSBZ_SYNE7			14	K02724	8
+sp|Q31KE8|PSTB_SYNE7	K02036	pstB; phosphate transport system ATP-binding protein [EC:3.6.3.27]	395		
+sp|Q31RR0|PTH_SYNE7	K01056	PTH1; peptidyl-tRNA hydrolase, PTH1 family [EC:3.1.1.29]	243		
+sp|Q55038|PUR1_SYNE7	K00764	purF; amidophosphoribosyltransferase [EC:2.4.2.14]	703		
+sp|Q31PY7|PUR5_SYNE7	K01933	purM; phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.3.1]	466		
+sp|Q31R91|PUR9_SYNE7	K00602	purH; phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10]	686		
+sp|Q31KI0|PURA_SYNE7	K01939	purA; adenylosuccinate synthase [EC:6.3.4.4]	735		
+sp|Q54975|PURK_SYNE7	K01589	purK; 5-(carboxyamino)imidazole ribonucleotide synthase [EC:6.3.4.18]	387		
+sp|Q55041|PURL_SYNE7	K01952	purL; phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	1159		
+sp|Q31Q18|PURQ_SYNE7	K01952	purL; phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	316		
+sp|Q31QP9|PURT_SYNE7	K08289	purT; phosphoribosylglycinamide formyltransferase 2 [EC:2.1.2.2]	539		
+sp|Q31QG7|PYRB_SYNE7	K00609	pyrB; aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2]	482		
+sp|Q31RJ7|PYRD_SYNE7	K00254	DHODH; dihydroorotate dehydrogenase [EC:1.3.5.2]	423		
+sp|Q31K20|PYRF_SYNE7	K01591	pyrF; orotidine-5'-phosphate decarboxylase [EC:4.1.1.23]	271		
+sp|Q54775|PYRG_SYNE7	K01937	pyrG; CTP synthase [EC:6.3.4.2]	838		
+sp|Q31QY1|PYRH_SYNE7	K09903	pyrH; uridylate kinase [EC:2.7.4.22]	380		
+sp|Q31KP1|QUEA_SYNE7	K07568	queA; S-adenosylmethionine:tRNA ribosyltransferase-isomerase [EC:2.4.99.17]	411		
+sp|Q31NK6|QUEC_SYNE7	K06920	queC; 7-cyano-7-deazaguanine synthase [EC:6.3.4.20]	308		
+sp|Q8GJN6|QUEF_SYNE7	K09457	queF; 7-cyano-7-deazaguanine reductase [EC:1.7.1.13]	235		
+sp|Q31RD2|RBFA_SYNE7	K02834	rbfA; ribosome-binding factor A	180		
+sp|Q31NB3|RBL_SYNE7	K01601	rbcL; ribulose-bisphosphate carboxylase large chain [EC:4.1.1.39]	828		
+sp|Q31RD9|RECA_SYNE7	K03553	recA; recombination protein RecA	548		
+sp|Q31KY9|RECF_SYNE7	K03629	recF; DNA replication and repair protein RecF	374		
+sp|Q31PK5|RECO_SYNE7	K03584	recO; DNA repair protein RecO (recombination protein O)	199		
+sp|Q31NH0|RECR_SYNE7	K06187	recR; recombination protein RecR	311		
+sp|Q31L36|RF1_SYNE7	K02835	prfA; peptide chain release factor 1	576		
+sp|Q31KM4|RF3_SYNE7	K02837	prfC; peptide chain release factor 3	877		
+sp|Q31KY0|RIMM_SYNE7	K02860	rimM; 16S rRNA processing protein RimM	208		
+sp|Q935Y2|RIMO_SYNE7	K14441	rimO; ribosomal protein S12 methylthiotransferase [EC:2.8.4.4]	694		
+sp|Q31LL6|RIMP_SYNE7	K09748	rimP; ribosome maturation factor RimP	179		
+sp|Q31KZ5|RISB_SYNE7	K00794	ribH; 6,7-dimethyl-8-ribityllumazine synthase [EC:2.5.1.78]	266		
+sp|Q31QK5|RL10_SYNE7	K02864	RP-L10; large subunit ribosomal protein L10	218		
+sp|Q31QK3|RL11_SYNE7	K02867	RP-L11; large subunit ribosomal protein L11	237		
+sp|Q31L33|RL13_SYNE7	K02871	RP-L13; large subunit ribosomal protein L13	245		
+sp|Q31L17|RL14_SYNE7	K02874	RP-L14; large subunit ribosomal protein L14	204		
+sp|P31160|RL15_SYNE7	K02876	RP-L15; large subunit ribosomal protein L15	194		
+sp|Q31L14|RL16_SYNE7	K02878	RP-L16; large subunit ribosomal protein L16	233		
+sp|Q31L31|RL17_SYNE7	K02879	RP-L17; large subunit ribosomal protein L17	189		
+sp|Q31L22|RL18_SYNE7	K02881	RP-L18; large subunit ribosomal protein L18	139		
+sp|Q31K48|RL19_SYNE7	K02884	RP-L19; large subunit ribosomal protein L19	195		
+sp|Q31QK4|RL1_SYNE7	K02863	RP-L1; large subunit ribosomal protein L1	383		
+sp|Q31NR2|RL20_SYNE7	K02887	RP-L20; large subunit ribosomal protein L20	171		
+sp|Q9Z3H5|RL21_SYNE7	K02888	RP-L21; large subunit ribosomal protein L21	128		
+sp|Q31L12|RL22_SYNE7	K02890	RP-L22; large subunit ribosomal protein L22	202		
+sp|Q31L09|RL23_SYNE7	K02892	RP-L23; large subunit ribosomal protein L23	134		
+sp|Q31L18|RL24_SYNE7	K02895	RP-L24; large subunit ribosomal protein L24	169		
+sp|Q9Z3H6|RL27_SYNE7	K02899	RP-L27; large subunit ribosomal protein L27	150		
+sp|Q31S95|RL28_SYNE7	K02902	RP-L28; large subunit ribosomal protein L28	129		
+sp|Q31L15|RL29_SYNE7	K02904	RP-L29; large subunit ribosomal protein L29	90		
+sp|Q31L10|RL2_SYNE7	K02886	RP-L2; large subunit ribosomal protein L2	439		
+sp|Q31L35|RL31_SYNE7	K02909	RP-L31; large subunit ribosomal protein L31	142		
+sp|Q31PJ2|RL32_SYNE7	K02911	RP-L32; large subunit ribosomal protein L32	84		
+sp|Q31P67|RL33_SYNE7	K02913	RP-L33; large subunit ribosomal protein L33	119		
+sp|Q31MS5|RL34_SYNE7	K02914	RP-L34; large subunit ribosomal protein L34	70		
+sp|Q31NR1|RL35_SYNE7	K02916	RP-L35; large subunit ribosomal protein L35	92		
+sp|Q31L27|RL36_SYNE7	K02919	RP-L36; large subunit ribosomal protein L36	71		
+sp|Q31L07|RL3_SYNE7	K02906	RP-L3; large subunit ribosomal protein L3	319		
+sp|Q31L08|RL4_SYNE7	K02926	RP-L4; large subunit ribosomal protein L4	300		
+sp|Q31L19|RL5_SYNE7	K02931	RP-L5; large subunit ribosomal protein L5	289		
+sp|Q31L21|RL6_SYNE7	K02933	RP-L6; large subunit ribosomal protein L6	271		
+sp|Q31QK6|RL7_SYNE7	K02935	RP-L7; large subunit ribosomal protein L7/L12	144		
+sp|Q31K30|RL9_SYNE7	K02939	RP-L9; large subunit ribosomal protein L9	187		
+sp|Q31MD1|RLMN_SYNE7	K06941	rlmN; 23S rRNA (adenine2503-C2)-methyltransferase [EC:2.1.1.192]	464		
+sp|Q31PW0|RNH2_SYNE7	K03470	rnhB; ribonuclease HII [EC:3.1.26.4]	189		
+sp|Q31MS4|RNPA_SYNE7			15	K03536	7
+sp|Q31PB6|RNPH_SYNE7	K00989	rph; ribonuclease PH [EC:2.7.7.56]	287		
+sp|Q31L30|RPOA_SYNE7	K03040	rpoA; DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]	410		
+sp|Q31N17|RPOB_SYNE7	K03043	rpoB; DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]	1872		
+sp|P42079|RPOC1_SYNE7	K03046	rpoC; DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]	1055		
+sp|Q31N15|RPOC2_SYNE7	K03046	rpoC; DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]	1599		
+sp|Q31MH9|RPOZ_SYNE7	K03060	rpoZ; DNA-directed RNA polymerase subunit omega [EC:2.7.7.6]	80		
+sp|Q31QY0|RRF_SYNE7	K02838	frr; ribosome recycling factor	284		
+sp|O05161|RRP3_SYNE7	K19032	PSRP3; 30S ribosomal protein 3	165		
+sp|Q31PV6|RS10_SYNE7	K02946	RP-S10; small subunit ribosomal protein S10	205		
+sp|Q31L29|RS11_SYNE7	K02948	RP-S11; small subunit ribosomal protein S11	214		
+sp|P63200|RS12_SYNE7	K02950	RP-S12; small subunit ribosomal protein S12	238		
+sp|Q31L28|RS13_SYNE7	K02952	RP-S13; small subunit ribosomal protein S13	197		
+sp|Q31KU0|RS15_SYNE7	K02956	RP-S15; small subunit ribosomal protein S15	128		
+sp|Q31MB7|RS16_SYNE7	K02959	RP-S16; small subunit ribosomal protein S16	136		
+sp|Q31L16|RS17_SYNE7	K02961	RP-S17; small subunit ribosomal protein S17	135		
+sp|Q31P66|RS18_SYNE7	K02963	RP-S18; small subunit ribosomal protein S18	128		
+sp|Q31L11|RS19_SYNE7	K02965	RP-S19; small subunit ribosomal protein S19	168		
+sp|O33698|RS1_SYNE7	K02945	RP-S1; small subunit ribosomal protein S1	319		
+sp|Q31N19|RS20_SYNE7	K02968	RP-S20; small subunit ribosomal protein S20	126		
+sp|Q31MB5|RS21_SYNE7	K02970	RP-S21; small subunit ribosomal protein S21	70		
+sp|Q31K59|RS2_SYNE7	K02967	RP-S2; small subunit ribosomal protein S2	388		
+sp|Q31L13|RS3_SYNE7	K02982	RP-S3; small subunit ribosomal protein S3	352		
+sp|Q31N52|RS4_SYNE7	K02986	RP-S4; small subunit ribosomal protein S4	337		
+sp|Q31L23|RS5_SYNE7	K02988	RP-S5; small subunit ribosomal protein S5	253		
+sp|Q31SC5|RS6_SYNE7	K02990	RP-S6; small subunit ribosomal protein S6	132		
+sp|Q31PV3|RS7_SYNE7	K02992	RP-S7; small subunit ribosomal protein S7	244		
+sp|Q31L20|RS8_SYNE7	K02994	RP-S8; small subunit ribosomal protein S8	213		
+sp|Q31RH6|RSMA_SYNE7	K02528	ksgA; 16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase [EC:2.1.1.182]	297		
+sp|Q31RM0|RSMG_SYNE7	K03501	gidB; 16S rRNA (guanine527-N7)-methyltransferase [EC:2.1.1.170]	238		
+sp|Q31PL4|RSMH_SYNE7	K03438	mraW; 16S rRNA (cytosine1402-N4)-methyltransferase [EC:2.1.1.199]	343		
+sp|Q31KU1|RUVA_SYNE7	K03550	ruvA; holliday junction DNA helicase RuvA [EC:3.6.4.12]	228		
+sp|Q31Q03|RUVB_SYNE7	K03551	ruvB; holliday junction DNA helicase RuvB [EC:3.6.4.12]	513		
+sp|Q31Q39|RUVC_SYNE7	K01159	ruvC; crossover junction endodeoxyribonuclease RuvC [EC:3.1.22.4]	192		
+sp|Q06904|SASA_SYNE7	K08479	sasA; two-component system, OmpR family, clock-associated histidine kinase SasA [EC:2.7.13.3]	316		
+sp|Q31RJ2|SAT_SYNE7	K00958	sat; sulfate adenylyltransferase [EC:2.7.7.4]	671		
+sp|Q55357|SECA_SYNE7	K03070	secA; preprotein translocase subunit SecA	1424		
+sp|P0A4H0|SECY_SYNE7	K03076	secY; preprotein translocase subunit SecY	643		
+sp|Q31LI0|SEPF_SYNE7	K09772	sepF; cell division inhibitor SepF	185		
+sp|Q31LJ9|SFSA_SYNE7	K06206	sfsA; sugar fermentation stimulation protein A	322		
+sp|Q31QG5|SIGA3_SYNE7	K03087	SIG2; RNA polymerase nonessential primary-like sigma factor	442		
+sp|Q31ME3|SIGA2_SYNE7	K03087	SIG2; RNA polymerase nonessential primary-like sigma factor	419		
+sp|P38023|SIGA1_SYNE7	K03086	SIG1; RNA polymerase primary sigma factor	566		
+sp|Q31QR8|SIGA4_SYNE7	K03087	SIG2; RNA polymerase nonessential primary-like sigma factor	212	K03086	68
+sp|P30008|SIR_SYNE7	K00392	sir; sulfite reductase (ferredoxin) [EC:1.8.7.1]	831		
+sp|P30340|SMTB_SYNE7			117		
+sp|P18655|SODF_SYNE7	K04564	SOD2; superoxide dismutase, Fe-Mn family [EC:1.15.1.1]	324		
+sp|Q31QK9|SPEE_SYNE7	K00797	speE; spermidine synthase [EC:2.5.1.16]	248		
+sp|P39663|SPHR_SYNE7	K07657	phoB; two-component system, OmpR family, phosphate regulon response regulator PhoB	312		
+sp|P39664|SPHS_SYNE7	K07636	phoR; two-component system, OmpR family, phosphate regulon sensor histidine kinase PhoR [EC:2.7.13.3]	276		
+sp|P39665|SPHX_SYNE7	K02040	pstS; phosphate transport system substrate-binding protein	355		
+sp|Q55311|SRP54_SYNE7	K03106	SRP54; signal recognition particle subunit SRP54 [EC:3.6.5.4]	629		
+sp|Q55026|SRPB_SYNE7	K07507	mgtC; putative Mg2+ transporter-C (MgtC) family protein	187		
+sp|Q55025|SRPA_SYNE7	K03781	katE; catalase [EC:1.11.1.6]	383		
+sp|Q59967|SRPH_SYNE7	K00640	cysE; serine O-acetyltransferase [EC:2.3.1.30]	352		
+sp|Q55032|SRPI_SYNE7			479		
+sp|Q55027|SRPC_SYNE7	K07240	chrA; chromate transporter	441		
+sp|Q31M94|SSRP_SYNE7	K03664	smpB; SsrA-binding protein	225		
+sp|P27366|SUBI_SYNE7	K02048	cysP; sulfate transport system substrate-binding protein	437		
+sp|P42451|SUMT_SYNE7	K13542	cobA-hemD; uroporphyrinogen III methyltransferase / synthase [EC:2.1.1.107 4.2.1.75]	120	K02303	64
+sp|Q31LH6|SURE_SYNE7	K03787	surE; 5'-nucleotidase [EC:3.1.3.5]	342		
+sp|Q31PW3|SYA_SYNE7	K01872	AARS; alanyl-tRNA synthetase [EC:6.1.1.7]	1200		
+sp|Q31MM7|SYC_SYNE7	K01883	CARS; cysteinyl-tRNA synthetase [EC:6.1.1.16]	656		
+sp|Q31NM6|SYDND_SYNE7	K01876	DARS; aspartyl-tRNA synthetase [EC:6.1.1.12]	954		
+sp|Q8L1E5|SYE_SYNE7	K01885	EARS; glutamyl-tRNA synthetase [EC:6.1.1.17]	631		
+sp|P74764|SYFB_SYNE7	K01890	FARSB; phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]	980		
+sp|Q31KD2|SYGA_SYNE7	K01878	glyQ; glycyl-tRNA synthetase alpha chain [EC:6.1.1.14]	530		
+sp|Q31KX6|SYH_SYNE7	K01892	HARS; histidyl-tRNA synthetase [EC:6.1.1.21]	597		
+sp|Q31KH4|SYK_SYNE7	K04567	KARS; lysyl-tRNA synthetase, class II [EC:6.1.1.6]	754		
+sp|Q31LW9|SYL_SYNE7	K01869	LARS; leucyl-tRNA synthetase [EC:6.1.1.4]	1269		
+sp|Q31LT0|SYP_SYNE7	K01881	PARS; prolyl-tRNA synthetase [EC:6.1.1.15]	897		
+sp|Q8KPU9|SYR_SYNE7	K01887	RARS; arginyl-tRNA synthetase [EC:6.1.1.19]	832		
+sp|Q8GMR7|SYS_SYNE7	K01875	SARS; seryl-tRNA synthetase [EC:6.1.1.11]	609		
+sp|Q31JY3|SYT_SYNE7	K01868	TARS; threonyl-tRNA synthetase [EC:6.1.1.3]	978		
+sp|Q31K19|SYY_SYNE7	K01866	YARS; tyrosyl-tRNA synthetase [EC:6.1.1.1]	554		
+sp|Q31RR1|TATA_SYNE7	K03116	tatA; sec-independent protein translocase protein TatA	98		
+sp|Q8GAA6|TGT_SYNE7	K00773	tgt; queuine tRNA-ribosyltransferase [EC:2.4.2.29]	584		
+sp|Q31MY4|THF1_SYNE7			240		
+sp|Q31P93|THIC_SYNE7	K03147	thiC; phosphomethylpyrimidine synthase [EC:4.1.99.17]	829		
+sp|O85786|THID_SYNE7	K00941	thiD; hydroxymethylpyrimidine/phosphomethylpyrimidine kinase [EC:2.7.1.49 2.7.4.7]	309		
+sp|Q31QR1|THIG_SYNE7	K03149	thiG; thiazole synthase [EC:2.8.1.10]	424		
+sp|Q54757|THIL_SYNE7	K00946	thiL; thiamine-monophosphate kinase [EC:2.7.4.16]	299		
+sp|P12243|THIO1_SYNE7	K03671	trxA; thioredoxin 1	191		
+sp|P27477|THTR_SYNE7	K01011	TST; thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]	301		
+sp|Q935Z3|TIG_SYNE7	K03545	tig; trigger factor	436		
+sp|P34185|TOP1_SYNE7	K03168	topA; DNA topoisomerase I [EC:5.99.1.2]	1227		
+sp|P72546|TRMB_SYNE7	K03439	trmB; tRNA (guanine-N7-)-methyltransferase [EC:2.1.1.33]	260		
+sp|Q31L04|TRMD_SYNE7	K00554	trmD; tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228]	331		
+sp|Q31NM4|TRMFO_SYNE7	K04094	trmFO; methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase [EC:2.1.1.74]	683		
+sp|Q31R76|TRPA_SYNE7	K01695	trpA; tryptophan synthase alpha chain [EC:4.2.1.20]	347		
+sp|Q8KPR4|TRPC_SYNE7	K01609	trpC; indole-3-glycerol phosphate synthase [EC:4.1.1.48]	345		
+sp|Q31LB6|TRPD_SYNE7	K00766	trpD; anthranilate phosphoribosyltransferase [EC:2.4.2.18]	395		
+sp|Q31R79|TRPF_SYNE7	K01817	trpF; phosphoribosylanthranilate isomerase [EC:5.3.1.24]	240		
+sp|Q8KIY0|TRUB_SYNE7	K03177	truB; tRNA pseudouridine55 synthase [EC:5.4.99.25]	271		
+sp|P35088|TXLA_SYNE7			201		
+sp|Q31NV7|UCRI_SYNE7	K02636	petC; cytochrome b6-f complex iron-sulfur subunit [EC:1.10.9.1]	306		
+sp|Q31LS2|UPPP_SYNE7	K06153	bacA; undecaprenyl-diphosphatase [EC:3.6.1.27]	334		
+sp|Q31MH4|UPP_SYNE7	K00761	upp; uracil phosphoribosyltransferase [EC:2.4.2.9]	284		
+sp|Q31QS4|UVRB_SYNE7	K03702	uvrB; excinuclease ABC subunit B	1071		
+sp|Q31LU4|UVRC_SYNE7	K03703	uvrC; excinuclease ABC subunit C	874		
+sp|Q8KUV2|XERC_SYNE7	K03733	xerC; integrase/recombinase XerC	302		
+sp|Q31SC2|Y015_SYNE7	K07336	PKHD-type hydroxylase [EC:1.14.11.-]	276		
+sp|Q31PH2|Y1017_SYNE7			299		
+sp|Q31PG2|Y1027_SYNE7	K09777	uncharacterized protein	117		
+sp|Q31P91|Y1098_SYNE7			359		
+sp|P32084|Y1390_SYNE7	K02503	HINT1; histidine triad (HIT) family protein	175		
+sp|P46204|Y1424_SYNE7	K08699	ccmN; carbon dioxide concentrating mechanism protein CcmN	122		
+sp|Q8KPU0|Y1584_SYNE7			620		
+sp|Q31MQ1|Y1638_SYNE7			90		
+sp|P27368|Y1683_SYNE7			72		
+sp|Q31MA6|Y1783_SYNE7	K09118	uncharacterized protein	824		
+sp|Q31LZ7|Y1892_SYNE7	K07146	UPF0176 protein	267		
+sp|Q31RS8|Y209_SYNE7	K06287	maf; septum formation protein	204		
+sp|P35086|Y2126_SYNE7			109		
+sp|P37372|Y2318_SYNE7	K09932	uncharacterized protein	112		
+sp|P37371|Y2319_SYNE7			105		
+sp|Q31KN8|Y2351_SYNE7	K09121	uncharacterized protein	444		
+sp|P42460|Y270_SYNE7			367		
+sp|Q31RH5|Y312_SYNE7	K07460	yraN; putative endonuclease	91		
+sp|Q8GMT0|Y464_SYNE7	K09747	uncharacterized protein	164		
+sp|Q31PX4|Y865_SYNE7	K09767	yajQ; cyclic-di-GMP-binding protein	227		
+sp|Q31R85|YBEY_SYNE7	K07042	ybeY; probable rRNA maturation factor	149		
+sp|Q31P11|YC48L_SYNE7			410		
+sp|Q31KR8|YCF3_SYNE7			281		
+sp|Q31QI3|YCF4_SYNE7			250		
+sp|Q31N53|YIDD_SYNE7	K08998	uncharacterized protein	116		
+sp|Q31KJ1|YQGF_SYNE7	K07447	ruvX; putative holliday junction resolvase [EC:3.1.-.-]	186		
+sp|Q31N27|ZDS_SYNE7	K00514	ZDS; zeta-carotene desaturase [EC:1.3.5.6]	738		
+tr|V6BE50|V6BE50_SYNE7			12	K00688	1
+tr|Q8GJK3|Q8GJK3_SYNE7			390		
+tr|Q8KPR9|Q8KPR9_SYNE7			459		
+tr|Q54730|Q54730_SYNE7			199		
+tr|Q8GJN1|Q8GJN1_SYNE7			258		
+tr|Q8KPS2|Q8KPS2_SYNE7	K07357	fimB; type 1 fimbriae regulatory protein FimB	24	K07358	13
+tr|Q8VPV8|Q8VPV8_SYNE7	K05575	ndhD; NAD(P)H-quinone oxidoreductase subunit 4 [EC:1.6.5.3]	414		
+tr|Q8GJN5|Q8GJN5_SYNE7			168		
+tr|Q8KUW8|Q8KUW8_SYNE7			676		
+tr|Q8GIR4|Q8GIR4_SYNE7	K04043	dnaK; molecular chaperone DnaK	769		
+tr|Q8GMS9|Q8GMS9_SYNE7	K01104	E3.1.3.48; protein-tyrosine phosphatase [EC:3.1.3.48]	218		
+tr|O32384|O32384_SYNE7	K00128	E1.2.1.3; aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]	460	K00129	51
+tr|Q93A73|Q93A73_SYNE7	K00688	E2.4.1.1; starch phosphorylase [EC:2.4.1.1]	1036		
+tr|Q8GJK6|Q8GJK6_SYNE7			253	K07315	20
+tr|P72548|P72548_SYNE7	K03977	engA; GTPase	317		
+tr|Q8VPV1|Q8VPV1_SYNE7	K00684	aat; leucyl/phenylalanyl-tRNA--protein transferase [EC:2.3.2.6]	144		
+tr|Q9F1R4|Q9F1R4_SYNE7	K01867	WARS; tryptophanyl-tRNA synthetase [EC:6.1.1.2]	373		
+tr|Q8KPT6|Q8KPT6_SYNE7	K03281	TC.CIC; chloride channel protein, CIC family	525		
+tr|Q8KPU4|Q8KPU4_SYNE7			17	K11070	1
+tr|Q8KPR6|Q8KPR6_SYNE7	K03437	spoU; RNA methyltransferase, TrmH family	268		
+tr|Q8GJM2|Q8GJM2_SYNE7	K00088	guaB; IMP dehydrogenase [EC:1.1.1.205]	643		
+tr|O66226|O66226_SYNE7			187		
+tr|Q8GJK8|Q8GJK8_SYNE7			184		
+tr|O06454|O06454_SYNE7	K03555	mutS; DNA mismatch repair protein MutS	198		
+tr|Q8KJR2|Q8KJR2_SYNE7	K07015	uncharacterized protein	151		
+tr|Q54729|Q54729_SYNE7	K02438	treX; glycogen operon protein [EC:3.2.1.-]	404		
+tr|Q8GIS9|Q8GIS9_SYNE7			157		
+tr|Q9KHM5|Q9KHM5_SYNE7	K01915	glnA; glutamine synthetase [EC:6.3.1.2]	1153		
+tr|Q935X5|Q935X5_SYNE7			109		
+tr|Q7BW12|Q7BW12_SYNE7	K15578	nrtC; nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-]	302		
+tr|Q8KJR3|Q8KJR3_SYNE7			204		
+tr|Q8KPN9|Q8KPN9_SYNE7			218		
+tr|Q79CM2|Q79CM2_SYNE7	K01358	clpP; ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]	327		
+tr|P95828|P95828_SYNE7	K01674	cah; carbonic anhydrase [EC:4.2.1.1]	185		
+tr|Q935X9|Q935X9_SYNE7	K07025	putative hydrolase of the HAD superfamily	253		
+tr|Q8GMR2|Q8GMR2_SYNE7	K01443	nagA; N-acetylglucosamine-6-phosphate deacetylase [EC:3.5.1.25]	425		
+tr|Q8KPU6|Q8KPU6_SYNE7			21	K00626	1
+tr|Q769G0|Q769G0_SYNE7	K00748	lpxB; lipid-A-disaccharide synthase [EC:2.4.1.182]	374		
+tr|Q8GMS8|Q8GMS8_SYNE7			224		
+tr|Q8GIR6|Q8GIR6_SYNE7			325		
+tr|Q84FM5|Q84FM5_SYNE7	K03555	mutS; DNA mismatch repair protein MutS	529		
+tr|Q8KPT0|Q8KPT0_SYNE7			226		
+tr|Q8KPP7|Q8KPP7_SYNE7	K05582	ndhK; NAD(P)H-quinone oxidoreductase subunit K [EC:1.6.5.3]	305		
+tr|Q935X1|Q935X1_SYNE7			23	K17686	1
+tr|Q8GJM8|Q8GJM8_SYNE7			87		
+tr|Q8GAA3|Q8GAA3_SYNE7	K03320	amt; ammonium transporter, Amt family	497		
+tr|Q54733|Q54733_SYNE7	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	131		
+tr|Q935Y8|Q935Y8_SYNE7			442		
+tr|Q769G3|Q769G3_SYNE7	K07090	uncharacterized protein	152		
+tr|Q93RM1|Q93RM1_SYNE7	K01756	purB; adenylosuccinate lyase [EC:4.3.2.2]	675		
+tr|Q8KPT1|Q8KPT1_SYNE7			155		
+tr|Q7X4B0|Q7X4B0_SYNE7	K02470	gyrB; DNA gyrase subunit B [EC:5.99.1.3]	571		
+tr|Q8KPV4|Q8KPV4_SYNE7			676		
+tr|Q8GJL1|Q8GJL1_SYNE7	K06890	uncharacterized protein	115		
+tr|Q935Z0|Q935Z0_SYNE7	K06966	uncharacterized protein	137		
+tr|Q8KPR7|Q8KPR7_SYNE7			183		
+tr|Q8GMT5|Q8GMT5_SYNE7	K15633	gpmI; 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12]	40		
+tr|Q7DL67|Q7DL67_SYNE7			13	K15576	3
+tr|Q8VPV5|Q8VPV5_SYNE7	K00919	ispE; 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase [EC:2.7.1.148]	102		
+tr|P72561|P72561_SYNE7			213	K11521	23
+tr|Q9Z3F7|Q9Z3F7_SYNE7	K07390	grxD; monothiol glutaredoxin	184		
+tr|Q8KUV8|Q8KUV8_SYNE7			339		
+tr|Q8GIS2|Q8GIS2_SYNE7			107		
+tr|Q8GIR8|Q8GIR8_SYNE7	K03110	ftsY; fused signal recognition particle receptor	508		
+tr|Q8KPQ3|Q8KPQ3_SYNE7			196	K00082	19
+tr|Q8KPQ9|Q8KPQ9_SYNE7			240		
+tr|O05163|O05163_SYNE7	K11777	HAD superfamily phosphatase	292		
+tr|Q8KUW3|Q8KUW3_SYNE7	K03733	xerC; integrase/recombinase XerC	69		
+tr|Q8GJK5|Q8GJK5_SYNE7			149	K03321	7
+tr|O06867|O06867_SYNE7			168		
+tr|Q54770|Q54770_SYNE7			179		
+tr|Q9LBV7|Q9LBV7_SYNE7	K00855	PRK; phosphoribulokinase [EC:2.7.1.19]	552		
+tr|Q55237|Q55237_SYNE7			105		
+tr|Q8GJN3|Q8GJN3_SYNE7	K01929	murF; UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase [EC:6.3.2.10]	401		
+tr|Q8KPP9|Q8KPP9_SYNE7			22	K01772	2
+tr|Q9WWJ6|Q9WWJ6_SYNE7	K00228	CPOX; coproporphyrinogen III oxidase [EC:1.3.3.3]	75		
+tr|Q8KPQ4|Q8KPQ4_SYNE7	K09919	uncharacterized protein	543		
+tr|Q8GJN8|Q8GJN8_SYNE7	K12574	rnj; ribonuclease J [EC:3.1.-.-]	215		
+tr|P72544|P72544_SYNE7			317		
+tr|Q8KPV6|Q8KPV6_SYNE7			159		
+tr|Q53576|Q53576_SYNE7			307		
+tr|Q769G2|Q769G2_SYNE7			344		
+tr|Q8GMQ7|Q8GMQ7_SYNE7			242		
+tr|Q8KPR5|Q8KPR5_SYNE7	K00382	DLD; dihydrolipoamide dehydrogenase [EC:1.8.1.4]	629		
+tr|Q8KPU1|Q8KPU1_SYNE7	K09928	uncharacterized protein	128		
+tr|Q8GIR5|Q8GIR5_SYNE7			116		
+tr|Q79CM3|Q79CM3_SYNE7	K03544	clpX; ATP-dependent Clp protease ATP-binding subunit ClpX	666		
+tr|Q935Y5|Q935Y5_SYNE7	K03657	uvrD; DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]	627		
+tr|Q9ALA8|Q9ALA8_SYNE7	K05577	ndhF; NAD(P)H-quinone oxidoreductase subunit 5 [EC:1.6.5.3]	809		
+tr|Q8GJN2|Q8GJN2_SYNE7			166		
+tr|Q54778|Q54778_SYNE7	K07727	putative transcriptional regulator	39		
+tr|Q93IP6|Q93IP6_SYNE7	K03320	amt; ammonium transporter, Amt family	492		
+tr|Q8GJL7|Q8GJL7_SYNE7			360	K01784	37
+tr|Q8KPS1|Q8KPS1_SYNE7			76		
+tr|Q8GIS5|Q8GIS5_SYNE7			56	K08084	2
+tr|O68868|O68868_SYNE7	K00464	diox1; all-trans-8'-apo-beta-carotenal 15,15'-oxygenase [EC:1.13.11.75]	439		
+tr|Q8GMR6|Q8GMR6_SYNE7			398		
+tr|O54307|O54307_SYNE7	K11996	MOCS3; adenylyltransferase and sulfurtransferase [EC:2.7.7.80]	626		
+tr|P72563|P72563_SYNE7			15	K01187	7
+tr|Q8KPP8|Q8KPP8_SYNE7	K05581	ndhJ; NAD(P)H-quinone oxidoreductase subunit J [EC:1.6.5.3]	214		
+tr|Q8GJL6|Q8GJL6_SYNE7	K00995	pgsA; CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase [EC:2.7.8.5]	134		
+tr|Q93EY3|Q93EY3_SYNE7	K03867	BGLUT; UDP-glucose:tetrahydrobiopterin glucosyltransferase [EC:2.4.1.-]	387		
+tr|Q935X3|Q935X3_SYNE7			298		
+tr|Q8KPT3|Q8KPT3_SYNE7			239		
+tr|Q8GMS1|Q8GMS1_SYNE7			265		
+tr|Q83ZP4|Q83ZP4_SYNE7			426		
+tr|Q935Y3|Q935Y3_SYNE7	K06971	uncharacterized protein	419		
+tr|Q54759|Q54759_SYNE7			185	K01802	74
+tr|O50210|O50210_SYNE7	K01915	glnA; glutamine synthetase [EC:6.3.1.2]	824		
+tr|Q8KPT9|Q8KPT9_SYNE7			229		
+tr|Q8GMT2|Q8GMT2_SYNE7	K00694	bcsA; cellulose synthase (UDP-forming) [EC:2.4.1.12]	592		
+tr|P72543|P72543_SYNE7			307		
+tr|Q8GJL2|Q8GJL2_SYNE7	K06890	uncharacterized protein	84		
+tr|Q8GIT9|Q8GIT9_SYNE7	K01996	livF; branched-chain amino acid transport system ATP-binding protein	300		
+tr|Q9WWL6|Q9WWL6_SYNE7	K00134	GAPDH; glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]	428		
+tr|O07334|O07334_SYNE7	K15576	nrtA; nitrate/nitrite transport system substrate-binding protein	592		
+tr|Q8KPS5|Q8KPS5_SYNE7	K19159	yefM; antitoxin YefM	125		
+tr|Q8GMS5|Q8GMS5_SYNE7	K00121	frmA; S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]	600		
+tr|Q55321|Q55321_SYNE7	K11942	E5.4.99.2; methylmalonyl-CoA mutase [EC:5.4.99.2]	360		
+tr|Q93A72|Q93A72_SYNE7			494		
+tr|Q935Y9|Q935Y9_SYNE7			104		
+tr|Q935Y6|Q935Y6_SYNE7			120		
+tr|Q8GMT1|Q8GMT1_SYNE7			213		
+tr|O86102|O86102_SYNE7	K03070	secA; preprotein translocase subunit SecA	416		
+tr|Q8KPT5|Q8KPT5_SYNE7	K03592	pmbA; PmbA protein	460		
+tr|Q55236|Q55236_SYNE7			29	K19046	1
+tr|Q6UP27|Q6UP27_SYNE7	K07086	uncharacterized protein	198		
+tr|Q8KPU7|Q8KPU7_SYNE7			166		
+tr|Q8GAA1|Q8GAA1_SYNE7			368		
+tr|P95838|P95838_SYNE7			151		
+tr|O50544|O50544_SYNE7	K15738	uup; ATP-binding cassette, subfamily F, uup	607		
+tr|Q8GJK7|Q8GJK7_SYNE7			702		
+tr|O85784|O85784_SYNE7	K03589	ftsQ; cell division protein FtsQ	140		
+tr|Q8VPW0|Q8VPW0_SYNE7	K00003	E1.1.1.3; homoserine dehydrogenase [EC:1.1.1.3]	300		
+tr|Q8GMR1|Q8GMR1_SYNE7	K03428	bchM; magnesium-protoporphyrin O-methyltransferase [EC:2.1.1.11]	275		
+tr|Q8KUW6|Q8KUW6_SYNE7			15	K01686	2
+tr|A8DZ37|A8DZ37_SYNE7			18	K03546	1
+tr|Q8GJL8|Q8GJL8_SYNE7			23	K09925	1
+tr|Q8GMQ1|Q8GMQ1_SYNE7			104		
+tr|Q8KPQ8|Q8KPQ8_SYNE7			151		
+tr|Q93AJ9|Q93AJ9_SYNE7			104		
+tr|O05159|O05159_SYNE7			14	K01920	4
+tr|Q8KPV2|Q8KPV2_SYNE7			903		
+tr|Q8GMS4|Q8GMS4_SYNE7	K01070	frmB; S-formylglutathione hydrolase [EC:3.1.2.12]	303		
+tr|Q53570|Q53570_SYNE7			20	K11263	2
+tr|Q8KUV3|Q8KUV3_SYNE7			20	K00721	2
+tr|Q8KUT2|Q8KUT2_SYNE7			22	K00219	2
+tr|Q8GMQ0|Q8GMQ0_SYNE7			20	K03701	2
+tr|Q8GJM1|Q8GJM1_SYNE7			15	K00973	1
+tr|Q8KUW9|Q8KUW9_SYNE7			14	K14058	3
+tr|Q53575|Q53575_SYNE7			12	K10016	5
+tr|Q54976|Q54976_SYNE7			16	K03111	2
+tr|Q8GIT4|Q8GIT4_SYNE7			21	K02876	3
+tr|Q8GJM3|Q8GJM3_SYNE7			14	K00428	2
+tr|Q9WWJ7|Q9WWJ7_SYNE7			18	K09461	2
+tr|Q8GMR0|Q8GMR0_SYNE7			19	K00979	4
+tr|P72558|P72558_SYNE7			16	K02004	1
+tr|Q55040|Q55040_SYNE7			165		
+tr|Q8KUT4|Q8KUT4_SYNE7			18	K03543	1
+tr|Q53577|Q53577_SYNE7			23	K01113	1
+tr|Q54768|Q54768_SYNE7			27	K04652	1
+tr|Q8GMS0|Q8GMS0_SYNE7			169		
+tr|Q8GJM4|Q8GJM4_SYNE7			19	K08483	1
+tr|Q53571|Q53571_SYNE7			21	K00166	1
+tr|Q8GIT8|Q8GIT8_SYNE7			17	K00003	1
+tr|Q55319|Q55319_SYNE7	K11754	folC; dihydrofolate synthase / folylpolyglutamate synthase [EC:6.3.2.12 6.3.2.17]	96		
+tr|Q53573|Q53573_SYNE7			23	K03406	2
+tr|P72545|P72545_SYNE7			15	K03177	2
+tr|Q8KPR3|Q8KPR3_SYNE7			18	K03617	1
+tr|Q53574|Q53574_SYNE7			25	K03596	2
+tr|Q8GA99|Q8GA99_SYNE7			106	K16899	3
+tr|Q53572|Q53572_SYNE7			27	K05592	2
+tr|Q8KPU5|Q8KPU5_SYNE7			17	K01889	1
+tr|Q8GJK9|Q8GJK9_SYNE7			21	K00331	2
+tr|Q54758|Q54758_SYNE7			17	K07071	1
+tr|Q79F69|Q79F69_SYNE7					
+tr|O50211|O50211_SYNE7			26	K03546	1
+tr|O05160|O05160_SYNE7			36	K03632	2
+tr|Q8GIT5|Q8GIT5_SYNE7			64		
+tr|Q769G1|Q769G1_SYNE7			185		
+tr|Q9WWJ8|Q9WWJ8_SYNE7			17	K18678	1
+tr|Q8KPS0|Q8KPS0_SYNE7			111		
+tr|A8DZ36|A8DZ36_SYNE7			57	K03087	2
+tr|Q93RM2|Q93RM2_SYNE7			19	K15738	1
+tr|Q8KPR1|Q8KPR1_SYNE7			22	K01608	3
+tr|O05162|O05162_SYNE7			17	K00219	2
+tr|Q8KPS8|Q8KPS8_SYNE7	K02005	ABC.CD.TX; HlyD family secretion protein	179		
+tr|Q8KUV4|Q8KUV4_SYNE7			18	K00721	5
+tr|Q8KPQ1|Q8KPQ1_SYNE7			24	K08304	1
+tr|Q8KPT4|Q8KPT4_SYNE7	K14331	fatty aldehyde decarbonylase [EC:4.1.99.5]	359		
+tr|Q54754|Q54754_SYNE7	K00748	lpxB; lipid-A-disaccharide synthase [EC:2.4.1.182]	236		
+tr|Q8KUW0|Q8KUW0_SYNE7			14	K09011	1
+tr|Q8GJM9|Q8GJM9_SYNE7			124		
+tr|Q8KUW4|Q8KUW4_SYNE7			18	K11731	1
+tr|Q8GJL4|Q8GJL4_SYNE7			21	K03529	1
+tr|Q57546|Q57546_SYNE7			22	K00847	1
+tr|Q8KPR8|Q8KPR8_SYNE7			547		
+tr|Q6VYY4|Q6VYY4_SYNE7			720		
+tr|Q935X6|Q935X6_SYNE7			189	K00588	44
+tr|Q8GMS6|Q8GMS6_SYNE7			147		
+tr|Q8GAA5|Q8GAA5_SYNE7	K02034	ABC.PE.P1; peptide/nickel transport system permease protein	439		
+tr|Q935Y1|Q935Y1_SYNE7			190		
+tr|Q9R6W2|Q9R6W2_SYNE7	K00150	gap2; glyceraldehyde-3-phosphate dehydrogenase (NAD(P)) [EC:1.2.1.59]	544		
+tr|Q8KUW2|Q8KUW2_SYNE7	K09803	uncharacterized protein	65		
+tr|P72547|P72547_SYNE7	K18814	ictB; putative inorganic carbon (hco3(-)) transporter	453		
+tr|Q8KPV0|Q8KPV0_SYNE7	K03281	TC.CIC; chloride channel protein, CIC family	355		
+tr|Q8KUU9|Q8KUU9_SYNE7	K03497	parB; chromosome partitioning protein, ParB family	30		
+tr|Q8VPV4|Q8VPV4_SYNE7	K05577	ndhF; NAD(P)H-quinone oxidoreductase subunit 5 [EC:1.6.5.3]	751		
+tr|Q8KUW5|Q8KUW5_SYNE7			28	K09167	1
+tr|Q8KPS7|Q8KPS7_SYNE7	K02004	ABC.CD.P; putative ABC transport system permease protein	419		
+tr|Q8GMR5|Q8GMR5_SYNE7	K10773	NTH; endonuclease III [EC:4.2.99.18]	298		
+tr|Q8KUT5|Q8KUT5_SYNE7			15	K09803	13
+tr|Q54734|Q54734_SYNE7	K06118	SQD1; UDP-sulfoquinovose synthase [EC:3.13.1.1]	514		
+tr|Q54761|Q54761_SYNE7	K02160	accB; acetyl-CoA carboxylase biotin carboxyl carrier protein	153		
+tr|Q9Z3G2|Q9Z3G2_SYNE7			144		
+tr|Q79AV0|Q79AV0_SYNE7	K02954	RP-S14; small subunit ribosomal protein S14	166		
+tr|O50208|O50208_SYNE7			297		
+tr|Q8GIT0|Q8GIT0_SYNE7			24	K00351	3
+tr|Q9R6V5|Q9R6V5_SYNE7	K00681	ggt; gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13]	428		
+tr|Q8KPS4|Q8KPS4_SYNE7	K19158	yoeB; toxin YoeB [EC:3.1.-.-]	158		
+tr|Q31LZ8|Q31LZ8_SYNE7			297		
+tr|Q8GIS4|Q8GIS4_SYNE7	K08904	psb28-2; photosystem II Psb28-2 protein	153		
+tr|Q9R6V4|Q9R6V4_SYNE7			171		
+tr|O33699|O33699_SYNE7	K01470	E3.5.2.10; creatinine amidohydrolase [EC:3.5.2.10]	328		
+tr|Q8GMQ4|Q8GMQ4_SYNE7	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	394		
+tr|Q8GMT4|Q8GMT4_SYNE7	K03075	secG; preprotein translocase subunit SecG	91		
+tr|Q8KUV6|Q8KUV6_SYNE7			240		
+tr|Q8VPV6|Q8VPV6_SYNE7			171		
+tr|Q8GMT3|Q8GMT3_SYNE7			186		
+tr|Q71MI7|Q71MI7_SYNE7	K07062	uncharacterized protein	59		
+tr|O85785|O85785_SYNE7	K03531	ftsZ; cell division protein FtsZ	497		
+tr|Q9ALA6|Q9ALA6_SYNE7			332		
+tr|Q8GMR3|Q8GMR3_SYNE7	K01588	purE; 5-(carboxyamino)imidazole ribonucleotide mutase [EC:5.4.99.18]	259		
+tr|Q8GJM7|Q8GJM7_SYNE7			184		
+tr|Q54755|Q54755_SYNE7	K01961	accC; acetyl-CoA carboxylase, biotin carboxylase subunit [EC:6.4.1.2 6.3.4.14]	744		
+tr|Q8GIT7|Q8GIT7_SYNE7	K02470	gyrB; DNA gyrase subunit B [EC:5.99.1.3]	1000		
+tr|Q9WWQ0|Q9WWQ0_SYNE7	K06898	uncharacterized protein	273		
+tr|Q9ALA7|Q9ALA7_SYNE7	K03671	trxA; thioredoxin 1	102		
+tr|P72560|P72560_SYNE7			334		
+tr|Q8KPP5|Q8KPP5_SYNE7			156		
+tr|Q8VPU8|Q8VPU8_SYNE7	K03442	mscS; small conductance mechanosensitive channel	286		
+tr|Q8KUX0|Q8KUX0_SYNE7			19	K01012	1
+tr|Q07948|Q07948_SYNE7			262		
+tr|Q8KUV7|Q8KUV7_SYNE7	K18199	E4.2.1.103; cyclohexyl-isocyanide hydratase [EC:4.2.1.103]	220		
+tr|Q8VW88|Q8VW88_SYNE7	K01624	FBA; fructose-bisphosphate aldolase, class II [EC:4.1.2.13]	617		
+tr|Q8GJL0|Q8GJL0_SYNE7			181		
+tr|Q8GMQ8|Q8GMQ8_SYNE7			112		
+tr|Q935X8|Q935X8_SYNE7	K03885	ndh; NADH dehydrogenase [EC:1.6.99.3]	394		
+tr|Q8VPU9|Q8VPU9_SYNE7	K05575	ndhD; NAD(P)H-quinone oxidoreductase subunit 4 [EC:1.6.5.3]	586		
+tr|Q8GAA2|Q8GAA2_SYNE7	K08641	vanX; D-alanyl-D-alanine dipeptidase [EC:3.4.13.22]	240		
+tr|Q8KUU2|Q8KUU2_SYNE7			121		
+tr|Q8KUX3|Q8KUX3_SYNE7			147	K10804	4
+tr|Q8GMQ6|Q8GMQ6_SYNE7	K07089	uncharacterized protein	387		
+tr|Q935Y0|Q935Y0_SYNE7	K02518	infA; translation initiation factor IF-1	75		
+tr|Q54763|Q54763_SYNE7			559	K01758	63
+tr|Q8KPQ5|Q8KPQ5_SYNE7			168		
+tr|Q79PG0|Q79PG0_SYNE7	K06188	aqpZ; aquaporin Z	65		
+tr|Q8KUU6|Q8KUU6_SYNE7			126		
+tr|Q54756|Q54756_SYNE7			664		
+tr|Q8KUU7|Q8KUU7_SYNE7			15	K00963	2
+tr|Q8GMR4|Q8GMR4_SYNE7			381		
+tr|Q9Z3G5|Q9Z3G5_SYNE7			210		
+tr|Q9Z3G6|Q9Z3G6_SYNE7	K00510	HMOX; heme oxygenase (biliverdin-producing) [EC:1.14.14.18]	358		
+tr|Q6BBK3|Q6BBK3_SYNE7			90		
+tr|Q9R6V3|Q9R6V3_SYNE7			285		
+tr|Q8GIS0|Q8GIS0_SYNE7			16	K11689	2
+tr|Q9KHI5|Q9KHI5_SYNE7	K11356	cikA; two-component system, sensor histidine kinase and response regulator [EC:2.7.13.3]	579		
+tr|Q8L1E4|Q8L1E4_SYNE7			522		
+tr|Q8KUV1|Q8KUV1_SYNE7	K07171	mazF; mRNA interferase MazF [EC:3.1.-.-]	46		
+tr|Q8KPT8|Q8KPT8_SYNE7	K11520	manS; two-component system, OmpR family, manganese sensing sensor histidine kinase [EC:2.7.13.3]	458		
+tr|Q8GMR9|Q8GMR9_SYNE7	K06999	phospholipase/carboxylesterase	125		
+tr|O68867|O68867_SYNE7			544		
+tr|Q9R6V2|Q9R6V2_SYNE7	K02049	ABC.SN.A; NitT/TauT family transport system ATP-binding protein	178		
+tr|Q31JT7|Q31JT7_SYNE7			42		
+tr|Q8GJL5|Q8GJL5_SYNE7			201		
+tr|Q54705|Q54705_SYNE7	K07192	FLOT; flotillin	333		
+tr|P72549|P72549_SYNE7	K16785	ecfT; energy-coupling factor transport system permease protein	327		
+tr|Q8GIU0|Q8GIU0_SYNE7	K01995	livG; branched-chain amino acid transport system ATP-binding protein	314		
+tr|Q8KUX4|Q8KUX4_SYNE7			409		
+tr|P72557|P72557_SYNE7			264		
+tr|Q9R6V6|Q9R6V6_SYNE7	K01738	cysK; cysteine synthase A [EC:2.5.1.47]	341		
+tr|Q79N42|Q79N42_SYNE7	K04079	htpG; molecular chaperone HtpG	883		
+tr|Q93AK0|Q93AK0_SYNE7			410		
+tr|Q8GIS3|Q8GIS3_SYNE7	K07071	uncharacterized protein	341		
+tr|Q79PF3|Q79PF3_SYNE7			236		
+tr|Q8GJM5|Q8GJM5_SYNE7	K03496	parA; chromosome partitioning protein	156		
+tr|Q79PF9|Q79PF9_SYNE7	K02658	pilH; twitching motility two-component system response regulator PilH	134		
+tr|Q55019|Q55019_SYNE7			69		
+tr|Q8VPV2|Q8VPV2_SYNE7			372		
+tr|Q8KPU3|Q8KPU3_SYNE7			677		
+tr|P72559|P72559_SYNE7			144		
+tr|Q8GMQ3|Q8GMQ3_SYNE7	K06024	scpB; segregation and condensation protein B	199		
+tr|Q54777|Q54777_SYNE7			130		
+tr|Q8GIR9|Q8GIR9_SYNE7	K07315	rsbU_P; phosphoserine phosphatase RsbU/P [EC:3.1.3.3]	517		
+tr|Q54774|Q54774_SYNE7	K01737	queD; 6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase [EC:4.2.3.12 4.1.2.50]	219		
+tr|Q8KUV5|Q8KUV5_SYNE7			20	K01893	2
+tr|Q7BW13|Q7BW13_SYNE7	K15577	nrtB; nitrate/nitrite transport system permease protein	330		
+tr|Q8RQ68|Q8RQ68_SYNE7	K07769	nblS; two-component system, OmpR family, sensor histidine kinase NblS [EC:2.7.13.3]	850		
+tr|Q8KUU8|Q8KUU8_SYNE7	K03496	parA; chromosome partitioning protein	74		
+tr|Q935X4|Q935X4_SYNE7	K00218	E1.3.1.33; protochlorophyllide reductase [EC:1.3.1.33]	430		
+tr|Q79PE9|Q79PE9_SYNE7			113		
+tr|Q9R6U1|Q9R6U1_SYNE7			558		
+tr|P95823|P95823_SYNE7			14	K07090	4
+tr|Q8GMR8|Q8GMR8_SYNE7			139		
+tr|Q8VPV9|Q8VPV9_SYNE7	K05577	ndhF; NAD(P)H-quinone oxidoreductase subunit 5 [EC:1.6.5.3]	630		
+tr|Q7X4K8|Q7X4K8_SYNE7	K03386	PRDX2_4; peroxiredoxin (alkyl hydroperoxide reductase subunit C) [EC:1.11.1.15]	344		
+tr|Q9F1R3|Q9F1R3_SYNE7	K00297	metF; methylenetetrahydrofolate reductase (NADPH) [EC:1.5.1.20]	372		
+tr|Q54762|Q54762_SYNE7	K03546	sbcC; exonuclease SbcC	456		
+tr|Q9R6V0|Q9R6V0_SYNE7	K02050	ABC.SN.P; NitT/TauT family transport system permease protein	232		
+tr|Q8GA98|Q8GA98_SYNE7	K01649	leuA; 2-isopropylmalate synthase [EC:2.3.3.13]	771		
+tr|Q9WWL7|Q9WWL7_SYNE7	K00134	GAPDH; glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]	450		
+tr|Q8KUT3|Q8KUT3_SYNE7			245		
+tr|Q935X2|Q935X2_SYNE7	K01626	E2.5.1.54; 3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54]	471		
+tr|Q54704|Q54704_SYNE7	K07192	FLOT; flotillin	514		
+tr|Q935X0|Q935X0_SYNE7	K01999	livK; branched-chain amino acid transport system substrate-binding protein	430		
+tr|Q9R6V1|Q9R6V1_SYNE7	K02051	ABC.SN.S; NitT/TauT family transport system substrate-binding protein	402		
+tr|Q8KUU5|Q8KUU5_SYNE7	K11717	sufS; cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]	633		
+tr|Q8KUU1|Q8KUU1_SYNE7	K01673	cynT; carbonic anhydrase [EC:4.2.1.1]	286		
+tr|Q8KPV3|Q8KPV3_SYNE7	K00034	gdh; glucose 1-dehydrogenase [EC:1.1.1.47]	338		
+tr|Q8GMS7|Q8GMS7_SYNE7			21	K07147	1
+tr|Q8GIS6|Q8GIS6_SYNE7			239		
+tr|Q8KPS3|Q8KPS3_SYNE7			23	K03545	1
+tr|Q8KUW7|Q8KUW7_SYNE7			152		
+tr|Q8GJK4|Q8GJK4_SYNE7			18	K15269	2
+tr|Q99QJ5|Q99QJ5_SYNE7			507		
+tr|P72562|P72562_SYNE7			77		
+tr|O05347|O05347_SYNE7	K15578	nrtC; nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-]	320		
+tr|Q31P46|Q31P46_SYNE7			288		
+tr|O68523|O68523_SYNE7			208	K11332	46
+tr|Q935Z1|Q935Z1_SYNE7	K07175	phoH2; PhoH-like ATPase	548		
+tr|Q31JV0|Q31JV0_SYNE7			69		
+tr|Q54767|Q54767_SYNE7			240		
+tr|Q935W9|Q935W9_SYNE7	K01997	livH; branched-chain amino acid transport system permease protein	381		
+tr|Q8KPQ0|Q8KPQ0_SYNE7	K01737	queD; 6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase [EC:4.2.3.12 4.1.2.50]	455		
+tr|Q55283|Q55283_SYNE7			107		
+tr|Q79PF1|Q79PF1_SYNE7	K18828	mvpA; tRNA(fMet)-specific endonuclease VapC [EC:3.1.-.-]	137		
+tr|Q8KUV9|Q8KUV9_SYNE7			121		
+tr|Q8KUV0|Q8KUV0_SYNE7	K07075	uncharacterized protein	104		
+tr|Q8KPU8|Q8KPU8_SYNE7	K03118	tatC; sec-independent protein translocase protein TatC	336		
+tr|Q9KHA8|Q9KHA8_SYNE7			382		
+tr|Q79PF2|Q79PF2_SYNE7	K00432	gpx; glutathione peroxidase [EC:1.11.1.9]	209		
+tr|Q8KPT7|Q8KPT7_SYNE7			137		
+tr|Q8KUW1|Q8KUW1_SYNE7			83		
+tr|Q8KPS6|Q8KPS6_SYNE7			71		
+tr|Q8GJL3|Q8GJL3_SYNE7			34	K05838	1
+tr|Q8GJN4|Q8GJN4_SYNE7	K07496	putative transposase	459		
+tr|O50209|O50209_SYNE7	K02097	apcF; phycobilisome core component	246		
+tr|Q8GIU1|Q8GIU1_SYNE7	K01998	livM; branched-chain amino acid transport system permease protein	348		
+tr|Q54731|Q54731_SYNE7			214		
+tr|Q8KUU3|Q8KUU3_SYNE7			21	K01586	3
+tr|Q8KPV1|Q8KPV1_SYNE7			877		
+tr|Q8GLI4|Q8GLI4_SYNE7			331		
+tr|Q8GIS8|Q8GIS8_SYNE7			30	K01709	1
+tr|Q8GMQ5|Q8GMQ5_SYNE7			104	K12239	3
+tr|Q8KUU4|Q8KUU4_SYNE7			114		
+tr|Q8GIS7|Q8GIS7_SYNE7			70		
+tr|Q8VPV3|Q8VPV3_SYNE7			502		
+tr|Q8GJL9|Q8GJL9_SYNE7			129		
+tr|Q8GJM6|Q8GJM6_SYNE7			13	K11334	6
+tr|Q8GAA4|Q8GAA4_SYNE7			24	K20533	4
+tr|Q54732|Q54732_SYNE7			16	K18929	2
+tr|Q8VPV7|Q8VPV7_SYNE7			729		
+tr|Q7X386|Q7X386_SYNE7	K14518	pipX; PII interaction protein X	118		
+tr|Q54773|Q54773_SYNE7			132		
+tr|Q8GMQ2|Q8GMQ2_SYNE7			152		
+tr|Q8GMS3|Q8GMS3_SYNE7			19	K00762	3
+tr|Q54771|Q54771_SYNE7			118		
+tr|Q57311|Q57311_SYNE7			20	K05801	1
+tr|Q8GMQ9|Q8GMQ9_SYNE7			23	K06198	4
+tr|Q8GIT2|Q8GIT2_SYNE7			185		
+tr|Q8KPR2|Q8KPR2_SYNE7			88		
+tr|O33700|O33700_SYNE7			152		
+tr|Q54772|Q54772_SYNE7			19	K06959	1
+tr|Q8GIT1|Q8GIT1_SYNE7			20	K02902	2
+tr|Q79PG5|Q79PG5_SYNE7			320		
+tr|Q79PF0|Q79PF0_SYNE7			124	K01840	12
+tr|Q79PE8|Q79PE8_SYNE7			108		
+tr|Q8KPQ2|Q8KPQ2_SYNE7			20	K02687	1
+tr|Q31KD0|Q31KD0_SYNE7			110	K01897	4
+tr|Q8GJN7|Q8GJN7_SYNE7			63		
+tr|Q31LE2|Q31LE2_SYNE7	K09977	uncharacterized protein	131		
+tr|Q31SB0|Q31SB0_SYNE7	K00652	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]	315		
+tr|Q31S21|Q31S21_SYNE7	K00847	E2.7.1.4; fructokinase [EC:2.7.1.4]	312		
+tr|Q31N38|Q31N38_SYNE7	K00058	serA; D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95]	823		
+tr|Q31LV6|Q31LV6_SYNE7	K01823	idi; isopentenyl-diphosphate Delta-isomerase [EC:5.3.3.2]	422		
+tr|Q31LL5|Q31LL5_SYNE7			331		
+tr|Q31QB2|Q31QB2_SYNE7			409		
+tr|Q31RX7|Q31RX7_SYNE7	K03595	era; GTPase	410		
+tr|Q31RB9|Q31RB9_SYNE7	K03601	xseA; exodeoxyribonuclease VII large subunit [EC:3.1.11.6]	344		
+tr|Q31PF5|Q31PF5_SYNE7			279		
+tr|Q31KD7|Q31KD7_SYNE7	K02663	pilN; type IV pilus assembly protein PilN	119		
+tr|Q31MR4|Q31MR4_SYNE7			484		
+tr|Q31PK8|Q31PK8_SYNE7	K06915	uncharacterized protein	588		
+tr|Q31MA2|Q31MA2_SYNE7	K04488	iscU; nitrogen fixation protein NifU and related proteins	237		
+tr|Q31S09|Q31S09_SYNE7			347		
+tr|Q31KX1|Q31KX1_SYNE7			349		
+tr|Q31KH9|Q31KH9_SYNE7	K01488	add; adenosine deaminase [EC:3.5.4.4]	506		
+tr|Q31SB2|Q31SB2_SYNE7			431		
+tr|Q31N46|Q31N46_SYNE7	K02428	rdgB; XTP/dITP diphosphohydrolase [EC:3.6.1.66]	291		
+tr|Q31RL9|Q31RL9_SYNE7			179		
+tr|Q31LH3|Q31LH3_SYNE7	K05539	dusA; tRNA-dihydrouridine synthase A [EC:1.-.-.-]	432		
+tr|Q31MD6|Q31MD6_SYNE7			144		
+tr|Q31RN3|Q31RN3_SYNE7	K02469	gyrA; DNA gyrase subunit A [EC:5.99.1.3]	1215		
+tr|Q31RE3|Q31RE3_SYNE7			252		
+tr|Q31RP6|Q31RP6_SYNE7	K03215	rumA; 23S rRNA (uracil1939-C5)-methyltransferase [EC:2.1.1.190]	503		
+tr|Q31MY9|Q31MY9_SYNE7	K03502	DPO5C; DNA polymerase V	334		
+tr|Q31N86|Q31N86_SYNE7	K11329	rpaB; two-component system, OmpR family, response regulator RpaB	441		
+tr|Q31RZ6|Q31RZ6_SYNE7	K03074	secF; preprotein translocase subunit SecF	365		
+tr|Q31L01|Q31L01_SYNE7			462		
+tr|Q31QP5|Q31QP5_SYNE7	K00850	pfkA; 6-phosphofructokinase 1 [EC:2.7.1.11]	377		
+tr|Q31P80|Q31P80_SYNE7			367		
+tr|Q31S36|Q31S36_SYNE7	K03885	ndh; NADH dehydrogenase [EC:1.6.99.3]	540		
+tr|Q31PN9|Q31PN9_SYNE7	K02027	ABC.MS.S; multiple sugar transport system substrate-binding protein	314		
+tr|Q31P27|Q31P27_SYNE7	K09936	TC.BAT2; bacterial/archaeal transporter family-2 protein	130		
+tr|Q31PL7|Q31PL7_SYNE7	K09022	ridA; 2-iminobutanoate/2-iminopropanoate deaminase [EC:3.5.99.10]	98		
+tr|Q31LP9|Q31LP9_SYNE7			196		
+tr|Q31QU3|Q31QU3_SYNE7	K09780	uncharacterized protein	146		
+tr|Q31QJ7|Q31QJ7_SYNE7	K18889	mdlA; ATP-binding cassette, subfamily B, multidrug efflux pump	665		
+tr|Q31MJ2|Q31MJ2_SYNE7			83		
+tr|Q31RF9|Q31RF9_SYNE7	K02096	apcE; phycobilisome core-membrane linker protein	884		
+tr|Q31QH7|Q31QH7_SYNE7	K15226	tyrAa; arogenate dehydrogenase (NADP+) [EC:1.3.1.78]	286		
+tr|Q31QB1|Q31QB1_SYNE7			19	K02965	2
+tr|Q31NA1|Q31NA1_SYNE7			158		
+tr|Q31M15|Q31M15_SYNE7	K03216	trmL; tRNA (cytidine/uridine-2'-O-)-methyltransferase [EC:2.1.1.207]	207		
+tr|Q31MG1|Q31MG1_SYNE7			18	K02034	5
+tr|Q31LG3|Q31LG3_SYNE7	K06949	rsgA; ribosome biogenesis GTPase [EC:3.6.1.-]	393		
+tr|Q31MB2|Q31MB2_SYNE7			160	K01255	4
+tr|Q31QF3|Q31QF3_SYNE7	K00059	fabG; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	321		
+tr|Q31KZ8|Q31KZ8_SYNE7			183		
+tr|Q31SA5|Q31SA5_SYNE7			121		
+tr|Q31KK5|Q31KK5_SYNE7	K03737	por; pyruvate-ferredoxin/flavodoxin oxidoreductase [EC:1.2.7.1 1.2.7.-]	1664		
+tr|Q31LX3|Q31LX3_SYNE7	K04773	sppA; protease IV [EC:3.4.21.-]	402		
+tr|Q31K47|Q31K47_SYNE7	K08906	petJ; cytochrome c6	118		
+tr|Q31KG0|Q31KG0_SYNE7	K03561	exbB; biopolymer transport protein ExbB	255		
+tr|Q31LD2|Q31LD2_SYNE7	K15576	nrtA; nitrate/nitrite transport system substrate-binding protein	652		
+tr|Q31PZ0|Q31PZ0_SYNE7	K03701	uvrA; excinuclease ABC subunit A	1487		
+tr|Q31KH7|Q31KH7_SYNE7			299		
+tr|Q31PP2|Q31PP2_SYNE7	K10112	msmX; multiple sugar transport system ATP-binding protein	378		
+tr|Q31KK9|Q31KK9_SYNE7			91		
+tr|Q31NS1|Q31NS1_SYNE7			549		
+tr|Q31PZ2|Q31PZ2_SYNE7	K01792	E5.1.3.15; glucose-6-phosphate 1-epimerase [EC:5.1.3.15]	216		
+tr|Q31ND5|Q31ND5_SYNE7	K11521	manR; two-component system, OmpR family, manganese sensing response regulator	297		
+tr|Q31QD6|Q31QD6_SYNE7	K07107	ybgC; acyl-CoA thioester hydrolase [EC:3.1.2.-]	161		
+tr|Q31P81|Q31P81_SYNE7	K03530	hupB; DNA-binding protein HU-beta	147		
+tr|Q31MA7|Q31MA7_SYNE7	K01733	thrC; threonine synthase [EC:4.2.3.1]	733		
+tr|Q31PI4|Q31PI4_SYNE7	K07025	putative hydrolase of the HAD superfamily	190		
+tr|Q31PM9|Q31PM9_SYNE7	K10112	msmX; multiple sugar transport system ATP-binding protein	465		
+tr|Q31NY7|Q31NY7_SYNE7			530		
+tr|Q31P36|Q31P36_SYNE7	K06946	uncharacterized protein	548		
+tr|Q31NI1|Q31NI1_SYNE7			266		
+tr|Q31NR3|Q31NR3_SYNE7	K02030	ABC.PA.S; polar amino acid transport system substrate-binding protein	175		
+tr|Q31QV4|Q31QV4_SYNE7			111		
+tr|Q31S80|Q31S80_SYNE7			486		
+tr|Q31LP0|Q31LP0_SYNE7			130		
+tr|Q31KI9|Q31KI9_SYNE7			407		
+tr|Q31L65|Q31L65_SYNE7			169		
+tr|Q31NK7|Q31NK7_SYNE7			245		
+tr|Q31PE5|Q31PE5_SYNE7	K03465	thyX; thymidylate synthase (FAD) [EC:2.1.1.148]	340		
+tr|Q31M24|Q31M24_SYNE7	K00858	ppnK; NAD+ kinase [EC:2.7.1.23]	400		
+tr|Q31S06|Q31S06_SYNE7			1154		
+tr|Q31RB2|Q31RB2_SYNE7	K07263	pqqL; zinc protease [EC:3.4.24.-]	417		
+tr|Q31L40|Q31L40_SYNE7	K02337	DPO3A1; DNA polymerase III subunit alpha [EC:2.7.7.7]	1305		
+tr|Q31LA2|Q31LA2_SYNE7	K03403	chlH; magnesium chelatase subunit H [EC:6.6.1.1]	2060		
+tr|Q31M89|Q31M89_SYNE7			109		
+tr|Q31RU8|Q31RU8_SYNE7	K01951	guaA; GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]	914		
+tr|Q31MP7|Q31MP7_SYNE7			215		
+tr|Q31M99|Q31M99_SYNE7	K06223	dam; DNA adenine methylase [EC:2.1.1.72]	275		
+tr|Q31S02|Q31S02_SYNE7	K03183	ubiE; demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201]	223		
+tr|Q31MB0|Q31MB0_SYNE7	K03631	recN; DNA repair protein RecN (Recombination protein N)	599		
+tr|Q31R10|Q31R10_SYNE7	K02221	yggT; YggT family protein	72		
+tr|Q31PS4|Q31PS4_SYNE7	K03786	aroQ; 3-dehydroquinate dehydratase II [EC:4.2.1.10]	207		
+tr|Q31PY5|Q31PY5_SYNE7	K17108	GBA2; non-lysosomal glucosylceramidase [EC:3.2.1.45]	1048		
+tr|Q31KR7|Q31KR7_SYNE7	K02435	gatC; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C [EC:6.3.5.6 6.3.5.7]	126		
+tr|Q31ND2|Q31ND2_SYNE7	K02011	afuB; iron(III) transport system permease protein	586		
+tr|Q31PC9|Q31PC9_SYNE7	K03427	hsdM; type I restriction enzyme M protein [EC:2.1.1.72]	915		
+tr|Q31R96|Q31R96_SYNE7			338		
+tr|Q31RZ2|Q31RZ2_SYNE7			87		
+tr|Q31R05|Q31R05_SYNE7	K03587	ftsI; cell division protein FtsI (penicillin-binding protein 3)	581		
+tr|Q31S28|Q31S28_SYNE7	K04047	dps; starvation-inducible DNA-binding protein	261		
+tr|Q31RN2|Q31RN2_SYNE7	K06923	uncharacterized protein	481		
+tr|Q31RS3|Q31RS3_SYNE7	K07088	uncharacterized protein	214		
+tr|Q31P35|Q31P35_SYNE7			477		
+tr|Q31KE7|Q31KE7_SYNE7	K02038	pstA; phosphate transport system permease protein	325		
+tr|Q31NS5|Q31NS5_SYNE7	K03316	TC.CPA1; monovalent cation:H+ antiporter, CPA1 family	570		
+tr|Q31KK4|Q31KK4_SYNE7	K00226	pyrD; dihydroorotate dehydrogenase (fumarate) [EC:1.3.98.1]	390		
+tr|Q31R48|Q31R48_SYNE7	K03428	bchM; magnesium-protoporphyrin O-methyltransferase [EC:2.1.1.11]	294		
+tr|Q31NP3|Q31NP3_SYNE7			186		
+tr|Q31PI7|Q31PI7_SYNE7	K02692	psaD; photosystem I subunit II	233		
+tr|Q31MG4|Q31MG4_SYNE7			540		
+tr|Q31RP8|Q31RP8_SYNE7	K08906	petJ; cytochrome c6	108		
+tr|Q31R07|Q31R07_SYNE7			471		
+tr|Q31NI2|Q31NI2_SYNE7			1087		
+tr|Q31Q25|Q31Q25_SYNE7			201		
+tr|Q31LV1|Q31LV1_SYNE7	K03325	TC.ACR3; arsenite transporter, ACR3 family	370		
+tr|Q31NI8|Q31NI8_SYNE7			136	K17623	37
+tr|Q31LZ0|Q31LZ0_SYNE7	K09705	uncharacterized protein	156		
+tr|Q31PL9|Q31PL9_SYNE7			662		
+tr|Q31KB0|Q31KB0_SYNE7			56	K08084	2
+tr|Q31QA4|Q31QA4_SYNE7			445		
+tr|Q31QW7|Q31QW7_SYNE7			318		
+tr|Q31KI4|Q31KI4_SYNE7	K06934	uncharacterized protein	71		
+tr|Q31QX0|Q31QX0_SYNE7	K07462	recJ; single-stranded-DNA-specific exonuclease [EC:3.1.-.-]	497		
+tr|Q31PL0|Q31PL0_SYNE7			189		
+tr|Q31LU5|Q31LU5_SYNE7	K00161	PDHA; pyruvate dehydrogenase E1 component alpha subunit [EC:1.2.4.1]	561		
+tr|Q31SC3|Q31SC3_SYNE7			20	K03975	1
+tr|Q31KJ3|Q31KJ3_SYNE7	K07015	uncharacterized protein	191		
+tr|Q31NJ9|Q31NJ9_SYNE7	K01462	PDF; peptide deformylase [EC:3.5.1.88]	261		
+tr|Q31S74|Q31S74_SYNE7			107		
+tr|Q31QK2|Q31QK2_SYNE7	K02601	nusG; transcriptional antiterminator NusG	310		
+tr|Q31RW0|Q31RW0_SYNE7	K01992	ABC-2.P; ABC-2 type transport system permease protein	340		
+tr|Q31KN2|Q31KN2_SYNE7			473		
+tr|Q31NN4|Q31NN4_SYNE7	K02031	ABC.PE.A; peptide/nickel transport system ATP-binding protein	569	K02032	63
+	K02032	ABC.PE.A1; peptide/nickel transport system ATP-binding protein			
+tr|Q31KM5|Q31KM5_SYNE7			167		
+tr|Q31PY0|Q31PY0_SYNE7	K06596	chpA; chemosensory pili system protein ChpA (sensor histidine kinase/response regulator)	960		
+tr|Q31M32|Q31M32_SYNE7	K00020	mmsB; 3-hydroxyisobutyrate dehydrogenase [EC:1.1.1.31]	102		
+tr|Q31RA3|Q31RA3_SYNE7			133		
+tr|Q31LS5|Q31LS5_SYNE7	K03179	ubiA; 4-hydroxybenzoate polyprenyltransferase [EC:2.5.1.39]	333		
+tr|Q31LX4|Q31LX4_SYNE7	K06208	aroH; chorismate mutase [EC:5.4.99.5]	174		
+tr|Q31RW8|Q31RW8_SYNE7	K01915	glnA; glutamine synthetase [EC:6.3.1.2]	1155		
+tr|Q31SB6|Q31SB6_SYNE7	K05895	cobK-cbiJ; precorrin-6A/cobalt-precorrin-6A reductase [EC:1.3.1.54 1.3.1.106]	267		
+tr|Q31QJ4|Q31QJ4_SYNE7			14	K07213	3
+tr|Q31PP1|Q31PP1_SYNE7	K02026	ABC.MS.P1; multiple sugar transport system permease protein	306		
+tr|Q31M82|Q31M82_SYNE7	K03574	mutT; 8-oxo-dGTP diphosphatase [EC:3.6.1.55]	81		
+tr|Q31PY9|Q31PY9_SYNE7	K08973	putative membrane protein	275		
+tr|Q31LT4|Q31LT4_SYNE7			56		
+tr|Q31KF1|Q31KF1_SYNE7			122		
+tr|Q31RW1|Q31RW1_SYNE7			20	K01925	2
+tr|Q31QS0|Q31QS0_SYNE7			472		
+tr|Q31Q97|Q31Q97_SYNE7			211		
+tr|Q31R99|Q31R99_SYNE7			389		
+tr|Q31R00|Q31R00_SYNE7	K03100	lepB; signal peptidase I [EC:3.4.21.89]	261		
+tr|Q31KI6|Q31KI6_SYNE7			105		
+tr|Q31KZ9|Q31KZ9_SYNE7			200		
+tr|Q31Q43|Q31Q43_SYNE7	K03969	pspA; phage shock protein A	314		
+tr|Q31Q74|Q31Q74_SYNE7			30	K07726	8
+tr|Q31QH8|Q31QH8_SYNE7	K03722	dinG; ATP-dependent DNA helicase DinG [EC:3.6.4.12]	205		
+tr|Q31L38|Q31L38_SYNE7	K01775	alr; alanine racemase [EC:5.1.1.1]	478		
+tr|Q31PN2|Q31PN2_SYNE7	K19221	cobA; cob(I)alamin adenosyltransferase [EC:2.5.1.17]	313		
+tr|Q31KJ9|Q31KJ9_SYNE7	K01469	OPLAH; 5-oxoprolinase (ATP-hydrolysing) [EC:3.5.2.9]	1443		
+tr|Q31P64|Q31P64_SYNE7			189	K02487	59
+tr|Q31KE6|Q31KE6_SYNE7	K02037	pstC; phosphate transport system permease protein	407		
+tr|Q31PI2|Q31PI2_SYNE7	K01679	E4.2.1.2B; fumarate hydratase, class II [EC:4.2.1.2]	591		
+tr|Q31K70|Q31K70_SYNE7			492		
+tr|Q31MR5|Q31MR5_SYNE7	K00793	ribE; riboflavin synthase [EC:2.5.1.9]	233		
+tr|Q31LK4|Q31LK4_SYNE7			330		
+tr|Q31JY8|Q31JY8_SYNE7	K02259	COX15; cytochrome c oxidase assembly protein subunit 15	281		
+tr|Q31LF4|Q31LF4_SYNE7	K01551	arsA; arsenite-transporting ATPase [EC:3.6.3.16]	304		
+tr|Q31RI7|Q31RI7_SYNE7	K03569	mreB; rod shape-determining protein MreB and related proteins	529		
+tr|Q31NN7|Q31NN7_SYNE7			76		
+tr|Q31NT3|Q31NT3_SYNE7	K00799	GST; glutathione S-transferase [EC:2.5.1.18]	227		
+tr|Q31N97|Q31N97_SYNE7			200		
+tr|Q31P49|Q31P49_SYNE7			626		
+tr|Q31LZ2|Q31LZ2_SYNE7			301		
+tr|Q31NE5|Q31NE5_SYNE7			613		
+tr|Q31QL9|Q31QL9_SYNE7	K01251	E3.3.1.1; adenosylhomocysteinase [EC:3.3.1.1]	689		
+tr|Q31K61|Q31K61_SYNE7			175		
+tr|Q31PJ3|Q31PJ3_SYNE7	K15918	GLYK; D-glycerate 3-kinase [EC:2.7.1.31]	227		
+tr|Q31K38|Q31K38_SYNE7	K04656	hypF; hydrogenase maturation protein HypF	705		
+tr|Q31LE0|Q31LE0_SYNE7	K00067	rfbD; dTDP-4-dehydrorhamnose reductase [EC:1.1.1.133]	271		
+tr|Q31RU3|Q31RU3_SYNE7	K02335	DPO1; DNA polymerase I [EC:2.7.7.7]	1122		
+tr|Q31LU7|Q31LU7_SYNE7	K03564	BCP; peroxiredoxin Q/BCP [EC:1.11.1.15]	207		
+tr|Q31N04|Q31N04_SYNE7			158		
+tr|Q31RG8|Q31RG8_SYNE7	K06442	tlyA; 23S rRNA (cytidine1920-2'-O)/16S rRNA (cytidine1409-2'-O)-methyltransferase [EC:2.1.1.226 2.1.1.227]	321		
+tr|Q31NZ1|Q31NZ1_SYNE7	K00382	DLD; dihydrolipoamide dehydrogenase [EC:1.8.1.4]	666		
+tr|Q31Q49|Q31Q49_SYNE7	K00799	GST; glutathione S-transferase [EC:2.5.1.18]	294		
+tr|Q31NW1|Q31NW1_SYNE7			194		
+tr|Q31Q82|Q31Q82_SYNE7			63	K03791	5
+tr|Q31RM7|Q31RM7_SYNE7	K03696	clpC; ATP-dependent Clp protease ATP-binding subunit ClpC	1401		
+tr|Q31RV4|Q31RV4_SYNE7			20	K17103	3
+tr|Q31R24|Q31R24_SYNE7	K01104	E3.1.3.48; protein-tyrosine phosphatase [EC:3.1.3.48]	218		
+tr|Q31N75|Q31N75_SYNE7			355		
+tr|Q31N68|Q31N68_SYNE7	K05570	mnhF; multicomponent Na+:H+ antiporter subunit F	118		
+tr|Q31MM9|Q31MM9_SYNE7	K10716	kch; voltage-gated potassium channel	244		
+tr|Q31L34|Q31L34_SYNE7	K02996	RP-S9; small subunit ribosomal protein S9	211		
+tr|Q31MP4|Q31MP4_SYNE7	K03685	rnc; ribonuclease III [EC:3.1.26.3]	203		
+tr|Q31PB0|Q31PB0_SYNE7	K03655	recG; ATP-dependent DNA helicase RecG [EC:3.6.4.12]	1024		
+tr|Q31N44|Q31N44_SYNE7			118		
+tr|Q31MS9|Q31MS9_SYNE7	K00325	pntB; NAD(P) transhydrogenase subunit beta [EC:1.6.1.2]	484		
+tr|Q31M96|Q31M96_SYNE7	K03671	trxA; thioredoxin 1	129		
+tr|Q31MG0|Q31MG0_SYNE7	K07646	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]	451		
+tr|Q31LX9|Q31LX9_SYNE7	K03186	ubiX; flavin prenyltransferase [EC:2.5.1.129]	274		
+tr|Q31PP9|Q31PP9_SYNE7			28	K02469	2
+tr|Q31PY1|Q31PY1_SYNE7	K11525	pixJ; methyl-accepting chemotaxis protein PixJ	904		
+tr|Q31L94|Q31L94_SYNE7	K12251	aguB; N-carbamoylputrescine amidase [EC:3.5.1.53]	427		
+tr|Q31NA3|Q31NA3_SYNE7			21	K19229	3
+tr|Q31LC0|Q31LC0_SYNE7	K03218	rlmB; 23S rRNA (guanosine2251-2'-O)-methyltransferase [EC:2.1.1.185]	321		
+tr|Q31PG3|Q31PG3_SYNE7			617		
+tr|Q31PB9|Q31PB9_SYNE7	K07079	uncharacterized protein	371		
+tr|Q31RM9|Q31RM9_SYNE7	K06991	uncharacterized protein	206		
+tr|Q31PG4|Q31PG4_SYNE7			215		
+tr|Q31P89|Q31P89_SYNE7	K02313	dnaA; chromosomal replication initiator protein	654		
+tr|Q31QY9|Q31QY9_SYNE7	K16881	mannose-1-phosphate guanylyltransferase / phosphomannomutase [EC:2.7.7.13 5.4.2.8]	971		
+tr|Q31N24|Q31N24_SYNE7			236	K01090	87
+tr|Q31MF1|Q31MF1_SYNE7	K11717	sufS; cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]	618		
+tr|Q31MA8|Q31MA8_SYNE7			141		
+tr|Q31S76|Q31S76_SYNE7	K01709	rfbG; CDP-glucose 4,6-dehydratase [EC:4.2.1.45]	407		
+tr|Q31QX3|Q31QX3_SYNE7	K09774	lptA; lipopolysaccharide export system protein LptA	128		
+tr|Q31K29|Q31K29_SYNE7			141		
+tr|Q31PI0|Q31PI0_SYNE7			119		
+tr|Q31S66|Q31S66_SYNE7			448		
+tr|Q31LA0|Q31LA0_SYNE7	K00799	GST; glutathione S-transferase [EC:2.5.1.18]	266		
+tr|Q31PD3|Q31PD3_SYNE7			125		
+tr|Q31M36|Q31M36_SYNE7	K03394	cobI-cbiL; precorrin-2/cobalt-factor-2 C20-methyltransferase [EC:2.1.1.130 2.1.1.151]	304		
+tr|Q31MQ4|Q31MQ4_SYNE7			362		
+tr|Q31MS7|Q31MS7_SYNE7	K00324	pntA; NAD(P) transhydrogenase subunit alpha [EC:1.6.1.2]	349		
+tr|Q31N59|Q31N59_SYNE7			184		
+tr|Q31P85|Q31P85_SYNE7	K05837	rodA; rod shape determining protein RodA	491		
+tr|Q31M26|Q31M26_SYNE7	K02493	hemK; release factor glutamine methyltransferase [EC:2.1.1.297]	266		
+tr|Q31M33|Q31M33_SYNE7	K11991	tadA; tRNA(adenine34) deaminase [EC:3.5.4.33]	185		
+tr|Q31QQ4|Q31QQ4_SYNE7	K03405	chlI; magnesium chelatase subunit I [EC:6.6.1.1]	558		
+tr|Q31MP6|Q31MP6_SYNE7			278		
+tr|Q31MN1|Q31MN1_SYNE7	K08983	putative membrane protein	161		
+tr|Q31K16|Q31K16_SYNE7			72	K11606	58
+tr|Q31LJ6|Q31LJ6_SYNE7	K01611	speD; S-adenosylmethionine decarboxylase [EC:4.1.1.50]	133	K00797	13
+tr|Q31MX4|Q31MX4_SYNE7			72		
+tr|Q31S83|Q31S83_SYNE7			305		
+tr|Q31QY6|Q31QY6_SYNE7			214		
+tr|Q31K87|Q31K87_SYNE7			385		
+tr|Q31PY4|Q31PY4_SYNE7	K02657	pilG; twitching motility two-component system response regulator PilG	367		
+tr|Q31KH8|Q31KH8_SYNE7			102		
+tr|Q31M75|Q31M75_SYNE7			146	K03321	7
+tr|Q31NH9|Q31NH9_SYNE7			417		
+tr|Q31P83|Q31P83_SYNE7			169		
+tr|Q31P37|Q31P37_SYNE7	K03642	rlpA; rare lipoprotein A	206		
+tr|Q31ML7|Q31ML7_SYNE7	K07260	vanY; D-alanyl-D-alanine carboxypeptidase [EC:3.4.16.4]	230		
+tr|Q31N74|Q31N74_SYNE7			172		
+tr|Q31QH5|Q31QH5_SYNE7			137		
+tr|Q31SB5|Q31SB5_SYNE7			356		
+tr|Q31RP1|Q31RP1_SYNE7	K09969	aapJ; general L-amino acid transport system substrate-binding protein	404		
+tr|Q31Q19|Q31Q19_SYNE7	K01952	purL; phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	127		
+tr|Q31MC3|Q31MC3_SYNE7	K00426	cydB; cytochrome d ubiquinol oxidase subunit II [EC:1.10.3.14]	516		
+tr|Q31Q70|Q31Q70_SYNE7			21	K01551	3
+tr|Q31QL8|Q31QL8_SYNE7			228		
+tr|Q31MJ3|Q31MJ3_SYNE7	K06911	uncharacterized protein	215		
+tr|Q31M39|Q31M39_SYNE7	K00595	cobL; precorrin-6Y C5,15-methyltransferase (decarboxylating) [EC:2.1.1.132]	492		
+tr|Q31S90|Q31S90_SYNE7			297		
+tr|Q31LS6|Q31LS6_SYNE7	K01297	ldcA; muramoyltetrapeptide carboxypeptidase [EC:3.4.17.13]	318		
+tr|Q31MY0|Q31MY0_SYNE7			122		
+tr|Q31MM0|Q31MM0_SYNE7	K01547	kdpB; K+-transporting ATPase ATPase B chain [EC:3.6.3.12]	987		
+tr|Q31M73|Q31M73_SYNE7			710		
+tr|Q31M83|Q31M83_SYNE7	K03564	BCP; peroxiredoxin Q/BCP [EC:1.11.1.15]	193		
+tr|Q31P62|Q31P62_SYNE7	K03568	tldD; TldD protein	720		
+tr|Q31M05|Q31M05_SYNE7			214		
+tr|Q31R81|Q31R81_SYNE7			13	K00265	12
+tr|Q31QT5|Q31QT5_SYNE7	K01791	wecB; UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	548		
+tr|Q31NK8|Q31NK8_SYNE7			71		
+tr|Q31NM3|Q31NM3_SYNE7			246	K09818	100
+tr|Q31LM4|Q31LM4_SYNE7			229		
+tr|Q31KB9|Q31KB9_SYNE7			323		
+tr|Q31S92|Q31S92_SYNE7			285		
+tr|Q31N08|Q31N08_SYNE7	K02020	modA; molybdate transport system substrate-binding protein	260		
+tr|Q31N47|Q31N47_SYNE7			174		
+tr|Q31JZ3|Q31JZ3_SYNE7			461	K03810	51
+tr|Q31NK2|Q31NK2_SYNE7			928	K01127	62
+tr|Q31PE0|Q31PE0_SYNE7	K02286	cpcC; phycocyanin-associated rod linker protein	305		
+tr|Q31P51|Q31P51_SYNE7	K04075	tilS; tRNA(Ile)-lysidine synthase [EC:6.3.4.19]	275		
+tr|Q31KB7|Q31KB7_SYNE7	K03110	ftsY; fused signal recognition particle receptor	520		
+tr|Q31QN2|Q31QN2_SYNE7	K08994	yneE; putative membrane protein	318		
+tr|Q31N05|Q31N05_SYNE7			533	K07578	145
+tr|Q31PX8|Q31PX8_SYNE7	K20024	mgdE; monoglucosyldiacylglycerol epimerase [EC:5.1.3.34]	487		
+tr|Q31PE4|Q31PE4_SYNE7			480		
+tr|Q31KD9|Q31KD9_SYNE7	K02666	pilQ; type IV pilus assembly protein PilQ	385		
+tr|Q31R16|Q31R16_SYNE7	K17246	chiG; putative chitobiose transport system permease protein	398		
+tr|Q31LY6|Q31LY6_SYNE7	K18827	wbdD; O-antigen chain-terminating methyltransferase [EC:2.1.1.- 2.1.1.294 2.7.1.181]	206		
+tr|Q31RZ4|Q31RZ4_SYNE7	K00162	PDHB; pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1]	556		
+tr|Q31Q84|Q31Q84_SYNE7	K06905	uncharacterized protein	239		
+tr|Q31RC7|Q31RC7_SYNE7			428		
+tr|Q31Q16|Q31Q16_SYNE7	K02035	ABC.PE.S; peptide/nickel transport system substrate-binding protein	494		
+tr|Q31QZ6|Q31QZ6_SYNE7			51		
+tr|Q31Q52|Q31Q52_SYNE7	K05366	mrcA; penicillin-binding protein 1A [EC:2.4.1.- 3.4.-.-]	602		
+tr|Q31KZ7|Q31KZ7_SYNE7			145		
+tr|Q31NT8|Q31NT8_SYNE7	K01409	KAE1; N6-L-threonylcarbamoyladenine synthase [EC:2.3.1.234]	480		
+tr|Q31NV5|Q31NV5_SYNE7			139		
+tr|Q31MF8|Q31MF8_SYNE7	K07101	uncharacterized protein	172		
+tr|Q31RG7|Q31RG7_SYNE7	K01784	galE; UDP-glucose 4-epimerase [EC:5.1.3.2]	430		
+tr|Q31QH1|Q31QH1_SYNE7			52	K03686	7
+tr|Q31Q77|Q31Q77_SYNE7			59	K02529	2
+tr|Q31QP3|Q31QP3_SYNE7	K06978	uncharacterized protein	487		
+tr|Q31Q89|Q31Q89_SYNE7	K06908	uncharacterized protein	187		
+tr|Q31M30|Q31M30_SYNE7			715		
+tr|Q31L49|Q31L49_SYNE7	K07305	msrB; peptide-methionine (R)-S-oxide reductase [EC:1.8.4.12]	202		
+tr|Q31M92|Q31M92_SYNE7			25	K04763	3
+tr|Q31M49|Q31M49_SYNE7			165		
+tr|Q31RC1|Q31RC1_SYNE7	K03321	TC.SULP; sulfate permease, SulP family	241		
+tr|Q31MW0|Q31MW0_SYNE7			144		
+tr|Q31MV6|Q31MV6_SYNE7	K09928	uncharacterized protein	128		
+tr|Q31ML8|Q31ML8_SYNE7	K01548	kdpC; K+-transporting ATPase ATPase C chain [EC:3.6.3.12]	196		
+tr|Q31N32|Q31N32_SYNE7	K03644	lipA; lipoyl synthase [EC:2.8.1.8]	421		
+tr|Q31M14|Q31M14_SYNE7	K03568	tldD; TldD protein	617		
+tr|Q31PX3|Q31PX3_SYNE7			22	K06982	1
+tr|Q31NN3|Q31NN3_SYNE7			201		
+tr|Q31KI8|Q31KI8_SYNE7	K13993	HSP20; HSP20 family protein	170		
+tr|Q31QW9|Q31QW9_SYNE7			304		
+tr|Q31NH4|Q31NH4_SYNE7			65	K05595	47
+tr|Q31PN6|Q31PN6_SYNE7			189		
+tr|Q31PR0|Q31PR0_SYNE7	K02535	lpxC; UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase [EC:3.5.1.108]	298		
+tr|Q31NP4|Q31NP4_SYNE7			463		
+tr|Q31P68|Q31P68_SYNE7			383	K08884	41
+tr|Q31R88|Q31R88_SYNE7			292		
+tr|Q31MS8|Q31MS8_SYNE7	K00324	pntA; NAD(P) transhydrogenase subunit alpha [EC:1.6.1.2]	108		
+tr|Q31MR8|Q31MR8_SYNE7			787		
+tr|Q31LS8|Q31LS8_SYNE7			194		
+tr|Q31S97|Q31S97_SYNE7	K01633	folB; dihydroneopterin aldolase / 7,8-dihydroneopterin epimerase [EC:4.1.2.25 5.1.99.8]	123		
+tr|Q31KK3|Q31KK3_SYNE7	K04654	hypD; hydrogenase expression/formation protein HypD	458		
+tr|Q31KV9|Q31KV9_SYNE7			189		
+tr|Q31LM5|Q31LM5_SYNE7			203		
+tr|Q31P71|Q31P71_SYNE7			674		
+tr|Q31M29|Q31M29_SYNE7			313		
+tr|Q31Q28|Q31Q28_SYNE7			349		
+tr|Q31RA0|Q31RA0_SYNE7	K06925	tsaE; tRNA threonylcarbamoyladenosine biosynthesis protein TsaE	162		
+tr|Q31QR7|Q31QR7_SYNE7	K02337	DPO3A1; DNA polymerase III subunit alpha [EC:2.7.7.7]	519		
+tr|Q31MU1|Q31MU1_SYNE7			245		
+tr|Q31N09|Q31N09_SYNE7			134		
+tr|Q31RS2|Q31RS2_SYNE7			114		
+tr|Q31M00|Q31M00_SYNE7	K16149	1	957		
+tr|Q31QM5|Q31QM5_SYNE7	K01647	CS; citrate synthase [EC:2.3.3.1]	619		
+tr|Q31R70|Q31R70_SYNE7			799		
+tr|Q31K50|Q31K50_SYNE7			206		
+tr|Q31NI4|Q31NI4_SYNE7			722		
+tr|Q31P43|Q31P43_SYNE7			126		
+tr|Q31S59|Q31S59_SYNE7			187		
+tr|Q31M11|Q31M11_SYNE7			246		
+tr|Q31KF3|Q31KF3_SYNE7	K07304	msrA; peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]	193		
+tr|Q31KH2|Q31KH2_SYNE7	K17244	chiE; putative chitobiose transport system substrate-binding protein	495		
+tr|Q31QV7|Q31QV7_SYNE7	K18979	queG; epoxyqueuosine reductase [EC:1.17.99.6]	406		
+tr|Q31P56|Q31P56_SYNE7			778	K06148	84
+tr|Q31K40|Q31K40_SYNE7			18	K01962	1
+tr|Q31RG3|Q31RG3_SYNE7	K03588	ftsW; cell division protein FtsW	349		
+tr|Q31PA6|Q31PA6_SYNE7	K19003	mgdA; 1,2-diacylglycerol 3-beta-glucosyltransferase [EC:2.4.1.336]	477		
+tr|Q31LG8|Q31LG8_SYNE7	K02652	pilB; type IV pilus assembly protein PilB	864		
+tr|Q31S17|Q31S17_SYNE7			186		
+tr|Q31Q56|Q31Q56_SYNE7	K01007	pps; pyruvate, water dikinase [EC:2.7.9.2]	1276		
+tr|Q31RN7|Q31RN7_SYNE7			110		
+tr|Q31PM4|Q31PM4_SYNE7	K01082	cysQ; 3'(2'), 5'-bisphosphate nucleotidase [EC:3.1.3.7]	275		
+tr|Q31P84|Q31P84_SYNE7	K03593	mrp; ATP-binding protein involved in chromosome partitioning	515		
+tr|Q31PQ1|Q31PQ1_SYNE7			128		
+tr|Q31LF6|Q31LF6_SYNE7	K05595	marC; multiple antibiotic resistance protein	82		
+tr|Q31LB4|Q31LB4_SYNE7			110		
+tr|Q31LY9|Q31LY9_SYNE7	K01494	dcd; dCTP deaminase [EC:3.5.4.13]	303		
+tr|Q31LL7|Q31LL7_SYNE7	K02600	nusA; N utilization substance protein A	584		
+tr|Q31NQ9|Q31NQ9_SYNE7			128		
+tr|Q31N70|Q31N70_SYNE7			134	K07242	44
+tr|Q31Q53|Q31Q53_SYNE7			16	K03724	2
+tr|Q31KY6|Q31KY6_SYNE7			491		
+tr|Q31RF8|Q31RF8_SYNE7			509		
+tr|Q31JY2|Q31JY2_SYNE7	K01142	E3.1.11.2; exodeoxyribonuclease III [EC:3.1.11.2]	332		
+tr|Q31KW9|Q31KW9_SYNE7			408		
+tr|Q31Q45|Q31Q45_SYNE7			218		
+tr|Q31NP5|Q31NP5_SYNE7			337	K08884	103
+tr|Q31S24|Q31S24_SYNE7			14	K02642	3
+tr|Q31PQ5|Q31PQ5_SYNE7			343		
+tr|Q31QL2|Q31QL2_SYNE7			782		
+tr|Q31NJ7|Q31NJ7_SYNE7	K01711	gmd; GDPmannose 4,6-dehydratase [EC:4.2.1.47]	598		
+tr|Q31KZ0|Q31KZ0_SYNE7	K01611	speD; S-adenosylmethionine decarboxylase [EC:4.1.1.50]	145		
+tr|Q31PK4|Q31PK4_SYNE7			483		
+tr|Q31R28|Q31R28_SYNE7	K00121	frmA; S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]	610		
+tr|Q31M08|Q31M08_SYNE7	K00278	nadB; L-aspartate oxidase [EC:1.4.3.16]	611		
+tr|Q31RE1|Q31RE1_SYNE7	K05810	yfiH; laccase domain-containing protein	245		
+tr|Q31M43|Q31M43_SYNE7	K12574	rnj; ribonuclease J [EC:3.1.-.-]	813		
+tr|Q31LY5|Q31LY5_SYNE7			310	K02022	34
+tr|Q31Q02|Q31Q02_SYNE7	K07123	uncharacterized protein	271		
+tr|Q31KC0|Q31KC0_SYNE7			116		
+tr|Q31KZ1|Q31KZ1_SYNE7	K03530	hupB; DNA-binding protein HU-beta	112		
+tr|Q31NZ0|Q31NZ0_SYNE7	K03437	spoU; RNA methyltransferase, TrmH family	266		
+tr|Q31PP8|Q31PP8_SYNE7	K06158	ABCF3; ATP-binding cassette, subfamily F, member 3	829		
+tr|Q31LG2|Q31LG2_SYNE7			169		
+tr|Q31NS7|Q31NS7_SYNE7	K07137	uncharacterized protein	808		
+tr|Q31L99|Q31L99_SYNE7	K01489	cdd; cytidine deaminase [EC:3.5.4.5]	130		
+tr|Q31P18|Q31P18_SYNE7	K06876	deoxyribodipyrimidine photolyase-related protein	593		
+tr|Q31M38|Q31M38_SYNE7	K00366	nirA; ferredoxin-nitrite reductase [EC:1.7.7.1]	244		
+tr|Q31S89|Q31S89_SYNE7			30	K02650	21
+tr|Q31Q15|Q31Q15_SYNE7	K02033	ABC.PE.P; peptide/nickel transport system permease protein	351		
+tr|Q31K62|Q31K62_SYNE7			229		
+tr|Q31LD7|Q31LD7_SYNE7			106		
+tr|Q31P16|Q31P16_SYNE7			306		
+tr|Q31JY6|Q31JY6_SYNE7	K02274	coxA; cytochrome c oxidase subunit I [EC:1.9.3.1]	832		
+tr|Q31R39|Q31R39_SYNE7			430		
+tr|Q31QF4|Q31QF4_SYNE7	K10716	kch; voltage-gated potassium channel	367		
+tr|Q31RK3|Q31RK3_SYNE7			129		
+tr|Q31PH5|Q31PH5_SYNE7					
+tr|Q31Q55|Q31Q55_SYNE7	K18890	mdlB; ATP-binding cassette, subfamily B, multidrug efflux pump	750		
+tr|Q31QQ1|Q31QQ1_SYNE7	K03651	icc; Icc protein	150		
+tr|Q31NH3|Q31NH3_SYNE7	K02548	menA; 1,4-dihydroxy-2-naphthoate octaprenyltransferase [EC:2.5.1.74 2.5.1.-]	314		
+tr|Q31KS9|Q31KS9_SYNE7			497		
+tr|Q31PR3|Q31PR3_SYNE7			106	K00156	4
+tr|Q31MG3|Q31MG3_SYNE7	K03101	lspA; signal peptidase II [EC:3.4.23.36]	166		
+tr|Q31P06|Q31P06_SYNE7			22	K01772	2
+tr|Q31P79|Q31P79_SYNE7			194	K02485	20
+tr|Q31S31|Q31S31_SYNE7	K00969	nadD; nicotinate-nucleotide adenylyltransferase [EC:2.7.7.18]	169		
+tr|Q31MB4|Q31MB4_SYNE7	K06217	phoH; phosphate starvation-inducible protein PhoH and related proteins	432		
+tr|Q31M06|Q31M06_SYNE7			270		
+tr|Q31NI0|Q31NI0_SYNE7	K00441	frhB; coenzyme F420 hydrogenase subunit beta [EC:1.12.98.1]	677		
+tr|Q31LE9|Q31LE9_SYNE7	K00003	E1.1.1.3; homoserine dehydrogenase [EC:1.1.1.3]	536		
+tr|Q31S26|Q31S26_SYNE7			650		
+tr|Q31KV4|Q31KV4_SYNE7	K00005	gldA; glycerol dehydrogenase [EC:1.1.1.6]	453		
+tr|Q31RI5|Q31RI5_SYNE7			554		
+tr|Q31K44|Q31K44_SYNE7	K00812	aspB; aspartate aminotransferase [EC:2.6.1.1]	536		
+tr|Q31QY5|Q31QY5_SYNE7			216		
+tr|Q31QR9|Q31QR9_SYNE7	K01485	codA; cytosine deaminase [EC:3.5.4.1]	413		
+tr|Q31Q07|Q31Q07_SYNE7	K01893	NARS; asparaginyl-tRNA synthetase [EC:6.1.1.22]	722		
+tr|Q31PP0|Q31PP0_SYNE7	K02025	ABC.MS.P; multiple sugar transport system permease protein	307		
+tr|Q31LU8|Q31LU8_SYNE7			350		
+tr|Q31PI1|Q31PI1_SYNE7	K01433	purU; formyltetrahydrofolate deformylase [EC:3.5.1.10]	447		
+tr|Q31N18|Q31N18_SYNE7	K03424	tatD; TatD DNase family protein [EC:3.1.21.-]	335		
+tr|Q31LB8|Q31LB8_SYNE7			178		
+tr|Q31ME2|Q31ME2_SYNE7	K07079	uncharacterized protein	508		
+tr|Q31R93|Q31R93_SYNE7	K00981	E2.7.7.41; phosphatidate cytidylyltransferase [EC:2.7.7.41]	364		
+tr|Q31Q85|Q31Q85_SYNE7			75		
+tr|Q31LB9|Q31LB9_SYNE7	K11145	ribonuclease III family protein [EC:3.1.26.-]	110		
+tr|Q31MH7|Q31MH7_SYNE7			134		
+tr|Q31MM4|Q31MM4_SYNE7			438		
+tr|Q31Q67|Q31Q67_SYNE7			471	K01081	53
+tr|Q31N62|Q31N62_SYNE7			614		
+tr|Q31RS1|Q31RS1_SYNE7			200	K00344	72
+tr|Q31LP4|Q31LP4_SYNE7	K11755	hisIE; phosphoribosyl-ATP pyrophosphohydrolase / phosphoribosyl-AMP cyclohydrolase [EC:3.6.1.31 3.5.4.19]	329		
+tr|Q31NT6|Q31NT6_SYNE7			35	K02407	1
+tr|Q31L46|Q31L46_SYNE7			507		
+tr|Q31QG2|Q31QG2_SYNE7			149		
+tr|Q31QF9|Q31QF9_SYNE7	K03684	rnd; ribonuclease D [EC:3.1.13.5]	272		
+tr|Q31N89|Q31N89_SYNE7	K02036	pstB; phosphate transport system ATP-binding protein [EC:3.6.3.27]	183		
+tr|Q31LV7|Q31LV7_SYNE7			191		
+tr|Q31K89|Q31K89_SYNE7			128	K07398	4
+tr|Q31NN1|Q31NN1_SYNE7	K01867	WARS; tryptophanyl-tRNA synthetase [EC:6.1.1.2]	536		
+tr|Q31LH9|Q31LH9_SYNE7	K06997	yggS; PLP dependent protein	242		
+tr|Q31P61|Q31P61_SYNE7			178		
+tr|Q31QT6|Q31QT6_SYNE7			135		
+tr|Q31QX2|Q31QX2_SYNE7	K09763	uncharacterized protein	120		
+tr|Q31RB8|Q31RB8_SYNE7	K00274	MAO; monoamine oxidase [EC:1.4.3.4]	372		
+tr|Q31PT0|Q31PT0_SYNE7	K13628	iscA; iron-sulfur cluster assembly protein	177		
+tr|Q31KQ0|Q31KQ0_SYNE7			439		
+tr|Q31NT7|Q31NT7_SYNE7			325		
+tr|Q31KH3|Q31KH3_SYNE7	K11329	rpaB; two-component system, OmpR family, response regulator RpaB	245		
+tr|Q31LF8|Q31LF8_SYNE7			504		
+tr|Q31QW6|Q31QW6_SYNE7			135		
+tr|Q31RU1|Q31RU1_SYNE7	K00464	diox1; all-trans-8'-apo-beta-carotenal 15,15'-oxygenase [EC:1.13.11.75]	616		
+tr|Q31L89|Q31L89_SYNE7	K01442	E3.5.1.24; choloylglycine hydrolase [EC:3.5.1.24]	498		
+tr|Q31MT4|Q31MT4_SYNE7			172		
+tr|Q31MT9|Q31MT9_SYNE7	K00988	APA1_2; ATP adenylyltransferase [EC:2.7.7.53]	202		
+tr|Q31PX6|Q31PX6_SYNE7	K06873	uncharacterized protein	386		
+tr|Q31K69|Q31K69_SYNE7	K06966	uncharacterized protein	141		
+tr|Q31M93|Q31M93_SYNE7			141		
+tr|Q31NL1|Q31NL1_SYNE7			109		
+tr|Q31QY7|Q31QY7_SYNE7			19	K01992	2
+tr|Q31PP4|Q31PP4_SYNE7			432		
+tr|Q31NM1|Q31NM1_SYNE7			213	K09819	78
+tr|Q31Q26|Q31Q26_SYNE7	K03316	TC.CPA1; monovalent cation:H+ antiporter, CPA1 family	616		
+tr|Q31NM8|Q31NM8_SYNE7			126		
+tr|Q31MH5|Q31MH5_SYNE7	K00641	metX; homoserine O-acetyltransferase [EC:2.3.1.31]	427		
+tr|Q31QD9|Q31QD9_SYNE7			173		
+tr|Q31QZ2|Q31QZ2_SYNE7			150		
+tr|Q31PM8|Q31PM8_SYNE7			270		
+tr|Q31K00|Q31K00_SYNE7	K05979	comB; 2-phosphosulfolactate phosphatase [EC:3.1.3.71]	308		
+tr|Q31S47|Q31S47_SYNE7	K07978	plmA; GntR family transcriptional regulator	362		
+tr|Q31PB7|Q31PB7_SYNE7	K00798	MMAB; cob(I)alamin adenosyltransferase [EC:2.5.1.17]	204		
+tr|Q31RA2|Q31RA2_SYNE7	K10960	chlP; geranylgeranyl reductase [EC:1.3.1.83]	688		
+tr|Q31MS1|Q31MS1_SYNE7	K06346	jag; spoIIIJ-associated protein	121		
+tr|Q31MQ3|Q31MQ3_SYNE7	K01724	PCBD; 4a-hydroxytetrahydrobiopterin dehydratase [EC:4.2.1.96]	116		
+tr|Q31MY2|Q31MY2_SYNE7					
+tr|Q31LI1|Q31LI1_SYNE7	K00286	proC; pyrroline-5-carboxylate reductase [EC:1.5.1.2]	285		
+tr|Q31LX7|Q31LX7_SYNE7	K02039	phoU; phosphate transport system protein	229		
+tr|Q31KG5|Q31KG5_SYNE7			147		
+tr|Q31RW6|Q31RW6_SYNE7	K01738	cysK; cysteine synthase A [EC:2.5.1.47]	534		
+tr|Q31RT5|Q31RT5_SYNE7	K00404	ccoN; cytochrome c oxidase cbb3-type subunit I [EC:1.9.3.1]	305		
+tr|Q31LH2|Q31LH2_SYNE7	K07007	uncharacterized protein	442		
+tr|Q31NF1|Q31NF1_SYNE7	K01674	cah; carbonic anhydrase [EC:4.2.1.1]	186		
+tr|Q31KR0|Q31KR0_SYNE7	K06885	uncharacterized protein	363		
+tr|Q31PH4|Q31PH4_SYNE7	K02660	pilJ; twitching motility protein PilJ	569		
+tr|Q31PN8|Q31PN8_SYNE7	K00767	nadC; nicotinate-nucleotide pyrophosphorylase (carboxylating) [EC:2.4.2.19]	345		
+tr|Q31NN9|Q31NN9_SYNE7	K01934	MTHFS; 5-formyltetrahydrofolate cyclo-ligase [EC:6.3.3.2]	168		
+tr|Q31MT7|Q31MT7_SYNE7	K02533	lasT; tRNA/rRNA methyltransferase [EC:2.1.1.-]	225		
+tr|Q31NC2|Q31NC2_SYNE7			267		
+tr|Q31LC4|Q31LC4_SYNE7			313		
+tr|Q31NC8|Q31NC8_SYNE7	K03800	lplA; lipoate---protein ligase [EC:6.3.1.20]	137		
+tr|Q31QQ7|Q31QQ7_SYNE7	K05515	mrdA; penicillin-binding protein 2	680		
+tr|Q31L87|Q31L87_SYNE7			34	K02005	4
+tr|Q31PC4|Q31PC4_SYNE7	K01153	hsdR; type I restriction enzyme, R subunit [EC:3.1.21.3]	1232		
+tr|Q31R03|Q31R03_SYNE7	K07052	uncharacterized protein	321		
+tr|Q31QI7|Q31QI7_SYNE7			186		
+tr|Q31Q10|Q31Q10_SYNE7	K02234	cobW; cobalamin biosynthesis protein CobW	433		
+tr|Q31Q90|Q31Q90_SYNE7	K06907	uncharacterized protein	377		
+tr|Q31KY7|Q31KY7_SYNE7	K01595	ppc; phosphoenolpyruvate carboxylase [EC:4.1.1.31]	1291		
+tr|Q31RM4|Q31RM4_SYNE7			351		
+tr|Q31N25|Q31N25_SYNE7	K06181	rluE; 23S rRNA pseudouridine2457 synthase [EC:5.4.99.20]	254		
+tr|Q31MX3|Q31MX3_SYNE7	K00937	ppk; polyphosphate kinase [EC:2.7.4.1]	900		
+tr|Q31NH8|Q31NH8_SYNE7			177		
+tr|Q31MN8|Q31MN8_SYNE7	K05946	E2.4.1.187; N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase [EC:2.4.1.187]	258		
+tr|Q31S22|Q31S22_SYNE7			181		
+tr|Q31QK8|Q31QK8_SYNE7			17	K00806	2
+tr|Q31QH3|Q31QH3_SYNE7			369		
+tr|Q31RR6|Q31RR6_SYNE7	K00845	glk; glucokinase [EC:2.7.1.2]	337		
+tr|Q31QI4|Q31QI4_SYNE7	K03768	PPIB; peptidyl-prolyl cis-trans isomerase B (cyclophilin B) [EC:5.2.1.8]	274		
+tr|Q31RW3|Q31RW3_SYNE7	K07056	rsmI; 16S rRNA (cytidine1402-2'-O)-methyltransferase [EC:2.1.1.198]	343		
+tr|Q31PF4|Q31PF4_SYNE7	K07395	putative proteasome-type protease	340		
+tr|Q31NW5|Q31NW5_SYNE7	K02005	ABC.CD.TX; HlyD family secretion protein	223		
+tr|Q31K80|Q31K80_SYNE7	K07025	putative hydrolase of the HAD superfamily	252		
+tr|Q31KJ7|Q31KJ7_SYNE7			264		
+tr|Q31PG0|Q31PG0_SYNE7	K00826	E2.6.1.42; branched-chain amino acid aminotransferase [EC:2.6.1.42]	464		
+tr|Q31NV6|Q31NV6_SYNE7			146		
+tr|Q31K56|Q31K56_SYNE7			134		
+tr|Q31MB1|Q31MB1_SYNE7			775		
+tr|Q31S13|Q31S13_SYNE7			200		
+tr|Q31KC3|Q31KC3_SYNE7			120	K02483	38
+tr|Q31RA9|Q31RA9_SYNE7	K02066	mlaE; phospholipid/cholesterol/gamma-HCH transport system permease protein	320		
+tr|Q31RX8|Q31RX8_SYNE7			147		
+tr|Q31SA9|Q31SA9_SYNE7			32	K19560	3
+tr|Q31RV8|Q31RV8_SYNE7	K06878	tRNA-binding protein	147		
+tr|Q31SB9|Q31SB9_SYNE7	K01879	glyS; glycyl-tRNA synthetase beta chain [EC:6.1.1.14]	836		
+tr|Q31P54|Q31P54_SYNE7			127	K07232	41
+tr|Q31PW2|Q31PW2_SYNE7			1265		
+tr|Q31NF3|Q31NF3_SYNE7	K19221	cobA; cob(I)alamin adenosyltransferase [EC:2.5.1.17]	601		
+tr|Q31PS9|Q31PS9_SYNE7			184		
+tr|Q31MR9|Q31MR9_SYNE7			716		
+tr|Q31PW6|Q31PW6_SYNE7			315		
+tr|Q31NI5|Q31NI5_SYNE7			296		
+tr|Q31K07|Q31K07_SYNE7	K01092	E3.1.3.25; myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25]	365		
+tr|Q31R75|Q31R75_SYNE7			108		
+tr|Q31RF7|Q31RF7_SYNE7	K02116	atpI; ATP synthase protein I	115		
+tr|Q31LX8|Q31LX8_SYNE7	K12573	rnr; ribonuclease R [EC:3.1.-.-]	646		
+tr|Q31K14|Q31K14_SYNE7			88	K09818	47
+tr|Q31S43|Q31S43_SYNE7	K02341	DPO3D2; DNA polymerase III subunit delta' [EC:2.7.7.7]	319		
+tr|Q31LP1|Q31LP1_SYNE7			139		
+tr|Q31R04|Q31R04_SYNE7			20	K00989	2
+tr|Q31Q34|Q31Q34_SYNE7	K01992	ABC-2.P; ABC-2 type transport system permease protein	363		
+tr|Q31QE3|Q31QE3_SYNE7	K02945	RP-S1; small subunit ribosomal protein S1	522		
+tr|Q31Q66|Q31Q66_SYNE7	K00799	GST; glutathione S-transferase [EC:2.5.1.18]	595		
+tr|Q31QT8|Q31QT8_SYNE7			287		
+tr|Q31L54|Q31L54_SYNE7			132		
+tr|Q31JU1|Q31JU1_SYNE7	K03733	xerC; integrase/recombinase XerC	66		
+tr|Q31K54|Q31K54_SYNE7			507		
+tr|Q31NK5|Q31NK5_SYNE7	K01665	pabB; para-aminobenzoate synthetase component I [EC:2.6.1.85]	363		
+tr|Q31P29|Q31P29_SYNE7			277		
+tr|Q31PH0|Q31PH0_SYNE7	K00705	malQ; 4-alpha-glucanotransferase [EC:2.4.1.25]	583		
+tr|Q31QU5|Q31QU5_SYNE7	K03644	lipA; lipoyl synthase [EC:2.8.1.8]	488		
+tr|Q31KP0|Q31KP0_SYNE7	K02669	pilT; twitching motility protein PilT	515		
+tr|Q31N82|Q31N82_SYNE7	K00655	plsC; 1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51]	306		
+tr|Q31R97|Q31R97_SYNE7	K07240	chrA; chromate transporter	248		
+tr|Q31S03|Q31S03_SYNE7			257		
+tr|Q31NJ4|Q31NJ4_SYNE7	K05578	ndhG; NAD(P)H-quinone oxidoreductase subunit 6 [EC:1.6.5.3]	240		
+tr|Q31KN3|Q31KN3_SYNE7			221		
+tr|Q31QJ5|Q31QJ5_SYNE7	K03564	BCP; peroxiredoxin Q/BCP [EC:1.11.1.15]	220		
+tr|Q31PD8|Q31PD8_SYNE7			15	K02641	14
+tr|Q31PL5|Q31PL5_SYNE7	K00012	UGDH; UDPglucose 6-dehydrogenase [EC:1.1.1.22]	85		
+tr|Q31KG8|Q31KG8_SYNE7	K07243	FTR; high-affinity iron transporter	252		
+tr|Q31L88|Q31L88_SYNE7	K00694	bcsA; cellulose synthase (UDP-forming) [EC:2.4.1.12]	507		
+tr|Q31MP9|Q31MP9_SYNE7	K06962	uncharacterized protein	193		
+tr|Q31MY6|Q31MY6_SYNE7	K07053	E3.1.3.97; 3',5'-nucleoside bisphosphate phosphatase [EC:3.1.3.97]	296		
+tr|Q31PW8|Q31PW8_SYNE7			125		
+tr|Q31N20|Q31N20_SYNE7	K00013	hisD; histidinol dehydrogenase [EC:1.1.1.23]	645		
+tr|Q31S91|Q31S91_SYNE7			383		
+tr|Q31RM1|Q31RM1_SYNE7			147		
+tr|Q31QP8|Q31QP8_SYNE7	K06940	uncharacterized protein	188		
+tr|Q31KW7|Q31KW7_SYNE7	K00950	folK; 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase [EC:2.7.6.3]	165		
+tr|Q31QT2|Q31QT2_SYNE7	K07043	uncharacterized protein	218		
+tr|Q31NT4|Q31NT4_SYNE7	K11325	L-cysteine/cystine lyase	392		
+tr|Q31RM3|Q31RM3_SYNE7	K00806	uppS; undecaprenyl diphosphate synthase [EC:2.5.1.31]	365		
+tr|Q31SC1|Q31SC1_SYNE7			133		
+tr|Q31RG1|Q31RG1_SYNE7	K02093	apcB; allophycocyanin beta subunit	285		
+tr|Q31RB7|Q31RB7_SYNE7	K01740	metY; O-acetylhomoserine (thiol)-lyase [EC:2.5.1.49]	540		
+tr|Q31S11|Q31S11_SYNE7	K00208	fabI; enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]	407		
+tr|Q31LW0|Q31LW0_SYNE7	K04487	iscS; cysteine desulfurase [EC:2.8.1.7]	424		
+tr|Q31LL3|Q31LL3_SYNE7	K03606	wcaJ; putative colanic acid biosysnthesis UDP-glucose lipid carrier transferase	435		
+tr|Q31KC7|Q31KC7_SYNE7			372	K00854	41
+tr|Q31PQ0|Q31PQ0_SYNE7	K00860	cysC; adenylylsulfate kinase [EC:2.7.1.25]	279		
+tr|Q31K31|Q31K31_SYNE7	K04487	iscS; cysteine desulfurase [EC:2.8.1.7]	455		
+tr|Q31LM6|Q31LM6_SYNE7			180		
+tr|Q31PH9|Q31PH9_SYNE7	K06178	rluB; 23S rRNA pseudouridine2605 synthase [EC:5.4.99.22]	270	K06183	28
+tr|Q31LW8|Q31LW8_SYNE7			122		
+tr|Q31QP6|Q31QP6_SYNE7			117		
+tr|Q31RZ1|Q31RZ1_SYNE7			19	K01754	2
+tr|Q31QU2|Q31QU2_SYNE7			187		
+tr|Q31LQ4|Q31LQ4_SYNE7			342		
+tr|Q31S41|Q31S41_SYNE7			166		
+tr|Q31S38|Q31S38_SYNE7			134		
+tr|Q31SC9|Q31SC9_SYNE7			26	K10234	1
+tr|Q31L98|Q31L98_SYNE7			114		
+tr|Q31KV6|Q31KV6_SYNE7	K07150	uncharacterized protein	222		
+tr|Q31K13|Q31K13_SYNE7			480		
+tr|Q31K15|Q31K15_SYNE7					
+tr|Q31QN3|Q31QN3_SYNE7	K01783	rpe; ribulose-phosphate 3-epimerase [EC:5.1.3.1]	392		
+tr|Q31MJ9|Q31MJ9_SYNE7			16	K02982	4
+tr|Q31N29|Q31N29_SYNE7	K03090	SIG3.3.2; RNA polymerase sigma-B factor	288		
+tr|Q31LK6|Q31LK6_SYNE7			140		
+tr|Q31S34|Q31S34_SYNE7			73	K15502	4
+tr|Q31LG5|Q31LG5_SYNE7	K03686	dnaJ; molecular chaperone DnaJ	547		
+tr|Q31RP0|Q31RP0_SYNE7	K09970	aapQ; general L-amino acid transport system permease protein	308		
+tr|Q31QW4|Q31QW4_SYNE7			21	K13028	1
+tr|Q31LT1|Q31LT1_SYNE7	K07727	putative transcriptional regulator	39		
+tr|Q31RV9|Q31RV9_SYNE7	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	446		
+tr|Q31L57|Q31L57_SYNE7			18	K13688	2
+tr|Q31RD8|Q31RD8_SYNE7			122		
+tr|Q31S56|Q31S56_SYNE7	K14761	ybcJ; ribosome-associated protein	73		
+tr|Q31P30|Q31P30_SYNE7			193		
+tr|Q31PN1|Q31PN1_SYNE7	K11175	purN; phosphoribosylglycinamide formyltransferase 1 [EC:2.1.2.2]	250		
+tr|Q31MI1|Q31MI1_SYNE7	K01414	prlC; oligopeptidase A [EC:3.4.24.70]	751		
+tr|Q31NR6|Q31NR6_SYNE7	K17758	nnr; ADP-dependent NAD(P)H-hydrate dehydratase [EC:4.2.1.136]	465		
+	K17759	AIBP; NAD(P)H-hydrate epimerase [EC:5.1.99.6]			
+tr|Q31QR6|Q31QR6_SYNE7	K03292	TC.GPH; glycoside/pentoside/hexuronide:cation symporter, GPH family	515		
+tr|Q31PG8|Q31PG8_SYNE7	K01911	menE; O-succinylbenzoic acid--CoA ligase [EC:6.2.1.26]	270		
+tr|Q31LA1|Q31LA1_SYNE7			104		
+tr|Q31S44|Q31S44_SYNE7	K00943	tmk; dTMP kinase [EC:2.7.4.9]	211		
+tr|Q31RD3|Q31RD3_SYNE7	K05349	bglX; beta-glucosidase [EC:3.2.1.21]	510		
+tr|Q31ND0|Q31ND0_SYNE7	K02012	afuA; iron(III) transport system substrate-binding protein	378		
+tr|Q31QF7|Q31QF7_SYNE7			288		
+tr|Q31LR7|Q31LR7_SYNE7			315		
+tr|Q31LR8|Q31LR8_SYNE7			372		
+tr|Q31L95|Q31L95_SYNE7			121	K01174	12
+tr|Q31S57|Q31S57_SYNE7	K02004	ABC.CD.P; putative ABC transport system permease protein	503		
+tr|Q31R11|Q31R11_SYNE7	K06891	clpS; ATP-dependent Clp protease adaptor protein ClpS	149		
+tr|Q31NF2|Q31NF2_SYNE7	K06864	uncharacterized protein	354		
+tr|Q31KF8|Q31KF8_SYNE7			637		
+tr|Q31KE3|Q31KE3_SYNE7	K01265	map; methionyl aminopeptidase [EC:3.4.11.18]	441		
+tr|Q31QD1|Q31QD1_SYNE7	K02191	cbiT; cobalt-precorrin-6B (C15)-methyltransferase [EC:2.1.1.196]	213	K00595	54
+tr|Q31MC2|Q31MC2_SYNE7	K00425	cydA; cytochrome d ubiquinol oxidase subunit I [EC:1.10.3.14]	701		
+tr|Q31K08|Q31K08_SYNE7	K02639	petF; ferredoxin	180		
+tr|Q31MC7|Q31MC7_SYNE7	K08226	pucC; MFS transporter, BCD family, chlorophyll transporter	525		
+tr|Q31NN8|Q31NN8_SYNE7	K03654	recQ; ATP-dependent DNA helicase RecQ [EC:3.6.4.12]	437		
+tr|Q31QJ9|Q31QJ9_SYNE7	K01759	GLO1; lactoylglutathione lyase [EC:4.4.1.5]	236		
+tr|Q31ME4|Q31ME4_SYNE7			201		
+tr|Q31NU6|Q31NU6_SYNE7			117	K01420	13
+tr|Q31PZ8|Q31PZ8_SYNE7			286		
+tr|Q31RJ0|Q31RJ0_SYNE7	K03798	ftsH; cell division protease FtsH [EC:3.4.24.-]	997		
+tr|Q31MF5|Q31MF5_SYNE7	K17892	FTRC; ferredoxin-thioredoxin reductase catalytic chain [EC:1.8.7.2]	191		
+tr|Q31PA2|Q31PA2_SYNE7			338		
+tr|Q31QR0|Q31QR0_SYNE7			64		
+tr|Q31M04|Q31M04_SYNE7			269		
+tr|Q31P58|Q31P58_SYNE7			116		
+tr|Q31S88|Q31S88_SYNE7	K02650	pilA; type IV pilus assembly protein PilA	27		
+tr|Q31P63|Q31P63_SYNE7	K09690	ABC-2.LPSE.P; lipopolysaccharide transport system permease protein	267		
+tr|Q31N69|Q31N69_SYNE7	K05571	mnhG; multicomponent Na+:H+ antiporter subunit G	103		
+tr|Q31N72|Q31N72_SYNE7	K03686	dnaJ; molecular chaperone DnaJ	169		
+tr|Q31P48|Q31P48_SYNE7			262		
+tr|Q31S50|Q31S50_SYNE7			480		
+tr|Q31LW6|Q31LW6_SYNE7	K03088	SIG3.2; RNA polymerase sigma-70 factor, ECF subfamily	296		
+tr|Q31S29|Q31S29_SYNE7			135		
+tr|Q31P20|Q31P20_SYNE7	K02035	ABC.PE.S; peptide/nickel transport system substrate-binding protein	640		
+tr|Q31KV1|Q31KV1_SYNE7	K03270	kdsC; 3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (KDO 8-P phosphatase) [EC:3.1.3.45]	151		
+tr|Q31PX1|Q31PX1_SYNE7			701		
+tr|Q31N94|Q31N94_SYNE7			29	K00566	3
+tr|Q31MV1|Q31MV1_SYNE7	K03281	TC.CIC; chloride channel protein, CIC family	538		
+tr|Q31MS2|Q31MS2_SYNE7	K03217	yidC; YidC/Oxa1 family membrane protein insertase	482		
+tr|Q31KX8|Q31KX8_SYNE7	K03926	cutA; periplasmic divalent cation tolerance protein	73		
+tr|Q31NT2|Q31NT2_SYNE7			476		
+tr|Q31LQ3|Q31LQ3_SYNE7			384	K07263	85
+tr|Q31M64|Q31M64_SYNE7	K00995	pgsA; CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase [EC:2.7.8.5]	160		
+tr|Q31M12|Q31M12_SYNE7			412		
+tr|Q31KY4|Q31KY4_SYNE7			163		
+tr|Q31NS2|Q31NS2_SYNE7			117		
+tr|Q31LZ6|Q31LZ6_SYNE7	K11957	natA; neutral amino acid transport system ATP-binding protein	353		
+tr|Q31PU1|Q31PU1_SYNE7			162		
+tr|Q31M79|Q31M79_SYNE7			658		
+tr|Q31RG4|Q31RG4_SYNE7	K06196	ccdA; cytochrome c-type biogenesis protein	237		
+tr|Q31LE1|Q31LE1_SYNE7	K01790	rfbC; dTDP-4-dehydrorhamnose 3,5-epimerase [EC:5.1.3.13]	258		
+tr|Q31Q75|Q31Q75_SYNE7			109		
+tr|Q31MZ0|Q31MZ0_SYNE7	K03503	DPO5D; DNA polymerase V [EC:3.4.21.-]	180		
+tr|Q31Q46|Q31Q46_SYNE7	K00974	cca; tRNA nucleotidyltransferase (CCA-adding enzyme) [EC:2.7.7.72 3.1.3.- 3.1.4.-]	299		
+tr|Q31PC7|Q31PC7_SYNE7			77		
+tr|Q31Q30|Q31Q30_SYNE7			260		
+tr|Q31S55|Q31S55_SYNE7	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	729		
+tr|Q31PI3|Q31PI3_SYNE7			181		
+tr|Q31RL2|Q31RL2_SYNE7			113		
+tr|Q31RX1|Q31RX1_SYNE7	K01424	E3.5.1.1; L-asparaginase [EC:3.5.1.1]	429		
+tr|Q31MH2|Q31MH2_SYNE7	K11473	glcF; glycolate oxidase iron-sulfur subunit	511		
+tr|Q31K53|Q31K53_SYNE7			119		
+tr|Q31RU2|Q31RU2_SYNE7			143		
+tr|Q31JZ7|Q31JZ7_SYNE7	K00762	pyrE; orotate phosphoribosyltransferase [EC:2.4.2.10]	248		
+tr|Q31RC5|Q31RC5_SYNE7			220		
+tr|Q31QU4|Q31QU4_SYNE7			201		
+tr|Q31KU2|Q31KU2_SYNE7	K00616	E2.2.1.2; transaldolase [EC:2.2.1.2]	546		
+tr|Q31RY2|Q31RY2_SYNE7			18	K01580	2
+tr|Q31P59|Q31P59_SYNE7			242	K01090	105
+tr|Q31KT3|Q31KT3_SYNE7			132	K05516	5
+tr|Q31NK0|Q31NK0_SYNE7			68		
+tr|Q31Q13|Q31Q13_SYNE7	K14205	mprF; phosphatidylglycerol lysyltransferase [EC:2.3.2.3]	498		
+tr|Q31MT6|Q31MT6_SYNE7	K17836	penP; beta-lactamase class A [EC:3.5.2.6]	290		
+tr|Q31KK6|Q31KK6_SYNE7			472		
+tr|Q31QE5|Q31QE5_SYNE7			21	K03315	1
+tr|Q31KC8|Q31KC8_SYNE7	K10536	aguA; agmatine deiminase [EC:3.5.3.12]	218		
+tr|Q31JZ5|Q31JZ5_SYNE7			22	K16324	3
+tr|Q31QA1|Q31QA1_SYNE7			20	K01912	2
+tr|Q31S08|Q31S08_SYNE7			160		
+tr|Q31L85|Q31L85_SYNE7			15	K00721	1
+tr|Q31M23|Q31M23_SYNE7			86		
+tr|Q31KW0|Q31KW0_SYNE7	K03320	amt; ammonium transporter, Amt family	400		
+tr|Q31RY9|Q31RY9_SYNE7	K07028	uncharacterized protein	592		
+tr|Q31LI7|Q31LI7_SYNE7	K02034	ABC.PE.P1; peptide/nickel transport system permease protein	373		
+tr|Q31LY4|Q31LY4_SYNE7	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	938		
+tr|Q31L92|Q31L92_SYNE7			32	K07065	17
+tr|Q31RY3|Q31RY3_SYNE7			188		
+tr|Q31PF8|Q31PF8_SYNE7			21	K02015	1
+tr|Q31L75|Q31L75_SYNE7			563		
+tr|Q31KE5|Q31KE5_SYNE7	K02040	pstS; phosphate transport system substrate-binding protein	365		
+tr|Q31LM0|Q31LM0_SYNE7			172		
+tr|Q31L53|Q31L53_SYNE7			651		
+tr|Q31NW0|Q31NW0_SYNE7	K05936	cobM; precorrin-4/cobalt-precorrin-4 C11-methyltransferase [EC:2.1.1.133 2.1.1.271]	302		
+tr|Q31QW1|Q31QW1_SYNE7	K17245	chiF; putative chitobiose transport system permease protein	386		
+tr|Q31Q38|Q31Q38_SYNE7			895		
+tr|Q31RE9|Q31RE9_SYNE7	K02639	petF; ferredoxin	132		
+tr|Q31QX9|Q31QX9_SYNE7			430		
+tr|Q31RA1|Q31RA1_SYNE7			558		
+tr|Q31QW3|Q31QW3_SYNE7			115		
+tr|Q31R29|Q31R29_SYNE7	K01070	frmB; S-formylglutathione hydrolase [EC:3.1.2.12]	343		
+tr|Q31MJ8|Q31MJ8_SYNE7	K07112	uncharacterized protein	242		
+tr|Q31LR6|Q31LR6_SYNE7	K00966	GMPP; mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]	650		
+tr|Q31K34|Q31K34_SYNE7	K00436	hoxH; NAD-reducing hydrogenase large subunit [EC:1.12.1.2]	728		
+tr|Q31L79|Q31L79_SYNE7	K00830	AGXT; alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase [EC:2.6.1.44 2.6.1.45 2.6.1.51]	577		
+tr|Q31QT3|Q31QT3_SYNE7	K06942	ychF; ribosome-binding ATPase	546		
+tr|Q31LA8|Q31LA8_SYNE7	K08309	slt; soluble lytic murein transglycosylase [EC:3.2.1.-]	372		
+tr|Q31P44|Q31P44_SYNE7	K07390	grxD; monothiol glutaredoxin	184		
+tr|Q31JY7|Q31JY7_SYNE7	K02275	coxB; cytochrome c oxidase subunit II [EC:1.9.3.1]	314		
+tr|Q31NW2|Q31NW2_SYNE7	K03630	radC; DNA repair protein RadC	287		
+tr|Q31NZ6|Q31NZ6_SYNE7			241		
+tr|Q31QD0|Q31QD0_SYNE7			440		
+tr|Q31LN8|Q31LN8_SYNE7	K03610	minC; septum site-determining protein MinC	183		
+tr|Q31P31|Q31P31_SYNE7			806		
+tr|Q31NS9|Q31NS9_SYNE7			253		
+tr|Q31QJ0|Q31QJ0_SYNE7			193		
+tr|Q31QS9|Q31QS9_SYNE7			183		
+tr|Q31L50|Q31L50_SYNE7			22	K18902	1
+tr|Q31JY5|Q31JY5_SYNE7	K02276	coxC; cytochrome c oxidase subunit III [EC:1.9.3.1]	240		
+tr|Q31PL1|Q31PL1_SYNE7	K02641	petH; ferredoxin--NADP+ reductase [EC:1.18.1.2]	548		
+tr|Q31R87|Q31R87_SYNE7	K01658	trpG; anthranilate synthase component II [EC:4.1.3.27]	318		
+tr|Q31NT9|Q31NT9_SYNE7	K02694	psaF; photosystem I subunit III	211		
+tr|Q31L59|Q31L59_SYNE7	K03564	BCP; peroxiredoxin Q/BCP [EC:1.11.1.15]	212		
+tr|Q31MI9|Q31MI9_SYNE7	K02377	TSTA3; GDP-L-fucose synthase [EC:1.1.1.271]	418		
+tr|Q31L45|Q31L45_SYNE7			33	K11961	3
+tr|Q31MF3|Q31MF3_SYNE7	K09013	sufC; Fe-S cluster assembly ATP-binding protein	395		
+tr|Q31QQ0|Q31QQ0_SYNE7	K01873	VARS; valyl-tRNA synthetase [EC:6.1.1.9]	1312		
+tr|Q31NS0|Q31NS0_SYNE7	K06213	mgtE; magnesium transporter	587		
+tr|Q31QE9|Q31QE9_SYNE7			48	K03892	34
+tr|Q31P70|Q31P70_SYNE7			265		
+tr|Q31PR1|Q31PR1_SYNE7	K07277	SAM50; outer membrane protein insertion porin family	593		
+tr|Q31RM5|Q31RM5_SYNE7	K01586	lysA; diaminopimelate decarboxylase [EC:4.1.1.20]	600		
+tr|Q31NR4|Q31NR4_SYNE7			305		
+tr|Q31PC5|Q31PC5_SYNE7	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	343		
+tr|Q31RZ5|Q31RZ5_SYNE7	K03072	secD; preprotein translocase subunit SecD	588		
+tr|Q31PQ4|Q31PQ4_SYNE7	K07090	uncharacterized protein	230		
+tr|Q31LF2|Q31LF2_SYNE7	K02500	hisF; cyclase [EC:4.1.3.-]	407		
+tr|Q31QT1|Q31QT1_SYNE7			313		
+tr|Q31M98|Q31M98_SYNE7			440		
+tr|Q31P74|Q31P74_SYNE7			151		
+tr|Q31KU7|Q31KU7_SYNE7			165	K00241	4
+tr|Q31L51|Q31L51_SYNE7	K02552	menF; menaquinone-specific isochorismate synthase [EC:5.4.4.2]	307		
+tr|Q31KG4|Q31KG4_SYNE7			399		
+tr|Q31M41|Q31M41_SYNE7	K00133	asd; aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]	489		
+tr|Q31R09|Q31R09_SYNE7	K03100	lepB; signal peptidase I [EC:3.4.21.89]	232		
+tr|Q31PF6|Q31PF6_SYNE7			428		
+tr|Q31JX7|Q31JX7_SYNE7	K01733	thrC; threonine synthase [EC:4.2.3.1]	549		
+tr|Q31LD0|Q31LD0_SYNE7	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	756		
+tr|Q31R45|Q31R45_SYNE7	K03320	amt; ammonium transporter, Amt family	536		
+tr|Q31KI7|Q31KI7_SYNE7			401	K10536	43
+tr|Q31RG0|Q31RG0_SYNE7	K02092	apcA; allophycocyanin alpha subunit	274		
+tr|Q31PE3|Q31PE3_SYNE7			23	K03561	1
+tr|Q31ND7|Q31ND7_SYNE7			448		
+tr|Q31LR2|Q31LR2_SYNE7	K05577	ndhF; NAD(P)H-quinone oxidoreductase subunit 5 [EC:1.6.5.3]	931		
+tr|Q31KF6|Q31KF6_SYNE7			257		
+tr|Q31S27|Q31S27_SYNE7			105	K15546	4
+tr|Q31S49|Q31S49_SYNE7			279		
+tr|Q31P98|Q31P98_SYNE7			334		
+tr|Q31MK1|Q31MK1_SYNE7	K02047	cysW; sulfate transport system permease protein	307		
+tr|Q31M80|Q31M80_SYNE7			793		
+tr|Q31NL3|Q31NL3_SYNE7	K03723	mfd; transcription-repair coupling factor (superfamily II helicase) [EC:3.6.4.-]	1603		
+tr|Q31LF1|Q31LF1_SYNE7			68		
+tr|Q31NJ2|Q31NJ2_SYNE7	K03778	ldhA; D-lactate dehydrogenase [EC:1.1.1.28]	452		
+tr|Q31S30|Q31S30_SYNE7	K06883	uncharacterized protein	419		
+tr|Q31S69|Q31S69_SYNE7	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	331		
+tr|Q31RV6|Q31RV6_SYNE7			490		
+tr|Q31RT8|Q31RT8_SYNE7			234		
+tr|Q31ML1|Q31ML1_SYNE7			146		
+tr|Q31Q50|Q31Q50_SYNE7			345	K01078	36
+tr|Q31M28|Q31M28_SYNE7	K11954	natB; neutral amino acid transport system substrate-binding protein	378	K01999	44
+tr|Q31PM7|Q31PM7_SYNE7	K03500	rsmB; 16S rRNA (cytosine967-C5)-methyltransferase [EC:2.1.1.176]	505		
+tr|Q31RZ8|Q31RZ8_SYNE7	K01652	E2.2.1.6L; acetolactate synthase I/II/III large subunit [EC:2.2.1.6]	935		
+tr|Q31PP7|Q31PP7_SYNE7	K03798	ftsH; cell division protease FtsH [EC:3.4.24.-]	1038		
+tr|Q31KL7|Q31KL7_SYNE7			430		
+tr|Q31MJ1|Q31MJ1_SYNE7			128		
+tr|Q31RT9|Q31RT9_SYNE7	K03885	ndh; NADH dehydrogenase [EC:1.6.99.3]	357		
+tr|Q31QG4|Q31QG4_SYNE7	K03575	mutY; A/G-specific adenine glycosylase [EC:3.2.2.-]	485		
+tr|Q31LY7|Q31LY7_SYNE7			330		
+tr|Q31KW8|Q31KW8_SYNE7	K01515	nudF; ADP-ribose pyrophosphatase [EC:3.6.1.13]	251		
+tr|Q31KR1|Q31KR1_SYNE7			235	K12600	19
+tr|Q31NY6|Q31NY6_SYNE7			135		
+tr|Q31S75|Q31S75_SYNE7	K00978	rfbF; glucose-1-phosphate cytidylyltransferase [EC:2.7.7.33]	397		
+tr|Q31KF2|Q31KF2_SYNE7	K01870	IARS; isoleucyl-tRNA synthetase [EC:6.1.1.5]	1404		
+tr|Q31S42|Q31S42_SYNE7	K10697	rpaA; two-component system, OmpR family, response regulator RpaA	439		
+tr|Q31PC8|Q31PC8_SYNE7			311		
+tr|Q31MP2|Q31MP2_SYNE7			274		
+tr|Q31N98|Q31N98_SYNE7	K02227	cbiB; adenosylcobinamide-phosphate synthase [EC:6.3.1.10]	347		
+tr|Q31N00|Q31N00_SYNE7			88		
+tr|Q31RP4|Q31RP4_SYNE7			76		
+tr|Q31PZ9|Q31PZ9_SYNE7	K01502	E3.5.5.7; aliphatic nitrilase [EC:3.5.5.7]	350	K01501	65
+tr|Q31RD4|Q31RD4_SYNE7	K03453	TC.BASS; bile acid:Na+ symporter, BASS family	292		
+tr|Q31L44|Q31L44_SYNE7			104	K01768	64
+tr|Q31PS5|Q31PS5_SYNE7	K06169	miaE; tRNA-(ms[2]io[6]A)-hydroxylase [EC:1.-.-.-]	255		
+tr|Q31QB0|Q31QB0_SYNE7	K06919	putative DNA primase/helicase	187		
+tr|Q31QQ3|Q31QQ3_SYNE7	K01807	rpiA; ribose 5-phosphate isomerase A [EC:5.3.1.6]	331		
+tr|Q31NQ1|Q31NQ1_SYNE7			127		
+tr|Q31PK3|Q31PK3_SYNE7			495		
+tr|Q31NT1|Q31NT1_SYNE7			161		
+tr|Q31NG7|Q31NG7_SYNE7	K00548	metH; 5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]	1761		
+tr|Q31LI5|Q31LI5_SYNE7			403		
+tr|Q31KK0|Q31KK0_SYNE7			68	K05516	3
+tr|Q31R52|Q31R52_SYNE7			248		
+tr|Q31NC9|Q31NC9_SYNE7	K01649	leuA; 2-isopropylmalate synthase [EC:2.3.3.13]	849		
+tr|Q31N36|Q31N36_SYNE7			372		
+tr|Q31MJ5|Q31MJ5_SYNE7	K02469	gyrA; DNA gyrase subunit A [EC:5.99.1.3]	770		
+tr|Q31N42|Q31N42_SYNE7			228		
+tr|Q31LK3|Q31LK3_SYNE7			280		
+tr|Q31MF0|Q31MF0_SYNE7			165		
+tr|Q31LM8|Q31LM8_SYNE7	K00784	rnz; ribonuclease Z [EC:3.1.26.11]	465		
+tr|Q31RD7|Q31RD7_SYNE7	K02065	mlaF; phospholipid/cholesterol/gamma-HCH transport system ATP-binding protein	304		
+tr|Q31LZ5|Q31LZ5_SYNE7	K11955	natC; neutral amino acid transport system permease protein	380		
+tr|Q31KF9|Q31KF9_SYNE7	K00555	TRMT1; tRNA (guanine26-N2/guanine27-N2)-dimethyltransferase [EC:2.1.1.215 2.1.1.216]	286		
+tr|Q31QZ5|Q31QZ5_SYNE7	K11753	ribF; riboflavin kinase / FMN adenylyltransferase [EC:2.7.1.26 2.7.7.2]	299		
+tr|Q31Q57|Q31Q57_SYNE7			364		
+tr|Q31PP5|Q31PP5_SYNE7	K11754	folC; dihydrofolate synthase / folylpolyglutamate synthase [EC:6.3.2.12 6.3.2.17]	351		
+tr|Q31KI1|Q31KI1_SYNE7			176		
+tr|Q31KV7|Q31KV7_SYNE7			685		
+tr|Q31P22|Q31P22_SYNE7			231		
+tr|Q31NM0|Q31NM0_SYNE7	K02825	pyrR; pyrimidine operon attenuation protein / uracil phosphoribosyltransferase [EC:2.4.2.9]	215		
+tr|Q31K03|Q31K03_SYNE7	K00389	yidH; putative membrane protein	176		
+tr|Q31PB2|Q31PB2_SYNE7			157		
+tr|Q31P28|Q31P28_SYNE7	K09936	TC.BAT2; bacterial/archaeal transporter family-2 protein	130		
+tr|Q31NS6|Q31NS6_SYNE7	K07444	ypsC; putative N6-adenine-specific DNA methylase [EC:2.1.1.-]	491		
+tr|Q31S85|Q31S85_SYNE7			192		
+tr|Q31P76|Q31P76_SYNE7			334		
+tr|Q31Q99|Q31Q99_SYNE7			134		
+tr|Q31KK1|Q31KK1_SYNE7	K01569	oxdD; oxalate decarboxylase [EC:4.1.1.2]	371		
+tr|Q31Q00|Q31Q00_SYNE7			476		
+tr|Q31MN6|Q31MN6_SYNE7	K00005	gldA; glycerol dehydrogenase [EC:1.1.1.6]	267		
+tr|Q31MQ8|Q31MQ8_SYNE7			171		
+tr|Q31N23|Q31N23_SYNE7					
+tr|Q31MT0|Q31MT0_SYNE7			838	K00524	330
+tr|Q31LS1|Q31LS1_SYNE7			594		
+tr|Q31LB0|Q31LB0_SYNE7			218		
+tr|Q31K32|Q31K32_SYNE7	K05588	hoxU; bidirectional [NiFe] hydrogenase diaphorase subunit [EC:1.6.5.3]	373		
+tr|Q31PZ7|Q31PZ7_SYNE7	K07222	putative flavoprotein involved in K+ transport	523		
+tr|Q31NT5|Q31NT5_SYNE7			126		
+tr|Q31KQ9|Q31KQ9_SYNE7	K03797	E3.4.21.102; carboxyl-terminal processing protease [EC:3.4.21.102]	469		
+tr|Q31M84|Q31M84_SYNE7	K06133	LYS5; 4'-phosphopantetheinyl transferase [EC:2.7.8.-]	141		
+tr|Q31KD8|Q31KD8_SYNE7	K02664	pilO; type IV pilus assembly protein PilO	162		
+tr|Q31JT6|Q31JT6_SYNE7			340		
+tr|Q31M16|Q31M16_SYNE7			289	K02483	31
+tr|Q31MW5|Q31MW5_SYNE7			1035		
+tr|Q31LQ2|Q31LQ2_SYNE7			117		
+tr|Q31PI8|Q31PI8_SYNE7	K00928	lysC; aspartate kinase [EC:2.7.2.4]	690		
+tr|Q31LZ3|Q31LZ3_SYNE7	K00620	argJ; glutamate N-acetyltransferase / amino-acid N-acetyltransferase [EC:2.3.1.35 2.3.1.1]	580		
+tr|Q31PX0|Q31PX0_SYNE7			160		
+tr|Q31RQ0|Q31RQ0_SYNE7			124		
+tr|Q31SB4|Q31SB4_SYNE7	K07300	chaA; Ca2+:H+ antiporter	401		
+tr|Q31PA8|Q31PA8_SYNE7	K03499	trkA; trk system potassium uptake protein	249		
+tr|Q31PW1|Q31PW1_SYNE7	K08300	rne; ribonuclease E [EC:3.1.26.12]	693		
+tr|Q31PM6|Q31PM6_SYNE7	K07443	ybaZ; methylated-DNA-protein-cysteine methyltransferase related protein	133		
+tr|Q31RP3|Q31RP3_SYNE7	K00688	E2.4.1.1; starch phosphorylase [EC:2.4.1.1]	1094		
+tr|Q31QC0|Q31QC0_SYNE7	K01494	dcd; dCTP deaminase [EC:3.5.4.13]	98		
+tr|Q31KE1|Q31KE1_SYNE7	K03665	hflX; GTPase	698		
+tr|Q31NA7|Q31NA7_SYNE7	K14652	ribBA; 3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II [EC:4.1.99.12 3.5.4.25]	752		
+tr|Q31R02|Q31R02_SYNE7	K15634	gpmB; probable phosphoglycerate mutase [EC:5.4.2.12]	536		
+tr|Q31L48|Q31L48_SYNE7			17	K07090	3
+tr|Q31PT6|Q31PT6_SYNE7	K01682	acnB; aconitate hydratase 2 / 2-methylisocitrate dehydratase [EC:4.2.1.3 4.2.1.99]	1373		
+tr|Q31QI6|Q31QI6_SYNE7	K04066	priA; primosomal protein N' (replication factor Y) (superfamily II helicase) [EC:3.6.4.-]	801		
+tr|Q31PX9|Q31PX9_SYNE7			24	K03408	2
+tr|Q31P23|Q31P23_SYNE7			418		
+tr|Q31RR9|Q31RR9_SYNE7			58	K04039	9
+tr|Q31MG2|Q31MG2_SYNE7	K03523	bioY; biotin transport system substrate-specific component	152		
+tr|Q31PL3|Q31PL3_SYNE7	K00974	cca; tRNA nucleotidyltransferase (CCA-adding enzyme) [EC:2.7.7.72 3.1.3.- 3.1.4.-]	974		
+tr|Q31P69|Q31P69_SYNE7			63		
+tr|Q31PK6|Q31PK6_SYNE7	K01619	deoC; deoxyribose-phosphate aldolase [EC:4.1.2.4]	241		
+tr|Q31M69|Q31M69_SYNE7	K06890	uncharacterized protein	238		
+tr|Q31QN1|Q31QN1_SYNE7	K00684	aat; leucyl/phenylalanyl-tRNA--protein transferase [EC:2.3.2.6]	252		
+tr|Q31S71|Q31S71_SYNE7			383		
+tr|Q31KN4|Q31KN4_SYNE7			131		
+tr|Q31KL8|Q31KL8_SYNE7	K00677	lpxA; UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]	271		
+tr|Q31M09|Q31M09_SYNE7			15	K03654	2
+tr|Q31RJ1|Q31RJ1_SYNE7			234		
+tr|Q31LN6|Q31LN6_SYNE7			134		
+tr|Q31LM2|Q31LM2_SYNE7	K02221	yggT; YggT family protein	104		
+tr|Q31K04|Q31K04_SYNE7			184		
+tr|Q31NY1|Q31NY1_SYNE7	K19159	yefM; antitoxin YefM	125		
+tr|Q31PK9|Q31PK9_SYNE7			182		
+tr|Q31LD9|Q31LD9_SYNE7	K01710	E4.2.1.46; dTDP-glucose 4,6-dehydratase [EC:4.2.1.46]	476		
+tr|Q31QP0|Q31QP0_SYNE7	K01661	menB; naphthoate synthase [EC:4.1.3.36]	484		
+tr|Q31NN2|Q31NN2_SYNE7			333		
+tr|Q31LZ9|Q31LZ9_SYNE7			20	K03749	2
+tr|Q31LY3|Q31LY3_SYNE7			195		
+tr|Q31MH6|Q31MH6_SYNE7			386		
+tr|Q31RP2|Q31RP2_SYNE7	K00134	GAPDH; glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]	457		
+tr|Q31R95|Q31R95_SYNE7	K08304	mltA; membrane-bound lytic murein transglycosylase A	389		
+tr|Q31R13|Q31R13_SYNE7			20	K02276	2
+tr|Q31QD3|Q31QD3_SYNE7	K18234	vat; virginiamycin A acetyltransferase [EC:2.3.1.-]	343		
+tr|Q31K18|Q31K18_SYNE7			641	K05366	73
+tr|Q31LX2|Q31LX2_SYNE7			418		
+tr|Q31LU9|Q31LU9_SYNE7			498		
+tr|Q31NP2|Q31NP2_SYNE7	K00027	ME2; malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]	601		
+tr|Q31JZ2|Q31JZ2_SYNE7			168	K01768	19
+tr|Q31QC9|Q31QC9_SYNE7			730		
+tr|Q31R22|Q31R22_SYNE7			239		
+tr|Q31P99|Q31P99_SYNE7			359		
+tr|Q31N73|Q31N73_SYNE7	K01738	cysK; cysteine synthase A [EC:2.5.1.47]	466		
+tr|Q31N83|Q31N83_SYNE7	K00645	fabD; [acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39]	327		
+tr|Q31M22|Q31M22_SYNE7	K01669	phrB; deoxyribodipyrimidine photo-lyase [EC:4.1.99.3]	356		
+tr|Q31PP3|Q31PP3_SYNE7	K00274	MAO; monoamine oxidase [EC:1.4.3.4]	161	K01854	97
+tr|Q31NG2|Q31NG2_SYNE7	K00951	relA; GTP pyrophosphokinase [EC:2.7.6.5]	915	K01139	100
+tr|Q31QA6|Q31QA6_SYNE7			677		
+tr|Q31PN3|Q31PN3_SYNE7			508		
+tr|Q31NY4|Q31NY4_SYNE7	K07357	fimB; type 1 fimbriae regulatory protein FimB	20		
+tr|Q31RS0|Q31RS0_SYNE7			185	K01091	17
+tr|Q31RP7|Q31RP7_SYNE7	K02095	apcD; allophycocyanin-B	246		
+tr|Q31NL4|Q31NL4_SYNE7	K02314	dnaB; replicative DNA helicase [EC:3.6.4.12]	609		
+tr|Q31MA1|Q31MA1_SYNE7	K09800	tamB; translocation and assembly module TamB	746		
+tr|Q31LP6|Q31LP6_SYNE7	K08964	mtnB; methylthioribulose-1-phosphate dehydratase [EC:4.2.1.109]	144		
+tr|Q31NS8|Q31NS8_SYNE7	K01803	TPI; triosephosphate isomerase (TIM) [EC:5.3.1.1]	385		
+tr|Q31KM7|Q31KM7_SYNE7	K05356	SPS; all-trans-nonaprenyl-diphosphate synthase [EC:2.5.1.84 2.5.1.85]	449		
+tr|Q31P53|Q31P53_SYNE7	K01256	pepN; aminopeptidase N [EC:3.4.11.2]	1070		
+tr|Q31LN4|Q31LN4_SYNE7			157		
+tr|Q31RN0|Q31RN0_SYNE7			249		
+tr|Q31RK6|Q31RK6_SYNE7	K02851	wecA; UDP-GlcNAc:undecaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33]	183		
+tr|Q31QW0|Q31QW0_SYNE7			64	K03791	2
+tr|Q31S51|Q31S51_SYNE7	K02438	treX; glycogen operon protein [EC:3.2.1.-]	907		
+tr|Q31LX0|Q31LX0_SYNE7			24	K05896	6
+tr|Q31P41|Q31P41_SYNE7			330		
+tr|Q31PQ8|Q31PQ8_SYNE7	K00677	lpxA; UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]	348		
+tr|Q31PP6|Q31PP6_SYNE7	K00818	E2.6.1.11; acetylornithine aminotransferase [EC:2.6.1.11]	576		
+tr|Q31NQ2|Q31NQ2_SYNE7			300		
+tr|Q31QD5|Q31QD5_SYNE7	K09134	flA; adenosyl-fluoride synthase [EC:2.5.1.63]	287		
+tr|Q31MR7|Q31MR7_SYNE7	K08303	putative protease [EC:3.4.-.-]	983		
+tr|Q31SA4|Q31SA4_SYNE7	K07075	uncharacterized protein	136		
+tr|Q31RB4|Q31RB4_SYNE7			329		
+tr|Q31P17|Q31P17_SYNE7	K03820	lnt; apolipoprotein N-acyltransferase [EC:2.3.1.-]	342		
+tr|Q31PG1|Q31PG1_SYNE7			373		
+tr|Q31S39|Q31S39_SYNE7	K00873	PK; pyruvate kinase [EC:2.7.1.40]	887		
+tr|Q31PF2|Q31PF2_SYNE7	K01585	speA; arginine decarboxylase [EC:4.1.1.19]	941		
+tr|Q31M48|Q31M48_SYNE7	K01929	murF; UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase [EC:6.3.2.10]	452		
+tr|Q31R14|Q31R14_SYNE7	K10680	nemA; N-ethylmaleimide reductase [EC:1.-.-.-]	490		
+tr|Q31S72|Q31S72_SYNE7	K02520	infC; translation initiation factor IF-3	291		
+tr|Q31S84|Q31S84_SYNE7			186		
+tr|Q31RL1|Q31RL1_SYNE7	K00104	glcD; glycolate oxidase [EC:1.1.3.15]	655		
+tr|Q31LH5|Q31LH5_SYNE7	K01889	FARSA; phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]	490		
+tr|Q31MR6|Q31MR6_SYNE7			22	K08223	1
+tr|Q31N56|Q31N56_SYNE7			151		
+tr|Q31LY8|Q31LY8_SYNE7			622		
+tr|Q31PA9|Q31PA9_SYNE7	K03498	trkH; trk system potassium uptake protein	481		
+tr|Q31KY8|Q31KY8_SYNE7			112		
+tr|Q31R82|Q31R82_SYNE7	K02340	DPO3D1; DNA polymerase III subunit delta [EC:2.7.7.7]	358		
+tr|Q31QZ3|Q31QZ3_SYNE7			130		
+tr|Q31LV4|Q31LV4_SYNE7	K02654	pilD; leader peptidase (prepilin peptidase) / N-methyltransferase [EC:3.4.23.43 2.1.1.-]	197		
+tr|Q31LS4|Q31LS4_SYNE7	K01524	ppx-gppA; exopolyphosphatase / guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase [EC:3.6.1.11 3.6.1.40]	622		
+tr|Q31MJ6|Q31MJ6_SYNE7			145		
+tr|Q31QS3|Q31QS3_SYNE7	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	305		
+tr|Q31NI7|Q31NI7_SYNE7	K01895	ACSS; acetyl-CoA synthetase [EC:6.2.1.1]	1135		
+tr|Q31NC6|Q31NC6_SYNE7	K07090	uncharacterized protein	173		
+tr|Q31NF7|Q31NF7_SYNE7			611		
+tr|Q31PZ6|Q31PZ6_SYNE7	K00383	GSR; glutathione reductase (NADPH) [EC:1.8.1.7]	542		
+tr|Q31M17|Q31M17_SYNE7			490		
+tr|Q31KY3|Q31KY3_SYNE7			63	K15342	2
+tr|Q31LL4|Q31LL4_SYNE7			446		
+tr|Q31ND8|Q31ND8_SYNE7			170		
+tr|Q31KZ3|Q31KZ3_SYNE7			469		
+tr|Q31KF0|Q31KF0_SYNE7	K02294	crtR; beta-carotene hydroxylase [EC:1.14.13.-]	454		
+tr|Q31RR5|Q31RR5_SYNE7			278		
+tr|Q31RC8|Q31RC8_SYNE7			403		
+tr|Q31M13|Q31M13_SYNE7			33	K14266	3
+tr|Q31LC7|Q31LC7_SYNE7	K01935	bioD; dethiobiotin synthetase [EC:6.3.3.3]	69		
+tr|Q31QX7|Q31QX7_SYNE7	K08966	mtnX; 2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phosphatase [EC:3.1.3.87]	218		
+tr|Q31K37|Q31K37_SYNE7	K04652	hypB; hydrogenase nickel incorporation protein HypB	243		
+tr|Q31KF7|Q31KF7_SYNE7			236		
+tr|Q31L03|Q31L03_SYNE7	K02031	ABC.PE.A; peptide/nickel transport system ATP-binding protein	506		
+	K02032	ABC.PE.A1; peptide/nickel transport system ATP-binding protein			
+tr|Q31RU6|Q31RU6_SYNE7			524		
+tr|Q31Q22|Q31Q22_SYNE7	K11958	natE; neutral amino acid transport system ATP-binding protein	296		
+tr|Q31NY5|Q31NY5_SYNE7			79		
+tr|Q31LQ0|Q31LQ0_SYNE7			392		
+tr|Q31PF0|Q31PF0_SYNE7	K09958	uncharacterized protein	263		
+tr|Q31LN3|Q31LN3_SYNE7			147		
+tr|Q31RE7|Q31RE7_SYNE7	K07052	uncharacterized protein	196		
+tr|Q31QY8|Q31QY8_SYNE7			357		
+tr|Q31ML2|Q31ML2_SYNE7			323		
+tr|Q31NS4|Q31NS4_SYNE7	K03499	trkA; trk system potassium uptake protein	286		
+tr|Q31MP1|Q31MP1_SYNE7	K09825	perR; Fur family transcriptional regulator, peroxide stress response regulator	143		
+tr|Q31RU9|Q31RU9_SYNE7			352		
+tr|Q31Q58|Q31Q58_SYNE7	K07037	uncharacterized protein	635		
+tr|Q31MA0|Q31MA0_SYNE7	K05516	cbpA; curved DNA-binding protein	371		
+tr|Q31KY1|Q31KY1_SYNE7	K00835	avtA; valine--pyruvate aminotransferase [EC:2.6.1.66]	619		
+tr|Q31QZ1|Q31QZ1_SYNE7			241		
+tr|Q31QV8|Q31QV8_SYNE7	K01057	PGLS; 6-phosphogluconolactonase [EC:3.1.1.31]	246		
+tr|Q31PH3|Q31PH3_SYNE7	K02659	pilI; twitching motility protein PilI	137		
+tr|Q31PQ7|Q31PQ7_SYNE7	K00748	lpxB; lipid-A-disaccharide synthase [EC:2.4.1.182]	413		
+tr|Q31PK7|Q31PK7_SYNE7			160		
+tr|Q31KT9|Q31KT9_SYNE7			148		
+tr|Q31MZ1|Q31MZ1_SYNE7			385		
+tr|Q31KJ8|Q31KJ8_SYNE7			288		
+tr|Q31LA4|Q31LA4_SYNE7			198		
+tr|Q31M88|Q31M88_SYNE7			217		
+tr|Q31QM6|Q31QM6_SYNE7	K07456	mutS2; DNA mismatch repair protein MutS2	820		
+tr|Q31ME0|Q31ME0_SYNE7	K05337	fer; ferredoxin	168		
+tr|Q31P75|Q31P75_SYNE7	K14540	rbgA; ribosome biogenesis GTPase A	347		
+tr|Q31PV0|Q31PV0_SYNE7			468		
+tr|Q31RZ9|Q31RZ9_SYNE7			200		
+tr|Q31SC0|Q31SC0_SYNE7	K01625	eda; 2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase [EC:4.1.2.14 4.1.3.42]	173		
+tr|Q31QG3|Q31QG3_SYNE7	K00228	CPOX; coproporphyrinogen III oxidase [EC:1.3.3.3]	531		
+tr|Q31PJ1|Q31PJ1_SYNE7	K03798	ftsH; cell division protease FtsH [EC:3.4.24.-]	763		
+tr|Q31RA8|Q31RA8_SYNE7			138		
+tr|Q31RY7|Q31RY7_SYNE7	K00721	DPM1; dolichol-phosphate mannosyltransferase [EC:2.4.1.83]	423		
+tr|Q31RN1|Q31RN1_SYNE7			270	K01436	122
+tr|Q31R21|Q31R21_SYNE7	K00694	bcsA; cellulose synthase (UDP-forming) [EC:2.4.1.12]	601		
+tr|Q31R01|Q31R01_SYNE7	K01465	URA4; dihydroorotase [EC:3.5.2.3]	334		
+tr|Q31LN5|Q31LN5_SYNE7	K03088	SIG3.2; RNA polymerase sigma-70 factor, ECF subfamily	184		
+tr|Q31RQ2|Q31RQ2_SYNE7			108		
+tr|Q31RX4|Q31RX4_SYNE7			183		
+tr|Q31L39|Q31L39_SYNE7			173		
+tr|Q31L63|Q31L63_SYNE7			283		
+tr|Q31PU4|Q31PU4_SYNE7			142		
+tr|Q31QD7|Q31QD7_SYNE7			354		
+tr|Q31L97|Q31L97_SYNE7	K03113	EIF1; translation initiation factor 1	136		
+tr|Q31KD1|Q31KD1_SYNE7	K02238	comEC; competence protein ComEC	428		
+tr|Q31P40|Q31P40_SYNE7	K08678	UXS1; UDP-glucuronate decarboxylase [EC:4.1.1.35]	499		
+tr|Q31P02|Q31P02_SYNE7	K09919	uncharacterized protein	544		
+tr|Q31RI8|Q31RI8_SYNE7	K03570	mreC; rod shape-determining protein MreC	230		
+tr|Q31PY3|Q31PY3_SYNE7	K02658	pilH; twitching motility two-component system response regulator PilH	183		
+tr|Q31S96|Q31S96_SYNE7			400		
+tr|Q31S93|Q31S93_SYNE7			715		
+tr|Q31NE6|Q31NE6_SYNE7			454		
+tr|Q31SA6|Q31SA6_SYNE7	K00833	bioA; adenosylmethionine---8-amino-7-oxononanoate aminotransferase [EC:2.6.1.62]	448		
+tr|Q31K57|Q31K57_SYNE7			360		
+tr|Q31MZ5|Q31MZ5_SYNE7			67	K13038	3
+tr|Q31MZ9|Q31MZ9_SYNE7			219		
+tr|Q31QL5|Q31QL5_SYNE7	K02471	yddA; putative ATP-binding cassette transporter	582		
+tr|Q31QG0|Q31QG0_SYNE7			183		
+tr|Q31RN9|Q31RN9_SYNE7	K09971	aapM; general L-amino acid transport system permease protein	328		
+tr|Q31M37|Q31M37_SYNE7	K06042	cobH-cbiC; precorrin-8X/cobalt-precorrin-8 methylmutase [EC:5.4.99.61 5.4.99.60]	217		
+tr|Q31RQ3|Q31RQ3_SYNE7			313		
+tr|Q31KA6|Q31KA6_SYNE7			158		
+tr|Q31M72|Q31M72_SYNE7			183		
+tr|Q31MG7|Q31MG7_SYNE7	K02048	cysP; sulfate transport system substrate-binding protein	406		
+tr|Q31RY6|Q31RY6_SYNE7			428		
+tr|Q31PW5|Q31PW5_SYNE7			1054		
+tr|Q31L61|Q31L61_SYNE7	K08972	putative membrane protein	125		
+tr|Q31KR6|Q31KR6_SYNE7	K03676	grxC; glutaredoxin 3	137		
+tr|Q31MX7|Q31MX7_SYNE7			171	K05521	45
+tr|Q31SD0|Q31SD0_SYNE7			20	K01939	1
+tr|Q31MD4|Q31MD4_SYNE7			767		
+tr|Q31P47|Q31P47_SYNE7	K01874	MARS; methionyl-tRNA synthetase [EC:6.1.1.10]	738		
+tr|Q31NI3|Q31NI3_SYNE7			199		
+tr|Q31RE2|Q31RE2_SYNE7	K03524	birA; BirA family transcriptional regulator, biotin operon repressor / biotin-[acetyl-CoA-carboxylase] ligase [EC:6.3.4.15]	135		
+tr|Q31N10|Q31N10_SYNE7			327		
+tr|Q31L41|Q31L41_SYNE7			338		
+tr|Q31NK9|Q31NK9_SYNE7			272		
+tr|Q31NE7|Q31NE7_SYNE7			991	K01077	96
+tr|Q31Q32|Q31Q32_SYNE7			260		
+tr|Q31QH2|Q31QH2_SYNE7	K01470	E3.5.2.10; creatinine amidohydrolase [EC:3.5.2.10]	289		
+tr|Q31KU6|Q31KU6_SYNE7			23	K01494	2
+tr|Q31MC8|Q31MC8_SYNE7			356	K03287	33
+tr|Q31Q98|Q31Q98_SYNE7	K06903	uncharacterized protein	135		
+tr|Q31K33|Q31K33_SYNE7	K18007	hoxY; NAD-reducing hydrogenase small subunit [EC:1.12.1.2]	267		
+tr|Q31MV9|Q31MV9_SYNE7			21	K00626	1
+tr|Q31QA3|Q31QA3_SYNE7			474		
+tr|Q31PD2|Q31PD2_SYNE7	K00788	thiE; thiamine-phosphate pyrophosphorylase [EC:2.5.1.3]	396		
+tr|Q31NP0|Q31NP0_SYNE7			426		
+tr|Q31Q35|Q31Q35_SYNE7			175		
+tr|Q31NF5|Q31NF5_SYNE7			175		
+tr|Q31QZ4|Q31QZ4_SYNE7			672		
+tr|Q31QE4|Q31QE4_SYNE7	K01091	gph; phosphoglycolate phosphatase [EC:3.1.3.18]	167		
+tr|Q31S61|Q31S61_SYNE7					
+tr|Q31S35|Q31S35_SYNE7			196		
+tr|Q31K97|Q31K97_SYNE7	K01996	livF; branched-chain amino acid transport system ATP-binding protein	309		
+tr|Q31P78|Q31P78_SYNE7			201	K08884	50
+tr|Q31M46|Q31M46_SYNE7			209	K01935	4
+tr|Q31PJ9|Q31PJ9_SYNE7	K02231	cobP; adenosylcobinamide kinase / adenosylcobinamide-phosphate guanylyltransferase [EC:2.7.1.156 2.7.7.62]	191		
+tr|Q31RC0|Q31RC0_SYNE7	K03453	TC.BASS; bile acid:Na+ symporter, BASS family	277		
+tr|Q31NR5|Q31NR5_SYNE7			175		
+tr|Q31LV8|Q31LV8_SYNE7	K07313	pphA; serine/threonine protein phosphatase 1 [EC:3.1.3.16]	251		
+tr|Q31P65|Q31P65_SYNE7	K01147	rnb; exoribonuclease II [EC:3.1.13.1]	753		
+tr|Q31RD5|Q31RD5_SYNE7	K07305	msrB; peptide-methionine (R)-S-oxide reductase [EC:1.8.4.12]	184		
+tr|Q31KT5|Q31KT5_SYNE7	K00858	ppnK; NAD+ kinase [EC:2.7.1.23]	437		
+tr|Q31LV2|Q31LV2_SYNE7	K07304	msrA; peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]	292		
+tr|Q31NI6|Q31NI6_SYNE7			245		
+tr|Q31QG1|Q31QG1_SYNE7			407		
+tr|Q31NJ3|Q31NJ3_SYNE7	K05576	ndhE; NAD(P)H-quinone oxidoreductase subunit 4L [EC:1.6.5.3]	131		
+tr|Q31QS7|Q31QS7_SYNE7	K16787	ecfA2; energy-coupling factor transport system ATP-binding protein [EC:3.6.3.-]	268		
+tr|Q31NL5|Q31NL5_SYNE7			1037		
+tr|Q31S04|Q31S04_SYNE7			310		
+tr|Q31NE3|Q31NE3_SYNE7			66	K03561	2
+tr|Q31LU1|Q31LU1_SYNE7			87		
+tr|Q31Q12|Q31Q12_SYNE7			251		
+tr|Q31R66|Q31R66_SYNE7			131	K00799	15
+tr|Q31S86|Q31S86_SYNE7			362		
+tr|Q31RV7|Q31RV7_SYNE7			259		
+tr|Q31RU5|Q31RU5_SYNE7			181		
+tr|Q31L60|Q31L60_SYNE7			364		
+tr|Q31LJ4|Q31LJ4_SYNE7	K03529	smc; chromosome segregation protein	1010		
+tr|Q31RN6|Q31RN6_SYNE7	K02342	DPO3E; DNA polymerase III subunit epsilon [EC:2.7.7.7]	144		
+tr|Q31PI9|Q31PI9_SYNE7	K07004	uncharacterized protein	226		
+tr|Q31MK2|Q31MK2_SYNE7	K02046	cysU; sulfate transport system permease protein	256		
+tr|Q31L02|Q31L02_SYNE7			21	K13541	12
+tr|Q31N22|Q31N22_SYNE7			336		
+tr|Q31KX0|Q31KX0_SYNE7			260		
+tr|Q31QZ7|Q31QZ7_SYNE7			322		
+tr|Q31LV5|Q31LV5_SYNE7	K07259	dacB; D-alanyl-D-alanine carboxypeptidase / D-alanyl-D-alanine-endopeptidase (penicillin-binding protein 4) [EC:3.4.16.4 3.4.21.-]	256		
+tr|Q31RN8|Q31RN8_SYNE7	K09972	aapP; general L-amino acid transport system ATP-binding protein [EC:3.6.3.-]	350		
+tr|Q31LH0|Q31LH0_SYNE7	K02653	pilC; type IV pilus assembly protein PilC	470		
+tr|Q31QC5|Q31QC5_SYNE7	K03797	E3.4.21.102; carboxyl-terminal processing protease [EC:3.4.21.102]	530		
+tr|Q31NG6|Q31NG6_SYNE7	K03192	ureJ; urease accessory protein	206		
+tr|Q31NG8|Q31NG8_SYNE7	K03284	corA; magnesium transporter	337		
+tr|Q31L55|Q31L55_SYNE7			286		
+tr|Q31KZ6|Q31KZ6_SYNE7	K00147	proA; glutamate-5-semialdehyde dehydrogenase [EC:1.2.1.41]	460		
+tr|Q31K49|Q31K49_SYNE7			168		
+tr|Q31QP7|Q31QP7_SYNE7			125		
+tr|Q31M57|Q31M57_SYNE7			131		
+tr|Q31N07|Q31N07_SYNE7	K02017	modC; molybdate transport system ATP-binding protein [EC:3.6.3.29]	228	K02018	42
+	K02018	modB; molybdate transport system permease protein			
+tr|Q31N11|Q31N11_SYNE7			157		
+tr|Q31S07|Q31S07_SYNE7			18	K08167	2
+tr|Q31LN9|Q31LN9_SYNE7			660	K05364	143
+tr|Q31KC9|Q31KC9_SYNE7	K00558	DNMT1; DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]	499		
+tr|Q31M02|Q31M02_SYNE7			199		
+tr|Q31KI3|Q31KI3_SYNE7	K03149	thiG; thiazole synthase [EC:2.8.1.10]	258	K03153	67
+tr|Q31K74|Q31K74_SYNE7	K03657	uvrD; DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]	628		
+tr|Q31RK2|Q31RK2_SYNE7			165		
+tr|Q31L32|Q31L32_SYNE7	K06173	truA; tRNA pseudouridine38-40 synthase [EC:5.4.99.12]	349		
+tr|Q31PS7|Q31PS7_SYNE7	K02343	DPO3G; DNA polymerase III subunit gamma/tau [EC:2.7.7.7]	549		
+tr|Q31Q94|Q31Q94_SYNE7			563		
+tr|Q31P77|Q31P77_SYNE7	K06180	rluD; 23S rRNA pseudouridine1911/1915/1917 synthase [EC:5.4.99.23]	386		
+tr|Q31QK1|Q31QK1_SYNE7	K03073	secE; preprotein translocase subunit SecE	86		
+tr|Q31L71|Q31L71_SYNE7	K03657	uvrD; DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]	1015		
+tr|Q31KR3|Q31KR3_SYNE7	K09797	uncharacterized protein	200		
+tr|Q31QV3|Q31QV3_SYNE7	K00820	glmS; glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16]	855		
+tr|Q31S16|Q31S16_SYNE7			391		
+tr|Q31LK5|Q31LK5_SYNE7			364		
+tr|Q31QC3|Q31QC3_SYNE7	K01448	E3.5.1.28B; N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]	542		
+tr|Q31QE8|Q31QE8_SYNE7	K07052	uncharacterized protein	125		
+tr|Q31RA4|Q31RA4_SYNE7			186		
+tr|Q31Q04|Q31Q04_SYNE7			105		
+tr|Q31RH2|Q31RH2_SYNE7	K01756	purB; adenylosuccinate lyase [EC:4.3.2.2]	689		
+tr|Q31S87|Q31S87_SYNE7			415		
+tr|Q31Q08|Q31Q08_SYNE7	K03642	rlpA; rare lipoprotein A	55		
+tr|Q31PV1|Q31PV1_SYNE7	K16011	algA; mannose-1-phosphate guanylyltransferase / mannose-6-phosphate isomerase [EC:2.7.7.13 5.3.1.8]	48	K00971	33
+tr|Q31ML6|Q31ML6_SYNE7			264		
+tr|Q31N06|Q31N06_SYNE7	K00240	sdhB; succinate dehydrogenase / fumarate reductase, iron-sulfur subunit [EC:1.3.5.1 1.3.5.4]	310		
+tr|Q31RT6|Q31RT6_SYNE7	K00405	ccoO; cytochrome c oxidase cbb3-type subunit II	83		
+tr|Q31QV5|Q31QV5_SYNE7			146		
+tr|Q31S32|Q31S32_SYNE7	K01950	E6.3.5.1; NAD+ synthase (glutamine-hydrolysing) [EC:6.3.5.1]	509	K01916	154
+tr|Q31LK2|Q31LK2_SYNE7			127		
+tr|Q31PU9|Q31PU9_SYNE7	K00284	E1.4.7.1; glutamate synthase (ferredoxin) [EC:1.4.7.1]	1989		
+tr|Q31KG2|Q31KG2_SYNE7	K01011	TST; thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]	292		
+tr|Q31PI5|Q31PI5_SYNE7	K11312	cupin 2 domain-containing protein	108		
+tr|Q31QM4|Q31QM4_SYNE7	K08296	sixA; phosphohistidine phosphatase [EC:3.1.3.-]	166		
+tr|Q31LR5|Q31LR5_SYNE7	K05896	scpA; segregation and condensation protein A	198		
+tr|Q31N78|Q31N78_SYNE7			416		
+tr|Q31R72|Q31R72_SYNE7			192		
+tr|Q31R25|Q31R25_SYNE7			232		
+tr|Q31MJ4|Q31MJ4_SYNE7			301		
+tr|Q31LE7|Q31LE7_SYNE7	K05575	ndhD; NAD(P)H-quinone oxidoreductase subunit 4 [EC:1.6.5.3]	414		
+tr|Q31LG4|Q31LG4_SYNE7			104		
+tr|Q31RN5|Q31RN5_SYNE7			78		
+tr|Q31Q69|Q31Q69_SYNE7			153	K18586	16
+tr|Q31K41|Q31K41_SYNE7	K01704	leuD; 3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]	262		
+tr|Q31NW3|Q31NW3_SYNE7			472		
+tr|Q31KP3|Q31KP3_SYNE7	K11777	HAD superfamily phosphatase	302		
+tr|Q31R73|Q31R73_SYNE7			571		
+tr|Q31KM8|Q31KM8_SYNE7	K01776	murI; glutamate racemase [EC:5.1.1.3]	329		
+tr|Q31LF7|Q31LF7_SYNE7	K02355	fusA; elongation factor G	778		
+tr|Q31S52|Q31S52_SYNE7			228		
+tr|Q31PF7|Q31PF7_SYNE7			686		
+tr|Q31MK3|Q31MK3_SYNE7	K02048	cysP; sulfate transport system substrate-binding protein	328		
+tr|Q31NR9|Q31NR9_SYNE7			69		
+tr|Q31MC9|Q31MC9_SYNE7	K00259	ald; alanine dehydrogenase [EC:1.4.1.1]	485		
+tr|Q31MA5|Q31MA5_SYNE7	K03090	SIG3.3.2; RNA polymerase sigma-B factor	279		
+tr|Q31QH4|Q31QH4_SYNE7			106	K01768	89
+tr|Q31P32|Q31P32_SYNE7			557	K16898	132
+tr|Q31K05|Q31K05_SYNE7			270		
+tr|Q31LK1|Q31LK1_SYNE7			220		
+tr|Q31RX2|Q31RX2_SYNE7			187		
+tr|Q31MC6|Q31MC6_SYNE7	K01092	E3.1.3.25; myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25]	264		
+tr|Q31RT7|Q31RT7_SYNE7			184		
+tr|Q31L43|Q31L43_SYNE7			112	K01317	6
+tr|Q31NC5|Q31NC5_SYNE7	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	317		
+tr|Q31MN0|Q31MN0_SYNE7			239		
+tr|Q31N63|Q31N63_SYNE7			151		
+tr|Q31MS0|Q31MS0_SYNE7	K07040	uncharacterized protein	127		
+tr|Q31MD0|Q31MD0_SYNE7			73		
+tr|Q31Q20|Q31Q20_SYNE7	K03711	fur; Fur family transcriptional regulator, ferric uptake regulator	173		
+tr|Q31QR3|Q31QR3_SYNE7			254		
+tr|Q31M20|Q31M20_SYNE7			1296		
+tr|Q31RD1|Q31RD1_SYNE7			77		
+tr|Q31Q23|Q31Q23_SYNE7			151		
+tr|Q31M10|Q31M10_SYNE7	K03924	moxR; MoxR-like ATPase [EC:3.6.3.-]	335		
+tr|Q31PS1|Q31PS1_SYNE7	K01897	ACSL; long-chain acyl-CoA synthetase [EC:6.2.1.3]	763		
+tr|Q31M34|Q31M34_SYNE7	K02224	cobB-cbiA; cobyrinic acid a,c-diamide synthase [EC:6.3.5.9 6.3.5.11]	535		
+tr|Q31PL6|Q31PL6_SYNE7	K00012	UGDH; UDPglucose 6-dehydrogenase [EC:1.1.1.22]	527		
+tr|Q31KL9|Q31KL9_SYNE7			17	K05794	2
+tr|Q31RI3|Q31RI3_SYNE7			181		
+tr|Q31QS2|Q31QS2_SYNE7			130		
+tr|Q31MF4|Q31MF4_SYNE7	K09014	sufB; Fe-S cluster assembly protein SufB	835		
+tr|Q31QQ2|Q31QQ2_SYNE7			470		
+tr|Q31PR2|Q31PR2_SYNE7	K01923	purC; phosphoribosylaminoimidazole-succinocarboxamide synthase [EC:6.3.2.6]	303		
+tr|Q31KU8|Q31KU8_SYNE7	K06041	kdsD; arabinose-5-phosphate isomerase [EC:5.3.1.13]	341		
+tr|Q31L00|Q31L00_SYNE7			169		
+tr|Q31LA6|Q31LA6_SYNE7			184		
+tr|Q31PQ3|Q31PQ3_SYNE7			157		
+tr|Q31NL9|Q31NL9_SYNE7			183		
+tr|Q31QU9|Q31QU9_SYNE7	K00615	E2.2.1.1; transketolase [EC:2.2.1.1]	1090		
+tr|Q31Q62|Q31Q62_SYNE7	K09775	uncharacterized protein	148		
+tr|Q31PI6|Q31PI6_SYNE7	K01657	trpE; anthranilate synthase component I [EC:4.1.3.27]	734		
+tr|Q31P33|Q31P33_SYNE7			419		
+tr|Q31RA5|Q31RA5_SYNE7			94		
+tr|Q31QS1|Q31QS1_SYNE7	K07024	uncharacterized protein	220		
+tr|Q31S99|Q31S99_SYNE7			143		
+tr|Q31M50|Q31M50_SYNE7			306		
+tr|Q31PY2|Q31PY2_SYNE7	K02659	pilI; twitching motility protein PilI	149		
+tr|Q31RY1|Q31RY1_SYNE7	K01835	pgm; phosphoglucomutase [EC:5.4.2.2]	808		
+tr|Q31JZ4|Q31JZ4_SYNE7			521		
+tr|Q31PS2|Q31PS2_SYNE7			82		
+tr|Q31N95|Q31N95_SYNE7			18	K01669	2
+tr|Q31RZ3|Q31RZ3_SYNE7			160		
+tr|Q31LI8|Q31LI8_SYNE7			455		
+tr|Q31QH9|Q31QH9_SYNE7			86		
+tr|Q31QN8|Q31QN8_SYNE7			169		
+tr|Q31RS9|Q31RS9_SYNE7			448	K09134	32
+tr|Q31RH4|Q31RH4_SYNE7			172		
+tr|Q31S01|Q31S01_SYNE7			439		
+tr|Q31R47|Q31R47_SYNE7	K01443	nagA; N-acetylglucosamine-6-phosphate deacetylase [EC:3.5.1.25]	408		
+tr|Q31QL4|Q31QL4_SYNE7	K00384	trxB; thioredoxin reductase (NADPH) [EC:1.8.1.9]	602		
+tr|Q31R56|Q31R56_SYNE7			369		
+tr|Q31LV9|Q31LV9_SYNE7			252		
+tr|Q31L58|Q31L58_SYNE7			435		
+tr|Q31LJ8|Q31LJ8_SYNE7	K03980	murJ; putative peptidoglycan lipid II flippase	570		
+tr|Q31NU1|Q31NU1_SYNE7			217		
+tr|Q31L91|Q31L91_SYNE7	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	474		
+tr|Q31KF5|Q31KF5_SYNE7	K01653	E2.2.1.6S; acetolactate synthase I/III small subunit [EC:2.2.1.6]	285		
+tr|Q31S48|Q31S48_SYNE7	K01061	E3.1.1.45; carboxymethylenebutenolidase [EC:3.1.1.45]	291		
+tr|Q31L47|Q31L47_SYNE7			450		
+tr|Q31QP1|Q31QP1_SYNE7	K18534	MPBQ/MSBQ methyltransferase [EC:2.1.1.295]	486		
+tr|Q31QG6|Q31QG6_SYNE7			140		
+tr|Q31KT6|Q31KT6_SYNE7	K00796	folP; dihydropteroate synthase [EC:2.5.1.15]	319		
+tr|Q31PS8|Q31PS8_SYNE7			88		
+tr|Q31M63|Q31M63_SYNE7			381	K01784	39
+tr|Q31QC1|Q31QC1_SYNE7			247		
+tr|Q31NG4|Q31NG4_SYNE7			181		
+tr|Q31QT4|Q31QT4_SYNE7	K02005	ABC.CD.TX; HlyD family secretion protein	344		
+tr|Q31MQ0|Q31MQ0_SYNE7	K16786	ecfA1; energy-coupling factor transport system ATP-binding protein [EC:3.6.3.-]	261		
+tr|Q31PU3|Q31PU3_SYNE7	K03609	minD; septum site-determining protein MinD	353		
+tr|Q31RK0|Q31RK0_SYNE7	K10716	kch; voltage-gated potassium channel	103		
+tr|Q31LA5|Q31LA5_SYNE7	K01448	E3.5.1.28B; N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]	212		
+tr|Q31RM6|Q31RM6_SYNE7	K03789	rimI; ribosomal-protein-alanine N-acetyltransferase [EC:2.3.1.128]	136		
+tr|Q31PR8|Q31PR8_SYNE7			154		
+tr|Q31PQ2|Q31PQ2_SYNE7			316		
+tr|Q31QU7|Q31QU7_SYNE7			158		
+tr|Q31QD2|Q31QD2_SYNE7			251		
+tr|Q31L62|Q31L62_SYNE7	K11956	natD; neutral amino acid transport system permease protein	330		
+tr|Q31ND9|Q31ND9_SYNE7	K01181	E3.2.1.8; endo-1,4-beta-xylanase [EC:3.2.1.8]	305		
+tr|Q31LB5|Q31LB5_SYNE7			371		
+tr|Q31NQ0|Q31NQ0_SYNE7	K03592	pmbA; PmbA protein	559		
+tr|Q31KD6|Q31KD6_SYNE7	K02662	pilM; type IV pilus assembly protein PilM	370		
+tr|Q31MB6|Q31MB6_SYNE7	K06960	uncharacterized protein	82		
+tr|Q31MR2|Q31MR2_SYNE7			348		
+tr|Q31N67|Q31N67_SYNE7	K05569	mnhE; multicomponent Na+:H+ antiporter subunit E	158		
+tr|Q31N87|Q31N87_SYNE7	K04485	radA; DNA repair protein RadA/Sms	573		
+tr|Q31P88|Q31P88_SYNE7			390		
+tr|Q31QW2|Q31QW2_SYNE7	K01735	aroB; 3-dehydroquinate synthase [EC:4.2.3.4]	458		
+tr|Q31QN9|Q31QN9_SYNE7			363		
+tr|Q31NY9|Q31NY9_SYNE7			188		
+tr|Q31QL6|Q31QL6_SYNE7			25	K01007	9
+tr|Q31LX1|Q31LX1_SYNE7	K03867	BGLUT; UDP-glucose:tetrahydrobiopterin glucosyltransferase [EC:2.4.1.-]	388		
+tr|Q31K28|Q31K28_SYNE7	K00507	SCD; stearoyl-CoA desaturase (Delta-9 desaturase) [EC:1.14.19.1]	400		
+tr|Q31N71|Q31N71_SYNE7	K05566	mnhB; multicomponent Na+:H+ antiporter subunit B	308		
+tr|Q31LE3|Q31LE3_SYNE7			394		
+tr|Q31MS3|Q31MS3_SYNE7			186		
+tr|Q31QF0|Q31QF0_SYNE7			33	K13541	2
+tr|Q31K35|Q31K35_SYNE7			130		
+tr|Q31MI0|Q31MI0_SYNE7	K06883	uncharacterized protein	575		
+tr|Q31R83|Q31R83_SYNE7	K02836	prfB; peptide chain release factor 2	458		
+tr|Q31RI9|Q31RI9_SYNE7			140		
+tr|Q31N13|Q31N13_SYNE7			178		
+tr|Q31N65|Q31N65_SYNE7	K05567	mnhC; multicomponent Na+:H+ antiporter subunit C	167		
+tr|Q31LF0|Q31LF0_SYNE7			338		
+tr|Q31RV0|Q31RV0_SYNE7			390		
+tr|Q31SB1|Q31SB1_SYNE7			397		
+tr|Q31SA7|Q31SA7_SYNE7	K01935	bioD; dethiobiotin synthetase [EC:6.3.3.3]	152	K01935/K02169	18
+tr|Q31MA4|Q31MA4_SYNE7			102		
+tr|Q31NK4|Q31NK4_SYNE7	K00826	E2.6.1.42; branched-chain amino acid aminotransferase [EC:2.6.1.42]	130		
+tr|Q31RG2|Q31RG2_SYNE7	K02094	apcC; phycobilisome core linker protein	120		
+tr|Q31Q73|Q31Q73_SYNE7			17	K02529	4
+tr|Q31RY8|Q31RY8_SYNE7	K10778	ada; AraC family transcriptional regulator, regulatory protein of adaptative response / methylated-DNA-[protein]-cysteine methyltransferase [EC:2.1.1.63]	161		
+tr|Q31KW1|Q31KW1_SYNE7			585		
+tr|Q31MQ5|Q31MQ5_SYNE7			255		
+tr|Q31N14|Q31N14_SYNE7	K06207	typA; GTP-binding protein	1002		
+tr|Q31LL8|Q31LL8_SYNE7	K07742	ylxR; uncharacterized protein	92		
+tr|Q31S25|Q31S25_SYNE7	K01669	phrB; deoxyribodipyrimidine photo-lyase [EC:4.1.99.3]	590		
+tr|Q31MH3|Q31MH3_SYNE7			654		
+tr|Q31QV0|Q31QV0_SYNE7	K09458	fabF; 3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179]	644		
+tr|Q31M90|Q31M90_SYNE7	K04655	hypE; hydrogenase expression/formation protein HypE	385		
+tr|Q31QQ5|Q31QQ5_SYNE7	K07019	uncharacterized protein	282		
+tr|Q31K55|Q31K55_SYNE7			326	K07315	29
+tr|Q31LM7|Q31LM7_SYNE7	K06381	spoIID; stage II sporulation protein D	369		
+tr|Q31QJ6|Q31QJ6_SYNE7	K00239	sdhA; succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4]	832		
+tr|Q31L37|Q31L37_SYNE7			277		
+tr|Q31Q31|Q31Q31_SYNE7	K09761	rsmE; 16S rRNA (uracil1498-N3)-methyltransferase [EC:2.1.1.193]	191		
+tr|Q31NU3|Q31NU3_SYNE7	K09835	crtISO; prolycopene isomerase [EC:5.2.1.13]	804		
+tr|Q31PM0|Q31PM0_SYNE7	K01061	E3.1.1.45; carboxymethylenebutenolidase [EC:3.1.1.45]	397		
+tr|Q31JU4|Q31JU4_SYNE7			672		
+tr|Q31JY0|Q31JY0_SYNE7			119		
+tr|Q31LJ2|Q31LJ2_SYNE7	K00281	GLDC; glycine dehydrogenase [EC:1.4.4.2]	1310		
+tr|Q31RK8|Q31RK8_SYNE7	K05587	hoxF; bidirectional [NiFe] hydrogenase diaphorase subunit [EC:1.6.5.3]	710		
+tr|Q31N12|Q31N12_SYNE7			897		
+tr|Q31SD2|Q31SD2_SYNE7	K06901	pbuG; putative MFS transporter, AGZA family, xanthine/uracil permease	544		
+tr|Q31JZ8|Q31JZ8_SYNE7			25	K01740	1
+tr|Q31Q21|Q31Q21_SYNE7			404		
+tr|Q31JX9|Q31JX9_SYNE7	K02303	cobA; uroporphyrin-III C-methyltransferase [EC:2.1.1.107]	336		
+tr|Q31LD6|Q31LD6_SYNE7			110	K03316	4
+tr|Q31KV5|Q31KV5_SYNE7			340		
+tr|Q31LF5|Q31LF5_SYNE7	K04040	chlG; chlorophyll synthase [EC:2.5.1.62]	522		
+tr|Q31QM2|Q31QM2_SYNE7			135		
+tr|Q31M58|Q31M58_SYNE7	K00088	guaB; IMP dehydrogenase [EC:1.1.1.205]	644		
+tr|Q31S79|Q31S79_SYNE7	K01790	rfbC; dTDP-4-dehydrorhamnose 3,5-epimerase [EC:5.1.3.13]	177		
+tr|Q31R89|Q31R89_SYNE7			187		
+tr|Q31S62|Q31S62_SYNE7	K01262	pepP; Xaa-Pro aminopeptidase [EC:3.4.11.9]	556		
+tr|Q31MA3|Q31MA3_SYNE7			170		
+tr|Q31RW4|Q31RW4_SYNE7	K01082	cysQ; 3'(2'), 5'-bisphosphate nucleotidase [EC:3.1.3.7]	299		
+tr|Q31MF6|Q31MF6_SYNE7	K09012	sufR; DeoR family transcriptional regulator, suf operon transcriptional repressor	224		
+tr|Q31LG9|Q31LG9_SYNE7	K02669	pilT; twitching motility protein PilT	606		
+tr|Q31RI4|Q31RI4_SYNE7	K10716	kch; voltage-gated potassium channel	197		
+tr|Q31QS6|Q31QS6_SYNE7			267		
+tr|Q31QX4|Q31QX4_SYNE7	K06861	lptB; lipopolysaccharide export system ATP-binding protein [EC:3.6.3.-]	354		
+tr|Q31Q64|Q31Q64_SYNE7			262		
+tr|Q31QC6|Q31QC6_SYNE7	K01955	carB; carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]	1660		
+tr|Q31RX3|Q31RX3_SYNE7	K09710	ybeB; ribosome-associated protein	150		
+tr|Q31N76|Q31N76_SYNE7			384		
+tr|Q31MR1|Q31MR1_SYNE7			301		
+tr|Q31MM1|Q31MM1_SYNE7	K01546	kdpA; K+-transporting ATPase ATPase A chain [EC:3.6.3.12]	632		
+tr|Q31S23|Q31S23_SYNE7			139		
+tr|Q31QM3|Q31QM3_SYNE7			425		
+tr|Q31N80|Q31N80_SYNE7			216		
+tr|Q31PV7|Q31PV7_SYNE7	K01338	lon; ATP-dependent Lon protease [EC:3.4.21.53]	299		
+tr|Q31MI6|Q31MI6_SYNE7	K01191	E3.2.1.24; alpha-mannosidase [EC:3.2.1.24]	980		
+tr|Q31MJ0|Q31MJ0_SYNE7	K03327	TC.MATE; multidrug resistance protein, MATE family	424		
+tr|Q31KG1|Q31KG1_SYNE7	K03559	exbD; biopolymer transport protein ExbD	141		
+tr|Q31S67|Q31S67_SYNE7			156		
+tr|Q31M03|Q31M03_SYNE7	K07462	recJ; single-stranded-DNA-specific exonuclease [EC:3.1.-.-]	668		
+tr|Q31L83|Q31L83_SYNE7	K01915	glnA; glutamine synthetase [EC:6.3.1.2]	835		
+tr|Q31KL6|Q31KL6_SYNE7	K19802	ycjG; L-Ala-D/L-Glu epimerase [EC:5.1.1.20]	415		
+tr|Q31QZ8|Q31QZ8_SYNE7	K00128	E1.2.1.3; aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]	463	K00129	51
+tr|Q31RB0|Q31RB0_SYNE7			21	K00185	2
+tr|Q31NU5|Q31NU5_SYNE7	K09691	ABC-2.LPSE.A; lipopolysaccharide transport system ATP-binding protein	392		
+tr|Q31PD1|Q31PD1_SYNE7	K03154	thiS; sulfur carrier protein	104		
+tr|Q31KL2|Q31KL2_SYNE7	K03589	ftsQ; cell division protein FtsQ	140		
+tr|Q31RH3|Q31RH3_SYNE7	K00241	sdhC; succinate dehydrogenase / fumarate reductase, cytochrome b subunit	62		
+tr|Q31QN7|Q31QN7_SYNE7	K12132	prkC; eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]	419		
+tr|Q31S60|Q31S60_SYNE7			17	K05896	6
+tr|Q31RD6|Q31RD6_SYNE7	K02067	mlaD; phospholipid/cholesterol/gamma-HCH transport system substrate-binding protein	241		
+tr|Q31S70|Q31S70_SYNE7	K01992	ABC-2.P; ABC-2 type transport system permease protein	204		
+tr|Q31L90|Q31L90_SYNE7	K01992	ABC-2.P; ABC-2 type transport system permease protein	356		
+tr|Q31Q01|Q31Q01_SYNE7			221		
+tr|Q31K46|Q31K46_SYNE7	K02334	dpo; DNA polymerase bacteriophage-type [EC:2.7.7.7]	321		
+tr|Q31LD8|Q31LD8_SYNE7	K00973	E2.7.7.24; glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24]	439		
+tr|Q31NS3|Q31NS3_SYNE7	K02428	rdgB; XTP/dITP diphosphohydrolase [EC:3.6.1.66]	252		
+tr|Q31MD7|Q31MD7_SYNE7			281		
+tr|Q31LW4|Q31LW4_SYNE7			341		
+tr|Q31NH2|Q31NH2_SYNE7			487		
+tr|Q31MA9|Q31MA9_SYNE7	K03572	mutL; DNA mismatch repair protein MutL	593		
+tr|Q31MW7|Q31MW7_SYNE7			680		
+tr|Q31KX3|Q31KX3_SYNE7	K02055	ABC.SP.S; putative spermidine/putrescine transport system substrate-binding protein	281		
+tr|Q31NM5|Q31NM5_SYNE7	K03798	ftsH; cell division protease FtsH [EC:3.4.24.-]	863		
+tr|Q31P26|Q31P26_SYNE7			367		
+tr|Q31NT0|Q31NT0_SYNE7	K01551	arsA; arsenite-transporting ATPase [EC:3.6.3.16]	676		
+tr|Q31ND4|Q31ND4_SYNE7	K09005	uncharacterized protein	148		
+tr|Q31S81|Q31S81_SYNE7	K13010	per; perosamine synthetase [EC:2.6.1.102]	429		
+tr|Q31QA2|Q31QA2_SYNE7			116		
+tr|Q31M95|Q31M95_SYNE7			463	K00821	52
+tr|Q31Q06|Q31Q06_SYNE7			185	K00951	19
+tr|Q31QF8|Q31QF8_SYNE7			134		
+tr|Q31KM9|Q31KM9_SYNE7	K01448	E3.5.1.28B; N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]	258		
+tr|Q31SC7|Q31SC7_SYNE7			231		
+tr|Q31KU3|Q31KU3_SYNE7	K01915	glnA; glutamine synthetase [EC:6.3.1.2]	574		
+tr|Q31PW4|Q31PW4_SYNE7			124		
+tr|Q31MN9|Q31MN9_SYNE7	K07190	PHKA_B; phosphorylase kinase alpha/beta subunit	1336		
+tr|Q31RT2|Q31RT2_SYNE7	K13522	nadM; bifunctional NMN adenylyltransferase/nudix hydrolase [EC:2.7.7.1 3.6.1.-]	399		
+tr|Q31PS6|Q31PS6_SYNE7	K03828	yjgM; putative acetyltransferase [EC:2.3.1.-]	209		
+tr|Q31RL8|Q31RL8_SYNE7			371		
+tr|Q31KH5|Q31KH5_SYNE7			436		
+tr|Q31LK9|Q31LK9_SYNE7	K02290	cpcG; phycobilisome rod-core linker protein	315		
+tr|Q31NE1|Q31NE1_SYNE7	K00694	bcsA; cellulose synthase (UDP-forming) [EC:2.4.1.12]	368		
+tr|Q31MH0|Q31MH0_SYNE7	K00031	IDH1; isocitrate dehydrogenase [EC:1.1.1.42]	782		
+tr|Q31PG5|Q31PG5_SYNE7			226		
+tr|Q31RZ7|Q31RZ7_SYNE7			56		
+tr|Q31MF9|Q31MF9_SYNE7			277		
+tr|Q31RT4|Q31RT4_SYNE7	K11752	ribD; diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase [EC:3.5.4.26 1.1.1.193]	465		
+tr|Q31PT8|Q31PT8_SYNE7			247	K01563	88
+tr|Q31LS0|Q31LS0_SYNE7			134		
+tr|Q31KB3|Q31KB3_SYNE7			105		
+tr|Q31RV3|Q31RV3_SYNE7	K03306	TC.PIT; inorganic phosphate transporter, PiT family	206		
+tr|Q31QY4|Q31QY4_SYNE7			108		
+tr|Q31R06|Q31R06_SYNE7			220	K04771	13
+tr|Q31Q33|Q31Q33_SYNE7	K00097	pdxA; 4-hydroxythreonine-4-phosphate dehydrogenase [EC:1.1.1.262]	387		
+tr|Q31RA6|Q31RA6_SYNE7			65		
+tr|Q31RQ7|Q31RQ7_SYNE7			103	K03455	4
+tr|Q31MG6|Q31MG6_SYNE7			517		
+tr|Q31NM2|Q31NM2_SYNE7			200	K09820	49
+tr|Q31PZ1|Q31PZ1_SYNE7	K02669	pilT; twitching motility protein PilT	332		
+tr|Q31KG7|Q31KG7_SYNE7			58	K02390	2
+tr|Q31NK3|Q31NK3_SYNE7			517		
+tr|Q31LY0|Q31LY0_SYNE7			25	K03110	1
+tr|Q31Q92|Q31Q92_SYNE7			168		
+tr|Q31S05|Q31S05_SYNE7	K06955	uncharacterized protein	209		
+tr|Q31LM1|Q31LM1_SYNE7			88		
+tr|Q31LK7|Q31LK7_SYNE7			292		
+tr|Q31LL2|Q31LL2_SYNE7			165	K13002	12
+tr|Q31K43|Q31K43_SYNE7			282		
+tr|Q31RR7|Q31RR7_SYNE7			284		
+tr|Q31PN5|Q31PN5_SYNE7	K06980	ygfZ; tRNA-modifying protein YgfZ	207		
+tr|Q31KE0|Q31KE0_SYNE7			364		
+tr|Q31Q87|Q31Q87_SYNE7			350		
+tr|Q31LG0|Q31LG0_SYNE7	K00925	ackA; acetate kinase [EC:2.7.2.1]	331		
+tr|Q31KC2|Q31KC2_SYNE7	K00014	aroE; shikimate dehydrogenase [EC:1.1.1.25]	322		
+tr|Q31SA8|Q31SA8_SYNE7					
+tr|Q31MT3|Q31MT3_SYNE7			174		
+tr|Q31MU0|Q31MU0_SYNE7			278		
+tr|Q31RI6|Q31RI6_SYNE7	K03111	ssb; single-strand DNA-binding protein	155		
+tr|Q31NJ8|Q31NJ8_SYNE7			251		
+tr|Q31QF2|Q31QF2_SYNE7	K04077	groEL; chaperonin GroEL	741		
+tr|Q31Q41|Q31Q41_SYNE7			133		
+tr|Q31N45|Q31N45_SYNE7			166		
+tr|Q31P03|Q31P03_SYNE7			202	K00082	19
+tr|Q31P24|Q31P24_SYNE7	K00988	APA1_2; ATP adenylyltransferase [EC:2.7.7.53]	14		
+tr|Q31M35|Q31M35_SYNE7	K13541	cbiGH-cobJ; cobalt-precorrin 5A hydrolase / precorrin-3B C17-methyltransferase [EC:3.7.1.12 2.1.1.131]	469		
+tr|Q31M78|Q31M78_SYNE7			425		
+tr|Q31NB2|Q31NB2_SYNE7	K01602	rbcS; ribulose-bisphosphate carboxylase small chain [EC:4.1.1.39]	171		
+tr|Q31KN9|Q31KN9_SYNE7			239		
+tr|Q31PE6|Q31PE6_SYNE7	K18678	VTE5; phytol kinase [EC:2.7.1.182]	210		
+tr|Q31LI6|Q31LI6_SYNE7			754		
+tr|Q31NF8|Q31NF8_SYNE7	K15738	uup; ATP-binding cassette, subfamily F, uup	730		
+tr|Q31PG9|Q31PG9_SYNE7	K02549	menC; O-succinylbenzoate synthase [EC:4.2.1.113]	189		
+tr|Q31PL2|Q31PL2_SYNE7	K00855	PRK; phosphoribulokinase [EC:2.7.1.19]	559		
+tr|Q31PR6|Q31PR6_SYNE7	K00772	mtaP; 5'-methylthioadenosine phosphorylase [EC:2.4.2.28]	427		
+tr|Q31RX9|Q31RX9_SYNE7	K11996	MOCS3; adenylyltransferase and sulfurtransferase [EC:2.7.7.80]	628		
+tr|Q31QL7|Q31QL7_SYNE7	K09807	uncharacterized protein	201		
+tr|Q31RK9|Q31RK9_SYNE7	K05586	hoxE; bidirectional [NiFe] hydrogenase diaphorase subunit [EC:1.6.5.3]	187		
+tr|Q31LL1|Q31LL1_SYNE7			398		
+tr|Q31QX5|Q31QX5_SYNE7	K11720	lptG; lipopolysaccharide export system permease protein	403		
+tr|Q31MF2|Q31MF2_SYNE7	K09015	sufD; Fe-S cluster assembly protein SufD	380		
+tr|Q31PD0|Q31PD0_SYNE7			243		
+tr|Q31Q09|Q31Q09_SYNE7	K09966	uncharacterized protein	174		
+tr|Q31K01|Q31K01_SYNE7	K03182	ubiD; 4-hydroxy-3-polyprenylbenzoate decarboxylase [EC:4.1.1.98]	863		
+tr|Q31QZ9|Q31QZ9_SYNE7	K01465	URA4; dihydroorotase [EC:3.5.2.3]	596		
+tr|Q31KR2|Q31KR2_SYNE7			163		
+tr|Q31QC2|Q31QC2_SYNE7	K00790	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase [EC:2.5.1.7]	546		
+tr|Q31PC2|Q31PC2_SYNE7			21	K03517	3
+tr|Q31S58|Q31S58_SYNE7			138		
+tr|Q31QF5|Q31QF5_SYNE7			381		
+tr|Q31N81|Q31N81_SYNE7			206		
+tr|Q31MN2|Q31MN2_SYNE7			18	K03798	1
+tr|Q31MZ3|Q31MZ3_SYNE7					
+tr|Q31NL0|Q31NL0_SYNE7	K06872	uncharacterized protein	237		
+tr|Q31NP1|Q31NP1_SYNE7			286		
+tr|Q31KM1|Q31KM1_SYNE7			259		
+tr|Q31RB1|Q31RB1_SYNE7			500		
+tr|Q31MJ7|Q31MJ7_SYNE7	K07448	mrr; restriction system protein	376		
+tr|Q31NM7|Q31NM7_SYNE7			370	K06147	92
+tr|Q31Q47|Q31Q47_SYNE7			118		
+tr|Q31RP9|Q31RP9_SYNE7	K09792	uncharacterized protein	295		
+tr|Q31R84|Q31R84_SYNE7			51		
+tr|Q31PB8|Q31PB8_SYNE7	K08999	uncharacterized protein	218		
+tr|Q31JX8|Q31JX8_SYNE7			138		
+tr|Q31QU8|Q31QU8_SYNE7			189		
+tr|Q31M74|Q31M74_SYNE7			256	K07315	20
+tr|Q31KK2|Q31KK2_SYNE7			379		
+tr|Q31KQ2|Q31KQ2_SYNE7			244		
+tr|Q31Q63|Q31Q63_SYNE7			261	K08680	61
+tr|Q31R86|Q31R86_SYNE7	K00901	dgkA; diacylglycerol kinase (ATP) [EC:2.7.1.107]	127		
+tr|Q31Q14|Q31Q14_SYNE7			254		
+tr|Q31P39|Q31P39_SYNE7			207		
+tr|Q31PJ6|Q31PJ6_SYNE7	K06883	uncharacterized protein	188		
+tr|Q31KN7|Q31KN7_SYNE7	K05808	yhbH; putative sigma-54 modulation protein	260		
+tr|Q31LI4|Q31LI4_SYNE7	K03185	ubiH; 2-octaprenyl-6-methoxyphenol hydroxylase [EC:1.14.13.-]	359		
+tr|Q31N64|Q31N64_SYNE7	K07086	uncharacterized protein	535		
+tr|Q31ME1|Q31ME1_SYNE7			281		
+tr|Q31PD9|Q31PD9_SYNE7	K02286	cpcC; phycocyanin-associated rod linker protein	347		
+tr|Q31P57|Q31P57_SYNE7			302	K02022	53
+tr|Q31L96|Q31L96_SYNE7	K01696	trpB; tryptophan synthase beta chain [EC:4.2.1.20]	682		
+tr|Q31KK7|Q31KK7_SYNE7	K02495	hemN; oxygen-independent coproporphyrinogen III oxidase [EC:1.3.99.22]	438		
+tr|Q31M40|Q31M40_SYNE7	K03087	SIG2; RNA polymerase nonessential primary-like sigma factor	510		
+tr|Q31N33|Q31N33_SYNE7			110		
+tr|Q31MN7|Q31MN7_SYNE7			771		
+tr|Q31MT1|Q31MT1_SYNE7	K16011	algA; mannose-1-phosphate guanylyltransferase / mannose-6-phosphate isomerase [EC:2.7.7.13 5.3.1.8]	498		
+tr|Q31MP0|Q31MP0_SYNE7			333		
+tr|Q31MZ4|Q31MZ4_SYNE7	K07062	uncharacterized protein	107	K18828	13
+tr|Q31QX1|Q31QX1_SYNE7	K03797	E3.4.21.102; carboxyl-terminal processing protease [EC:3.4.21.102]	425		
+tr|Q31KN1|Q31KN1_SYNE7			425		
+tr|Q31PC1|Q31PC1_SYNE7	K00627	DLAT; pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12]	498		
+tr|Q31K45|Q31K45_SYNE7			79		
+tr|Q31KX5|Q31KX5_SYNE7			136		
+tr|Q31QV6|Q31QV6_SYNE7			261		
+tr|Q31KN5|Q31KN5_SYNE7			203		
+tr|Q31K23|Q31K23_SYNE7			185	K01802	74
+tr|Q31N03|Q31N03_SYNE7			215		
+tr|Q31ML4|Q31ML4_SYNE7			140		
+tr|Q31RQ1|Q31RQ1_SYNE7			104		
+tr|Q31RT1|Q31RT1_SYNE7	K03462	NAMPT; nicotinamide phosphoribosyltransferase [EC:2.4.2.12]	579		
+tr|Q31LC3|Q31LC3_SYNE7	K06889	uncharacterized protein	237		
+tr|Q31LC8|Q31LC8_SYNE7	K00845	glk; glucokinase [EC:2.7.1.2]	365		
+tr|Q31RQ6|Q31RQ6_SYNE7			191		
+tr|Q31LA9|Q31LA9_SYNE7			21	K11941	2
+tr|Q31L56|Q31L56_SYNE7	K03469	rnhA; ribonuclease HI [EC:3.1.26.4]	296		
+tr|Q31P95|Q31P95_SYNE7	K03707	tenA; thiaminase (transcriptional activator TenA) [EC:3.5.99.2]	222		
+tr|Q31KI5|Q31KI5_SYNE7			157		
+tr|Q31ND3|Q31ND3_SYNE7	K02010	afuC; iron(III) transport system ATP-binding protein [EC:3.6.3.30]	333		
+tr|Q31LJ5|Q31LJ5_SYNE7			274		
+tr|Q31RP5|Q31RP5_SYNE7	K07301	yrbG; cation:H+ antiporter	329		
+tr|Q31QD4|Q31QD4_SYNE7	K04096	smf; DNA processing protein	344		
+tr|Q31N28|Q31N28_SYNE7			228		
+tr|Q31MP5|Q31MP5_SYNE7			27	K03453	4
+tr|Q31ML9|Q31ML9_SYNE7			17	K01534	3
+tr|Q31QJ1|Q31QJ1_SYNE7			17	K04077	1
+tr|Q31PC6|Q31PC6_SYNE7			72		
+tr|Q31RL3|Q31RL3_SYNE7	K07075	uncharacterized protein	101		
+tr|Q31PL8|Q31PL8_SYNE7	K09942	uncharacterized protein	544		
+tr|Q31RJ5|Q31RJ5_SYNE7	K13038	coaBC; phosphopantothenoylcysteine decarboxylase / phosphopantothenate--cysteine ligase [EC:4.1.1.36 6.3.2.5]	416		
+tr|Q31M86|Q31M86_SYNE7	K03711	fur; Fur family transcriptional regulator, ferric uptake regulator	212		
+tr|Q31KN0|Q31KN0_SYNE7			470		
+tr|Q31QR5|Q31QR5_SYNE7	K08234	yaeR; glyoxylase I family protein	157		
+tr|Q31L69|Q31L69_SYNE7	K03711	fur; Fur family transcriptional regulator, ferric uptake regulator	108		
+tr|Q31R78|Q31R78_SYNE7			19	K03710	2
+tr|Q31R34|Q31R34_SYNE7			277		
+tr|Q31NE8|Q31NE8_SYNE7	K07391	comM; magnesium chelatase family protein	648		
+tr|Q31N21|Q31N21_SYNE7	K03657	uvrD; DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]	217		
+tr|Q31MV4|Q31MV4_SYNE7			231		
+tr|Q31MX0|Q31MX0_SYNE7			202		
+tr|Q31N37|Q31N37_SYNE7			165		
+tr|Q31MM3|Q31MM3_SYNE7	K07054	uncharacterized protein	116		
+tr|Q31Q86|Q31Q86_SYNE7	K06906	uncharacterized protein	167		
+tr|Q31RK4|Q31RK4_SYNE7			313		
+tr|Q31KQ1|Q31KQ1_SYNE7			51	K08307	2
+tr|Q31S40|Q31S40_SYNE7	K02230	cobN; cobaltochelatase CobN [EC:6.6.1.2]	1591		
+tr|Q31MH1|Q31MH1_SYNE7	K11472	glcE; glycolate oxidase FAD binding subunit	299		
+tr|Q31PR7|Q31PR7_SYNE7	K01894	gluQ; glutamyl-Q tRNA(Asp) synthetase [EC:6.1.1.-]	291		
+tr|Q31P82|Q31P82_SYNE7			199		
+tr|Q31LG1|Q31LG1_SYNE7	K15634	gpmB; probable phosphoglycerate mutase [EC:5.4.2.12]	87		
+tr|Q31NL6|Q31NL6_SYNE7	K10563	mutM; formamidopyrimidine-DNA glycosylase [EC:3.2.2.23 4.2.99.18]	336		
+tr|Q31KD5|Q31KD5_SYNE7	K02033	ABC.PE.P; peptide/nickel transport system permease protein	383		
+tr|Q31N35|Q31N35_SYNE7			607		
+tr|Q31PR4|Q31PR4_SYNE7	K01945	purD; phosphoribosylamine--glycine ligase [EC:6.3.4.13]	518		
+tr|Q31Q61|Q31Q61_SYNE7	K13789	GGPS; geranylgeranyl diphosphate synthase, type II [EC:2.5.1.1 2.5.1.10 2.5.1.29]	398		
+tr|Q31KM0|Q31KM0_SYNE7			779	K03296	193
+tr|Q31LN0|Q31LN0_SYNE7	K03546	sbcC; exonuclease SbcC	91		
+tr|Q31PZ4|Q31PZ4_SYNE7			288		
+tr|Q31Q29|Q31Q29_SYNE7	K00696	E2.4.1.14; sucrose-phosphate synthase [EC:2.4.1.14]	708		
+tr|Q31K76|Q31K76_SYNE7	K06971	uncharacterized protein	426		
+tr|Q31NG5|Q31NG5_SYNE7	K06177	rluA; tRNA pseudouridine32 synthase / 23S rRNA pseudouridine746 synthase [EC:5.4.99.28 5.4.99.29]	379		
+tr|Q31S15|Q31S15_SYNE7			373		
+tr|Q31PV8|Q31PV8_SYNE7	K04518	pheA2; prephenate dehydratase [EC:4.2.1.51]	298		
+tr|Q31P86|Q31P86_SYNE7	K02564	nagB; glucosamine-6-phosphate deaminase [EC:3.5.99.6]	175		
+tr|Q31M25|Q31M25_SYNE7	K07566	tsaC; L-threonylcarbamoyladenylate synthase [EC:2.7.7.87]	205		
+tr|Q31NF6|Q31NF6_SYNE7	K01507	ppa; inorganic pyrophosphatase [EC:3.6.1.1]	303		
+tr|Q31MV0|Q31MV0_SYNE7	K03592	pmbA; PmbA protein	461		
+tr|Q31N66|Q31N66_SYNE7	K05568	mnhD; multicomponent Na+:H+ antiporter subunit D	689		
+tr|Q31RV2|Q31RV2_SYNE7	K00681	ggt; gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13]	439		
+tr|Q31NH5|Q31NH5_SYNE7			57	K03529	2
+tr|Q31JZ1|Q31JZ1_SYNE7			374		
+tr|Q31L84|Q31L84_SYNE7			28	K03546	1
+tr|Q31S73|Q31S73_SYNE7			18	K02761	6
+tr|Q31Q81|Q31Q81_SYNE7	K01185	E3.2.1.17; lysozyme [EC:3.2.1.17]	123		
+tr|Q31PG6|Q31PG6_SYNE7			112		
+tr|Q31P60|Q31P60_SYNE7			21	K02045	4
+tr|Q31S45|Q31S45_SYNE7			121		
+tr|Q31S65|Q31S65_SYNE7			229		
+tr|Q31K66|Q31K66_SYNE7			15	K03562	3
+tr|Q31NI9|Q31NI9_SYNE7			19	K03092	2
+tr|Q31PJ0|Q31PJ0_SYNE7			13	K03701	5
+tr|Q31Q42|Q31Q42_SYNE7			24	K01999	1
+tr|Q31LC1|Q31LC1_SYNE7			88		
+tr|Q31KU5|Q31KU5_SYNE7			204	K07276	9
+tr|Q31KV2|Q31KV2_SYNE7			162	K07276	9
+tr|Q31Q65|Q31Q65_SYNE7			186		
+tr|Q31KU4|Q31KU4_SYNE7			133	K01939	4
+tr|Q31S78|Q31S78_SYNE7			16	K02400	2
+tr|Q31KF4|Q31KF4_SYNE7			241		
+tr|Q31RW2|Q31RW2_SYNE7			16	K01000	2
+tr|Q31KW2|Q31KW2_SYNE7			15	K01920	3
+tr|Q31P34|Q31P34_SYNE7			210		
+tr|Q31RJ6|Q31RJ6_SYNE7			94		
+tr|Q31M67|Q31M67_SYNE7			21	K03529	1
+tr|Q31KS8|Q31KS8_SYNE7			211		
+tr|Q31Q93|Q31Q93_SYNE7			252		
+tr|Q31PF3|Q31PF3_SYNE7			15	K05851	6
+tr|Q31S37|Q31S37_SYNE7			21	K01996	6
+tr|Q31K42|Q31K42_SYNE7			17	K07493	1
+tr|Q31KT2|Q31KT2_SYNE7			181	K01785	4
+tr|Q31S33|Q31S33_SYNE7			56	K02016	2
+tr|Q31R98|Q31R98_SYNE7			30	K03820	1
+tr|Q31KP2|Q31KP2_SYNE7			378		
+tr|Q31R92|Q31R92_SYNE7			185		
+tr|Q31RH0|Q31RH0_SYNE7			119		
+tr|Q31LW7|Q31LW7_SYNE7			102		
+tr|Q31RM2|Q31RM2_SYNE7			115		
+tr|Q31LS3|Q31LS3_SYNE7			74		
+tr|Q31QA9|Q31QA9_SYNE7			19	K03111	2
+tr|Q31L70|Q31L70_SYNE7			16	K00790	3
+tr|Q31MM6|Q31MM6_SYNE7			103		
+tr|Q31PC0|Q31PC0_SYNE7			134		
+tr|Q31KW4|Q31KW4_SYNE7			16	K14652	2
+tr|Q31RQ8|Q31RQ8_SYNE7			198		
+tr|Q31NG9|Q31NG9_SYNE7			18	K02487/K06596	1
+tr|Q31QB8|Q31QB8_SYNE7			20	K01915	1
+tr|Q31QN5|Q31QN5_SYNE7			176	K01622	7
+tr|Q31QT7|Q31QT7_SYNE7			167		
+tr|Q31NZ7|Q31NZ7_SYNE7			150		
+tr|Q31KA0|Q31KA0_SYNE7			70		
+tr|Q31MI5|Q31MI5_SYNE7			69		
+tr|Q31QC7|Q31QC7_SYNE7			304		
+tr|Q31JY1|Q31JY1_SYNE7			23	K01595	2
+tr|Q31MY8|Q31MY8_SYNE7			142		
+tr|Q31KT8|Q31KT8_SYNE7			19	K00265	2
+tr|Q31NH7|Q31NH7_SYNE7			22	K02601	2
+tr|Q31PF1|Q31PF1_SYNE7			11	K02717	10
+tr|Q31K82|Q31K82_SYNE7			60	K01972	2
+tr|Q31MX6|Q31MX6_SYNE7			29	K01867	1
+tr|Q31JZ9|Q31JZ9_SYNE7			24	K02650	2
+tr|Q31QV9|Q31QV9_SYNE7			234		
+tr|Q31KX2|Q31KX2_SYNE7			43	K03546	1
+tr|Q31PT1|Q31PT1_SYNE7			24	K02316	1
+tr|Q31PB5|Q31PB5_SYNE7			17	K00281	3
+tr|Q31Q83|Q31Q83_SYNE7			19	K01870	1
+tr|Q31SD5|Q31SD5_SYNE7			166		
+tr|Q31RW5|Q31RW5_SYNE7			19	K00395	1
+tr|Q31NC7|Q31NC7_SYNE7			157		
+tr|Q31PN7|Q31PN7_SYNE7			35	K07465	7
+tr|Q31NZ4|Q31NZ4_SYNE7			22	K01608	3
+tr|Q31KW6|Q31KW6_SYNE7			167		
+tr|Q31RE0|Q31RE0_SYNE7			58		
+tr|Q31R69|Q31R69_SYNE7			205		
+tr|Q31LW5|Q31LW5_SYNE7			150		
+tr|Q31KH6|Q31KH6_SYNE7			15	K06147	1
+tr|Q31QC8|Q31QC8_SYNE7			112		
+tr|Q31NN6|Q31NN6_SYNE7			21	K07147	1
+tr|Q31K06|Q31K06_SYNE7			274		
+tr|Q31QX8|Q31QX8_SYNE7			119		
+tr|Q31SA1|Q31SA1_SYNE7			155	K02335	4
+tr|Q31N31|Q31N31_SYNE7			23	K01903	1
+tr|Q31N57|Q31N57_SYNE7			516		
+tr|Q31RX0|Q31RX0_SYNE7			17	K03631	2
+tr|Q31KY5|Q31KY5_SYNE7			295		
+tr|Q31QR2|Q31QR2_SYNE7			22	K01953	1
+tr|Q31MX9|Q31MX9_SYNE7			17	K03885	1
+tr|Q31LE4|Q31LE4_SYNE7			24	K02029	3
+tr|Q31Q48|Q31Q48_SYNE7			19	K00705	1
+tr|Q31PM1|Q31PM1_SYNE7			17	K11473	2
+tr|Q31S82|Q31S82_SYNE7			22	K13010	1
+tr|Q31P25|Q31P25_SYNE7			312		
+tr|Q31LT9|Q31LT9_SYNE7			20	K00059	1
+tr|Q31NA5|Q31NA5_SYNE7			52	K14742	2
+tr|Q31NR7|Q31NR7_SYNE7			176		
+tr|Q31QI9|Q31QI9_SYNE7			200		
+tr|Q31R80|Q31R80_SYNE7	K02698	psaK; photosystem I subunit X	111		
+tr|Q31KH0|Q31KH0_SYNE7			204		
+tr|Q31MD9|Q31MD9_SYNE7			200		
+tr|Q31M18|Q31M18_SYNE7			165		
+tr|Q31MN5|Q31MN5_SYNE7			59		
+tr|Q31Q96|Q31Q96_SYNE7			151		
+tr|Q31PS0|Q31PS0_SYNE7			161		
+tr|Q31QA0|Q31QA0_SYNE7			22	K01623	1
+tr|Q31L82|Q31L82_SYNE7			17	K00648	1
+tr|Q31PN4|Q31PN4_SYNE7			142		
+tr|Q31N88|Q31N88_SYNE7			172		
+tr|Q31NA9|Q31NA9_SYNE7			55	K07496	2
+tr|Q31S63|Q31S63_SYNE7			18	K07305	2
+tr|Q31Q68|Q31Q68_SYNE7			207		
+tr|Q31RI1|Q31RI1_SYNE7			27	K03265	1
+tr|Q31R64|Q31R64_SYNE7			105		
+tr|Q31MI2|Q31MI2_SYNE7			104		
+tr|Q31PJ5|Q31PJ5_SYNE7			134		
+tr|Q31KL3|Q31KL3_SYNE7			137		
+tr|Q31SA0|Q31SA0_SYNE7			16	K06941	1
+tr|Q31Q80|Q31Q80_SYNE7			227		
+tr|Q31RE5|Q31RE5_SYNE7			23	K07080	1
+tr|Q31QA8|Q31QA8_SYNE7			23	K03229	1
+tr|Q31KA1|Q31KA1_SYNE7			21	K02876	3
+tr|Q31RS7|Q31RS7_SYNE7			147		
+tr|Q31Q05|Q31Q05_SYNE7			367		
+tr|Q31LX5|Q31LX5_SYNE7			171		
+tr|Q31L06|Q31L06_SYNE7			12	K02029	2
+tr|Q31MB3|Q31MB3_SYNE7			19	K01641	1
+tr|Q31LY1|Q31LY1_SYNE7			144		
+tr|Q31P42|Q31P42_SYNE7			21	K00979	2
+tr|Q31QU0|Q31QU0_SYNE7			21	K03617	2
+tr|Q31MI3|Q31MI3_SYNE7			467		
+tr|Q31Q27|Q31Q27_SYNE7			19	K01876	2
+tr|Q31LF3|Q31LF3_SYNE7			79		
+tr|Q31L78|Q31L78_SYNE7			19	K03439	7
+tr|Q31QQ6|Q31QQ6_SYNE7			101		
+tr|Q31L72|Q31L72_SYNE7			20	K02612	2
+tr|Q31L74|Q31L74_SYNE7			20	K01867	4
+tr|Q31JU8|Q31JU8_SYNE7			22	K00219	3
+tr|Q31RZ0|Q31RZ0_SYNE7			28	K03574	2
+tr|Q31R90|Q31R90_SYNE7			413	K01193	42
+tr|Q31NU2|Q31NU2_SYNE7			80		
+tr|Q31M87|Q31M87_SYNE7			364		
+tr|Q31PM5|Q31PM5_SYNE7			27	K01873	1
+tr|Q31MG9|Q31MG9_SYNE7			198		
+tr|Q31NN5|Q31NN5_SYNE7			25	K01153	1
+tr|Q31P50|Q31P50_SYNE7			290		
+tr|Q31MI7|Q31MI7_SYNE7			13	K00868	2
+tr|Q31N01|Q31N01_SYNE7			17	K10439	2
+tr|Q31LP3|Q31LP3_SYNE7			28	K03701	2
+tr|Q31M91|Q31M91_SYNE7			21	K06959	5
+tr|Q31QH6|Q31QH6_SYNE7			276		
+tr|Q31SC6|Q31SC6_SYNE7			69		
+tr|Q31QB7|Q31QB7_SYNE7			20	K00317	1
+tr|Q31KW3|Q31KW3_SYNE7			22	K01535	1
+tr|Q31QR4|Q31QR4_SYNE7			11	K07024	9
+tr|Q31KY2|Q31KY2_SYNE7			87		
+tr|Q31RC4|Q31RC4_SYNE7			81		
+tr|Q31PR9|Q31PR9_SYNE7	K02698	psaK; photosystem I subunit X	80		
+tr|Q31SA3|Q31SA3_SYNE7	K00833	bioA; adenosylmethionine---8-amino-7-oxononanoate aminotransferase [EC:2.6.1.62]	35		
+tr|Q31QT9|Q31QT9_SYNE7			167		
+tr|Q31QE6|Q31QE6_SYNE7			30	K01809	1
+tr|Q31P45|Q31P45_SYNE7			207		
+tr|Q31RY4|Q31RY4_SYNE7			67		
+tr|Q31Q88|Q31Q88_SYNE7			20	K02071	2
+tr|Q31NG3|Q31NG3_SYNE7			27	K03615	1
+tr|Q31P52|Q31P52_SYNE7			312		
+tr|Q31NU4|Q31NU4_SYNE7			18	K02049	9
+tr|Q31MG5|Q31MG5_SYNE7			24	K11525	1
+tr|Q31QP2|Q31QP2_SYNE7			162		
+tr|Q31LQ8|Q31LQ8_SYNE7			34	K00801	1
+tr|Q31PH6|Q31PH6_SYNE7			18	K01358	1
+tr|Q31PJ7|Q31PJ7_SYNE7			487		
+tr|Q31RV1|Q31RV1_SYNE7			19	K00525	2
+tr|Q31QP4|Q31QP4_SYNE7			24	K00031	3
+tr|Q31QN0|Q31QN0_SYNE7			139		
+tr|Q31RN4|Q31RN4_SYNE7			20	K05366	2
+tr|Q31NE2|Q31NE2_SYNE7			31	K03406	4
+tr|Q31MD5|Q31MD5_SYNE7			63		
+tr|Q31L67|Q31L67_SYNE7			19	K01735	5
+tr|Q31P94|Q31P94_SYNE7			107		
+tr|Q31PB4|Q31PB4_SYNE7			21	K00242	4
+tr|Q31M85|Q31M85_SYNE7			24	K06948	1
+tr|Q31QH0|Q31QH0_SYNE7			166		
+tr|Q31LU3|Q31LU3_SYNE7			59	K00372	2
+tr|Q31QI5|Q31QI5_SYNE7	K14606	cruP; lycopene cyclase CruP [EC:5.5.1.19]	523		
+tr|Q31M52|Q31M52_SYNE7			126		
+tr|Q31MD2|Q31MD2_SYNE7			102		
+tr|Q31LU2|Q31LU2_SYNE7			414		
+tr|Q31MY1|Q31MY1_SYNE7			25	K06978	4
+tr|Q31PX2|Q31PX2_SYNE7			64	K00261	2
+tr|Q31RA7|Q31RA7_SYNE7			324		
+tr|Q31NQ8|Q31NQ8_SYNE7			23	K02652	2
+tr|Q31K02|Q31K02_SYNE7			24	K00425	1
+tr|Q31PV9|Q31PV9_SYNE7			130	K07769	4
+tr|Q31PT5|Q31PT5_SYNE7			33	K07004	1
+tr|Q31MR3|Q31MR3_SYNE7			79		
+tr|Q31R67|Q31R67_SYNE7			703		
+tr|Q31S68|Q31S68_SYNE7			17	K04783	2
+tr|Q31S46|Q31S46_SYNE7	K18805	chorismate lyase [EC:4.1.3.40]	292		
+tr|Q31PU8|Q31PU8_SYNE7			131		
+tr|Q31MI8|Q31MI8_SYNE7			197		
+tr|Q31PB1|Q31PB1_SYNE7			177		
+tr|Q31N54|Q31N54_SYNE7			108		
+tr|Q31PZ5|Q31PZ5_SYNE7			63	K15778	3
+tr|Q31L73|Q31L73_SYNE7			19	K01870	2
+tr|Q31MN4|Q31MN4_SYNE7			203		
+tr|Q31Q95|Q31Q95_SYNE7			109		
+tr|Q31RB5|Q31RB5_SYNE7			157	K07076	6
+tr|Q31PW7|Q31PW7_SYNE7			192		
+tr|Q31PT7|Q31PT7_SYNE7			164		
+tr|Q31QL0|Q31QL0_SYNE7			232		
+tr|Q31QN6|Q31QN6_SYNE7			16	K01153	9
+tr|Q31P72|Q31P72_SYNE7			114		
+tr|Q31Q44|Q31Q44_SYNE7	K03969	pspA; phage shock protein A	122		
+tr|Q31RE4|Q31RE4_SYNE7	K08902	psb27; photosystem II Psb27 protein	160		
+tr|Q31KJ2|Q31KJ2_SYNE7			152		
+tr|Q31Q72|Q31Q72_SYNE7			24	K00822	2
+tr|Q31P92|Q31P92_SYNE7			17	K01876	2
+tr|Q31R77|Q31R77_SYNE7			117		
+tr|Q31M01|Q31M01_SYNE7			109	K00568	10
+tr|Q31LS9|Q31LS9_SYNE7			246		
+tr|Q31PT9|Q31PT9_SYNE7			72		
+tr|Q31RX5|Q31RX5_SYNE7			16	K03110	2
+tr|Q31KQ3|Q31KQ3_SYNE7			14	K01881	1
+tr|Q31NE0|Q31NE0_SYNE7			36	K01968	2
+tr|Q31LW3|Q31LW3_SYNE7	K03666	hfq; host factor-I protein	65	K00859	2
+tr|Q31MT5|Q31MT5_SYNE7			509		
+tr|Q31L93|Q31L93_SYNE7			21	K06965	2
+tr|Q31RW7|Q31RW7_SYNE7			16	K03832	4
+tr|Q31R35|Q31R35_SYNE7			170		
+tr|Q31P97|Q31P97_SYNE7			247		
+tr|Q31L77|Q31L77_SYNE7			23	K04561	1
+tr|Q31QI0|Q31QI0_SYNE7			183		
+tr|Q31Q17|Q31Q17_SYNE7			18	K01890	2
+tr|Q31KT7|Q31KT7_SYNE7			147		
+tr|Q31PW9|Q31PW9_SYNE7			112		
+tr|Q31LH4|Q31LH4_SYNE7			19	K01955	3
+tr|Q31NH6|Q31NH6_SYNE7			16	K01652	9
+tr|Q31QG9|Q31QG9_SYNE7			60		
+tr|Q31R58|Q31R58_SYNE7			105	K16899	3
+tr|Q31KD4|Q31KD4_SYNE7			202		
+tr|Q31KM6|Q31KM6_SYNE7			20	K03583	2
+tr|Q31SB3|Q31SB3_SYNE7			479		
+tr|Q31MZ2|Q31MZ2_SYNE7			60		
+tr|Q31MB9|Q31MB9_SYNE7			83		
+tr|Q31Q91|Q31Q91_SYNE7			35	K00808	2
+tr|Q31MC1|Q31MC1_SYNE7			25	K03281	3
+tr|Q31LK0|Q31LK0_SYNE7			27	K03529	3
+tr|Q31KX7|Q31KX7_SYNE7			151		
+tr|Q31LV3|Q31LV3_SYNE7			62	K16898	2
+tr|Q31LR9|Q31LR9_SYNE7			221		
+tr|Q31Q37|Q31Q37_SYNE7			295		
+tr|Q31Q51|Q31Q51_SYNE7			264		
+tr|Q31RS4|Q31RS4_SYNE7			128		
+tr|Q31PE9|Q31PE9_SYNE7			166		
+tr|Q31PH1|Q31PH1_SYNE7			127		
+tr|Q31PK0|Q31PK0_SYNE7			161		
+tr|Q31KP5|Q31KP5_SYNE7			35	K03632	2
+tr|Q31PX5|Q31PX5_SYNE7			265		
+tr|Q31NK1|Q31NK1_SYNE7			178	K01448	18
+tr|Q31M62|Q31M62_SYNE7			23	K01873	1
+tr|Q31RR4|Q31RR4_SYNE7			19	K01657	1
+tr|Q31NC1|Q31NC1_SYNE7			16	K01665	1
+tr|Q31KX9|Q31KX9_SYNE7			19	K18902	4
+tr|Q31MC0|Q31MC0_SYNE7			21	K02358	2
+tr|Q31K39|Q31K39_SYNE7			297		
+tr|Q31MP3|Q31MP3_SYNE7			56	K01190	2
+tr|Q31R71|Q31R71_SYNE7			143		
+tr|Q31PG7|Q31PG7_SYNE7			257		
+tr|Q31NH1|Q31NH1_SYNE7			18	K01585	2
+tr|Q31LI3|Q31LI3_SYNE7			109		
+tr|Q31PU0|Q31PU0_SYNE7			251		
+tr|Q31PZ3|Q31PZ3_SYNE7			15	K18893	3
+tr|Q31KM2|Q31KM2_SYNE7			37	K19689	1
+tr|Q31RH1|Q31RH1_SYNE7			20	K07047	1
+tr|Q31QW5|Q31QW5_SYNE7			24	K01880	3
+tr|Q31K73|Q31K73_SYNE7			17	K08929	2
+tr|Q31RJ4|Q31RJ4_SYNE7			86		
+tr|Q31NL2|Q31NL2_SYNE7			15	K02357	4
+tr|Q31K21|Q31K21_SYNE7			125		
+tr|Q31PA5|Q31PA5_SYNE7			59		
+tr|Q31MF7|Q31MF7_SYNE7			20	K08680	1
+tr|Q31R17|Q31R17_SYNE7			23	K01711	1
+tr|Q31NR8|Q31NR8_SYNE7			142	K07276	8
+tr|Q31N02|Q31N02_SYNE7			12	K17675	3
+tr|Q31RV5|Q31RV5_SYNE7			192		
+tr|Q31QB3|Q31QB3_SYNE7			18	K09013	3
+tr|Q31QZ0|Q31QZ0_SYNE7			63		
+tr|Q31S18|Q31S18_SYNE7			21	K03555	1
+tr|Q31MC4|Q31MC4_SYNE7			19	K07007	7
+tr|Q31N79|Q31N79_SYNE7			135		
+tr|Q31KR9|Q31KR9_SYNE7			127		
+tr|Q31PT4|Q31PT4_SYNE7			34	K02034	1
+tr|Q31MT8|Q31MT8_SYNE7			71		
+tr|Q31KV8|Q31KV8_SYNE7			251		
+tr|Q31PB3|Q31PB3_SYNE7			20	K05550	4
+tr|Q31MY3|Q31MY3_SYNE7			26	K01924	1
+tr|Q31PS3|Q31PS3_SYNE7			58		
+tr|Q31SD1|Q31SD1_SYNE7			149		
+tr|Q31PK1|Q31PK1_SYNE7			158		
+tr|Q31S20|Q31S20_SYNE7			230		
+tr|Q31K72|Q31K72_SYNE7			122		
+tr|Q31SC4|Q31SC4_SYNE7			16	K05896	5
+tr|Q31Q40|Q31Q40_SYNE7			17	K07046	3
+tr|Q31JY4|Q31JY4_SYNE7			21	K02652	8
+tr|Q31R49|Q31R49_SYNE7			18	K00979	4
+tr|Q31M71|Q31M71_SYNE7			21	K00331	2
+tr|Q31LX6|Q31LX6_SYNE7			18	K10117	2
+tr|Q31L66|Q31L66_SYNE7			36	K00122	6
+tr|Q31N41|Q31N41_SYNE7			13	K00784	2
+tr|Q31KD3|Q31KD3_SYNE7			203		
+tr|Q31LW1|Q31LW1_SYNE7			80		
+tr|Q31JZ6|Q31JZ6_SYNE7			20	K00796	2
+tr|Q31M53|Q31M53_SYNE7			87		
+tr|Q31SA2|Q31SA2_SYNE7			20	K07287	2
+tr|Q31QU6|Q31QU6_SYNE7			22	K07445	2
+tr|Q31L86|Q31L86_SYNE7			20	K01866	1
+tr|Q31QT0|Q31QT0_SYNE7			16	K15524	2
+tr|Q31RM8|Q31RM8_SYNE7			17	K06158	1
+tr|Q31PJ4|Q31PJ4_SYNE7			118		
+tr|Q31KV3|Q31KV3_SYNE7			127	K20444	4
+tr|Q31K17|Q31K17_SYNE7			176		
+tr|Q31NJ0|Q31NJ0_SYNE7	K07000	uncharacterized protein	247		
+tr|Q31RE6|Q31RE6_SYNE7			111		
+tr|Q31PC3|Q31PC3_SYNE7			18	K03336	1
+tr|Q31QB5|Q31QB5_SYNE7			265		
+tr|Q31KC4|Q31KC4_SYNE7			119		
+tr|Q31MS6|Q31MS6_SYNE7			145		
+tr|Q31RC2|Q31RC2_SYNE7			26	K07657	2
+tr|Q31RG9|Q31RG9_SYNE7			105		
+tr|Q31LJ7|Q31LJ7_SYNE7			20	K07486	1
+tr|Q31QB6|Q31QB6_SYNE7			21	K01955	1
+tr|Q31KI2|Q31KI2_SYNE7			368		
+tr|Q31MX1|Q31MX1_SYNE7			19	K18480	1
+tr|Q31MD8|Q31MD8_SYNE7			81		
+tr|Q31ML3|Q31ML3_SYNE7			21	K06877	1
+tr|Q31MP8|Q31MP8_SYNE7			35	K03832	2
+tr|Q31M19|Q31M19_SYNE7			340		
+tr|Q31RX6|Q31RX6_SYNE7			122		
+tr|Q31PX7|Q31PX7_SYNE7			147		
+tr|Q31PY8|Q31PY8_SYNE7			104		
+tr|Q31PE7|Q31PE7_SYNE7			109		
+tr|Q31MX5|Q31MX5_SYNE7			18	K03655	2
+tr|Q31KJ4|Q31KJ4_SYNE7			131		
+tr|Q31MQ6|Q31MQ6_SYNE7			24	K09001	1
+tr|Q31MH8|Q31MH8_SYNE7			137		
+tr|Q31RC3|Q31RC3_SYNE7			199		
+tr|Q31Q76|Q31Q76_SYNE7			200		
+tr|Q31Q79|Q31Q79_SYNE7			120		
+tr|Q31MM5|Q31MM5_SYNE7			27	K03631	1
+tr|Q31Q59|Q31Q59_SYNE7			20	K02057	2
+tr|Q31MX8|Q31MX8_SYNE7			16	K15580	7
+tr|Q31MD3|Q31MD3_SYNE7			18	K02170	2
+tr|Q31KM3|Q31KM3_SYNE7			16	K01689	8
+tr|Q31NJ1|Q31NJ1_SYNE7			18	K04072	2
+tr|Q31JZ0|Q31JZ0_SYNE7			155		
+tr|Q31LQ1|Q31LQ1_SYNE7			198	K02012	4
+tr|Q31MG8|Q31MG8_SYNE7			292		
+tr|Q31Q11|Q31Q11_SYNE7			426		
+tr|Q31QA7|Q31QA7_SYNE7			23	K00311	2
+tr|Q31RB3|Q31RB3_SYNE7			21	K00128	1
+tr|Q31RY0|Q31RY0_SYNE7			36	K00658	1
+tr|Q31RK1|Q31RK1_SYNE7			162		
+tr|Q31S14|Q31S14_SYNE7			41		
+tr|Q31QM0|Q31QM0_SYNE7			59	K03833	2
+tr|Q31NG1|Q31NG1_SYNE7	K00748	lpxB; lipid-A-disaccharide synthase [EC:2.4.1.182]	444		
+tr|Q31M21|Q31M21_SYNE7			195		
+tr|Q31NL8|Q31NL8_SYNE7			384		
+tr|Q31PT2|Q31PT2_SYNE7			18	K11717	1
+tr|Q31QS5|Q31QS5_SYNE7			213		
+tr|Q31RR8|Q31RR8_SYNE7			18	K15520	1
+tr|Q31LK8|Q31LK8_SYNE7			255		
+tr|Q31LD1|Q31LD1_SYNE7			18	K11472	5
+tr|Q31RT3|Q31RT3_SYNE7			79		
+tr|Q31LR4|Q31LR4_SYNE7			134		
+tr|Q31L76|Q31L76_SYNE7			117		
+tr|Q31KR4|Q31KR4_SYNE7			241		
+tr|Q31R65|Q31R65_SYNE7			23	K03701	2
+tr|Q31QK7|Q31QK7_SYNE7			183	K01448	16
+tr|Q31NE4|Q31NE4_SYNE7			25	K03326	1
+tr|Q31QB4|Q31QB4_SYNE7			36	K04075	2
+tr|Q31N93|Q31N93_SYNE7			22	K02035	1
+tr|Q31SB7|Q31SB7_SYNE7			23	K05349	1
+tr|Q31PE8|Q31PE8_SYNE7			19	K01868	1
+tr|Q31R94|Q31R94_SYNE7			140		
+tr|Q31ND1|Q31ND1_SYNE7			178		
+tr|Q31QW8|Q31QW8_SYNE7			140		
+tr|Q31L52|Q31L52_SYNE7			21	K02346	2
+tr|Q31S94|Q31S94_SYNE7			71		
+tr|Q31MM8|Q31MM8_SYNE7			25	K01696	2
+tr|Q31MC5|Q31MC5_SYNE7			115		
+tr|Q31NA2|Q31NA2_SYNE7			103		
+tr|Q31LN7|Q31LN7_SYNE7			61	K07462	2
+tr|Q31KJ0|Q31KJ0_SYNE7			425		
+tr|Q31RI2|Q31RI2_SYNE7			20	K03553	1
+tr|Q31NR0|Q31NR0_SYNE7			14	K11209	4
+tr|Q31NF4|Q31NF4_SYNE7			24	K02355	1
+tr|Q31MX2|Q31MX2_SYNE7			20	K02528	2
+tr|Q31KE2|Q31KE2_SYNE7			13	K01996	6
+tr|Q31QB9|Q31QB9_SYNE7			24	K00121	1
+tr|Q31MQ7|Q31MQ7_SYNE7			134		
+tr|Q31LZ4|Q31LZ4_SYNE7			190		
+tr|Q31RW9|Q31RW9_SYNE7			25	K17686	1
+tr|Q31K60|Q31K60_SYNE7			30	K04046	1
+tr|Q31RT0|Q31RT0_SYNE7			20	K06919	1
+tr|Q31Q78|Q31Q78_SYNE7			161		
+tr|Q31P55|Q31P55_SYNE7			20	K02314	2
+tr|Q31PT3|Q31PT3_SYNE7			19	K06041	3
+tr|Q31RU4|Q31RU4_SYNE7			53	K04485	3
+tr|Q31RE8|Q31RE8_SYNE7			452		
+tr|Q31S77|Q31S77_SYNE7			20	K00666	1
+tr|Q31LH1|Q31LH1_SYNE7			154		
+tr|Q31Q71|Q31Q71_SYNE7	K14623	dinD; DNA-damage-inducible protein D	128		
+tr|Q31PQ6|Q31PQ6_SYNE7			187		
+tr|Q31P87|Q31P87_SYNE7			157		
+tr|Q31RQ4|Q31RQ4_SYNE7			168		
+tr|Q31MR0|Q31MR0_SYNE7			19	K03082	3
+tr|Q31RQ9|Q31RQ9_SYNE7			131		
+tr|Q31MZ6|Q31MZ6_SYNE7			16	K12573	2
+tr|Q31ML5|Q31ML5_SYNE7			54		
+tr|Q31K85|Q31K85_SYNE7			106		
+tr|Q31LI9|Q31LI9_SYNE7			455		
+tr|Q31JS8|Q31JS8_SYNE7			18	K00721	5
+tr|Q31QA5|Q31QA5_SYNE7			12	K00133	2
+tr|Q31PM3|Q31PM3_SYNE7			202		
+tr|Q31M27|Q31M27_SYNE7			22	K03406	2
+Contaminant_TRYP_PIG			153	K01312	19
+Contaminant_Trypa1					
+Contaminant_Trypa2					
+Contaminant_Trypa3					
+Contaminant_Trypa4					
+Contaminant_Trypa5			17	K03701	1
+Contaminant_Trypa6					
+Contaminant_TRYP_BOVIN			153	K01312	19
+Contaminant_CTRA_BOVIN			135	K01312	16
+Contaminant_CTRB_BOVIN			131	K01312	15
+Contaminant_ALBU_HUMAN			20	K03685	1
+Contaminant_ALBU_BOVIN			16	K01494	2
+Contaminant_K2C1_HUMAN			38	K03546	5
+Contaminant_K22E_HUMAN			24	K03529	2
+Contaminant_K1C9_HUMAN			25	K03529	2
+Contaminant_K1C10_HUMAN			24	K03529	4

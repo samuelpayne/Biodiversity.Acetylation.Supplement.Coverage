@@ -1,0 +1,2905 @@
+sp|C9RPK4|BIOW_FIBSS	K01906	bioW; 6-carboxyhexanoate--CoA ligase [EC:6.2.1.14]	142	K00652/K01906	33
+sp|C9RR52|CPDA_FIBSS	K03651	icc; Icc protein	114		
+sp|P42475|EFTU_FIBSS	K02358	tuf; elongation factor Tu	564		
+sp|P17989|GUB_FIBSS			192	K01179	17
+sp|P14250|GUN3_FIBSS			45	K01179	16
+sp|P35810|GYRA_FIBSS	K02469	gyrA; DNA gyrase subunit A [EC:5.99.1.3]	886		
+sp|P0DN68|LEXA_FIBSS	K01356	lexA; repressor LexA [EC:3.4.21.88]	205		
+sp|Q939R0|PYRG_FIBSS	K01937	pyrG; CTP synthase [EC:6.3.4.2]	698		
+sp|C9RLJ9|RHO_FIBSS	K03628	rho; transcription termination factor Rho	511		
+sp|P35811|XYNC_FIBSS			248	K01181	35
+tr|Q932S2|Q932S2_FIBSS	K01872	AARS; alanyl-tRNA synthetase [EC:6.1.1.7]	89		
+tr|V6BJF8|V6BJF8_FIBSS					
+tr|Q939R1|Q939R1_FIBSS	K04043	dnaK; molecular chaperone DnaK	667		
+tr|A7UG60|A7UG60_FIBSS			341		
+tr|Q939R2|Q939R2_FIBSS	K04077	groEL; chaperonin GroEL	379		
+tr|Q9F109|Q9F109_FIBSS			77	K01181	65
+tr|Q9F4L2|Q9F4L2_FIBSS			31	K15923	8
+tr|Q9F107|Q9F107_FIBSS	K01181	E3.2.1.8; endo-1,4-beta-xylanase [EC:3.2.1.8]	97		
+tr|Q9F4K9|Q9F4K9_FIBSS	K01181	E3.2.1.8; endo-1,4-beta-xylanase [EC:3.2.1.8]	84		
+tr|A7UG54|A7UG54_FIBSS			275	K01181	33
+tr|P77864|P77864_FIBSS	K01179	E3.2.1.4; endoglucanase [EC:3.2.1.4]	490		
+tr|O66065|O66065_FIBSS	K01179	E3.2.1.4; endoglucanase [EC:3.2.1.4]	279		
+tr|P71326|P71326_FIBSS	K01179	E3.2.1.4; endoglucanase [EC:3.2.1.4]	416		
+tr|Q9F4L1|Q9F4L1_FIBSS			344		
+tr|Q9F4L0|Q9F4L0_FIBSS			78	K01181	62
+tr|A7UG65|A7UG65_FIBSS			58		
+tr|A7UG36|A7UG36_FIBSS			23	K00803	2
+tr|A7UG49|A7UG49_FIBSS			289		
+tr|A7UG52|A7UG52_FIBSS			56	K09800	2
+tr|A7UG47|A7UG47_FIBSS			167	K05366	4
+tr|A7UG57|A7UG57_FIBSS			509		
+tr|Q9F106|Q9F106_FIBSS			307		
+tr|A7UG58|A7UG58_FIBSS			337		
+tr|A7UG48|A7UG48_FIBSS			159	K02004	4
+tr|A7UG40|A7UG40_FIBSS			22	K03217	3
+tr|A7UG68|A7UG68_FIBSS			411		
+tr|A7UG51|A7UG51_FIBSS			22	K01953	1
+tr|A7UG43|A7UG43_FIBSS			51	K05349	2
+tr|A7UG39|A7UG39_FIBSS			87	K09681	18
+tr|A7UG62|A7UG62_FIBSS			187		
+tr|A7UG53|A7UG53_FIBSS			26	K18554	1
+tr|A7UG44|A7UG44_FIBSS			29	K13894	1
+tr|A7UG63|A7UG63_FIBSS			39	K01183	7
+tr|A7UG50|A7UG50_FIBSS			48	K02650	13
+tr|A7UG56|A7UG56_FIBSS			19	K02601	2
+tr|A7UG64|A7UG64_FIBSS			133	K07248	4
+tr|Q9F108|Q9F108_FIBSS			275	K01181	42
+tr|A7UG41|A7UG41_FIBSS			20	K00574	3
+tr|A7UG33|A7UG33_FIBSS			183	K09134	17
+tr|A7UG38|A7UG38_FIBSS			240		
+tr|A7UG46|A7UG46_FIBSS			37	K01439	1
+tr|A7UG35|A7UG35_FIBSS			124	K07814	18
+tr|A7UG66|A7UG66_FIBSS			450		
+tr|A7UG67|A7UG67_FIBSS	K01179	E3.2.1.4; endoglucanase [EC:3.2.1.4]	501		
+tr|A7UG45|A7UG45_FIBSS			27	K02230	4
+tr|A7UG42|A7UG42_FIBSS			22	K04079	3
+tr|A7UG61|A7UG61_FIBSS			210	K20276	16
+tr|A7UG37|A7UG37_FIBSS			178	K03286	54
+tr|A7UG34|A7UG34_FIBSS			26	K03287	10
+tr|A7UG69|A7UG69_FIBSS	K01179	E3.2.1.4; endoglucanase [EC:3.2.1.4]	342		
+tr|A7UG59|A7UG59_FIBSS			420		
+tr|A7UG55|A7UG55_FIBSS			166		
+tr|C9RLC0|C9RLC0_FIBSS			31	K04567	3
+tr|C9RN18|C9RN18_FIBSS			105	K13006	9
+tr|D9S9M5|D9S9M5_FIBSS	K03310	TC.AGCS; alanine or glycine:cation symporter, AGCS family	530		
+tr|C9RMW4|C9RMW4_FIBSS	K00760	hprT; hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]	148		
+tr|C9RN23|C9RN23_FIBSS			322		
+tr|C9RM62|C9RM62_FIBSS			337	K02667	30
+tr|C9RNH2|C9RNH2_FIBSS			247		
+tr|D9S9U0|D9S9U0_FIBSS	K04096	smf; DNA processing protein	241		
+tr|C9RL88|C9RL88_FIBSS	K10773	NTH; endonuclease III [EC:4.2.99.18]	269		
+tr|C9RPZ3|C9RPZ3_FIBSS			10	K01695	2
+tr|D9S929|D9S929_FIBSS			139		
+tr|C9RNK4|C9RNK4_FIBSS			34	K02843	1
+tr|C9RLT8|C9RLT8_FIBSS			19	K00554	1
+tr|C9RKX2|C9RKX2_FIBSS	K03601	xseA; exodeoxyribonuclease VII large subunit [EC:3.1.11.6]	256		
+tr|C9RMJ1|C9RMJ1_FIBSS	K00939	adk; adenylate kinase [EC:2.7.4.3]	146		
+tr|C9RQH1|C9RQH1_FIBSS	K01810	GPI; glucose-6-phosphate isomerase [EC:5.3.1.9]	745		
+tr|D9S776|D9S776_FIBSS	K02015	ABC.FEV.P; iron complex transport system permease protein	232		
+tr|D9S750|D9S750_FIBSS	K11996	MOCS3; adenylyltransferase and sulfurtransferase [EC:2.7.7.80]	363		
+tr|C9RLI4|C9RLI4_FIBSS			21	K01686	2
+tr|C9RP32|C9RP32_FIBSS			175		
+tr|C9RK95|C9RK95_FIBSS	K01000	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase [EC:2.7.8.13]	27		
+tr|D9S5G6|D9S5G6_FIBSS			29	K01338	1
+tr|C9RNY6|C9RNY6_FIBSS	K00602	purH; phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10]	359		
+tr|C9RKH0|C9RKH0_FIBSS	K02343	DPO3G; DNA polymerase III subunit gamma/tau [EC:2.7.7.7]	413		
+tr|C9RPX6|C9RPX6_FIBSS			16	K00548	15
+tr|C9RJ90|C9RJ90_FIBSS			21	K01846	2
+tr|C9RKL9|C9RKL9_FIBSS			34	K01687	4
+tr|D9SAC9|D9SAC9_FIBSS			27	K20543	2
+tr|C9RIX5|C9RIX5_FIBSS	K07003	uncharacterized protein	375		
+tr|C9RN95|C9RN95_FIBSS			120	K03286	21
+tr|C9RKC6|C9RKC6_FIBSS			132		
+tr|C9RIT7|C9RIT7_FIBSS	K00067	rfbD; dTDP-4-dehydrorhamnose reductase [EC:1.1.1.133]	174		
+tr|C9RIJ4|C9RIJ4_FIBSS			22	K12678	2
+tr|C9RIR0|C9RIR0_FIBSS	K02902	RP-L28; large subunit ribosomal protein L28	94		
+tr|C9RND1|C9RND1_FIBSS			258		
+tr|C9RIJ9|C9RIJ9_FIBSS	K02970	RP-S21; small subunit ribosomal protein S21	63		
+tr|C9RQC6|C9RQC6_FIBSS					
+tr|D9S631|D9S631_FIBSS			110	K18855	15
+tr|D9S4X2|D9S4X2_FIBSS			11	K09778	10
+tr|C9RRM5|C9RRM5_FIBSS	K02238	comEC; competence protein ComEC	66		
+tr|C9RRN9|C9RRN9_FIBSS			182		
+tr|C9RJG7|C9RJG7_FIBSS	K00688	E2.4.1.1; starch phosphorylase [EC:2.4.1.1]	999		
+tr|C9RJI9|C9RJI9_FIBSS	K01912	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]	544		
+tr|C9RS30|C9RS30_FIBSS	K07407	E3.2.1.22B; alpha-galactosidase [EC:3.2.1.22]	432		
+tr|D9S5B7|D9S5B7_FIBSS			290		
+tr|C9RK66|C9RK66_FIBSS			20	K02075	2
+tr|D9SA71|D9SA71_FIBSS			192	K20444	7
+tr|C9RQ34|C9RQ34_FIBSS			350		
+tr|C9RQ49|C9RQ49_FIBSS	K02584	nifA; Nif-specific regulatory protein	286		
+tr|D9S3Z5|D9S3Z5_FIBSS	K07238	TC.ZIP; zinc transporter, ZIP family	352		
+tr|C9RQW2|C9RQW2_FIBSS			373		
+tr|D9SB16|D9SB16_FIBSS			138	K04043	7
+tr|C9RRE6|C9RRE6_FIBSS	K01783	rpe; ribulose-phosphate 3-epimerase [EC:5.1.3.1]	246		
+tr|C9RPC7|C9RPC7_FIBSS			326		
+tr|D9SBZ5|D9SBZ5_FIBSS	K01267	DNPEP; aspartyl aminopeptidase [EC:3.4.11.21]	327		
+tr|D9S449|D9S449_FIBSS			467		
+tr|C9RPC4|C9RPC4_FIBSS			192		
+tr|D9SC02|D9SC02_FIBSS	K00694	bcsA; cellulose synthase (UDP-forming) [EC:2.4.1.12]	535		
+tr|C9RNP5|C9RNP5_FIBSS	K01992	ABC-2.P; ABC-2 type transport system permease protein	167		
+tr|C9RMI1|C9RMI1_FIBSS			19	K00969	1
+tr|C9RM42|C9RM42_FIBSS			425		
+tr|C9RM34|C9RM34_FIBSS			25	K10773	2
+tr|D9S6K1|D9S6K1_FIBSS	K03328	TC.PST; polysaccharide transporter, PST family	173		
+tr|C9RJ86|C9RJ86_FIBSS	K00059	fabG; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	267		
+tr|D9S578|D9S578_FIBSS			14	K02026	3
+tr|C9RQB4|C9RQB4_FIBSS			330		
+tr|C9RJE4|C9RJE4_FIBSS	K03282	mscL; large conductance mechanosensitive channel	110		
+tr|C9RPR0|C9RPR0_FIBSS			385		
+tr|C9RK54|C9RK54_FIBSS			198		
+tr|C9RRH2|C9RRH2_FIBSS			115		
+tr|D9SBM6|D9SBM6_FIBSS	K00974	cca; tRNA nucleotidyltransferase (CCA-adding enzyme) [EC:2.7.7.72 3.1.3.- 3.1.4.-]	268		
+tr|C9RNV5|C9RNV5_FIBSS	K02123	ATPVI; V/A-type H+/Na+-transporting ATPase subunit I	307		
+tr|C9RMY3|C9RMY3_FIBSS			20	K07047	1
+tr|C9RM05|C9RM05_FIBSS			345		
+tr|C9RM81|C9RM81_FIBSS			132	K01491	7
+tr|C9RM88|C9RM88_FIBSS	K03655	recG; ATP-dependent DNA helicase RecG [EC:3.6.4.12]	511		
+tr|C9RMF9|C9RMF9_FIBSS			171		
+tr|C9RKK5|C9RKK5_FIBSS			69	K03828	3
+tr|C9RIM2|C9RIM2_FIBSS	K05515	mrdA; penicillin-binding protein 2	439		
+tr|D9S780|D9S780_FIBSS			19	K01835	2
+tr|C9RKS6|C9RKS6_FIBSS			36	K03531	2
+tr|C9RS04|C9RS04_FIBSS	K02914	RP-L34; large subunit ribosomal protein L34	73		
+tr|C9RIN2|C9RIN2_FIBSS	K03524	birA; BirA family transcriptional regulator, biotin operon repressor / biotin-[acetyl-CoA-carboxylase] ligase [EC:6.3.4.15]	157		
+tr|C9RSA3|C9RSA3_FIBSS	K09903	pyrH; uridylate kinase [EC:2.7.4.22]	292		
+tr|D9S5D8|D9S5D8_FIBSS			232		
+tr|C9RQR7|C9RQR7_FIBSS			136	K04771	6
+tr|C9RR58|C9RR58_FIBSS			52	K04749	2
+tr|C9RJC9|C9RJC9_FIBSS			410		
+tr|D9S9X3|D9S9X3_FIBSS	K02523	ispB; octaprenyl-diphosphate synthase [EC:2.5.1.90]	203		
+tr|D9SA34|D9SA34_FIBSS	K03574	mutT; 8-oxo-dGTP diphosphatase [EC:3.6.1.55]	147		
+tr|C9RNI3|C9RNI3_FIBSS			22	K18805	1
+tr|D9SAT1|D9SAT1_FIBSS	K03711	fur; Fur family transcriptional regulator, ferric uptake regulator	25	K02076	13
+tr|D9S8I1|D9S8I1_FIBSS			54	K03771	1
+tr|C9RLF2|C9RLF2_FIBSS			24	K08974	1
+tr|C9RQ14|C9RQ14_FIBSS	K02591	nifK; nitrogenase molybdenum-iron protein beta chain [EC:1.18.6.1]	455		
+tr|C9RPX7|C9RPX7_FIBSS			129		
+tr|D9S7U5|D9S7U5_FIBSS					
+tr|D9S4A7|D9S4A7_FIBSS	K03798	ftsH; cell division protease FtsH [EC:3.4.24.-]	682		
+tr|C9RR72|C9RR72_FIBSS	K03070	secA; preprotein translocase subunit SecA	900		
+tr|C9RPM5|C9RPM5_FIBSS	K03469	rnhA; ribonuclease HI [EC:3.1.26.4]	129		
+tr|D9SA75|D9SA75_FIBSS			208	K03685	3
+tr|C9RJV5|C9RJV5_FIBSS	K02986	RP-S4; small subunit ribosomal protein S4	197		
+tr|C9RLD0|C9RLD0_FIBSS			24	K13687	1
+tr|C9RRW2|C9RRW2_FIBSS	K02037	pstC; phosphate transport system permease protein	389		
+tr|C9RRU0|C9RRU0_FIBSS			15	K01151	1
+tr|C9RRQ4|C9RRQ4_FIBSS			132	K01847	4
+tr|C9RS88|C9RS88_FIBSS			57	K10747	2
+tr|C9RS20|C9RS20_FIBSS			154	K15921	40
+tr|C9RN91|C9RN91_FIBSS	K12132	prkC; eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]	134		
+tr|D9S547|D9S547_FIBSS	K00833	bioA; adenosylmethionine---8-amino-7-oxononanoate aminotransferase [EC:2.6.1.62]	466		
+tr|C9RNW1|C9RNW1_FIBSS			20	K03179	6
+tr|C9RR18|C9RR18_FIBSS	K02881	RP-L18; large subunit ribosomal protein L18	139		
+tr|D9SBX9|D9SBX9_FIBSS	K02477	two-component system	187		
+tr|C9RLA5|C9RLA5_FIBSS			172		
+tr|C9RN89|C9RN89_FIBSS	K00013	hisD; histidinol dehydrogenase [EC:1.1.1.23]	417		
+tr|C9RLB5|C9RLB5_FIBSS			61	K03325	2
+tr|D9S9L1|D9S9L1_FIBSS			408		
+tr|D9S9S2|D9S9S2_FIBSS	K02520	infC; translation initiation factor IF-3	184		
+tr|C9RLX3|C9RLX3_FIBSS			294		
+tr|C9RPY2|C9RPY2_FIBSS			161		
+tr|C9RNL4|C9RNL4_FIBSS	K03797	E3.4.21.102; carboxyl-terminal processing protease [EC:3.4.21.102]	379		
+tr|C9RNN5|C9RNN5_FIBSS					
+tr|C9RQH6|C9RQH6_FIBSS	K03924	moxR; MoxR-like ATPase [EC:3.6.3.-]	414		
+tr|D9S7X5|D9S7X5_FIBSS			199		
+tr|C9RNA7|C9RNA7_FIBSS	K18672	dacA; diadenylate cyclase [EC:2.7.7.85]	134		
+tr|C9RMF1|C9RMF1_FIBSS	K07814	putative two-component system response regulator	110		
+tr|C9RIM4|C9RIM4_FIBSS			123		
+tr|D9S815|D9S815_FIBSS			137		
+tr|D9S640|D9S640_FIBSS			386		
+tr|C9RQN1|C9RQN1_FIBSS			264	K01179	30
+tr|C9RNW8|C9RNW8_FIBSS	K01756	purB; adenylosuccinate lyase [EC:4.3.2.2]	617		
+tr|C9RKE0|C9RKE0_FIBSS	K02825	pyrR; pyrimidine operon attenuation protein / uracil phosphoribosyltransferase [EC:2.4.2.9]	168		
+tr|C9RKS1|C9RKS1_FIBSS			25	K01624	1
+tr|C9RM32|C9RM32_FIBSS			75		
+tr|C9RP91|C9RP91_FIBSS	K03521	fixA; electron transfer flavoprotein beta subunit	390		
+tr|C9RNI4|C9RNI4_FIBSS			23	K03797	1
+tr|C9RQF4|C9RQF4_FIBSS	K14623	dinD; DNA-damage-inducible protein D	357		
+tr|D9S8L3|D9S8L3_FIBSS			147		
+tr|C9RLN2|C9RLN2_FIBSS	K01224	E3.2.1.89; arabinogalactan endo-1,4-beta-galactosidase [EC:3.2.1.89]	220		
+tr|C9RL75|C9RL75_FIBSS			16	K00425	2
+tr|C9RS84|C9RS84_FIBSS	K01156	res; type III restriction enzyme [EC:3.1.21.5]	655		
+tr|C9RLM2|C9RLM2_FIBSS			108	K17898	4
+tr|C9RJY0|C9RJY0_FIBSS	K06881	nrnA; bifunctional oligoribonuclease and PAP phosphatase NrnA [EC:3.1.3.7 3.1.13.3]	300		
+tr|D9S7R2|D9S7R2_FIBSS			184		
+tr|C9RK40|C9RK40_FIBSS			157	K03821	4
+tr|C9RRU3|C9RRU3_FIBSS	K07003	uncharacterized protein	551		
+tr|C9RLD1|C9RLD1_FIBSS	K00762	pyrE; orotate phosphoribosyltransferase [EC:2.4.2.10]	221		
+tr|D9S4H9|D9S4H9_FIBSS			650		
+tr|C9RQW1|C9RQW1_FIBSS			22	K00685	2
+tr|C9RIQ7|C9RIQ7_FIBSS			74		
+tr|C9RRG8|C9RRG8_FIBSS			346		
+tr|D9S7W5|D9S7W5_FIBSS			21	K06907	1
+tr|C9RR73|C9RR73_FIBSS	K00943	tmk; dTMP kinase [EC:2.7.4.9]	193		
+tr|C9RNC2|C9RNC2_FIBSS			25	K02564	1
+tr|C9RMV7|C9RMV7_FIBSS	K03650	mnmE; tRNA modification GTPase [EC:3.6.-.-]	316		
+tr|C9RMX0|C9RMX0_FIBSS	K00209	fabV; enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+) [EC:1.3.1.9 1.3.1.44]	459		
+tr|C9RM23|C9RM23_FIBSS	K03925	mraZ; MraZ protein	79		
+tr|C9RN55|C9RN55_FIBSS			17	K02025	2
+tr|D9S8Z9|D9S8Z9_FIBSS			363		
+tr|C9RLR5|C9RLR5_FIBSS	K00240	sdhB; succinate dehydrogenase / fumarate reductase, iron-sulfur subunit [EC:1.3.5.1 1.3.5.4]	371		
+tr|C9RKW7|C9RKW7_FIBSS			23	K02558	1
+tr|C9RKE4|C9RKE4_FIBSS	K06153	bacA; undecaprenyl-diphosphatase [EC:3.6.1.27]	221		
+tr|C9RKJ7|C9RKJ7_FIBSS	K00053	ilvC; ketol-acid reductoisomerase [EC:1.1.1.86]	721		
+tr|C9RJ73|C9RJ73_FIBSS			128		
+tr|D9S9M7|D9S9M7_FIBSS			198	K20276	4
+tr|C9RJ61|C9RJ61_FIBSS	K00527	nrdD; ribonucleoside-triphosphate reductase [EC:1.17.4.2]	292		
+tr|C9RS10|C9RS10_FIBSS			23	K01873	3
+tr|C9RRZ4|C9RRZ4_FIBSS	K03561	exbB; biopolymer transport protein ExbB	92		
+tr|C9RKW6|C9RKW6_FIBSS	K11069	potD; spermidine/putrescine transport system substrate-binding protein	280		
+tr|C9RLZ8|C9RLZ8_FIBSS			216	K03699	103
+tr|C9RPB7|C9RPB7_FIBSS			275		
+tr|C9RMW8|C9RMW8_FIBSS			24	K03046	1
+tr|D9S5D7|D9S5D7_FIBSS			459		
+tr|C9RKE3|C9RKE3_FIBSS			15	K06986	11
+tr|D9S894|D9S894_FIBSS	K19810	epmB; L-lysine 2,3-aminomutase [EC:5.4.3.-]	160		
+tr|C9RM38|C9RM38_FIBSS	K01424	E3.5.1.1; L-asparaginase [EC:3.5.1.1]	233		
+tr|C9RLJ3|C9RLJ3_FIBSS			18	K01835	1
+tr|C9RQC0|C9RQC0_FIBSS			14	K01652	14
+tr|C9RLS5|C9RLS5_FIBSS	K02029	ABC.PA.P; polar amino acid transport system permease protein	227	K02030	24
+tr|C9RJJ9|C9RJJ9_FIBSS	K00334	nuoE; NADH-quinone oxidoreductase subunit E [EC:1.6.5.3]	98		
+tr|C9RPD6|C9RPD6_FIBSS	K19997	gnu; GlcNAc-P-P-Und epimerase [EC:5.1.3.26]	283		
+tr|D9S7D3|D9S7D3_FIBSS	K01465	URA4; dihydroorotase [EC:3.5.2.3]	237		
+tr|D9S3W9|D9S3W9_FIBSS	K07658	phoB1; two-component system, OmpR family, alkaline phosphatase synthesis response regulator PhoP	252		
+tr|C9RQM0|C9RQM0_FIBSS	K07090	uncharacterized protein	173		
+tr|C9RRE0|C9RRE0_FIBSS			20	K00937	2
+tr|C9RPK2|C9RPK2_FIBSS	K01935	bioD; dethiobiotin synthetase [EC:6.3.3.3]	240		
+tr|D9S4Y4|D9S4Y4_FIBSS			180		
+tr|D9SAQ5|D9SAQ5_FIBSS			209	K02469	3
+tr|C9RIP1|C9RIP1_FIBSS			19	K07458	1
+tr|C9RR83|C9RR83_FIBSS	K01933	purM; phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.3.1]	377		
+tr|C9RIJ1|C9RIJ1_FIBSS	K01945	purD; phosphoribosylamine--glycine ligase [EC:6.3.4.13]	478		
+tr|C9RNQ3|C9RNQ3_FIBSS			243		
+tr|C9RLA1|C9RLA1_FIBSS			199		
+tr|D9SAT8|D9SAT8_FIBSS	K02014	TC.FEV.OM; iron complex outermembrane recepter protein	308		
+tr|C9RJ66|C9RJ66_FIBSS			316		
+tr|D9S7F4|D9S7F4_FIBSS			149		
+tr|C9RMJ4|C9RMJ4_FIBSS			26	K01892	1
+tr|C9RJY5|C9RJY5_FIBSS	K02517	lpxL; Kdo2-lipid IVA lauroyltransferase [EC:2.3.1.241]	64		
+tr|D9S5W3|D9S5W3_FIBSS	K02536	lpxD; UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [EC:2.3.1.191]	194		
+tr|C9RJJ2|C9RJJ2_FIBSS	K17830	GGR; digeranylgeranylglycerophospholipid reductase [EC:1.3.1.101 1.3.7.11]	168		
+tr|C9RJT4|C9RJT4_FIBSS			437		
+tr|D9S3U6|D9S3U6_FIBSS	K04758	feoA; ferrous iron transport protein A	69	K03709	4
+tr|C9RPS0|C9RPS0_FIBSS			22	K01256	2
+tr|C9RIM3|C9RIM3_FIBSS	K05837	rodA; rod shape determining protein RodA	312		
+tr|C9RJA8|C9RJA8_FIBSS			607		
+tr|C9RJI1|C9RJI1_FIBSS			30	K12508	1
+tr|C9RRY6|C9RRY6_FIBSS			195		
+tr|C9RML9|C9RML9_FIBSS			366		
+tr|C9RML1|C9RML1_FIBSS	K00058	serA; D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95]	120		
+tr|C9RNG7|C9RNG7_FIBSS			119		
+tr|C9RL91|C9RL91_FIBSS	K01886	QARS; glutaminyl-tRNA synthetase [EC:6.1.1.18]	750		
+tr|C9RNH3|C9RNH3_FIBSS			432		
+tr|C9RQ13|C9RQ13_FIBSS			182		
+tr|C9RJ71|C9RJ71_FIBSS			23	K01433	2
+tr|C9RKM9|C9RKM9_FIBSS			140		
+tr|D9SAW0|D9SAW0_FIBSS			115	K01216	3
+tr|C9RJH6|C9RJH6_FIBSS			22	K00548	1
+tr|C9RRL6|C9RRL6_FIBSS			31	K00820	2
+tr|C9RPJ6|C9RPJ6_FIBSS			24	K00656	1
+tr|C9RLU9|C9RLU9_FIBSS	K01693	hisB; imidazoleglycerol-phosphate dehydratase [EC:4.2.1.19]	205		
+tr|C9RIZ3|C9RIZ3_FIBSS			201		
+tr|D9SA66|D9SA66_FIBSS			151		
+tr|C9RMT8|C9RMT8_FIBSS			22	K01962	3
+tr|C9RPL0|C9RPL0_FIBSS	K03111	ssb; single-strand DNA-binding protein	145		
+tr|C9RNE3|C9RNE3_FIBSS	K00973	E2.7.7.24; glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24]	474		
+tr|C9RQZ8|C9RQZ8_FIBSS			29	K07316	1
+tr|C9RLN7|C9RLN7_FIBSS	K03701	uvrA; excinuclease ABC subunit A	382		
+tr|D9S839|D9S839_FIBSS			23	K01534	1
+tr|C9RNR1|C9RNR1_FIBSS			121	K13643	30
+tr|C9RRT8|C9RRT8_FIBSS			159		
+tr|C9RIT4|C9RIT4_FIBSS			209		
+tr|C9RIR4|C9RIR4_FIBSS			160		
+tr|C9RJ11|C9RJ11_FIBSS	K03559	exbD; biopolymer transport protein ExbD	128		
+tr|C9RJ03|C9RJ03_FIBSS	K19158	yoeB; toxin YoeB [EC:3.1.-.-]	128		
+tr|D9S442|D9S442_FIBSS			464		
+tr|C9RR02|C9RR02_FIBSS	K03545	tig; trigger factor	225		
+tr|D9S9F9|D9S9F9_FIBSS			23	K09810	1
+tr|C9RMA2|C9RMA2_FIBSS			264		
+tr|C9RMK8|C9RMK8_FIBSS			233		
+tr|C9RR15|C9RR15_FIBSS	K02876	RP-L15; large subunit ribosomal protein L15	89		
+tr|C9RL14|C9RL14_FIBSS	K02226	cobC; alpha-ribazole phosphatase [EC:3.1.3.73]	81		
+tr|C9RPY6|C9RPY6_FIBSS			18	K14105	1
+tr|C9RMG3|C9RMG3_FIBSS			507		
+tr|C9RKT0|C9RKT0_FIBSS			19	K03584	2
+tr|C9RRV3|C9RRV3_FIBSS			303		
+tr|D9SBU1|D9SBU1_FIBSS			61	K03076	2
+tr|C9RS08|C9RS08_FIBSS	K01207	nagZ; beta-N-acetylhexosaminidase [EC:3.2.1.52]	333		
+tr|D9S556|D9S556_FIBSS	K01775	alr; alanine racemase [EC:5.1.1.1]	310		
+tr|C9RJA6|C9RJA6_FIBSS	K06966	uncharacterized protein	260		
+tr|D9SBP3|D9SBP3_FIBSS			28	K02031/K02032	1
+tr|C9RMT3|C9RMT3_FIBSS			79	K00030	2
+tr|C9RNR2|C9RNR2_FIBSS			143		
+tr|C9RME1|C9RME1_FIBSS			32	K19295	8
+tr|C9RQP7|C9RQP7_FIBSS			141	K00756	4
+tr|C9RL15|C9RL15_FIBSS			499		
+tr|C9RLK2|C9RLK2_FIBSS	K01918	panC; pantoate--beta-alanine ligase [EC:6.3.2.1]	253	K13799	25
+tr|C9RKL0|C9RKL0_FIBSS	K13747	nspC; carboxynorspermidine decarboxylase [EC:4.1.1.96]	473		
+tr|D9S4E0|D9S4E0_FIBSS	K03624	greA; transcription elongation factor GreA	56	K04760	55
+tr|C9RNZ4|C9RNZ4_FIBSS	K03737	por; pyruvate-ferredoxin/flavodoxin oxidoreductase [EC:1.2.7.1 1.2.7.-]	1509		
+tr|C9RK52|C9RK52_FIBSS	K07025	putative hydrolase of the HAD superfamily	139		
+tr|C9RS72|C9RS72_FIBSS	K01915	glnA; glutamine synthetase [EC:6.3.1.2]	844		
+tr|C9RRY2|C9RRY2_FIBSS			23	K03867	2
+tr|C9RRK8|C9RRK8_FIBSS	K01572	oadB; oxaloacetate decarboxylase, beta subunit [EC:4.1.1.3]	463		
+tr|C9RPC3|C9RPC3_FIBSS			297		
+tr|C9RS06|C9RS06_FIBSS	K08998	uncharacterized protein	88		
+tr|C9RNV0|C9RNV0_FIBSS			19	K02121	8
+tr|C9RQX6|C9RQX6_FIBSS			275		
+tr|C9RQQ4|C9RQQ4_FIBSS			17	K04046	1
+tr|C9RMB1|C9RMB1_FIBSS			13	K14170	6
+tr|D9S8F7|D9S8F7_FIBSS			178	K01803	4
+tr|C9RKX0|C9RKX0_FIBSS			253		
+tr|C9RQG0|C9RQG0_FIBSS	K09817	znuC; zinc transport system ATP-binding protein [EC:3.6.3.-]	213		
+tr|C9RKR8|C9RKR8_FIBSS			207	K01092	19
+tr|C9RP19|C9RP19_FIBSS	K03495	gidA; tRNA uridine 5-carboxymethylaminomethyl modification enzyme	614		
+tr|C9RK87|C9RK87_FIBSS	K00604	MTFMT; methionyl-tRNA formyltransferase [EC:2.1.2.9]	286		
+tr|C9RIW2|C9RIW2_FIBSS			334		
+tr|C9RPR6|C9RPR6_FIBSS			166		
+tr|C9RS57|C9RS57_FIBSS	K07814	putative two-component system response regulator	186		
+tr|C9RQS8|C9RQS8_FIBSS			403		
+tr|C9RQZ3|C9RQZ3_FIBSS	K02528	ksgA; 16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase [EC:2.1.1.182]	192		
+tr|C9RRM1|C9RRM1_FIBSS			193		
+tr|C9RP21|C9RP21_FIBSS	K03154	thiS; sulfur carrier protein	49	K03149	13
+tr|C9RQZ0|C9RQZ0_FIBSS	K07154	hipA; serine/threonine-protein kinase HipA [EC:2.7.11.1]	244		
+tr|D9S976|D9S976_FIBSS	K08303	putative protease [EC:3.4.-.-]	378		
+tr|C9RQ04|C9RQ04_FIBSS	K02585	nifB; nitrogen fixation protein NifB	316		
+tr|C9RS03|C9RS03_FIBSS	K04074	divIVA; cell division initiation protein	101		
+tr|C9RKT6|C9RKT6_FIBSS	K03177	truB; tRNA pseudouridine55 synthase [EC:5.4.99.25]	217		
+tr|C9RMZ3|C9RMZ3_FIBSS	K01883	CARS; cysteinyl-tRNA synthetase [EC:6.1.1.16]	502		
+tr|C9RN36|C9RN36_FIBSS			16	K08357	3
+tr|C9RNG9|C9RNG9_FIBSS			139	K02035	4
+tr|C9RL48|C9RL48_FIBSS	K01633	folB; dihydroneopterin aldolase / 7,8-dihydroneopterin epimerase [EC:4.1.2.25 5.1.99.8]	16		
+tr|C9RMI4|C9RMI4_FIBSS			31	K16937	1
+tr|C9RL21|C9RL21_FIBSS			22	K00282	3
+tr|C9RJR3|C9RJR3_FIBSS	K01740	metY; O-acetylhomoserine (thiol)-lyase [EC:2.5.1.49]	482		
+tr|C9RQJ7|C9RQJ7_FIBSS	K02035	ABC.PE.S; peptide/nickel transport system substrate-binding protein	424		
+tr|C9RQK9|C9RQK9_FIBSS			23	K03688	2
+tr|D9SAY0|D9SAY0_FIBSS	K00180	iorB; indolepyruvate ferredoxin oxidoreductase, beta subunit [EC:1.2.7.8]	158		
+tr|C9RIN1|C9RIN1_FIBSS			325		
+tr|C9RJC2|C9RJC2_FIBSS			29	K02495	4
+tr|C9RIZ0|C9RIZ0_FIBSS			225		
+tr|C9RJB7|C9RJB7_FIBSS			228		
+tr|C9RP22|C9RP22_FIBSS	K03148	thiF; sulfur carrier protein ThiS adenylyltransferase [EC:2.7.7.73]	222		
+tr|C9RQA0|C9RQA0_FIBSS			237		
+tr|C9RJE8|C9RJE8_FIBSS			140	K01191	4
+tr|D9S606|D9S606_FIBSS	K01807	rpiA; ribose 5-phosphate isomerase A [EC:5.3.1.6]	225		
+tr|C9RQ63|C9RQ63_FIBSS			126		
+tr|D9S4R4|D9S4R4_FIBSS			126		
+tr|C9RK28|C9RK28_FIBSS	K06178	rluB; 23S rRNA pseudouridine2605 synthase [EC:5.4.99.22]	184	K06183	17
+tr|C9RQY9|C9RQY9_FIBSS	K01840	manB; phosphomannomutase [EC:5.4.2.8]	521		
+tr|C9RS46|C9RS46_FIBSS	K15923	AXY8; alpha-L-fucosidase 2 [EC:3.2.1.51]	748		
+tr|C9RJ15|C9RJ15_FIBSS	K06180	rluD; 23S rRNA pseudouridine1911/1915/1917 synthase [EC:5.4.99.23]	161		
+tr|C9RMC8|C9RMC8_FIBSS			346		
+tr|C9RLE7|C9RLE7_FIBSS			113		
+tr|D9S4G3|D9S4G3_FIBSS	K02124	ATPVK; V/A-type H+/Na+-transporting ATPase subunit K	155		
+tr|C9RPG6|C9RPG6_FIBSS			155		
+tr|C9RMF0|C9RMF0_FIBSS			22	K03618	1
+tr|C9RMC1|C9RMC1_FIBSS			216		
+tr|C9RLP3|C9RLP3_FIBSS			194		
+tr|C9RQE9|C9RQE9_FIBSS	K01924	murC; UDP-N-acetylmuramate--alanine ligase [EC:6.3.2.8]	405		
+tr|C9RPW0|C9RPW0_FIBSS	K01880	GARS; glycyl-tRNA synthetase [EC:6.1.1.14]	572		
+tr|C9RIW6|C9RIW6_FIBSS	K06113	abnA; arabinan endo-1,5-alpha-L-arabinosidase [EC:3.2.1.99]	177		
+tr|D9S4Y5|D9S4Y5_FIBSS			19	K12251	3
+tr|C9RK48|C9RK48_FIBSS			16	K00818	2
+tr|C9RK27|C9RK27_FIBSS			32	K01525	28
+tr|C9RJ46|C9RJ46_FIBSS			115		
+tr|C9RR82|C9RR82_FIBSS			68	K10914	4
+tr|C9RMR6|C9RMR6_FIBSS			28	K03296	1
+tr|C9RPQ9|C9RPQ9_FIBSS	K02078	acpP; acyl carrier protein	101		
+tr|C9RPB1|C9RPB1_FIBSS			97	K12997	29
+tr|C9RPG8|C9RPG8_FIBSS			107	K01990	3
+tr|C9RJK7|C9RJK7_FIBSS			388		
+tr|C9RP33|C9RP33_FIBSS	K03686	dnaJ; molecular chaperone DnaJ	353		
+tr|C9RP39|C9RP39_FIBSS			18	K07473	14
+tr|C9RP02|C9RP02_FIBSS			38	K03282	4
+tr|C9RPJ9|C9RPJ9_FIBSS	K10026	queE; 7-carboxy-7-deazaguanine synthase [EC:4.3.99.3]	186		
+tr|C9RJC4|C9RJC4_FIBSS			377		
+tr|D9S627|D9S627_FIBSS	K06133	LYS5; 4'-phosphopantetheinyl transferase [EC:2.7.8.-]	136		
+tr|C9RJ64|C9RJ64_FIBSS			183		
+tr|C9RM22|C9RM22_FIBSS	K03438	mraW; 16S rRNA (cytosine1402-N4)-methyltransferase [EC:2.1.1.199]	273		
+tr|C9RK90|C9RK90_FIBSS			30	K01866	1
+tr|C9RJH5|C9RJH5_FIBSS			20	K03106	2
+tr|D9S9E2|D9S9E2_FIBSS			171		
+tr|C9RJC7|C9RJC7_FIBSS			17	K00164	2
+tr|D9S8B3|D9S8B3_FIBSS	K03579	hrpB; ATP-dependent helicase HrpB [EC:3.6.4.13]	271		
+tr|D9S6A1|D9S6A1_FIBSS	K03581	recD; exodeoxyribonuclease V alpha subunit [EC:3.1.11.5]	569		
+tr|C9RN45|C9RN45_FIBSS	K01653	E2.2.1.6S; acetolactate synthase I/III small subunit [EC:2.2.1.6]	176		
+tr|C9RMI7|C9RMI7_FIBSS			117		
+tr|D9S896|D9S896_FIBSS			280		
+tr|C9RKU1|C9RKU1_FIBSS	K01181	E3.2.1.8; endo-1,4-beta-xylanase [EC:3.2.1.8]	94		
+tr|C9RMB0|C9RMB0_FIBSS	K16053	mscM; miniconductance mechanosensitive channel	360		
+tr|C9RKK2|C9RKK2_FIBSS			209		
+tr|C9RJM5|C9RJM5_FIBSS			22	K01673	1
+tr|C9RRU7|C9RRU7_FIBSS	K01218	gmuG; mannan endo-1,4-beta-mannosidase [EC:3.2.1.78]	77		
+tr|C9RS60|C9RS60_FIBSS			157		
+tr|C9RRX7|C9RRX7_FIBSS	K01153	hsdR; type I restriction enzyme, R subunit [EC:3.1.21.3]	820		
+tr|C9RK51|C9RK51_FIBSS			212		
+tr|C9RIR8|C9RIR8_FIBSS	K05776	modF; molybdate transport system ATP-binding protein	274		
+tr|C9RS01|C9RS01_FIBSS			72	K03406	14
+tr|D9S477|D9S477_FIBSS	K02584	nifA; Nif-specific regulatory protein	527		
+tr|C9RP38|C9RP38_FIBSS			57	K03530	3
+tr|C9RQ84|C9RQ84_FIBSS			115	K12240	4
+tr|D9S4Q2|D9S4Q2_FIBSS			184		
+tr|C9RLM5|C9RLM5_FIBSS			36	K13020	2
+tr|C9RJW5|C9RJW5_FIBSS			33	K03581	2
+tr|C9RQC8|C9RQC8_FIBSS	K02372	fabZ; 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59]	57	K16363	40
+tr|C9RRJ9|C9RRJ9_FIBSS	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	347		
+tr|C9RR40|C9RR40_FIBSS	K03799	htpX; heat shock protein HtpX [EC:3.4.24.-]	289		
+tr|C9RRY7|C9RRY7_FIBSS	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	637		
+tr|C9RQ28|C9RQ28_FIBSS			18	K02004	2
+tr|C9RMH3|C9RMH3_FIBSS			342		
+tr|C9RN05|C9RN05_FIBSS	K01889	FARSA; phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]	397		
+tr|C9RQL4|C9RQL4_FIBSS			143	K02012	4
+tr|C9RJS4|C9RJS4_FIBSS	K00640	cysE; serine O-acetyltransferase [EC:2.3.1.30]	359		
+tr|C9RLL6|C9RLL6_FIBSS			31	K07128	3
+tr|C9RJN9|C9RJN9_FIBSS	K13497	trpGD; anthranilate synthase/phosphoribosyltransferase [EC:4.1.3.27 2.4.2.18]	526		
+tr|C9RJA2|C9RJA2_FIBSS	K01666	mhpE; 4-hydroxy 2-oxovalerate aldolase [EC:4.1.3.39]	336		
+tr|C9RPL4|C9RPL4_FIBSS	K19689	ampS; aminopeptidase [EC:3.4.11.-]	406		
+tr|C9RJE1|C9RJE1_FIBSS			138	K19295	5
+tr|C9RRP0|C9RRP0_FIBSS			24	K01872	3
+tr|C9RQ60|C9RQ60_FIBSS	K07085	putative transport protein	513		
+tr|D9S623|D9S623_FIBSS	K03561	exbB; biopolymer transport protein ExbB	107		
+tr|C9RJQ9|C9RJQ9_FIBSS			157		
+tr|C9RQN9|C9RQN9_FIBSS	K02867	RP-L11; large subunit ribosomal protein L11	209		
+tr|D9S786|D9S786_FIBSS	K15531	rexA; oligosaccharide reducing-end xylanase [EC:3.2.1.156]	253		
+tr|C9RNU2|C9RNU2_FIBSS			333		
+tr|D9S4F5|D9S4F5_FIBSS	K01876	DARS; aspartyl-tRNA synthetase [EC:6.1.1.12]	682		
+tr|C9RQ00|C9RQ00_FIBSS	K01738	cysK; cysteine synthase A [EC:2.5.1.47]	484		
+tr|C9RM80|C9RM80_FIBSS			116	K20444	4
+tr|D9SBA1|D9SBA1_FIBSS	K06997	yggS; PLP dependent protein	189		
+tr|C9RJL4|C9RJL4_FIBSS			19	K03526	4
+tr|C9RP04|C9RP04_FIBSS	K01624	FBA; fructose-bisphosphate aldolase, class II [EC:4.1.2.13]	541		
+tr|C9RKA8|C9RKA8_FIBSS	K00767	nadC; nicotinate-nucleotide pyrophosphorylase (carboxylating) [EC:2.4.2.19]	259		
+tr|D9S977|D9S977_FIBSS			24	K03465	2
+tr|C9RNP1|C9RNP1_FIBSS			118	K17910	5
+tr|C9RKL7|C9RKL7_FIBSS			546		
+tr|C9RK73|C9RK73_FIBSS	K02067	mlaD; phospholipid/cholesterol/gamma-HCH transport system substrate-binding protein	144		
+tr|D9S8L5|D9S8L5_FIBSS			288		
+tr|D9SA78|D9SA78_FIBSS			61	K07011	25
+tr|C9RLT5|C9RLT5_FIBSS	K07025	putative hydrolase of the HAD superfamily	140		
+tr|C9RPW8|C9RPW8_FIBSS	K09458	fabF; 3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179]	436		
+tr|C9RRZ2|C9RRZ2_FIBSS	K04759	feoB; ferrous iron transport protein B	523		
+tr|D9S6Y6|D9S6Y6_FIBSS			130	K12510	4
+tr|C9RQZ5|C9RQZ5_FIBSS			21	K03306	1
+tr|C9RQ86|C9RQ86_FIBSS	K01869	LARS; leucyl-tRNA synthetase [EC:6.1.1.4]	1088		
+tr|C9RRD7|C9RRD7_FIBSS			38	K07775	2
+tr|C9RPU0|C9RPU0_FIBSS			254		
+tr|C9RM17|C9RM17_FIBSS	K03588	ftsW; cell division protein FtsW	246		
+tr|C9RRX9|C9RRX9_FIBSS	K03427	hsdM; type I restriction enzyme M protein [EC:2.1.1.72]	687		
+tr|C9RM26|C9RM26_FIBSS	K00297	metF; methylenetetrahydrofolate reductase (NADPH) [EC:1.5.1.20]	324		
+tr|D9S9N4|D9S9N4_FIBSS	K02945	RP-S1; small subunit ribosomal protein S1	624		
+tr|C9RNF2|C9RNF2_FIBSS			174	K00009	3
+tr|D9SA64|D9SA64_FIBSS			19	K02621	1
+tr|C9RN32|C9RN32_FIBSS			20	K06282	1
+tr|D9S6K8|D9S6K8_FIBSS	K00254	DHODH; dihydroorotate dehydrogenase [EC:1.3.5.2]	193		
+tr|C9RN63|C9RN63_FIBSS			85	K03972	4
+tr|C9RL99|C9RL99_FIBSS			82	K07636	80
+tr|C9RLH9|C9RLH9_FIBSS			19	K15012	2
+tr|C9RN97|C9RN97_FIBSS			196		
+tr|C9RNB6|C9RNB6_FIBSS			18	K01358	3
+tr|C9RIK6|C9RIK6_FIBSS	K00882	fruK; 1-phosphofructokinase [EC:2.7.1.56]	39	K16370	14
+tr|C9RJK5|C9RJK5_FIBSS	K00340	nuoK; NADH-quinone oxidoreductase subunit K [EC:1.6.5.3]	70		
+tr|C9RJF5|C9RJF5_FIBSS			233		
+tr|C9RQV7|C9RQV7_FIBSS	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	252		
+tr|D9SAL0|D9SAL0_FIBSS	K12573	rnr; ribonuclease R [EC:3.1.-.-]	415		
+tr|C9RMS4|C9RMS4_FIBSS			18	K00789	2
+tr|C9RKM2|C9RKM2_FIBSS	K09858	SEC-C motif domain protein	173		
+tr|C9RQ05|C9RQ05_FIBSS	K02591	nifK; nitrogenase molybdenum-iron protein beta chain [EC:1.18.6.1]	400		
+tr|C9RQA6|C9RQA6_FIBSS			722		
+tr|C9RNK8|C9RNK8_FIBSS	K01960	pycB; pyruvate carboxylase subunit B [EC:6.4.1.1]	584		
+tr|C9RLR9|C9RLR9_FIBSS			118		
+tr|C9RNE1|C9RNE1_FIBSS	K01790	rfbC; dTDP-4-dehydrorhamnose 3,5-epimerase [EC:5.1.3.13]	269		
+tr|C9RKI2|C9RKI2_FIBSS	K00854	xylB; xylulokinase [EC:2.7.1.17]	353		
+tr|C9RMS3|C9RMS3_FIBSS	K07027	uncharacterized protein	144		
+tr|C9RJR2|C9RJR2_FIBSS	K02048	cysP; sulfate transport system substrate-binding protein	367		
+tr|C9RP29|C9RP29_FIBSS			169	K03286	42
+tr|D9S7H9|D9S7H9_FIBSS			923		
+tr|C9RS75|C9RS75_FIBSS	K01950	E6.3.5.1; NAD+ synthase (glutamine-hydrolysing) [EC:6.3.5.1]	716		
+tr|C9RK34|C9RK34_FIBSS	K02503	HINT1; histidine triad (HIT) family protein	159		
+tr|C9RJX7|C9RJX7_FIBSS			13	K02968	6
+tr|C9RIM1|C9RIM1_FIBSS			16	K03571	6
+tr|C9RNY3|C9RNY3_FIBSS			36	K07979	8
+tr|C9RQS1|C9RQS1_FIBSS			317		
+tr|C9RR14|C9RR14_FIBSS	K03076	secY; preprotein translocase subunit SecY	472		
+tr|C9RQZ7|C9RQZ7_FIBSS			220		
+tr|C9RRG3|C9RRG3_FIBSS	K15342	cas1; CRISP-associated protein Cas1	216		
+tr|C9RMQ9|C9RMQ9_FIBSS	K00031	IDH1; isocitrate dehydrogenase [EC:1.1.1.42]	953		
+tr|C9RNR7|C9RNR7_FIBSS	K03561	exbB; biopolymer transport protein ExbB	203		
+tr|C9RKW9|C9RKW9_FIBSS			257		
+tr|C9RQE4|C9RQE4_FIBSS			361		
+tr|D9SBU5|D9SBU5_FIBSS			20	K05846	2
+tr|C9RS18|C9RS18_FIBSS			114		
+tr|C9RKN2|C9RKN2_FIBSS	K05788	ihfB; integration host factor subunit beta	66	K03530	12
+tr|C9RP09|C9RP09_FIBSS	K08602	pepF; oligoendopeptidase F [EC:3.4.24.-]	535		
+tr|C9RPH9|C9RPH9_FIBSS			187		
+tr|C9RII7|C9RII7_FIBSS			297		
+tr|C9RJ42|C9RJ42_FIBSS			67		
+tr|C9RNV7|C9RNV7_FIBSS	K02124	ATPVK; V/A-type H+/Na+-transporting ATPase subunit K	151		
+tr|C9RPD0|C9RPD0_FIBSS			25	K01754	1
+tr|C9RPW6|C9RPW6_FIBSS	K03308	TC.NSS; neurotransmitter:Na+ symporter, NSS family	478		
+tr|D9SBN8|D9SBN8_FIBSS			321		
+tr|C9RLC5|C9RLC5_FIBSS			17	K08256	4
+tr|C9RK11|C9RK11_FIBSS			26	K01077	2
+tr|D9S9T7|D9S9T7_FIBSS			20	K01595	2
+tr|C9RKG6|C9RKG6_FIBSS	K01890	FARSB; phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]	617		
+tr|C9RPN4|C9RPN4_FIBSS	K00215	dapB; 4-hydroxy-tetrahydrodipicolinate reductase [EC:1.17.1.8]	161		
+tr|C9RIQ2|C9RIQ2_FIBSS			189		
+tr|D9S9G1|D9S9G1_FIBSS	K00791	miaA; tRNA dimethylallyltransferase [EC:2.5.1.75]	233		
+tr|C9RQA2|C9RQA2_FIBSS			288		
+tr|C9RMJ8|C9RMJ8_FIBSS	K07133	uncharacterized protein	105		
+tr|D9SAI5|D9SAI5_FIBSS	K02050	ABC.SN.P; NitT/TauT family transport system permease protein	63	K15554	19
+tr|C9RQG9|C9RQG9_FIBSS			151	K01092	20
+tr|C9RJD1|C9RJD1_FIBSS	K02805	wecE; dTDP-4-amino-4,6-dideoxygalactose transaminase [EC:2.6.1.59]	541		
+tr|C9RPH5|C9RPH5_FIBSS			211		
+tr|D9SAY2|D9SAY2_FIBSS			52	K15539	2
+tr|C9RMK3|C9RMK3_FIBSS			276	K19422	63
+tr|C9RRN1|C9RRN1_FIBSS	K07259	dacB; D-alanyl-D-alanine carboxypeptidase / D-alanyl-D-alanine-endopeptidase (penicillin-binding protein 4) [EC:3.4.16.4 3.4.21.-]	282		
+tr|C9RKB8|C9RKB8_FIBSS	K07056	rsmI; 16S rRNA (cytidine1402-2'-O)-methyltransferase [EC:2.1.1.198]	231		
+tr|D9S8I5|D9S8I5_FIBSS			31	K07729	4
+tr|C9RJ52|C9RJ52_FIBSS			31	K07024	1
+tr|D9S618|D9S618_FIBSS	K08303	putative protease [EC:3.4.-.-]	642		
+tr|C9RQV6|C9RQV6_FIBSS			20	K11928	2
+tr|C9RPR1|C9RPR1_FIBSS			23	K00088	1
+tr|D9S4H7|D9S4H7_FIBSS			114	K07178	4
+tr|D9S7N7|D9S7N7_FIBSS			154	K01928	4
+tr|C9RMW7|C9RMW7_FIBSS			28	K01153	1
+tr|C9RN13|C9RN13_FIBSS	K00067	rfbD; dTDP-4-dehydrorhamnose reductase [EC:1.1.1.133]	313		
+tr|C9RN48|C9RN48_FIBSS	K19294	algI; alginate O-acetyltransferase complex protein AlgI	448		
+tr|C9RQ03|C9RQ03_FIBSS	K02588	nifH; nitrogenase iron protein NifH [EC:1.18.6.1]	434		
+tr|C9RQG3|C9RQG3_FIBSS			20	K09817	1
+tr|C9RNF4|C9RNF4_FIBSS	K00029	E1.1.1.40; malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40]	1047		
+tr|D9S7P7|D9S7P7_FIBSS			144	K09690	4
+tr|C9RKR5|C9RKR5_FIBSS	K03695	clpB; ATP-dependent Clp protease ATP-binding subunit ClpB	912		
+tr|C9RIQ3|C9RIQ3_FIBSS			18	K11326	1
+tr|C9RRI8|C9RRI8_FIBSS			21	K02014	2
+tr|C9RIM5|C9RIM5_FIBSS			355		
+tr|C9RRK0|C9RRK0_FIBSS	K16692	etk-wzc; tyrosine-protein kinase Etk/Wzc [EC:2.7.10.-]	440		
+tr|C9RRY8|C9RRY8_FIBSS	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	596		
+tr|D9S4D5|D9S4D5_FIBSS	K00655	plsC; 1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51]	31		
+tr|D9S422|D9S422_FIBSS			13	K01000	2
+tr|D9SBZ1|D9SBZ1_FIBSS	K01662	dxs; 1-deoxy-D-xylulose-5-phosphate synthase [EC:2.2.1.7]	680		
+tr|C9RP20|C9RP20_FIBSS			16	K04773	3
+tr|D9S5F2|D9S5F2_FIBSS			379		
+tr|C9RMA8|C9RMA8_FIBSS			22	K19170	2
+tr|C9RQL8|C9RQL8_FIBSS	K05366	mrcA; penicillin-binding protein 1A [EC:2.4.1.- 3.4.-.-]	160		
+tr|D9S5U2|D9S5U2_FIBSS	K02030	ABC.PA.S; polar amino acid transport system substrate-binding protein	125	K02029/K02030	22
+tr|C9RIL6|C9RIL6_FIBSS			17	K01473	6
+tr|C9RJ85|C9RJ85_FIBSS	K03621	plsX; glycerol-3-phosphate acyltransferase PlsX [EC:2.3.1.15]	265		
+tr|D9S8V2|D9S8V2_FIBSS			16	K00666	1
+tr|D9S9R2|D9S9R2_FIBSS	K17758	nnr; ADP-dependent NAD(P)H-hydrate dehydratase [EC:4.2.1.136]	306		
+	K17759	AIBP; NAD(P)H-hydrate epimerase [EC:5.1.99.6]			
+tr|C9RM97|C9RM97_FIBSS			16	K08483	7
+tr|C9RLJ6|C9RLJ6_FIBSS			21	K03325	2
+tr|C9RKU8|C9RKU8_FIBSS			162		
+tr|C9RLE0|C9RLE0_FIBSS	K02355	fusA; elongation factor G	926		
+tr|C9RLC9|C9RLC9_FIBSS	K01433	purU; formyltetrahydrofolate deformylase [EC:3.5.1.10]	289		
+tr|D9S4P2|D9S4P2_FIBSS			108		
+tr|C9RIV9|C9RIV9_FIBSS			126	K02601	4
+tr|C9RS83|C9RS83_FIBSS	K07316	mod; adenine-specific DNA-methyltransferase [EC:2.1.1.72]	532		
+tr|C9RJB8|C9RJB8_FIBSS			251		
+tr|C9RRI5|C9RRI5_FIBSS			18	K01153	5
+tr|C9RS82|C9RS82_FIBSS			105		
+tr|C9RIQ9|C9RIQ9_FIBSS	K03527	ispH; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase [EC:1.17.7.4]	339		
+tr|D9S3Z6|D9S3Z6_FIBSS			298		
+tr|C9RS79|C9RS79_FIBSS			287		
+tr|C9RPL7|C9RPL7_FIBSS	K00567	ogt; methylated-DNA-[protein]-cysteine S-methyltransferase [EC:2.1.1.63]	127	K10778	11
+tr|D9S9I7|D9S9I7_FIBSS			76	K03183	11
+tr|C9RLG4|C9RLG4_FIBSS			18	K00239	3
+tr|C9RRG1|C9RRG1_FIBSS	K06946	uncharacterized protein	68		
+tr|C9RLH7|C9RLH7_FIBSS	K02959	RP-S16; small subunit ribosomal protein S16	110		
+tr|D9SA51|D9SA51_FIBSS	K03655	recG; ATP-dependent DNA helicase RecG [EC:3.6.4.12]	313		
+tr|C9RQR6|C9RQR6_FIBSS			20	K01998	3
+tr|C9RP89|C9RP89_FIBSS	K02357	tsf; elongation factor Ts	213		
+tr|C9RKH4|C9RKH4_FIBSS	K03296	TC.HAE1; hydrophobic/amphiphilic exporter-1 (mainly G- bacteria), HAE1 family	270		
+tr|C9RKF4|C9RKF4_FIBSS	K08681	pdxT; 5'-phosphate synthase pdxT subunit [EC:4.3.3.6]	258		
+tr|C9RMH5|C9RMH5_FIBSS	K06113	abnA; arabinan endo-1,5-alpha-L-arabinosidase [EC:3.2.1.99]	181		
+tr|C9RJQ3|C9RJQ3_FIBSS	K02045	cysA; sulfate transport system ATP-binding protein [EC:3.6.3.25]	466		
+tr|C9RPC8|C9RPC8_FIBSS	K07271	licD; lipopolysaccharide cholinephosphotransferase [EC:2.7.8.-]	169		
+tr|C9RNX8|C9RNX8_FIBSS			22	K00764	5
+tr|C9RMZ1|C9RMZ1_FIBSS	K01420	fnr; CRP/FNR family transcriptional regulator, anaerobic regulatory protein	186		
+tr|C9RJL3|C9RJL3_FIBSS			398		
+tr|C9RQF1|C9RQF1_FIBSS	K03101	lspA; signal peptidase II [EC:3.4.23.36]	118		
+tr|C9RPR8|C9RPR8_FIBSS			155		
+tr|C9RLF3|C9RLF3_FIBSS			60	K02002	2
+tr|C9RN53|C9RN53_FIBSS			23	K00525	5
+tr|C9RJK8|C9RJK8_FIBSS	K12410	npdA; NAD-dependent deacetylase [EC:3.5.1.-]	261		
+tr|C9RM74|C9RM74_FIBSS			83	K00059	41
+tr|D9SBZ8|D9SBZ8_FIBSS			318		
+tr|C9RQG6|C9RQG6_FIBSS			311		
+tr|C9RNP2|C9RNP2_FIBSS			64	K02275	2
+tr|C9RNN7|C9RNN7_FIBSS	K03654	recQ; ATP-dependent DNA helicase RecQ [EC:3.6.4.12]	977		
+tr|D9SAX4|D9SAX4_FIBSS	K06023	hprK; HPr kinase/phosphorylase [EC:2.7.11.- 2.7.4.-]	285		
+tr|C9RRB7|C9RRB7_FIBSS			32	K00605	2
+tr|C9RMR3|C9RMR3_FIBSS			50	K01051	17
+tr|C9RKD9|C9RKD9_FIBSS	K00609	pyrB; aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2]	389		
+tr|C9RL59|C9RL59_FIBSS			501	K01179	13
+tr|C9RJV0|C9RJV0_FIBSS					
+tr|C9RIP9|C9RIP9_FIBSS			111		
+tr|C9RLI9|C9RLI9_FIBSS	K03310	TC.AGCS; alanine or glycine:cation symporter, AGCS family	511		
+tr|C9RPB0|C9RPB0_FIBSS			86	K00980	69
+tr|C9RR54|C9RR54_FIBSS			151		
+tr|C9RKM3|C9RKM3_FIBSS	K00145	argC; N-acetyl-gamma-glutamyl-phosphate reductase [EC:1.2.1.38]	375		
+tr|C9RKW0|C9RKW0_FIBSS	K00995	pgsA; CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase [EC:2.7.8.5]	165		
+tr|C9RR37|C9RR37_FIBSS			175	K04098	4
+tr|C9RJK9|C9RJK9_FIBSS			105		
+tr|C9RRW7|C9RRW7_FIBSS	K07133	uncharacterized protein	332		
+tr|C9RME3|C9RME3_FIBSS			16	K01885	3
+tr|C9RLY0|C9RLY0_FIBSS	K03321	TC.SULP; sulfate permease, SulP family	612		
+tr|C9RNX1|C9RNX1_FIBSS			355	K06048	33
+tr|D9S8B7|D9S8B7_FIBSS	K01784	galE; UDP-glucose 4-epimerase [EC:5.1.3.2]	504		
+tr|C9RN60|C9RN60_FIBSS			24	K07498	2
+tr|C9RMG2|C9RMG2_FIBSS			19	K01687	3
+tr|D9S8B2|D9S8B2_FIBSS	K03579	hrpB; ATP-dependent helicase HrpB [EC:3.6.4.13]	161		
+tr|C9RKF7|C9RKF7_FIBSS	K07137	uncharacterized protein	423		
+tr|C9RJP6|C9RJP6_FIBSS	K00395	aprB; adenylylsulfate reductase, subunit B [EC:1.8.99.2]	143		
+tr|C9RK05|C9RK05_FIBSS			26	K02014	1
+tr|C9RR45|C9RR45_FIBSS			20	K03322	1
+tr|C9RJY3|C9RJY3_FIBSS	K01000	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase [EC:2.7.8.13]	241		
+tr|C9RIN9|C9RIN9_FIBSS	K07462	recJ; single-stranded-DNA-specific exonuclease [EC:3.1.-.-]	404		
+tr|D9SAN0|D9SAN0_FIBSS			402		
+tr|D9S4G5|D9S4G5_FIBSS	K07102	amgK; anomeric MurNAc/GlcNAc kinase [EC:2.7.1.-]	78		
+tr|C9RKT2|C9RKT2_FIBSS	K09748	rimP; ribosome maturation factor RimP	119		
+tr|D9S9A1|D9S9A1_FIBSS			156		
+tr|C9RRS8|C9RRS8_FIBSS			711		
+tr|C9RN76|C9RN76_FIBSS	K02669	pilT; twitching motility protein PilT	386		
+tr|C9RM99|C9RM99_FIBSS			55	K08316	46
+tr|D9S7F5|D9S7F5_FIBSS			23	K01002	1
+tr|C9RP95|C9RP95_FIBSS	K06871	uncharacterized protein	237		
+tr|C9RQ26|C9RQ26_FIBSS	K14155	patB; cystathione beta-lyase [EC:4.4.1.8]	433		
+tr|C9RMP3|C9RMP3_FIBSS			276		
+tr|C9RK45|C9RK45_FIBSS			156		
+tr|C9RLW4|C9RLW4_FIBSS			196		
+tr|C9RPU1|C9RPU1_FIBSS	K00773	tgt; queuine tRNA-ribosyltransferase [EC:2.4.2.29]	434		
+tr|C9RKT7|C9RKT7_FIBSS	K11753	ribF; riboflavin kinase / FMN adenylyltransferase [EC:2.7.1.26 2.7.7.2]	244		
+tr|C9RRK7|C9RRK7_FIBSS			67	K01960	12
+tr|C9RR95|C9RR95_FIBSS	K01736	aroC; chorismate synthase [EC:4.2.3.5]	428		
+tr|C9RIZ7|C9RIZ7_FIBSS			28	K01873	2
+tr|C9RRU9|C9RRU9_FIBSS			25	K12957	1
+tr|C9RLE8|C9RLE8_FIBSS			389		
+tr|C9RK19|C9RK19_FIBSS			15	K13812	1
+tr|C9RJA5|C9RJA5_FIBSS	K12132	prkC; eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]	40		
+tr|C9RKP0|C9RKP0_FIBSS			267		
+tr|C9RRG7|C9RRG7_FIBSS			176		
+tr|D9S4G6|D9S4G6_FIBSS			18	K02806	4
+tr|C9RRI3|C9RRI3_FIBSS	K01358	clpP; ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]	207		
+tr|C9RJG0|C9RJG0_FIBSS			321		
+tr|C9RQZ2|C9RQZ2_FIBSS			34	K07729	8
+tr|C9RQF5|C9RQF5_FIBSS	K13993	HSP20; HSP20 family protein	70		
+tr|C9RR26|C9RR26_FIBSS	K02904	RP-L29; large subunit ribosomal protein L29	64		
+tr|D9S8I4|D9S8I4_FIBSS			181	K00683	16
+tr|D9SAV8|D9SAV8_FIBSS			155	K02035	4
+tr|C9RMG6|C9RMG6_FIBSS	K01892	HARS; histidyl-tRNA synthetase [EC:6.1.1.21]	356		
+tr|D9S772|D9S772_FIBSS	K03580	hepA; ATP-dependent helicase HepA [EC:3.6.4.-]	640		
+tr|C9RLP7|C9RLP7_FIBSS	K07058	membrane protein	127		
+tr|C9RK43|C9RK43_FIBSS			453		
+tr|C9RIN4|C9RIN4_FIBSS	K01409	KAE1; N6-L-threonylcarbamoyladenine synthase [EC:2.3.1.234]	329		
+tr|C9RJ13|C9RJ13_FIBSS	K03561	exbB; biopolymer transport protein ExbB	200		
+tr|C9RIZ6|C9RIZ6_FIBSS			216		
+tr|C9RIU4|C9RIU4_FIBSS			23	K00446	1
+tr|C9RLR2|C9RLR2_FIBSS	K00940	ndk; nucleoside-diphosphate kinase [EC:2.7.4.6]	161		
+tr|C9RLQ8|C9RLQ8_FIBSS	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	168		
+tr|C9RJN8|C9RJN8_FIBSS	K01657	trpE; anthranilate synthase component I [EC:4.1.3.27]	420		
+tr|C9RKP8|C9RKP8_FIBSS	K03787	surE; 5'-nucleotidase [EC:3.1.3.5]	188		
+tr|C9RIV4|C9RIV4_FIBSS	K03169	topB; DNA topoisomerase III [EC:5.99.1.2]	801		
+tr|C9RP40|C9RP40_FIBSS			115		
+tr|C9RQT9|C9RQT9_FIBSS			430		
+tr|C9RMV0|C9RMV0_FIBSS	K09942	uncharacterized protein	113		
+tr|C9RM82|C9RM82_FIBSS	K02501	hisH; glutamine amidotransferase [EC:2.4.2.-]	223		
+tr|C9RNR3|C9RNR3_FIBSS			139	K12600	11
+tr|C9RM31|C9RM31_FIBSS	K00831	serC; phosphoserine aminotransferase [EC:2.6.1.52]	394		
+tr|C9RPY0|C9RPY0_FIBSS			73	K02199	4
+tr|C9RR30|C9RR30_FIBSS	K02965	RP-S19; small subunit ribosomal protein S19	136		
+tr|C9RKE9|C9RKE9_FIBSS	K04079	htpG; molecular chaperone HtpG	622		
+tr|C9RQM5|C9RQM5_FIBSS	K00948	PRPS; ribose-phosphate pyrophosphokinase [EC:2.7.6.1]	249		
+tr|C9RIT3|C9RIT3_FIBSS			18	K02438	14
+tr|C9RLK7|C9RLK7_FIBSS			183		
+tr|C9RQB3|C9RQB3_FIBSS			27	K01745	3
+tr|C9RR60|C9RR60_FIBSS	K01759	GLO1; lactoylglutathione lyase [EC:4.4.1.5]	161		
+tr|C9RPN5|C9RPN5_FIBSS			116		
+tr|C9RS31|C9RS31_FIBSS			455		
+tr|D9SB02|D9SB02_FIBSS			149		
+tr|C9RQW6|C9RQW6_FIBSS			236		
+tr|C9RRF4|C9RRF4_FIBSS			22	K02456	1
+tr|C9RRH9|C9RRH9_FIBSS			229		
+tr|C9RIQ8|C9RIQ8_FIBSS	K02527	kdtA; 3-deoxy-D-manno-octulosonic-acid transferase [EC:2.4.99.12 2.4.99.13 2.4.99.14 2.4.99.15]	148		
+tr|C9RJY1|C9RJY1_FIBSS			175		
+tr|C9RJ04|C9RJ04_FIBSS			16	K02470	2
+tr|C9RMV1|C9RMV1_FIBSS			34	K06076	22
+tr|D9S9Z9|D9S9Z9_FIBSS	K06973	uncharacterized protein	206		
+tr|C9RNG4|C9RNG4_FIBSS	K03215	rumA; 23S rRNA (uracil1939-C5)-methyltransferase [EC:2.1.1.190]	100		
+tr|C9RMG7|C9RMG7_FIBSS	K00024	mdh; malate dehydrogenase [EC:1.1.1.37]	386		
+tr|C9RM16|C9RM16_FIBSS	K02563	murG; UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227]	268		
+tr|C9RM65|C9RM65_FIBSS			67		
+tr|C9RMG4|C9RMG4_FIBSS			235		
+tr|C9RK91|C9RK91_FIBSS	K03575	mutY; A/G-specific adenine glycosylase [EC:3.2.2.-]	251		
+tr|C9RKS0|C9RKS0_FIBSS			123		
+tr|C9RL33|C9RL33_FIBSS	K01875	SARS; seryl-tRNA synthetase [EC:6.1.1.11]	454		
+tr|C9RK31|C9RK31_FIBSS					
+tr|C9RRU1|C9RRU1_FIBSS			725		
+tr|C9RMG9|C9RMG9_FIBSS			110	K07082	4
+tr|C9RPE9|C9RPE9_FIBSS	K07114	yfbK; Ca-activated chloride channel homolog	244		
+tr|C9RP49|C9RP49_FIBSS	K01956	carA; carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]	376		
+tr|D9S825|D9S825_FIBSS	K03574	mutT; 8-oxo-dGTP diphosphatase [EC:3.6.1.55]	194		
+tr|C9RQT4|C9RQT4_FIBSS			279	K07636	16
+tr|C9RQ97|C9RQ97_FIBSS			34	K03545	2
+tr|D9S6Y4|D9S6Y4_FIBSS			594		
+tr|C9RK99|C9RK99_FIBSS	K03977	engA; GTPase	390		
+tr|C9RIY3|C9RIY3_FIBSS			68	K02836	3
+tr|C9RRG2|C9RRG2_FIBSS	K06946	uncharacterized protein	123		
+tr|D9S7Y4|D9S7Y4_FIBSS			286		
+tr|C9RNM6|C9RNM6_FIBSS			34	K01361	1
+tr|C9RN61|C9RN61_FIBSS	K01662	dxs; 1-deoxy-D-xylulose-5-phosphate synthase [EC:2.2.1.7]	706		
+tr|C9RQ29|C9RQ29_FIBSS	K02004	ABC.CD.P; putative ABC transport system permease protein	200		
+tr|C9RKY4|C9RKY4_FIBSS			22	K03606	1
+tr|D9S9D9|D9S9D9_FIBSS			21	K08369	1
+tr|D9S8A2|D9S8A2_FIBSS	K00979	kdsB; 3-deoxy-manno-octulosonate cytidylyltransferase (CMP-KDO synthetase) [EC:2.7.7.38]	179		
+tr|C9RJ89|C9RJ89_FIBSS	K13893	yejA; microcin C transport system substrate-binding protein	334	K02035	20
+tr|C9RNY1|C9RNY1_FIBSS			27	K07636	1
+tr|D9S664|D9S664_FIBSS	K00336	nuoG; NADH-quinone oxidoreductase subunit G [EC:1.6.5.3]	337		
+tr|D9S9E5|D9S9E5_FIBSS	K00826	E2.6.1.42; branched-chain amino acid aminotransferase [EC:2.6.1.42]	467		
+tr|C9RNM7|C9RNM7_FIBSS			33	K20074	1
+tr|C9RR34|C9RR34_FIBSS	K02906	RP-L3; large subunit ribosomal protein L3	237		
+tr|C9RND6|C9RND6_FIBSS	K02078	acpP; acyl carrier protein	61		
+tr|C9RL87|C9RL87_FIBSS	K00640	cysE; serine O-acetyltransferase [EC:2.3.1.30]	267		
+tr|C9RMM2|C9RMM2_FIBSS	K20429	vioA; dTDP-4-amino-4,6-dideoxy-D-glucose transaminase [EC:2.6.1.33]	417		
+tr|C9RQA9|C9RQA9_FIBSS	K03581	recD; exodeoxyribonuclease V alpha subunit [EC:3.1.11.5]	291		
+tr|C9RLH5|C9RLH5_FIBSS	K00554	trmD; tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228]	265		
+tr|C9RKI3|C9RKI3_FIBSS			113	K07114	5
+tr|C9RIL5|C9RIL5_FIBSS			65	K03560	3
+tr|D9SAA6|D9SAA6_FIBSS	K08309	slt; soluble lytic murein transglycosylase [EC:3.2.1.-]	261		
+tr|D9S6I0|D9S6I0_FIBSS			119		
+tr|C9RIW5|C9RIW5_FIBSS			337		
+tr|C9RS36|C9RS36_FIBSS			242		
+tr|C9RRH6|C9RRH6_FIBSS	K01840	manB; phosphomannomutase [EC:5.4.2.8]	417		
+tr|C9RPP3|C9RPP3_FIBSS			205	K07012	4
+tr|C9RQE8|C9RQE8_FIBSS	K12960	mtaD; 5-methylthioadenosine/S-adenosylhomocysteine deaminase [EC:3.5.4.31 3.5.4.28]	332		
+tr|C9RJD4|C9RJD4_FIBSS			231		
+tr|C9RM69|C9RM69_FIBSS	K05539	dusA; tRNA-dihydrouridine synthase A [EC:1.-.-.-]	381		
+tr|D9S767|D9S767_FIBSS	K05939	aas; acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase [EC:2.3.1.40 6.2.1.20]	514		
+tr|D9S9U2|D9S9U2_FIBSS			21	K01256	1
+tr|C9RQJ9|C9RQJ9_FIBSS			66	K03529	3
+tr|C9RMI2|C9RMI2_FIBSS			17	K03466	1
+tr|C9RL47|C9RL47_FIBSS			18	K00615	9
+tr|C9RLC6|C9RLC6_FIBSS	K09710	ybeB; ribosome-associated protein	73		
+tr|C9RQC2|C9RQC2_FIBSS			269		
+tr|C9RNB7|C9RNB7_FIBSS	K00789	metK; S-adenosylmethionine synthetase [EC:2.5.1.6]	538		
+tr|C9RQ92|C9RQ92_FIBSS	K00548	metH; 5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]	1123		
+tr|D9SB51|D9SB51_FIBSS			591		
+tr|D9S5J9|D9S5J9_FIBSS			138	K00337	4
+tr|C9RL30|C9RL30_FIBSS	K00058	serA; D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95]	358		
+tr|C9RM84|C9RM84_FIBSS			24	K00052	1
+tr|C9RM66|C9RM66_FIBSS			17	K03574	7
+tr|D9S9Q9|D9S9Q9_FIBSS	K07089	uncharacterized protein	296		
+tr|C9RLA4|C9RLA4_FIBSS	K14054	mpaA; protein MpaA	210		
+tr|C9RN65|C9RN65_FIBSS			24	K07032	2
+tr|C9RIK0|C9RIK0_FIBSS	K09117	uncharacterized protein	128		
+tr|C9RL73|C9RL73_FIBSS			219		
+tr|C9RJD7|C9RJD7_FIBSS	K00703	E2.4.1.21; starch synthase [EC:2.4.1.21]	207		
+tr|C9RJC1|C9RJC1_FIBSS	K19431	epsO; pyruvyl transferase EpsO [EC:2.-.-.-]	208		
+tr|D9S5P6|D9S5P6_FIBSS			492		
+tr|D9S600|D9S600_FIBSS	K00941	thiD; hydroxymethylpyrimidine/phosphomethylpyrimidine kinase [EC:2.7.1.49 2.7.4.7]	171		
+tr|C9RQY1|C9RQY1_FIBSS			79		
+tr|C9RNW6|C9RNW6_FIBSS			155		
+tr|C9RMB3|C9RMB3_FIBSS	K00800	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19]	93		
+tr|C9RMN2|C9RMN2_FIBSS	K03654	recQ; ATP-dependent DNA helicase RecQ [EC:3.6.4.12]	701		
+tr|C9RK84|C9RK84_FIBSS			144		
+tr|C9RK57|C9RK57_FIBSS	K00930	argB; acetylglutamate kinase [EC:2.7.2.8]	217		
+tr|C9RJI4|C9RJI4_FIBSS			22	K04042	2
+tr|C9RK64|C9RK64_FIBSS			241		
+tr|D9S8D2|D9S8D2_FIBSS			66		
+tr|C9RRX1|C9RRX1_FIBSS			137		
+tr|C9RM59|C9RM59_FIBSS			22	K07090	2
+tr|C9RM37|C9RM37_FIBSS	K07560	dtd; D-tyrosyl-tRNA(Tyr) deacylase [EC:3.1.-.-]	197		
+tr|C9RQP1|C9RQP1_FIBSS	K03073	secE; preprotein translocase subunit SecE	52		
+tr|C9RMU4|C9RMU4_FIBSS			184		
+tr|C9RMK7|C9RMK7_FIBSS			180	K00745	14
+tr|C9RP75|C9RP75_FIBSS			138	K20276	4
+tr|D9S8F5|D9S8F5_FIBSS			200	K04333	6
+tr|C9RNP4|C9RNP4_FIBSS	K01992	ABC-2.P; ABC-2 type transport system permease protein	218		
+tr|D9S6A7|D9S6A7_FIBSS	K01524	ppx-gppA; exopolyphosphatase / guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase [EC:3.6.1.11 3.6.1.40]	98		
+tr|D9S7W7|D9S7W7_FIBSS			267		
+tr|D9S6P3|D9S6P3_FIBSS	K09951	cas2; CRISPR-associated protein Cas2	138		
+tr|C9RRX6|C9RRX6_FIBSS			418		
+tr|C9RPR5|C9RPR5_FIBSS	K01755	argH; argininosuccinate lyase [EC:4.3.2.1]	424		
+tr|C9RPT5|C9RPT5_FIBSS	K01493	comEB; dCMP deaminase [EC:3.5.4.12]	111		
+tr|C9RIV6|C9RIV6_FIBSS			53		
+tr|C9RRZ3|C9RRZ3_FIBSS	K03832	tonB; periplasmic protein TonB	55		
+tr|D9SBV2|D9SBV2_FIBSS			215		
+tr|D9SB15|D9SB15_FIBSS			52	K14347	2
+tr|C9RRA6|C9RRA6_FIBSS	K00925	ackA; acetate kinase [EC:2.7.2.1]	397		
+tr|C9RKM5|C9RKM5_FIBSS			148		
+tr|C9RRS7|C9RRS7_FIBSS			402		
+tr|C9RQ81|C9RQ81_FIBSS			209		
+tr|C9RS07|C9RS07_FIBSS	K03217	yidC; YidC/Oxa1 family membrane protein insertase	295		
+tr|C9RJW9|C9RJW9_FIBSS			22	K01485	2
+tr|C9RJZ6|C9RJZ6_FIBSS			345		
+tr|C9RMQ2|C9RMQ2_FIBSS			182		
+tr|C9RND9|C9RND9_FIBSS	K01991	ABC-2.OM; polysaccharide export outer membrane protein	256		
+tr|C9RQ98|C9RQ98_FIBSS			55		
+tr|D9S5P7|D9S5P7_FIBSS	K09458	fabF; 3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179]	480		
+tr|C9RMZ0|C9RMZ0_FIBSS	K03671	trxA; thioredoxin 1	137		
+tr|C9RM53|C9RM53_FIBSS			186		
+tr|C9RNL6|C9RNL6_FIBSS			15	K01845	3
+tr|C9RKY8|C9RKY8_FIBSS	K04083	hslO; molecular chaperone Hsp33	136		
+tr|C9RQI1|C9RQI1_FIBSS			112		
+tr|C9RKQ2|C9RKQ2_FIBSS			190		
+tr|C9RS91|C9RS91_FIBSS			59		
+tr|C9RIX1|C9RIX1_FIBSS			473	K18197	126
+tr|D9S800|D9S800_FIBSS	K03664	smpB; SsrA-binding protein	157		
+tr|D9SBM2|D9SBM2_FIBSS	K04084	dsbD; thiol:disulfide interchange protein DsbD [EC:1.8.1.8]	132	K08344	109
+tr|C9RIM0|C9RIM0_FIBSS	K03570	mreC; rod shape-determining protein MreC	168		
+tr|C9RR70|C9RR70_FIBSS			112		
+tr|C9RJ98|C9RJ98_FIBSS	K02005	ABC.CD.TX; HlyD family secretion protein	364		
+tr|D9S420|D9S420_FIBSS	K01297	ldcA; muramoyltetrapeptide carboxypeptidase [EC:3.4.17.13]	267		
+tr|C9RRR3|C9RRR3_FIBSS			116		
+tr|D9S491|D9S491_FIBSS	K03770	ppiD; peptidyl-prolyl cis-trans isomerase D [EC:5.2.1.8]	206	K01802	10
+tr|C9RIT9|C9RIT9_FIBSS			118	K00286	4
+tr|C9RRE3|C9RRE3_FIBSS	K03342	pabBC; para-aminobenzoate synthetase / 4-amino-4-deoxychorismate lyase [EC:2.6.1.85 4.1.3.38]	412		
+tr|C9RMR5|C9RMR5_FIBSS			138		
+tr|C9RKU9|C9RKU9_FIBSS	K03924	moxR; MoxR-like ATPase [EC:3.6.3.-]	313		
+tr|C9RQD8|C9RQD8_FIBSS			130	K01176	4
+tr|C9RKR3|C9RKR3_FIBSS	K02500	hisF; cyclase [EC:4.1.3.-]	347		
+tr|C9RIW1|C9RIW1_FIBSS			463		
+tr|C9RKD5|C9RKD5_FIBSS			18	K02663	4
+tr|C9RQF0|C9RQF0_FIBSS	K06180	rluD; 23S rRNA pseudouridine1911/1915/1917 synthase [EC:5.4.99.23]	233		
+tr|C9RQ83|C9RQ83_FIBSS			22	K05349	1
+tr|D9S5V4|D9S5V4_FIBSS	K06889	uncharacterized protein	265		
+tr|C9RIJ7|C9RIJ7_FIBSS			36	K03642	3
+tr|C9RKP1|C9RKP1_FIBSS			23	K02967	1
+tr|C9RQY6|C9RQY6_FIBSS	K00928	lysC; aspartate kinase [EC:2.7.2.4]	448		
+tr|C9RRG4|C9RRG4_FIBSS	K09951	cas2; CRISPR-associated protein Cas2	63		
+tr|C9RNA0|C9RNA0_FIBSS			19	K01652	2
+tr|C9RN16|C9RN16_FIBSS	K01784	galE; UDP-glucose 4-epimerase [EC:5.1.3.2]	308		
+tr|C9RJX6|C9RJX6_FIBSS	K06883	uncharacterized protein	276		
+tr|C9RLX7|C9RLX7_FIBSS	K09015	sufD; Fe-S cluster assembly protein SufD	172		
+tr|C9RNU1|C9RNU1_FIBSS			17	K09823	1
+tr|C9RNM8|C9RNM8_FIBSS	K00566	mnmA; tRNA-specific 2-thiouridylase [EC:2.8.1.-]	304		
+tr|C9RMM6|C9RMM6_FIBSS			239		
+tr|C9RLL0|C9RLL0_FIBSS	K02897	RP-L25; large subunit ribosomal protein L25	123		
+tr|C9RP92|C9RP92_FIBSS	K03522	fixB; electron transfer flavoprotein alpha subunit	521		
+tr|C9RKV8|C9RKV8_FIBSS	K00067	rfbD; dTDP-4-dehydrorhamnose reductase [EC:1.1.1.133]	458		
+tr|C9RKD2|C9RKD2_FIBSS	K02666	pilQ; type IV pilus assembly protein PilQ	269		
+tr|C9RL86|C9RL86_FIBSS			43	K16146	41
+tr|C9RPS2|C9RPS2_FIBSS			25	K00948	2
+tr|C9RS37|C9RS37_FIBSS			27	K08602	2
+tr|C9RNS7|C9RNS7_FIBSS			440		
+tr|C9RNU4|C9RNU4_FIBSS			298		
+tr|C9RII6|C9RII6_FIBSS			201		
+tr|C9RR12|C9RR12_FIBSS	K02919	RP-L36; large subunit ribosomal protein L36	66		
+tr|C9RIV2|C9RIV2_FIBSS	K02342	DPO3E; DNA polymerase III subunit epsilon [EC:2.7.7.7]	162		
+tr|C9RR13|C9RR13_FIBSS	K02518	infA; translation initiation factor IF-1	120		
+tr|C9RMB6|C9RMB6_FIBSS	K06178	rluB; 23S rRNA pseudouridine2605 synthase [EC:5.4.99.22]	229		
+tr|C9RIS1|C9RIS1_FIBSS			66	K03593	4
+tr|C9RK02|C9RK02_FIBSS			20	K07335	1
+tr|C9RMX8|C9RMX8_FIBSS			55	K02343	5
+tr|C9RLY3|C9RLY3_FIBSS			20	K04085	13
+tr|C9RLD8|C9RLD8_FIBSS			16	K01990	2
+tr|C9RM45|C9RM45_FIBSS			251		
+tr|C9RM48|C9RM48_FIBSS			29	K00694	1
+tr|D9S969|D9S969_FIBSS	K00721	DPM1; dolichol-phosphate mannosyltransferase [EC:2.4.1.83]	295		
+tr|C9RNK2|C9RNK2_FIBSS			264		
+tr|C9RNP0|C9RNP0_FIBSS			59	K03830	2
+tr|C9RR31|C9RR31_FIBSS	K02886	RP-L2; large subunit ribosomal protein L2	360		
+tr|C9RMD7|C9RMD7_FIBSS			148		
+tr|C9RK22|C9RK22_FIBSS			159		
+tr|C9RS74|C9RS74_FIBSS	K00266	gltD; glutamate synthase (NADPH/NADH) small chain [EC:1.4.1.13 1.4.1.14]	442		
+tr|C9RNJ8|C9RNJ8_FIBSS	K01955	carB; carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]	1503		
+tr|C9RJW2|C9RJW2_FIBSS			21	K07225	3
+tr|C9RIR9|C9RIR9_FIBSS	K06199	crcB; CrcB protein	106		
+tr|C9RPC0|C9RPC0_FIBSS			324		
+tr|C9RIZ9|C9RIZ9_FIBSS	K00970	pcnB; poly(A) polymerase [EC:2.7.7.19]	26		
+tr|C9RQW0|C9RQW0_FIBSS			149		
+tr|C9RPW5|C9RPW5_FIBSS			14	K00864	13
+tr|C9RRV4|C9RRV4_FIBSS			13	K00611	2
+tr|C9RMW5|C9RMW5_FIBSS			19	K03286	1
+tr|C9RPD9|C9RPD9_FIBSS			424		
+tr|D9S9A9|D9S9A9_FIBSS	K12132	prkC; eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]	45		
+tr|C9RJY6|C9RJY6_FIBSS			57		
+tr|C9RLM7|C9RLM7_FIBSS			20	K00325	2
+tr|D9S809|D9S809_FIBSS			225	K01840	81
+tr|C9RPX3|C9RPX3_FIBSS			228		
+tr|C9RL06|C9RL06_FIBSS	K01803	TPI; triosephosphate isomerase (TIM) [EC:5.3.1.1]	290		
+tr|C9RK63|C9RK63_FIBSS			124		
+tr|D9SAX7|D9SAX7_FIBSS	K06861	lptB; lipopolysaccharide export system ATP-binding protein [EC:3.6.3.-]	312		
+tr|C9RJJ1|C9RJJ1_FIBSS			16	K06142	8
+tr|D9SBL8|D9SBL8_FIBSS	K01495	GCH1; GTP cyclohydrolase I [EC:3.5.4.16]	227		
+tr|C9RPP7|C9RPP7_FIBSS	K09458	fabF; 3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179]	495		
+tr|C9RND5|C9RND5_FIBSS	K00645	fabD; [acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39]	383		
+tr|C9RJH1|C9RJH1_FIBSS			21	K01428	3
+tr|C9RJG1|C9RJG1_FIBSS			102		
+tr|C9RLP2|C9RLP2_FIBSS			221		
+tr|D9SAB3|D9SAB3_FIBSS	K07263	pqqL; zinc protease [EC:3.4.24.-]	149		
+tr|C9RR20|C9RR20_FIBSS	K02994	RP-S8; small subunit ribosomal protein S8	166		
+tr|C9RK16|C9RK16_FIBSS			17	K00939	2
+tr|D9S7H1|D9S7H1_FIBSS			748		
+tr|C9RIM9|C9RIM9_FIBSS	K03179	ubiA; 4-hydroxybenzoate polyprenyltransferase [EC:2.5.1.39]	252		
+tr|C9RJZ4|C9RJZ4_FIBSS			35	K01338	1
+tr|C9RJ21|C9RJ21_FIBSS	K17105	E2.5.1.42; geranylgeranylglycerol-phosphate geranylgeranyltransferase [EC:2.5.1.42]	74	K03179	32
+tr|D9SAQ1|D9SAQ1_FIBSS	K01129	dgt; dGTPase [EC:3.1.5.1]	335		
+tr|C9RQM7|C9RQM7_FIBSS			20	K16238	2
+tr|D9S5C0|D9S5C0_FIBSS	K02835	prfA; peptide chain release factor 1	423		
+tr|C9RMT4|C9RMT4_FIBSS			31	K01874	6
+tr|C9RRF1|C9RRF1_FIBSS			17	K17243	1
+tr|C9RN29|C9RN29_FIBSS			22	K05550	1
+tr|C9RMK1|C9RMK1_FIBSS	K05396	dcyD; D-cysteine desulfhydrase [EC:4.4.1.15]	267	K17950	15
+tr|C9RKS9|C9RKS9_FIBSS	K01515	nudF; ADP-ribose pyrophosphatase [EC:3.6.1.13]	37		
+tr|C9RKX6|C9RKX6_FIBSS	K00341	nuoL; NADH-quinone oxidoreductase subunit L [EC:1.6.5.3]	535		
+tr|C9RQ78|C9RQ78_FIBSS			31	K03286	9
+tr|C9RNN8|C9RNN8_FIBSS			284		
+tr|C9RQG7|C9RQG7_FIBSS	K02355	fusA; elongation factor G	237		
+tr|C9RQG8|C9RQG8_FIBSS			245		
+tr|C9RJP5|C9RJP5_FIBSS	K00394	aprA; adenylylsulfate reductase, subunit A [EC:1.8.99.2]	790		
+tr|C9RJU2|C9RJU2_FIBSS			109		
+tr|C9RL07|C9RL07_FIBSS			302	K12132	8
+tr|C9RJL9|C9RJL9_FIBSS	K12132	prkC; eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]	293		
+tr|C9RL69|C9RL69_FIBSS			223		
+tr|C9RJV3|C9RJV3_FIBSS	K11754	folC; dihydrofolate synthase / folylpolyglutamate synthase [EC:6.3.2.12 6.3.2.17]	278		
+tr|C9RJE2|C9RJE2_FIBSS			107		
+tr|C9RRV9|C9RRV9_FIBSS	K02039	phoU; phosphate transport system protein	217		
+tr|C9RP52|C9RP52_FIBSS			153		
+tr|C9RJ08|C9RJ08_FIBSS			20	K14393	2
+tr|C9RRM2|C9RRM2_FIBSS			249		
+tr|C9RNS5|C9RNS5_FIBSS			187		
+tr|D9S5Q5|D9S5Q5_FIBSS	K01749	hemC; hydroxymethylbilane synthase [EC:2.5.1.61]	264		
+tr|D9SAZ2|D9SAZ2_FIBSS	K03313	nhaA; Na+:H+ antiporter, NhaA family	385		
+tr|C9RP12|C9RP12_FIBSS			70		
+tr|C9RS87|C9RS87_FIBSS			23	K06306	2
+tr|C9RJC8|C9RJC8_FIBSS	K10012	arnC; undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase [EC:2.4.2.53]	87	K20534	60
+tr|C9RKY2|C9RKY2_FIBSS	K00331	nuoB; NADH-quinone oxidoreductase subunit B [EC:1.6.5.3]	169		
+tr|C9RMW1|C9RMW1_FIBSS	K01218	gmuG; mannan endo-1,4-beta-mannosidase [EC:3.2.1.78]	326		
+tr|C9RLF7|C9RLF7_FIBSS	K03218	rlmB; 23S rRNA (guanosine2251-2'-O)-methyltransferase [EC:2.1.1.185]	188		
+tr|C9RLH0|C9RLH0_FIBSS	K03426	E3.6.1.22; NAD+ diphosphatase [EC:3.6.1.22]	233		
+tr|C9RQ06|C9RQ06_FIBSS	K02586	nifD; nitrogenase molybdenum-iron protein alpha chain [EC:1.18.6.1]	448		
+tr|C9RQ18|C9RQ18_FIBSS			215		
+tr|C9RQJ3|C9RQJ3_FIBSS	K02032	ABC.PE.A1; peptide/nickel transport system ATP-binding protein	81		
+tr|C9RL98|C9RL98_FIBSS			147		
+tr|D9S721|D9S721_FIBSS			30	K00525	7
+tr|C9RJ99|C9RJ99_FIBSS			271		
+tr|C9RK59|C9RK59_FIBSS			166		
+tr|C9RRV1|C9RRV1_FIBSS			193		
+tr|C9RS54|C9RS54_FIBSS			138		
+tr|C9RND0|C9RND0_FIBSS			455		
+tr|C9RNZ8|C9RNZ8_FIBSS			22	K00788	3
+tr|D9S652|D9S652_FIBSS	K07277	SAM50; outer membrane protein insertion porin family	355		
+tr|C9RIK8|C9RIK8_FIBSS	K11785	mqnD; 1,4-dihydroxy-6-naphthoate synthase [EC:1.14.-.-]	161		
+tr|D9SB57|D9SB57_FIBSS			215	K14058	38
+tr|C9RPD3|C9RPD3_FIBSS	K09459	E4.1.1.82; phosphonopyruvate decarboxylase [EC:4.1.1.82]	431		
+tr|C9RQY0|C9RQY0_FIBSS			194		
+tr|C9RQZ1|C9RQZ1_FIBSS	K07154	hipA; serine/threonine-protein kinase HipA [EC:2.7.11.1]	63		
+tr|C9RRR7|C9RRR7_FIBSS			65	K07114	4
+tr|C9RNR5|C9RNR5_FIBSS	K03559	exbD; biopolymer transport protein ExbD	137		
+tr|C9RLU5|C9RLU5_FIBSS			20	K03797	20
+tr|D9S8D9|D9S8D9_FIBSS			147	K02198	4
+tr|C9RJ84|C9RJ84_FIBSS	K02911	RP-L32; large subunit ribosomal protein L32	82		
+tr|C9RN52|C9RN52_FIBSS			267		
+tr|C9RP70|C9RP70_FIBSS			17	K01955	1
+tr|C9RMC3|C9RMC3_FIBSS	K02428	rdgB; XTP/dITP diphosphohydrolase [EC:3.6.1.66]	180		
+tr|C9RQA3|C9RQA3_FIBSS	K03546	sbcC; exonuclease SbcC	610		
+tr|C9RLR3|C9RLR3_FIBSS	K00241	sdhC; succinate dehydrogenase / fumarate reductase, cytochrome b subunit	172		
+tr|C9RJL5|C9RJL5_FIBSS			27	K07277	4
+tr|C9RL03|C9RL03_FIBSS	K00773	tgt; queuine tRNA-ribosyltransferase [EC:2.4.2.29]	458		
+tr|D9S758|D9S758_FIBSS	K15986	ppaC; manganese-dependent inorganic pyrophosphatase [EC:3.6.1.1]	184		
+tr|C9RND2|C9RND2_FIBSS			36	K14058	2
+tr|D9S7V5|D9S7V5_FIBSS			184		
+tr|D9S4L2|D9S4L2_FIBSS			314	K04043	26
+tr|C9RR38|C9RR38_FIBSS			187		
+tr|D9S425|D9S425_FIBSS			181		
+tr|D9SAB8|D9SAB8_FIBSS			57	K07778	2
+tr|C9RL93|C9RL93_FIBSS			612		
+tr|C9RN06|C9RN06_FIBSS	K00971	manC; mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]	581		
+tr|C9RLC3|C9RLC3_FIBSS			20	K02529	1
+tr|C9RN41|C9RN41_FIBSS			21	K02549	1
+tr|C9RN19|C9RN19_FIBSS			22	K00626	1
+tr|C9RNN9|C9RNN9_FIBSS	K05896	scpA; segregation and condensation protein A	109		
+tr|D9S8R7|D9S8R7_FIBSS			420		
+tr|C9RQG1|C9RQG1_FIBSS	K09816	znuB; zinc transport system permease protein	350		
+tr|C9RR22|C9RR22_FIBSS	K02931	RP-L5; large subunit ribosomal protein L5	236		
+tr|C9RMP4|C9RMP4_FIBSS					
+tr|D9S7J1|D9S7J1_FIBSS	K06381	spoIID; stage II sporulation protein D	203		
+tr|D9S7U0|D9S7U0_FIBSS	K01129	dgt; dGTPase [EC:3.1.5.1]	423		
+tr|C9RLS6|C9RLS6_FIBSS	K02028	ABC.PA.A; polar amino acid transport system ATP-binding protein [EC:3.6.3.21]	316		
+tr|C9RKA6|C9RKA6_FIBSS	K00003	E1.1.1.3; homoserine dehydrogenase [EC:1.1.1.3]	392		
+tr|C9RLL3|C9RLL3_FIBSS			161	K01181	23
+tr|C9RL80|C9RL80_FIBSS	K07566	tsaC; L-threonylcarbamoyladenylate synthase [EC:2.7.7.87]	310		
+tr|C9RKL1|C9RKL1_FIBSS	K06925	tsaE; tRNA threonylcarbamoyladenosine biosynthesis protein TsaE	121		
+tr|C9RIM7|C9RIM7_FIBSS	K03183	ubiE; demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201]	161		
+tr|C9RPJ4|C9RPJ4_FIBSS			580		
+tr|C9RPL8|C9RPL8_FIBSS			17	K19068	8
+tr|D9S5N2|D9S5N2_FIBSS			31	K01768	2
+tr|D9S4D2|D9S4D2_FIBSS	K09458	fabF; 3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179]	321		
+tr|C9RQ33|C9RQ33_FIBSS			17	K10747	6
+tr|C9RJI3|C9RJI3_FIBSS	K11928	putP; sodium/proline symporter	477	K03307	46
+tr|C9RL71|C9RL71_FIBSS			469		
+tr|C9RQ45|C9RQ45_FIBSS			140		
+tr|C9RN01|C9RN01_FIBSS			21	K02650	13
+tr|C9RLW9|C9RLW9_FIBSS			25	K03929	1
+tr|C9RJ62|C9RJ62_FIBSS			33	K15738	1
+tr|C9RKB4|C9RKB4_FIBSS			26	K08602	2
+tr|C9RL29|C9RL29_FIBSS	K03526	gcpE; (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase [EC:1.17.7.1 1.17.7.3]	488		
+tr|C9RL05|C9RL05_FIBSS			15	K03075	4
+tr|C9RKT3|C9RKT3_FIBSS	K02600	nusA; N utilization substance protein A	306		
+tr|C9RIU9|C9RIU9_FIBSS			367		
+tr|C9RQB5|C9RQB5_FIBSS			173		
+tr|C9RL72|C9RL72_FIBSS			25	K10540	2
+tr|C9RJ00|C9RJ00_FIBSS			379		
+tr|C9RR63|C9RR63_FIBSS			184		
+tr|C9RPE2|C9RPE2_FIBSS	K08483	PTS-EI.PTSI; phosphotransferase system, enzyme I, PtsI [EC:2.7.3.9]	500		
+tr|C9RIJ2|C9RIJ2_FIBSS	K01588	purE; 5-(carboxyamino)imidazole ribonucleotide mutase [EC:5.4.99.18]	156		
+tr|C9RQ96|C9RQ96_FIBSS			20	K02004	1
+tr|D9SBR7|D9SBR7_FIBSS			66	K19068	2
+tr|C9RPN3|C9RPN3_FIBSS	K13894	yejB; microcin C transport system permease protein	364		
+tr|C9RIZ2|C9RIZ2_FIBSS	K00783	rlmH; 23S rRNA (pseudouridine1915-N3)-methyltransferase [EC:2.1.1.177]	109		
+tr|C9RQ64|C9RQ64_FIBSS			262		
+tr|C9RQ23|C9RQ23_FIBSS	K01738	cysK; cysteine synthase A [EC:2.5.1.47]	189		
+tr|D9S6U5|D9S6U5_FIBSS			160	K03406	4
+tr|C9RNN3|C9RNN3_FIBSS	K03797	E3.4.21.102; carboxyl-terminal processing protease [EC:3.4.21.102]	86		
+tr|C9RII3|C9RII3_FIBSS			58		
+tr|C9RS43|C9RS43_FIBSS			21	K07496	3
+tr|D9S5G2|D9S5G2_FIBSS			322		
+tr|C9RIQ1|C9RIQ1_FIBSS	K16147	glgE; starch synthase (maltosyl-transferring) [EC:2.4.99.16]	504		
+tr|C9RPG1|C9RPG1_FIBSS			17	K01992	1
+tr|C9RRW6|C9RRW6_FIBSS			281		
+tr|D9S649|D9S649_FIBSS			368		
+tr|C9RQ95|C9RQ95_FIBSS	K03088	SIG3.2; RNA polymerase sigma-70 factor, ECF subfamily	130		
+tr|C9RQU4|C9RQU4_FIBSS			143		
+tr|C9RNR8|C9RNR8_FIBSS			27	K03546	2
+tr|D9S9D1|D9S9D1_FIBSS			188		
+tr|D9S6L5|D9S6L5_FIBSS			433		
+tr|D9S4N1|D9S4N1_FIBSS	K00806	uppS; undecaprenyl diphosphate synthase [EC:2.5.1.31]	272		
+tr|C9RIP3|C9RIP3_FIBSS			22	K02456	1
+tr|C9RM46|C9RM46_FIBSS	K03701	uvrA; excinuclease ABC subunit A	1419		
+tr|C9RPI2|C9RPI2_FIBSS			23	K02864	1
+tr|C9RLS3|C9RLS3_FIBSS	K00240	sdhB; succinate dehydrogenase / fumarate reductase, iron-sulfur subunit [EC:1.3.5.1 1.3.5.4]	316		
+tr|C9RJP8|C9RJP8_FIBSS	K00956	cysN; sulfate adenylyltransferase subunit 1 [EC:2.7.7.4]	701		
+tr|C9RJK0|C9RJK0_FIBSS	K00335	nuoF; NADH-quinone oxidoreductase subunit F [EC:1.6.5.3]	457		
+tr|C9RIU0|C9RIU0_FIBSS			15	K09715	6
+tr|C9RN83|C9RN83_FIBSS			25	K03168	1
+tr|C9RPU6|C9RPU6_FIBSS			141	K18138	4
+tr|C9RPV7|C9RPV7_FIBSS			188		
+tr|C9RR05|C9RR05_FIBSS			28	K00971	2
+tr|C9RNY7|C9RNY7_FIBSS			57	K07318	2
+tr|C9RS21|C9RS21_FIBSS			126	K15921	38
+tr|D9S913|D9S913_FIBSS			277		
+tr|C9RMA7|C9RMA7_FIBSS	K01507	ppa; inorganic pyrophosphatase [EC:3.6.1.1]	161		
+tr|C9RPI8|C9RPI8_FIBSS	K04069	pflA; pyruvate formate lyase activating enzyme [EC:1.97.1.4]	307		
+tr|C9RPT2|C9RPT2_FIBSS	K01698	hemB; porphobilinogen synthase [EC:4.2.1.24]	426		
+tr|C9RKV6|C9RKV6_FIBSS			31	K00337	2
+tr|C9RL28|C9RL28_FIBSS	K07814	putative two-component system response regulator	105		
+tr|C9RME2|C9RME2_FIBSS	K07461	putative endonuclease	102		
+tr|C9RLE5|C9RLE5_FIBSS	K03585	acrA; membrane fusion protein, multidrug efflux system	246		
+tr|C9RLD9|C9RLD9_FIBSS			135	K00845	4
+tr|C9RJQ0|C9RJQ0_FIBSS	K02048	cysP; sulfate transport system substrate-binding protein	460		
+tr|C9RK42|C9RK42_FIBSS			27	K02519	1
+tr|C9RK18|C9RK18_FIBSS			53	K01206	2
+tr|C9RNC0|C9RNC0_FIBSS			112	K02034	4
+tr|C9RP01|C9RP01_FIBSS			666		
+tr|C9RPQ4|C9RPQ4_FIBSS	K01745	hutH; histidine ammonia-lyase [EC:4.3.1.3]	603		
+tr|C9RPP4|C9RPP4_FIBSS			21	K02035	2
+tr|D9S6C5|D9S6C5_FIBSS			355		
+tr|C9RRG9|C9RRG9_FIBSS			294		
+tr|C9RR68|C9RR68_FIBSS	K03453	TC.BASS; bile acid:Na+ symporter, BASS family	371		
+tr|C9RQA1|C9RQA1_FIBSS			31	K01649	1
+tr|D9SBA9|D9SBA9_FIBSS			28	K03549	2
+tr|C9RLS2|C9RLS2_FIBSS	K01156	res; type III restriction enzyme [EC:3.1.21.5]	785		
+tr|C9RME4|C9RME4_FIBSS	K03592	pmbA; PmbA protein	278		
+tr|C9RP13|C9RP13_FIBSS	K00702	E2.4.1.20; cellobiose phosphorylase [EC:2.4.1.20]	284		
+tr|D9S5P0|D9S5P0_FIBSS	K01868	TARS; threonyl-tRNA synthetase [EC:6.1.1.3]	742		
+tr|C9RJB0|C9RJB0_FIBSS	K07133	uncharacterized protein	491		
+tr|C9RRU6|C9RRU6_FIBSS	K16786	ecfA1; energy-coupling factor transport system ATP-binding protein [EC:3.6.3.-]	491		
+	K16787	ecfA2; energy-coupling factor transport system ATP-binding protein [EC:3.6.3.-]			
+tr|C9RLY2|C9RLY2_FIBSS			19	K02008	2
+tr|D9S903|D9S903_FIBSS			215		
+tr|C9RN64|C9RN64_FIBSS	K11752	ribD; diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase [EC:3.5.4.26 1.1.1.193]	237		
+tr|C9RNI8|C9RNI8_FIBSS			1262		
+tr|C9RKG5|C9RKG5_FIBSS			19	K02687	4
+tr|C9RKZ9|C9RKZ9_FIBSS			267		
+tr|C9RL70|C9RL70_FIBSS			315		
+tr|C9RK49|C9RK49_FIBSS			22	K02337	1
+tr|C9RJT1|C9RJT1_FIBSS	K01695	trpA; tryptophan synthase alpha chain [EC:4.2.1.20]	199		
+tr|C9RMI6|C9RMI6_FIBSS	K04567	KARS; lysyl-tRNA synthetase, class II [EC:6.1.1.6]	535		
+tr|C9RIL3|C9RIL3_FIBSS			142		
+tr|D9SB22|D9SB22_FIBSS			479		
+tr|C9RR76|C9RR76_FIBSS	K01999	livK; branched-chain amino acid transport system substrate-binding protein	81		
+tr|C9RRN3|C9RRN3_FIBSS			23	K11209	1
+tr|C9RRQ3|C9RRQ3_FIBSS			110	K03821	4
+tr|C9RRA2|C9RRA2_FIBSS	K00330	nuoA; NADH-quinone oxidoreductase subunit A [EC:1.6.5.3]	106		
+tr|D9S5G0|D9S5G0_FIBSS			27	K07058	1
+tr|C9RPF6|C9RPF6_FIBSS			18	K07001	17
+tr|C9RR29|C9RR29_FIBSS	K02890	RP-L22; large subunit ribosomal protein L22	102		
+tr|C9RKB9|C9RKB9_FIBSS			21	K11717	2
+tr|C9RNX9|C9RNX9_FIBSS			20	K03205	1
+tr|C9RQS0|C9RQS0_FIBSS			352		
+tr|C9RLF0|C9RLF0_FIBSS	K02963	RP-S18; small subunit ribosomal protein S18	110		
+tr|D9S946|D9S946_FIBSS			21	K03781	2
+tr|C9RMN1|C9RMN1_FIBSS	K18234	vat; virginiamycin A acetyltransferase [EC:2.3.1.-]	270		
+tr|C9RNR9|C9RNR9_FIBSS			86	K06158	4
+tr|D9S860|D9S860_FIBSS	K08641	vanX; D-alanyl-D-alanine dipeptidase [EC:3.4.13.22]	164		
+tr|C9RL18|C9RL18_FIBSS			29	K00942	1
+tr|C9RNM3|C9RNM3_FIBSS	K00705	malQ; 4-alpha-glucanotransferase [EC:2.4.1.25]	436		
+tr|C9RLJ8|C9RLJ8_FIBSS	K00286	proC; pyrroline-5-carboxylate reductase [EC:1.5.1.2]	214		
+tr|C9RKW1|C9RKW1_FIBSS	K03631	recN; DNA repair protein RecN (Recombination protein N)	392		
+tr|C9RMM1|C9RMM1_FIBSS			384		
+tr|C9RJZ7|C9RJZ7_FIBSS	K03324	yjbB; phosphate:Na+ symporter	543		
+tr|C9RK53|C9RK53_FIBSS	K06203	cysZ; CysZ protein	127		
+tr|C9RRK5|C9RRK5_FIBSS			199		
+tr|C9RJD5|C9RJD5_FIBSS	K05349	bglX; beta-glucosidase [EC:3.2.1.21]	494		
+tr|C9RS52|C9RS52_FIBSS			692		
+tr|C9RRY1|C9RRY1_FIBSS			222		
+tr|C9RNW3|C9RNW3_FIBSS			267		
+tr|D9S910|D9S910_FIBSS			211	K19419	10
+tr|C9RQI4|C9RQI4_FIBSS			173		
+tr|C9RKY7|C9RKY7_FIBSS	K02203	thrH; phosphoserine / homoserine phosphotransferase [EC:3.1.3.3 2.7.1.39]	237		
+tr|C9RPF5|C9RPF5_FIBSS	K07082	UPF0755 protein	240		
+tr|C9RPW7|C9RPW7_FIBSS			163		
+tr|C9RMT0|C9RMT0_FIBSS	K03086	SIG1; RNA polymerase primary sigma factor	210		
+tr|C9RLD5|C9RLD5_FIBSS	K01265	map; methionyl aminopeptidase [EC:3.4.11.18]	284		
+tr|C9RN31|C9RN31_FIBSS			114		
+tr|D9SAZ3|D9SAZ3_FIBSS			488		
+tr|C9RJT9|C9RJT9_FIBSS	K06024	scpB; segregation and condensation protein B	162		
+tr|C9RLK3|C9RLK3_FIBSS	K01768	E4.6.1.1; adenylate cyclase [EC:4.6.1.1]	136		
+tr|C9RK17|C9RK17_FIBSS	K09805	uncharacterized protein	290		
+tr|C9RNB1|C9RNB1_FIBSS			59	K01955	2
+tr|C9RS26|C9RS26_FIBSS			565		
+tr|C9RJA3|C9RJA3_FIBSS			482		
+tr|C9RR75|C9RR75_FIBSS			71	K01154	4
+tr|C9RQU2|C9RQU2_FIBSS			22	K05820	2
+tr|C9RM06|C9RM06_FIBSS	K08289	purT; phosphoribosylglycinamide formyltransferase 2 [EC:2.1.2.2]	575		
+tr|C9RPZ9|C9RPZ9_FIBSS	K01740	metY; O-acetylhomoserine (thiol)-lyase [EC:2.5.1.49]	627		
+tr|C9RS97|C9RS97_FIBSS			17	K03624	6
+tr|C9RMA1|C9RMA1_FIBSS			176		
+tr|C9RLA7|C9RLA7_FIBSS	K02316	dnaG; DNA primase [EC:2.7.7.-]	72		
+tr|C9RK20|C9RK20_FIBSS			139	K05970	19
+tr|C9RMY4|C9RMY4_FIBSS			21	K10227	1
+tr|C9RNF7|C9RNF7_FIBSS	K02916	RP-L35; large subunit ribosomal protein L35	75		
+tr|D9S8W1|D9S8W1_FIBSS			30	K08482	2
+tr|D9S8D7|D9S8D7_FIBSS			440		
+tr|C9RM98|C9RM98_FIBSS			24	K02945	2
+tr|C9RME6|C9RME6_FIBSS			15	K06959	5
+tr|D9S6T2|D9S6T2_FIBSS			229		
+tr|C9RQC5|C9RQC5_FIBSS			182		
+tr|C9RKJ5|C9RKJ5_FIBSS			18	K00281	7
+tr|D9S4C9|D9S4C9_FIBSS	K01966	PCCB; propionyl-CoA carboxylase beta chain [EC:6.4.1.3]	352		
+tr|C9RIS5|C9RIS5_FIBSS	K03642	rlpA; rare lipoprotein A	131		
+tr|C9RIK9|C9RIK9_FIBSS			31	K11900	1
+tr|C9RJH8|C9RJH8_FIBSS			104	K07316	10
+tr|C9RPU3|C9RPU3_FIBSS	K06001	trpB; tryptophan synthase beta chain [EC:4.2.1.20]	716		
+tr|C9RQM9|C9RQM9_FIBSS			23	K02761	1
+tr|C9RQV3|C9RQV3_FIBSS			39	K00526	2
+tr|C9RKY9|C9RKY9_FIBSS	K03152	thiJ; 4-methyl-5(b-hydroxyethyl)-thiazole monophosphate biosynthesis	151		
+tr|C9RKS8|C9RKS8_FIBSS			27	K01703	1
+tr|C9RSA0|C9RSA0_FIBSS			231		
+tr|C9RPK1|C9RPK1_FIBSS	K06920	queC; 7-cyano-7-deazaguanine synthase [EC:6.3.4.20]	269		
+tr|C9RK93|C9RK93_FIBSS			236		
+tr|C9RJ28|C9RJ28_FIBSS	K01179	E3.2.1.4; endoglucanase [EC:3.2.1.4]	246		
+tr|C9RN90|C9RN90_FIBSS	K03558	cvpA; membrane protein required for colicin V production	77		
+tr|C9RPT1|C9RPT1_FIBSS	K03442	mscS; small conductance mechanosensitive channel	210		
+tr|D9S4N9|D9S4N9_FIBSS	K01179	E3.2.1.4; endoglucanase [EC:3.2.1.4]	499		
+tr|C9RPP6|C9RPP6_FIBSS	K00759	APRT; adenine phosphoribosyltransferase [EC:2.4.2.7]	219		
+tr|C9RJ45|C9RJ45_FIBSS			24	K03606	1
+tr|C9RLF5|C9RLF5_FIBSS	K03684	rnd; ribonuclease D [EC:3.1.13.5]	265		
+tr|C9RQP5|C9RQP5_FIBSS	K07478	ycaJ; putative ATPase	437		
+tr|D9S9Y4|D9S9Y4_FIBSS			1092		
+tr|C9RNN0|C9RNN0_FIBSS			164		
+tr|D9S996|D9S996_FIBSS	K07315	rsbU_P; phosphoserine phosphatase RsbU/P [EC:3.1.3.3]	210	K16928	112
+tr|D9S9P2|D9S9P2_FIBSS			311		
+tr|D9SA32|D9SA32_FIBSS			412		
+tr|C9RMJ0|C9RMJ0_FIBSS	K03696	clpC; ATP-dependent Clp protease ATP-binding subunit ClpC	895		
+tr|C9RJM4|C9RJM4_FIBSS			368		
+tr|D9SAD6|D9SAD6_FIBSS			317		
+tr|C9RK09|C9RK09_FIBSS			255		
+tr|D9S6F3|D9S6F3_FIBSS	K03215	rumA; 23S rRNA (uracil1939-C5)-methyltransferase [EC:2.1.1.190]	207		
+tr|C9RKA4|C9RKA4_FIBSS			281		
+tr|D9SB80|D9SB80_FIBSS	K09935	uncharacterized protein	135		
+tr|C9RNX3|C9RNX3_FIBSS	K03723	mfd; transcription-repair coupling factor (superfamily II helicase) [EC:3.6.4.-]	846		
+tr|C9RR44|C9RR44_FIBSS			116	K03770	3
+tr|C9RRS9|C9RRS9_FIBSS			13	K03561	2
+tr|D9S7B1|D9S7B1_FIBSS	K07024	uncharacterized protein	177		
+tr|C9RLK9|C9RLK9_FIBSS	K00919	ispE; 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase [EC:2.7.1.148]	189		
+tr|C9RQ82|C9RQ82_FIBSS			253	K01113	14
+tr|C9RMS5|C9RMS5_FIBSS	K01776	murI; glutamate racemase [EC:5.1.1.3]	345		
+tr|D9S9P6|D9S9P6_FIBSS	K03702	uvrB; excinuclease ABC subunit B	821		
+tr|C9RNL2|C9RNL2_FIBSS			210		
+tr|C9RNE2|C9RNE2_FIBSS	K01710	E4.2.1.46; dTDP-glucose 4,6-dehydratase [EC:4.2.1.46]	615		
+tr|C9RR35|C9RR35_FIBSS	K02946	RP-S10; small subunit ribosomal protein S10	164		
+tr|C9RP57|C9RP57_FIBSS	K07458	vsr; DNA mismatch endonuclease, patch repair protein [EC:3.1.-.-]	155		
+tr|C9RMP0|C9RMP0_FIBSS					
+tr|C9RS81|C9RS81_FIBSS			362		
+tr|C9RLP9|C9RLP9_FIBSS			217		
+tr|C9RN88|C9RN88_FIBSS	K01649	leuA; 2-isopropylmalate synthase [EC:2.3.3.13]	582		
+tr|C9RK39|C9RK39_FIBSS			17	K09136	1
+tr|C9RJS2|C9RJS2_FIBSS			418		
+tr|D9S5N7|D9S5N7_FIBSS			134	K07003	3
+tr|C9RJE3|C9RJE3_FIBSS	K03629	recF; DNA replication and repair protein RecF	216		
+tr|C9RQ65|C9RQ65_FIBSS			52	K07047	2
+tr|C9RQ48|C9RQ48_FIBSS	K01915	glnA; glutamine synthetase [EC:6.3.1.2]	833		
+tr|C9RQN4|C9RQN4_FIBSS	K03046	rpoC; DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]	1529		
+tr|C9RRI6|C9RRI6_FIBSS			71	K06888	7
+tr|C9RRQ7|C9RRQ7_FIBSS	K03437	spoU; RNA methyltransferase, TrmH family	187		
+tr|C9RRP7|C9RRP7_FIBSS	K03722	dinG; ATP-dependent DNA helicase DinG [EC:3.6.4.12]	471	K02342	37
+tr|C9RPH0|C9RPH0_FIBSS			32	K15633	3
+tr|C9RQR2|C9RQR2_FIBSS	K07316	mod; adenine-specific DNA-methyltransferase [EC:2.1.1.72]	677		
+tr|C9RJN7|C9RJN7_FIBSS			22	K03841	2
+tr|C9RLB7|C9RLB7_FIBSS			155		
+tr|C9RLW3|C9RLW3_FIBSS	K07003	uncharacterized protein	286		
+tr|C9RMA3|C9RMA3_FIBSS			19	K06915	2
+tr|D9S9X9|D9S9X9_FIBSS			367		
+tr|C9RKC0|C9RKC0_FIBSS	K03269	lpxH; UDP-2,3-diacylglucosamine hydrolase [EC:3.6.1.54]	173		
+tr|C9RNQ4|C9RNQ4_FIBSS	K09955	uncharacterized protein	858		
+tr|C9RL56|C9RL56_FIBSS	K01676	E4.2.1.2A; fumarate hydratase, class I [EC:4.2.1.2]	733		
+tr|C9RQH0|C9RQH0_FIBSS	K09797	uncharacterized protein	245		
+tr|C9RL46|C9RL46_FIBSS	K00927	PGK; phosphoglycerate kinase [EC:2.7.2.3]	456	K00927/K01803	39
+tr|C9RPU5|C9RPU5_FIBSS	K02888	RP-L21; large subunit ribosomal protein L21	119		
+tr|C9RK62|C9RK62_FIBSS			448		
+tr|C9RN92|C9RN92_FIBSS	K00278	nadB; L-aspartate oxidase [EC:1.4.3.16]	481		
+tr|C9RJ50|C9RJ50_FIBSS	K04564	SOD2; superoxide dismutase, Fe-Mn family [EC:1.15.1.1]	252		
+tr|C9RNW0|C9RNW0_FIBSS			163		
+tr|C9RS16|C9RS16_FIBSS			60	K17318	2
+tr|C9RQP0|C9RQP0_FIBSS	K02601	nusG; transcriptional antiterminator NusG	170		
+tr|C9RQU3|C9RQU3_FIBSS			22	K07114	2
+tr|C9RP58|C9RP58_FIBSS	K01258	pepT; tripeptide aminopeptidase [EC:3.4.11.4]	481		
+tr|C9RPR2|C9RPR2_FIBSS			174		
+tr|D9S775|D9S775_FIBSS	K02013	ABC.FEV.A; iron complex transport system ATP-binding protein [EC:3.6.3.34]	185		
+tr|C9RLQ3|C9RLQ3_FIBSS	K00600	glyA; glycine hydroxymethyltransferase [EC:2.1.2.1]	512		
+tr|C9RMT9|C9RMT9_FIBSS	K00764	purF; amidophosphoribosyltransferase [EC:2.4.2.14]	577		
+tr|C9RMW9|C9RMW9_FIBSS	K01885	EARS; glutamyl-tRNA synthetase [EC:6.1.1.17]	500		
+tr|C9RQK8|C9RQK8_FIBSS			122	K15738	4
+tr|C9RLA6|C9RLA6_FIBSS	K01159	ruvC; crossover junction endodeoxyribonuclease RuvC [EC:3.1.22.4]	147		
+tr|C9RJL7|C9RJL7_FIBSS	K00812	aspB; aspartate aminotransferase [EC:2.6.1.1]	400		
+tr|C9RJU7|C9RJU7_FIBSS	K03640	pal; peptidoglycan-associated lipoprotein	129		
+tr|C9RJ70|C9RJ70_FIBSS			34	K06076	2
+tr|C9RLM8|C9RLM8_FIBSS			424		
+tr|D9S471|D9S471_FIBSS			19	K02016	1
+tr|C9RKA9|C9RKA9_FIBSS	K08678	UXS1; UDP-glucuronate decarboxylase [EC:4.1.1.35]	506		
+tr|C9RPT9|C9RPT9_FIBSS			577		
+tr|C9RK25|C9RK25_FIBSS			19	K00060	3
+tr|D9S3V5|D9S3V5_FIBSS	K16926	htsT; energy-coupling factor transport system substrate-specific component	107		
+tr|C9RRN7|C9RRN7_FIBSS			71	K10914	33
+tr|C9RJ01|C9RJ01_FIBSS			19	K03657	8
+tr|C9RPD8|C9RPD8_FIBSS	K00012	UGDH; UDPglucose 6-dehydrogenase [EC:1.1.1.22]	615		
+tr|C9RR67|C9RR67_FIBSS	K03744	lemA; LemA protein	201		
+tr|C9RP66|C9RP66_FIBSS	K01104	E3.1.3.48; protein-tyrosine phosphatase [EC:3.1.3.48]	188		
+tr|C9RL41|C9RL41_FIBSS	K02884	RP-L19; large subunit ribosomal protein L19	144		
+tr|C9RNL9|C9RNL9_FIBSS			26	K04744	1
+tr|C9RP46|C9RP46_FIBSS			166		
+tr|C9RRZ5|C9RRZ5_FIBSS	K03559	exbD; biopolymer transport protein ExbD	55	K03560	5
+tr|C9RN10|C9RN10_FIBSS			212		
+tr|C9RRA4|C9RRA4_FIBSS	K15738	uup; ATP-binding cassette, subfamily F, uup	608		
+tr|C9RMS7|C9RMS7_FIBSS	K07027	uncharacterized protein	139		
+tr|C9RKX5|C9RKX5_FIBSS	K00342	nuoM; NADH-quinone oxidoreductase subunit M [EC:1.6.5.3]	462		
+tr|C9RL31|C9RL31_FIBSS	K01897	ACSL; long-chain acyl-CoA synthetase [EC:6.2.1.3]	404		
+tr|C9RKR1|C9RKR1_FIBSS			244		
+tr|D9SAB0|D9SAB0_FIBSS	K03046	rpoC; DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]	1471		
+tr|C9RQC9|C9RQC9_FIBSS	K02535	lpxC; UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase [EC:3.5.1.108]	53		
+tr|C9RPK3|C9RPK3_FIBSS					
+tr|C9RQJ4|C9RQJ4_FIBSS	K02031	ABC.PE.A; peptide/nickel transport system ATP-binding protein	140		
+tr|C9RNY0|C9RNY0_FIBSS	K02434	gatB; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]	545		
+tr|D9S959|D9S959_FIBSS			268		
+tr|D9S8L1|D9S8L1_FIBSS			288		
+tr|C9RKV0|C9RKV0_FIBSS			136		
+tr|D9S5P8|D9S5P8_FIBSS	K01895	ACSS; acetyl-CoA synthetase [EC:6.2.1.1]	641		
+tr|D9S4C1|D9S4C1_FIBSS	K06217	phoH; phosphate starvation-inducible protein PhoH and related proteins	302		
+tr|C9RRF2|C9RRF2_FIBSS			159	K03086	4
+tr|C9RQY4|C9RQY4_FIBSS			25	K17319	1
+tr|C9RRN2|C9RRN2_FIBSS			27	K01114	1
+tr|C9RRF0|C9RRF0_FIBSS			12	K03555	2
+tr|C9RRI4|C9RRI4_FIBSS	K03110	ftsY; fused signal recognition particle receptor	317		
+tr|C9RIT0|C9RIT0_FIBSS			19	K01779	2
+tr|C9RQ20|C9RQ20_FIBSS			51	K02030	2
+tr|C9RKH3|C9RKH3_FIBSS			169		
+tr|D9S733|D9S733_FIBSS			22	K02047	1
+tr|C9RJN0|C9RJN0_FIBSS			119	K06223	4
+tr|C9RP86|C9RP86_FIBSS			532		
+tr|C9RPH6|C9RPH6_FIBSS	K02072	metI; D-methionine transport system permease protein	247		
+tr|C9RKF6|C9RKF6_FIBSS			710		
+tr|D9S9Y6|D9S9Y6_FIBSS			197		
+tr|C9RK86|C9RK86_FIBSS	K06518	cidA; holin-like protein	77		
+tr|C9RQE5|C9RQE5_FIBSS			162		
+tr|C9RPX1|C9RPX1_FIBSS	K13292	lgt; phosphatidylglycerol:prolipoprotein diacylglycerol transferase [EC:2.-.-.-]	262		
+tr|D9S461|D9S461_FIBSS	K07814	putative two-component system response regulator	193		
+tr|C9RMP1|C9RMP1_FIBSS			24	K11177	2
+tr|D9S6M3|D9S6M3_FIBSS			312		
+tr|C9RR06|C9RR06_FIBSS			120	K03529	4
+tr|C9RS39|C9RS39_FIBSS			238	K03657	5
+tr|C9RPX0|C9RPX0_FIBSS			186		
+tr|C9RNA8|C9RNA8_FIBSS	K00796	folP; dihydropteroate synthase [EC:2.5.1.15]	242		
+tr|D9S589|D9S589_FIBSS			379		
+tr|C9RLZ5|C9RLZ5_FIBSS	K01779	racD; aspartate racemase [EC:5.1.1.13]	287		
+tr|C9RNK9|C9RNK9_FIBSS			22	K02322	1
+tr|C9RP88|C9RP88_FIBSS			52	K02469	2
+tr|C9RMB7|C9RMB7_FIBSS	K00817	hisC; histidinol-phosphate aminotransferase [EC:2.6.1.9]	353		
+tr|C9RIK3|C9RIK3_FIBSS			54	K02014	4
+tr|C9RRB0|C9RRB0_FIBSS			230		
+tr|C9RPY1|C9RPY1_FIBSS	K04568	epmA; elongation factor P--(R)-beta-lysine ligase [EC:6.3.1.-]	280		
+tr|C9RK98|C9RK98_FIBSS	K00014	aroE; shikimate dehydrogenase [EC:1.1.1.25]	220		
+tr|C9RKT4|C9RKT4_FIBSS	K02519	infB; translation initiation factor IF-2	709		
+tr|C9RKK7|C9RKK7_FIBSS			393	K01218	11
+tr|C9RNP6|C9RNP6_FIBSS	K01993	ABC-2.TX; HlyD family secretion protein	288		
+tr|C9RNA5|C9RNA5_FIBSS			19	K02035	1
+tr|C9RLJ0|C9RLJ0_FIBSS	K10907	aminotransferase [EC:2.6.1.-]	537		
+tr|C9RKE8|C9RKE8_FIBSS			374		
+tr|C9RJ36|C9RJ36_FIBSS			140	K19304	6
+tr|C9RNB8|C9RNB8_FIBSS			205		
+tr|C9RRI1|C9RRI1_FIBSS	K02768	PTS-Fru-EIIA; PTS system, fructose-specific IIA component [EC:2.7.1.202]	41	K02806	26
+	K02769	PTS-Fru-EIIB; PTS system, fructose-specific IIB component [EC:2.7.1.202]			
+	K02770	PTS-Fru-EIIC; PTS system, fructose-specific IIC component			
+tr|C9RJV9|C9RJV9_FIBSS			53	K02335	2
+tr|C9RIM8|C9RIM8_FIBSS	K03186	ubiX; flavin prenyltransferase [EC:2.5.1.129]	182		
+tr|C9RPN2|C9RPN2_FIBSS	K01951	guaA; GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]	518		
+tr|C9RKB0|C9RKB0_FIBSS			224		
+tr|C9RJU0|C9RJU0_FIBSS	K00931	proB; glutamate 5-kinase [EC:2.7.2.11]	318		
+tr|C9RN99|C9RN99_FIBSS			307		
+tr|C9RJ40|C9RJ40_FIBSS	K00571	E2.1.1.72; site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]	310		
+tr|C9RRI2|C9RRI2_FIBSS	K03785	aroD; 3-dehydroquinate dehydratase I [EC:4.2.1.10]	118		
+tr|C9RRC0|C9RRC0_FIBSS			210		
+tr|C9RPA6|C9RPA6_FIBSS			169	K09809	5
+tr|C9RPY4|C9RPY4_FIBSS			272		
+tr|D9SAD4|D9SAD4_FIBSS			158		
+tr|D9SAW6|D9SAW6_FIBSS	K02033	ABC.PE.P; peptide/nickel transport system permease protein	255		
+tr|C9RR21|C9RR21_FIBSS	K02954	RP-S14; small subunit ribosomal protein S14	103		
+tr|C9RQ24|C9RQ24_FIBSS	K02050	ABC.SN.P; NitT/TauT family transport system permease protein	284		
+tr|C9RKH8|C9RKH8_FIBSS			23	K01992	1
+tr|C9RL62|C9RL62_FIBSS			153	K07712	42
+tr|C9RL63|C9RL63_FIBSS	K06969	rlmI; 23S rRNA (cytosine1962-C5)-methyltransferase [EC:2.1.1.191]	137		
+tr|C9RLJ7|C9RLJ7_FIBSS			160	K02667	29
+tr|C9RPV2|C9RPV2_FIBSS			27	K00380	1
+tr|C9RL67|C9RL67_FIBSS	K20534	gtrB; polyisoprenyl-phosphate glycosyltransferase [EC:2.4.-.-]	362		
+tr|D9S900|D9S900_FIBSS	K07282	pgsA; poly-gamma-glutamate synthesis protein (capsule biosynthesis protein)	92		
+tr|C9RQB9|C9RQB9_FIBSS			288	K00681	4
+tr|C9RQF2|C9RQF2_FIBSS	K00801	FDFT1; farnesyl-diphosphate farnesyltransferase [EC:2.5.1.21]	214		
+tr|C9RS73|C9RS73_FIBSS	K00265	gltB; glutamate synthase (NADPH/NADH) large chain [EC:1.4.1.13 1.4.1.14]	1568	K00284	154
+tr|C9RS70|C9RS70_FIBSS	K10206	E2.6.1.83; LL-diaminopimelate aminotransferase [EC:2.6.1.83]	514		
+tr|C9RJI2|C9RJI2_FIBSS			164		
+tr|C9RR90|C9RR90_FIBSS			19	K02956	2
+tr|C9RQV2|C9RQV2_FIBSS			18	K03043	2
+tr|C9RRF6|C9RRF6_FIBSS			253		
+tr|D9S482|D9S482_FIBSS	K01950	E6.3.5.1; NAD+ synthase (glutamine-hydrolysing) [EC:6.3.5.1]	356		
+tr|C9RJ43|C9RJ43_FIBSS			169		
+tr|C9RN03|C9RN03_FIBSS			19	K02650	16
+tr|C9RJ74|C9RJ74_FIBSS			23	K02025	1
+tr|D9S6N0|D9S6N0_FIBSS			180		
+tr|C9RLX2|C9RLX2_FIBSS			143		
+tr|C9RJU3|C9RJU3_FIBSS	K00790	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase [EC:2.5.1.7]	442		
+tr|C9RKK9|C9RKK9_FIBSS			102		
+tr|C9RK15|C9RK15_FIBSS	K04068	nrdG; anaerobic ribonucleoside-triphosphate reductase activating protein [EC:1.97.1.4]	202		
+tr|C9RIP8|C9RIP8_FIBSS			36	K03790	16
+tr|C9RPV0|C9RPV0_FIBSS			111	K08999	3
+tr|D9S428|D9S428_FIBSS			26	K02838	3
+tr|C9RR42|C9RR42_FIBSS	K06193	phnA; protein PhnA	15		
+tr|C9RS28|C9RS28_FIBSS			49	K03932	33
+tr|D9SAB6|D9SAB6_FIBSS			197		
+tr|C9RQ47|C9RQ47_FIBSS	K03307	TC.SSS; solute:Na+ symporter, SSS family	39	K11928	24
+tr|D9SB20|D9SB20_FIBSS	K01251	E3.3.1.1; adenosylhomocysteinase [EC:3.3.1.1]	701		
+tr|D9S4E8|D9S4E8_FIBSS			379		
+tr|C9RQQ3|C9RQQ3_FIBSS	K01156	res; type III restriction enzyme [EC:3.1.21.5]	1188		
+tr|C9RKK3|C9RKK3_FIBSS			108		
+tr|C9RMX6|C9RMX6_FIBSS	K02066	mlaE; phospholipid/cholesterol/gamma-HCH transport system permease protein	201		
+tr|C9RRW1|C9RRW1_FIBSS	K02038	pstA; phosphate transport system permease protein	345		
+tr|D9S8S8|D9S8S8_FIBSS			259		
+tr|C9RM08|C9RM08_FIBSS			226		
+tr|D9S9L2|D9S9L2_FIBSS			319		
+tr|C9RMM3|C9RMM3_FIBSS			496		
+tr|C9RMC0|C9RMC0_FIBSS			213		
+tr|C9RQ22|C9RQ22_FIBSS	K02051	ABC.SN.S; NitT/TauT family transport system substrate-binding protein	193		
+tr|D9S7T9|D9S7T9_FIBSS			310		
+tr|C9RN51|C9RN51_FIBSS	K03529	smc; chromosome segregation protein	699		
+tr|C9RJQ8|C9RJQ8_FIBSS			136		
+tr|C9RJX4|C9RJX4_FIBSS			21	K09816	1
+tr|C9RKQ8|C9RKQ8_FIBSS			115		
+tr|C9RM73|C9RM73_FIBSS	K01738	cysK; cysteine synthase A [EC:2.5.1.47]	215		
+tr|D9S6E8|D9S6E8_FIBSS	K02031	ABC.PE.A; peptide/nickel transport system ATP-binding protein	113	K13892	55
+	K02032	ABC.PE.A1; peptide/nickel transport system ATP-binding protein			
+tr|C9RPJ5|C9RPJ5_FIBSS			72		
+tr|C9RNG8|C9RNG8_FIBSS			24	K07301	1
+tr|C9RPR3|C9RPR3_FIBSS			58	K00700	2
+tr|C9RJI5|C9RJI5_FIBSS	K02495	hemN; oxygen-independent coproporphyrinogen III oxidase [EC:1.3.99.22]	259		
+tr|D9S6J3|D9S6J3_FIBSS			212		
+tr|C9RM92|C9RM92_FIBSS			21	K01992	5
+tr|D9SAB1|D9SAB1_FIBSS	K00556	trmH; tRNA (guanosine-2'-O-)-methyltransferase [EC:2.1.1.34]	161		
+tr|C9RNS6|C9RNS6_FIBSS	K00262	E1.4.1.4; glutamate dehydrogenase (NADP+) [EC:1.4.1.4]	661		
+tr|C9RNT1|C9RNT1_FIBSS			478		
+tr|C9RKJ4|C9RKJ4_FIBSS			110		
+tr|C9RQF6|C9RQF6_FIBSS			345		
+tr|C9RKL8|C9RKL8_FIBSS			238		
+tr|C9RM01|C9RM01_FIBSS	K09817	znuC; zinc transport system ATP-binding protein [EC:3.6.3.-]	245		
+tr|C9RLI7|C9RLI7_FIBSS			26	K09808	1
+tr|D9S3V1|D9S3V1_FIBSS			172		
+tr|C9RIP0|C9RIP0_FIBSS			17	K12573	9
+tr|C9RM25|C9RM25_FIBSS			60		
+tr|C9RPF4|C9RPF4_FIBSS			21	K02035	2
+tr|D9SBE3|D9SBE3_FIBSS			105		
+tr|C9RN96|C9RN96_FIBSS	K00243	uncharacterized protein	236		
+tr|C9RJ60|C9RJ60_FIBSS			24	K03086	3
+tr|D9S3Y5|D9S3Y5_FIBSS	K06889	uncharacterized protein	481		
+tr|C9RRG5|C9RRG5_FIBSS			21	K01652	2
+tr|C9RQ66|C9RQ66_FIBSS			120		
+tr|C9RNC1|C9RNC1_FIBSS			21	K02024	4
+tr|C9RRB5|C9RRB5_FIBSS	K14682	argAB; amino-acid N-acetyltransferase [EC:2.3.1.1]	340		
+tr|D9S8S0|D9S8S0_FIBSS			139	K14261	4
+tr|C9RR10|C9RR10_FIBSS	K02948	RP-S11; small subunit ribosomal protein S11	171		
+tr|C9RLS7|C9RLS7_FIBSS			25	K03111	1
+tr|C9RRR4|C9RRR4_FIBSS			207		
+tr|C9RK85|C9RK85_FIBSS			247		
+tr|C9RNB0|C9RNB0_FIBSS	K04075	tilS; tRNA(Ile)-lysidine synthase [EC:6.3.4.19]	195		
+tr|C9RNL3|C9RNL3_FIBSS	K03086	SIG1; RNA polymerase primary sigma factor	225		
+tr|C9RRF9|C9RRF9_FIBSS			25	K02405	3
+tr|C9RJD3|C9RJD3_FIBSS			435		
+tr|C9RMA6|C9RMA6_FIBSS			27	K00254	2
+tr|C9RQ12|C9RQ12_FIBSS	K02051	ABC.SN.S; NitT/TauT family transport system substrate-binding protein	196		
+tr|C9RP69|C9RP69_FIBSS			32	K11070	1
+tr|D9S806|D9S806_FIBSS			17	K03549	1
+tr|D9S5W0|D9S5W0_FIBSS	K00992	murU; MurNAc alpha-1-phosphate uridylyltransferase [EC:2.7.7.-]	37	K00966	27
+tr|C9RJN5|C9RJN5_FIBSS			187		
+tr|C9RQD1|C9RQD1_FIBSS			126		
+tr|C9RNE9|C9RNE9_FIBSS	K02335	DPO1; DNA polymerase I [EC:2.7.7.7]	759		
+tr|C9RRQ1|C9RRQ1_FIBSS			272		
+tr|C9RRI7|C9RRI7_FIBSS			278		
+tr|C9RKA3|C9RKA3_FIBSS			45	K01201	11
+tr|D9SAK9|D9SAK9_FIBSS	K00655	plsC; 1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51]	140		
+tr|D9S430|D9S430_FIBSS			128	K15921	43
+tr|C9RL04|C9RL04_FIBSS	K01925	murD; UDP-N-acetylmuramoylalanine--D-glutamate ligase [EC:6.3.2.9]	272		
+tr|C9RM33|C9RM33_FIBSS			21	K00761	2
+tr|C9RLG9|C9RLG9_FIBSS			178		
+tr|C9RM56|C9RM56_FIBSS			340		
+tr|C9RNM1|C9RNM1_FIBSS	K12257	secDF; SecD/SecF fusion protein	553		
+tr|C9RNQ8|C9RNQ8_FIBSS			311	K01179	25
+tr|C9RM96|C9RM96_FIBSS	K02237	comEA; competence protein ComEA	18		
+tr|C9RMD3|C9RMD3_FIBSS			126	K01652	3
+tr|C9RPY3|C9RPY3_FIBSS	K11717	sufS; cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]	460		
+tr|C9RKZ0|C9RKZ0_FIBSS	K09014	sufB; Fe-S cluster assembly protein SufB	707		
+tr|C9RJQ2|C9RJQ2_FIBSS	K02047	cysW; sulfate transport system permease protein	361		
+tr|D9S752|D9S752_FIBSS	K11717	sufS; cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]	544		
+tr|D9S8A7|D9S8A7_FIBSS	K00954	E2.7.7.3A; pantetheine-phosphate adenylyltransferase [EC:2.7.7.3]	146		
+tr|C9RKK0|C9RKK0_FIBSS			302		
+tr|C9RNB3|C9RNB3_FIBSS			295		
+tr|D9S505|D9S505_FIBSS	K03525	coaX; type III pantothenate kinase [EC:2.7.1.33]	203		
+tr|C9RR62|C9RR62_FIBSS			219		
+tr|C9RRM0|C9RRM0_FIBSS			221		
+tr|D9SB00|D9SB00_FIBSS			136		
+tr|C9RR79|C9RR79_FIBSS			25	K00012	1
+tr|C9RR07|C9RR07_FIBSS			136	K01991	7
+tr|C9RR86|C9RR86_FIBSS			413		
+tr|C9RRQ2|C9RRQ2_FIBSS			29	K01939	3
+tr|D9SBL6|D9SBL6_FIBSS			186		
+tr|C9RN71|C9RN71_FIBSS			308		
+tr|C9RJW7|C9RJW7_FIBSS			18	K00088	7
+tr|D9SA15|D9SA15_FIBSS	K00266	gltD; glutamate synthase (NADPH/NADH) small chain [EC:1.4.1.13 1.4.1.14]	604		
+tr|C9RPC5|C9RPC5_FIBSS			69	K07011	43
+tr|C9RQE3|C9RQE3_FIBSS			108	K01676	4
+tr|D9S9N9|D9S9N9_FIBSS	K01181	E3.2.1.8; endo-1,4-beta-xylanase [EC:3.2.1.8]	251		
+tr|C9RLX0|C9RLX0_FIBSS	K03578	hrpA; ATP-dependent helicase HrpA [EC:3.6.4.13]	492		
+tr|C9RNR4|C9RNR4_FIBSS			16	K03832	5
+tr|D9S706|D9S706_FIBSS	K00339	nuoJ; NADH-quinone oxidoreductase subunit J [EC:1.6.5.3]	102		
+tr|C9RQ11|C9RQ11_FIBSS	K02049	ABC.SN.A; NitT/TauT family transport system ATP-binding protein	100	K15578	37
+tr|D9S755|D9S755_FIBSS			338		
+tr|D9SA59|D9SA59_FIBSS			428		
+tr|C9RMJ2|C9RMJ2_FIBSS			33	K00311	2
+tr|C9RPV5|C9RPV5_FIBSS			127		
+tr|C9RNE4|C9RNE4_FIBSS			951		
+tr|C9RR46|C9RR46_FIBSS			121		
+tr|C9RNV1|C9RNV1_FIBSS			20	K01082	3
+tr|C9RLT6|C9RLT6_FIBSS	K09816	znuB; zinc transport system permease protein	251		
+tr|C9RR96|C9RR96_FIBSS			21	K03300	1
+tr|C9RPU7|C9RPU7_FIBSS			272	K01190	24
+tr|D9S4Q8|D9S4Q8_FIBSS	K07315	rsbU_P; phosphoserine phosphatase RsbU/P [EC:3.1.3.3]	411		
+tr|C9RKW5|C9RKW5_FIBSS	K01142	E3.1.11.2; exodeoxyribonuclease III [EC:3.1.11.2]	314		
+tr|C9RP10|C9RP10_FIBSS			20	K02863	7
+tr|C9RKG0|C9RKG0_FIBSS	K03657	uvrD; DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]	644		
+tr|C9RRV8|C9RRV8_FIBSS	K07636	phoR; two-component system, OmpR family, phosphate regulon sensor histidine kinase PhoR [EC:2.7.13.3]	372		
+tr|C9RRH7|C9RRH7_FIBSS			108	K03932	9
+tr|C9RLE3|C9RLE3_FIBSS			18	K01154	3
+tr|D9S8T5|D9S8T5_FIBSS			320		
+tr|C9RM79|C9RM79_FIBSS			139		
+tr|C9RN40|C9RN40_FIBSS	K02837	prfC; peptide chain release factor 3	593		
+tr|C9RNG6|C9RNG6_FIBSS			315		
+tr|C9RNL5|C9RNL5_FIBSS	K02066	mlaE; phospholipid/cholesterol/gamma-HCH transport system permease protein	216		
+tr|C9RQI8|C9RQI8_FIBSS			114	K01216	4
+tr|C9RLU6|C9RLU6_FIBSS			351		
+tr|C9RKD6|C9RKD6_FIBSS			13	K02662	13
+tr|C9RLR6|C9RLR6_FIBSS			24	K19175	2
+tr|C9RNK3|C9RNK3_FIBSS			25	K04759	2
+tr|C9RKZ8|C9RKZ8_FIBSS			209		
+tr|C9RKI1|C9RKI1_FIBSS	K06969	rlmI; 23S rRNA (cytosine1962-C5)-methyltransferase [EC:2.1.1.191]	427		
+tr|C9RKG1|C9RKG1_FIBSS			36	K06909	1
+tr|D9S5N5|D9S5N5_FIBSS			203		
+tr|C9RQK5|C9RQK5_FIBSS			18	K05808	3
+tr|D9SAA0|D9SAA0_FIBSS			325		
+tr|C9RRK3|C9RRK3_FIBSS	K18118	aarC; succinyl-CoA:acetate CoA-transferase [EC:2.8.3.18]	469		
+tr|C9RQ62|C9RQ62_FIBSS			142		
+tr|C9RRD2|C9RRD2_FIBSS			208		
+tr|C9RLT2|C9RLT2_FIBSS	K00560	thyA; thymidylate synthase [EC:2.1.1.45]	443		
+tr|D9S8K7|D9S8K7_FIBSS			336		
+tr|C9RML3|C9RML3_FIBSS	K01677	E4.2.1.2AA; fumarate hydratase subunit alpha [EC:4.2.1.2]	231		
+tr|D9S9E1|D9S9E1_FIBSS			21	K01998	1
+tr|C9RM20|C9RM20_FIBSS	K08384	spoVD; stage V sporulation protein D (sporulation-specific penicillin-binding protein)	229	K03587	152
+tr|C9RPH8|C9RPH8_FIBSS	K02073	metQ; D-methionine transport system substrate-binding protein	296		
+tr|D9S4M3|D9S4M3_FIBSS			16	K08195	2
+tr|C9RS05|C9RS05_FIBSS			18	K03536	5
+tr|C9RS13|C9RS13_FIBSS			53	K03772	46
+tr|C9RS55|C9RS55_FIBSS			468		
+tr|C9RLB8|C9RLB8_FIBSS	K06168	miaB; tRNA-2-methylthio-N6-dimethylallyladenosine synthase [EC:2.8.4.3]	383		
+tr|C9RN66|C9RN66_FIBSS	K00793	ribE; riboflavin synthase [EC:2.5.1.9]	181		
+tr|C9RLG0|C9RLG0_FIBSS			27	K01956	2
+tr|C9RLF9|C9RLF9_FIBSS	K01738	cysK; cysteine synthase A [EC:2.5.1.47]	391		
+tr|C9RNN6|C9RNN6_FIBSS	K00820	glmS; glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16]	748		
+tr|C9RPH3|C9RPH3_FIBSS			30	K00584	2
+tr|C9RKD4|C9RKD4_FIBSS			21	K02664	5
+tr|C9RL23|C9RL23_FIBSS	K07403	nfeD; membrane-bound serine protease (ClpP class)	254		
+tr|C9RJT2|C9RJT2_FIBSS	K01681	ACO; aconitate hydratase [EC:4.2.1.3]	1054		
+tr|C9RJX2|C9RJX2_FIBSS			123		
+tr|C9RLM0|C9RLM0_FIBSS			879		
+tr|C9RLN6|C9RLN6_FIBSS	K01183	E3.2.1.14; chitinase [EC:3.2.1.14]	66		
+tr|C9RPV6|C9RPV6_FIBSS			157		
+tr|C9RQD3|C9RQD3_FIBSS	K00128	E1.2.1.3; aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]	475		
+tr|C9RJ23|C9RJ23_FIBSS			47	K01784	17
+tr|C9RS22|C9RS22_FIBSS			124	K15924	65
+tr|C9RPB6|C9RPB6_FIBSS	K02871	RP-L13; large subunit ribosomal protein L13	181		
+tr|C9RRH4|C9RRH4_FIBSS			62	K19577	2
+tr|C9RM02|C9RM02_FIBSS	K09815	znuA; zinc transport system substrate-binding protein	235		
+tr|C9RPR7|C9RPR7_FIBSS			19	K02335	2
+tr|C9RIX9|C9RIX9_FIBSS			25	K02057	1
+tr|C9RNU3|C9RNU3_FIBSS			652		
+tr|C9RKV3|C9RKV3_FIBSS			302		
+tr|C9RQJ0|C9RQJ0_FIBSS			113	K01400	4
+tr|C9RJ80|C9RJ80_FIBSS			32	K02014	2
+tr|C9RKX7|C9RKX7_FIBSS	K00340	nuoK; NADH-quinone oxidoreductase subunit K [EC:1.6.5.3]	55	K05576	25
+tr|C9RN68|C9RN68_FIBSS	K00794	ribH; 6,7-dimethyl-8-ribityllumazine synthase [EC:2.5.1.78]	174		
+tr|C9RN87|C9RN87_FIBSS			62	K00446	2
+tr|C9RQ57|C9RQ57_FIBSS			32	K01669	1
+tr|C9RIX3|C9RIX3_FIBSS	K03340	dapdh; diaminopimelate dehydrogenase [EC:1.4.1.16]	493		
+tr|C9RRH0|C9RRH0_FIBSS			19	K08984	1
+tr|C9RMU0|C9RMU0_FIBSS			218		
+tr|C9RMC5|C9RMC5_FIBSS			32	K19295	8
+tr|C9RK70|C9RK70_FIBSS			17	K03602	2
+tr|D9S9H6|D9S9H6_FIBSS	K03572	mutL; DNA mismatch repair protein MutL	427		
+tr|C9RLC4|C9RLC4_FIBSS			21	K02666	2
+tr|C9RMU8|C9RMU8_FIBSS			30	K09014	2
+tr|C9RMR0|C9RMR0_FIBSS			28	K01322	3
+tr|C9RNJ7|C9RNJ7_FIBSS			11	K00984	5
+tr|C9RNQ5|C9RNQ5_FIBSS			23	K03806	2
+tr|C9RJ69|C9RJ69_FIBSS			413		
+tr|C9RKE2|C9RKE2_FIBSS			216		
+tr|C9RJV7|C9RJV7_FIBSS			37	K07979	8
+tr|C9RRX8|C9RRX8_FIBSS	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	189		
+tr|C9RQB8|C9RQB8_FIBSS			139	K20543	4
+tr|C9RRZ6|C9RRZ6_FIBSS	K07003	uncharacterized protein	724		
+tr|C9RRQ5|C9RRQ5_FIBSS	K13789	GGPS; geranylgeranyl diphosphate synthase, type II [EC:2.5.1.1 2.5.1.10 2.5.1.29]	290		
+tr|C9RP56|C9RP56_FIBSS			199		
+tr|C9RJX5|C9RJX5_FIBSS			17	K03205	2
+tr|C9RMW6|C9RMW6_FIBSS	K07568	queA; S-adenosylmethionine:tRNA ribosyltransferase-isomerase [EC:2.4.99.17]	337		
+tr|C9RQK0|C9RQK0_FIBSS			18	K02864	3
+tr|C9RJZ2|C9RJZ2_FIBSS	K00343	nuoN; NADH-quinone oxidoreductase subunit N [EC:1.6.5.3]	301		
+tr|C9RMZ5|C9RMZ5_FIBSS			210		
+tr|C9RNK7|C9RNK7_FIBSS			195	K03286	7
+tr|C9RMH1|C9RMH1_FIBSS			111		
+tr|C9RLH3|C9RLH3_FIBSS			139		
+tr|D9S6Z1|D9S6Z1_FIBSS	K03439	trmB; tRNA (guanine-N7-)-methyltransferase [EC:2.1.1.33]	130		
+tr|C9RKD7|C9RKD7_FIBSS			25	K03499	1
+tr|C9RK97|C9RK97_FIBSS					
+tr|C9RL65|C9RL65_FIBSS	K00615	E2.2.1.1; transketolase [EC:2.2.1.1]	747		
+tr|C9RL77|C9RL77_FIBSS			22	K03611	2
+tr|C9RKY6|C9RKY6_FIBSS			319		
+tr|C9RP42|C9RP42_FIBSS	K03687	GRPE; molecular chaperone GrpE	153		
+tr|D9S857|D9S857_FIBSS	K04066	priA; primosomal protein N' (replication factor Y) (superfamily II helicase) [EC:3.6.4.-]	479		
+tr|C9RJ05|C9RJ05_FIBSS			26	K06137	1
+tr|C9RPM2|C9RPM2_FIBSS			24	K03771	3
+tr|C9RS15|C9RS15_FIBSS			141		
+tr|C9RN85|C9RN85_FIBSS	K03775	slyD; FKBP-type peptidyl-prolyl cis-trans isomerase SlyD [EC:5.2.1.8]	178		
+tr|C9RQ89|C9RQ89_FIBSS			20	K02609	1
+tr|C9RQW9|C9RQW9_FIBSS			318		
+tr|C9RJ38|C9RJ38_FIBSS	K01703	leuC; 3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]	623		
+tr|C9RRZ1|C9RRZ1_FIBSS			18	K04758	4
+tr|C9RQ50|C9RQ50_FIBSS			59	K03412	2
+tr|C9RL22|C9RL22_FIBSS			405		
+tr|C9RMC7|C9RMC7_FIBSS			333	K12132	8
+tr|C9RKK8|C9RKK8_FIBSS			475		
+tr|C9RKT5|C9RKT5_FIBSS	K02834	rbfA; ribosome-binding factor A	116		
+tr|C9RM09|C9RM09_FIBSS			325		
+tr|C9RN70|C9RN70_FIBSS			351		
+tr|C9RS45|C9RS45_FIBSS	K01190	lacZ; beta-galactosidase [EC:3.2.1.23]	912		
+tr|D9SAC8|D9SAC8_FIBSS			188		
+tr|C9RME8|C9RME8_FIBSS			18	K07302	2
+tr|C9RMU1|C9RMU1_FIBSS			222		
+tr|C9RJM0|C9RJM0_FIBSS	K07460	yraN; putative endonuclease	87		
+tr|C9RL26|C9RL26_FIBSS	K00962	pnp; polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]	698		
+tr|D9S712|D9S712_FIBSS	K00951	relA; GTP pyrophosphokinase [EC:2.7.6.5]	616		
+tr|C9RIW4|C9RIW4_FIBSS			389		
+tr|C9RPP5|C9RPP5_FIBSS	K07139	uncharacterized protein	262		
+tr|C9RR39|C9RR39_FIBSS			20	K00643	2
+tr|C9RRJ2|C9RRJ2_FIBSS			17	K01284	1
+tr|C9RK24|C9RK24_FIBSS			461		
+tr|C9RS25|C9RS25_FIBSS	K03932	lpqC; polyhydroxybutyrate depolymerase	208		
+tr|C9RNP8|C9RNP8_FIBSS			163		
+tr|C9RKM1|C9RKM1_FIBSS			112	K00569	8
+tr|D9SAX3|D9SAX3_FIBSS	K02067	mlaD; phospholipid/cholesterol/gamma-HCH transport system substrate-binding protein	101		
+tr|C9RQ08|C9RQ08_FIBSS	K01738	cysK; cysteine synthase A [EC:2.5.1.47]	378	K17216	41
+tr|C9RIM6|C9RIM6_FIBSS			373		
+tr|C9RLK8|C9RLK8_FIBSS	K07315	rsbU_P; phosphoserine phosphatase RsbU/P [EC:3.1.3.3]	161		
+tr|C9RL68|C9RL68_FIBSS	K00942	E2.7.4.8; guanylate kinase [EC:2.7.4.8]	195		
+tr|C9RR51|C9RR51_FIBSS			33	K00600	1
+tr|C9RJS7|C9RJS7_FIBSS	K01609	trpC; indole-3-glycerol phosphate synthase [EC:4.1.1.48]	103	K13498	36
+tr|D9S9L7|D9S9L7_FIBSS			585		
+tr|C9RRY3|C9RRY3_FIBSS	K06921	uncharacterized protein	386		
+tr|C9RN26|C9RN26_FIBSS	K01791	wecB; UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	679		
+tr|C9RPK8|C9RPK8_FIBSS	K07002	uncharacterized protein	182		
+tr|C9RNJ0|C9RNJ0_FIBSS			632		
+tr|C9RLD2|C9RLD2_FIBSS			23	K20530	1
+tr|C9RQY8|C9RQY8_FIBSS			112		
+tr|C9RIQ0|C9RIQ0_FIBSS			70	K01179	4
+tr|C9RMP2|C9RMP2_FIBSS			25	K03711	2
+tr|C9RQL6|C9RQL6_FIBSS			23	K03531	1
+tr|C9RLC7|C9RLC7_FIBSS	K01887	RARS; arginyl-tRNA synthetase [EC:6.1.1.19]	536		
+tr|D9SAF4|D9SAF4_FIBSS			658		
+tr|C9RMQ4|C9RMQ4_FIBSS			18	K09798	8
+tr|C9RRV5|C9RRV5_FIBSS	K00661	maa; maltose O-acetyltransferase [EC:2.3.1.79]	214		
+tr|D9SA79|D9SA79_FIBSS	K03655	recG; ATP-dependent DNA helicase RecG [EC:3.6.4.12]	149		
+tr|C9RNZ1|C9RNZ1_FIBSS	K07317	adenine-specific DNA-methyltransferase [EC:2.1.1.72]	96		
+tr|C9RPZ1|C9RPZ1_FIBSS			21	K01972	3
+tr|C9RIH9|C9RIH9_FIBSS			244		
+tr|C9RJU8|C9RJU8_FIBSS	K03641	tolB; TolB protein	269		
+tr|C9RRQ0|C9RRQ0_FIBSS			169		
+tr|D9SB59|D9SB59_FIBSS			363		
+tr|D9S4D4|D9S4D4_FIBSS	K02372	fabZ; 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59]	144		
+tr|C9RIR7|C9RIR7_FIBSS			229		
+tr|C9RR98|C9RR98_FIBSS	K09825	perR; Fur family transcriptional regulator, peroxide stress response regulator	121		
+tr|C9RMN6|C9RMN6_FIBSS			119		
+tr|C9RQB1|C9RQB1_FIBSS			193		
+tr|D9S7I2|D9S7I2_FIBSS			19	K01885	9
+tr|C9RPA1|C9RPA1_FIBSS			67	K03830	5
+tr|C9RRS3|C9RRS3_FIBSS			144		
+tr|D9S9I4|D9S9I4_FIBSS	K03657	uvrD; DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]	175		
+tr|C9RMY0|C9RMY0_FIBSS			177		
+tr|C9RMZ9|C9RMZ9_FIBSS			24	K03738	3
+tr|D9S8Y3|D9S8Y3_FIBSS			14	K03589	6
+tr|D9S411|D9S411_FIBSS			293	K03406	17
+tr|C9RNQ2|C9RNQ2_FIBSS			189		
+tr|C9RJ72|C9RJ72_FIBSS	K00134	GAPDH; glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]	510		
+tr|C9RKB2|C9RKB2_FIBSS			20	K01996	2
+tr|D9S7M0|D9S7M0_FIBSS			380	K16120	26
+tr|C9RL66|C9RL66_FIBSS			206	K07407	12
+tr|C9RJZ3|C9RJZ3_FIBSS			23	K17319	2
+tr|C9RS89|C9RS89_FIBSS			116		
+tr|C9RNY9|C9RNY9_FIBSS	K00975	glgC; glucose-1-phosphate adenylyltransferase [EC:2.7.7.27]	502		
+tr|C9RND3|C9RND3_FIBSS	K01092	E3.1.3.25; myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25]	204		
+tr|C9RPJ8|C9RPJ8_FIBSS			397		
+tr|C9RR50|C9RR50_FIBSS			271		
+tr|C9RQT3|C9RQT3_FIBSS			60	K11329	39
+tr|C9RRF5|C9RRF5_FIBSS			241		
+tr|D9S524|D9S524_FIBSS	K01218	gmuG; mannan endo-1,4-beta-mannosidase [EC:3.2.1.78]	311		
+tr|C9RRH1|C9RRH1_FIBSS			354		
+tr|D9S4G9|D9S4G9_FIBSS			18	K07478	1
+tr|C9RNM5|C9RNM5_FIBSS			140		
+tr|C9RNH5|C9RNH5_FIBSS			15	K02454	7
+tr|C9RJW1|C9RJW1_FIBSS	K01104	E3.1.3.48; protein-tyrosine phosphatase [EC:3.1.3.48]	156		
+tr|C9RMP7|C9RMP7_FIBSS			17	K07323	7
+tr|D9S899|D9S899_FIBSS	K02652	pilB; type IV pilus assembly protein PilB	513		
+tr|D9S7J9|D9S7J9_FIBSS			255		
+tr|D9S7R4|D9S7R4_FIBSS			559		
+tr|D9S6Z2|D9S6Z2_FIBSS	K00784	rnz; ribonuclease Z [EC:3.1.26.11]	153		
+tr|C9RPT4|C9RPT4_FIBSS	K13542	cobA-hemD; uroporphyrinogen III methyltransferase / synthase [EC:2.1.1.107 4.2.1.75]	419		
+tr|C9RLK6|C9RLK6_FIBSS			33	K04749	10
+tr|C9RQQ7|C9RQQ7_FIBSS			342		
+tr|C9RN69|C9RN69_FIBSS	K03625	nusB; N utilization substance protein B	106		
+tr|C9RIU2|C9RIU2_FIBSS			160	K15531	16
+tr|C9RJ94|C9RJ94_FIBSS			24	K01637	2
+tr|C9RPA3|C9RPA3_FIBSS			560		
+tr|C9RQ91|C9RQ91_FIBSS			580		
+tr|C9RQ40|C9RQ40_FIBSS			42	K02319	2
+tr|C9RRR6|C9RRR6_FIBSS			318		
+tr|C9RMX2|C9RMX2_FIBSS			16	K01537	1
+tr|C9RNF1|C9RNF1_FIBSS			36	K08676	1
+tr|C9RLA8|C9RLA8_FIBSS			60	K14335	25
+tr|C9RNL0|C9RNL0_FIBSS			210		
+tr|C9RNI1|C9RNI1_FIBSS			1491		
+tr|C9RME0|C9RME0_FIBSS			162		
+tr|C9RMD2|C9RMD2_FIBSS			204		
+tr|C9RMJ6|C9RMJ6_FIBSS	K03551	ruvB; holliday junction DNA helicase RuvB [EC:3.6.4.12]	418		
+tr|C9RJR0|C9RJR0_FIBSS	K01012	bioB; biotin synthase [EC:2.8.1.6]	319		
+tr|D9S7L0|D9S7L0_FIBSS	K03327	TC.MATE; multidrug resistance protein, MATE family	308		
+tr|C9RLN3|C9RLN3_FIBSS			25	K04046	1
+tr|C9RNB9|C9RNB9_FIBSS			189		
+tr|C9RIK5|C9RIK5_FIBSS	K01866	YARS; tyrosyl-tRNA synthetase [EC:6.1.1.1]	440		
+tr|D9S821|D9S821_FIBSS	K07444	ypsC; putative N6-adenine-specific DNA methylase [EC:2.1.1.-]	221		
+tr|D9S5Z5|D9S5Z5_FIBSS			682		
+tr|C9RPC6|C9RPC6_FIBSS			117	K14393	4
+tr|D9SAC3|D9SAC3_FIBSS			24	K02669	13
+tr|C9RRC2|C9RRC2_FIBSS			125	K07133	3
+tr|C9RNX4|C9RNX4_FIBSS	K03424	tatD; TatD DNase family protein [EC:3.1.21.-]	73		
+tr|D9S8W0|D9S8W0_FIBSS					
+tr|C9RLP0|C9RLP0_FIBSS			142		
+tr|C9RQH2|C9RQH2_FIBSS			397		
+tr|C9RN42|C9RN42_FIBSS	K06871	uncharacterized protein	163		
+tr|C9RQY5|C9RQY5_FIBSS			580		
+tr|C9RL90|C9RL90_FIBSS			112	K03640	5
+tr|C9RP55|C9RP55_FIBSS	K03088	SIG3.2; RNA polymerase sigma-70 factor, ECF subfamily	137		
+tr|C9RJ65|C9RJ65_FIBSS			24	K00088	3
+tr|C9RLV6|C9RLV6_FIBSS			150	K03427	4
+tr|C9RKC7|C9RKC7_FIBSS	K19955	adh2; alcohol dehydrogenase [EC:1.1.1.-]	176		
+tr|C9RJP1|C9RJP1_FIBSS	K09952	csn1; CRISPR-associated endonuclease Csn1 [EC:3.1.-.-]	1058		
+tr|C9RKM0|C9RKM0_FIBSS	K06941	rlmN; 23S rRNA (adenine2503-C2)-methyltransferase [EC:2.1.1.192]	300		
+tr|D9S508|D9S508_FIBSS			564		
+tr|C9RNC8|C9RNC8_FIBSS	K05939	aas; acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase [EC:2.3.1.40 6.2.1.20]	805		
+tr|C9RPX5|C9RPX5_FIBSS			112		
+tr|D9S4R7|D9S4R7_FIBSS	K11783	mqnB; futalosine hydrolase [EC:3.2.2.26]	118		
+tr|C9RJG5|C9RJG5_FIBSS			186		
+tr|D9SAP4|D9SAP4_FIBSS	K02065	mlaF; phospholipid/cholesterol/gamma-HCH transport system ATP-binding protein	147	K02045	14
+tr|C9RR74|C9RR74_FIBSS	K07098	uncharacterized protein	179		
+tr|C9RM35|C9RM35_FIBSS	K01613	psd; phosphatidylserine decarboxylase [EC:4.1.1.65]	212		
+tr|C9RIW3|C9RIW3_FIBSS	K01224	E3.2.1.89; arabinogalactan endo-1,4-beta-galactosidase [EC:3.2.1.89]	110		
+tr|C9RQP2|C9RQP2_FIBSS	K02913	RP-L33; large subunit ribosomal protein L33	77		
+tr|C9RPM7|C9RPM7_FIBSS	K07053	E3.1.3.97; 3',5'-nucleoside bisphosphate phosphatase [EC:3.1.3.97]	220		
+tr|D9S8W4|D9S8W4_FIBSS			158		
+tr|C9RM64|C9RM64_FIBSS			69	K20444	3
+tr|C9RNI9|C9RNI9_FIBSS			173	K02853	9
+tr|C9RNQ0|C9RNQ0_FIBSS			28	K17876	1
+tr|C9RMQ5|C9RMQ5_FIBSS	K03474	pdxJ; pyridoxine 5-phosphate synthase [EC:2.6.99.2]	271		
+tr|C9RLV4|C9RLV4_FIBSS	K02356	efp; elongation factor P	219		
+tr|C9RKE6|C9RKE6_FIBSS	K01156	res; type III restriction enzyme [EC:3.1.21.5]	615		
+tr|C9RKC8|C9RKC8_FIBSS			24	K06987	2
+tr|C9RIU1|C9RIU1_FIBSS			25	K02012	1
+tr|C9RJM8|C9RJM8_FIBSS	K01972	E6.5.1.2; DNA ligase (NAD+) [EC:6.5.1.2]	596		
+tr|D9S669|D9S669_FIBSS	K00341	nuoL; NADH-quinone oxidoreductase subunit L [EC:1.6.5.3]	505		
+tr|C9RS56|C9RS56_FIBSS			78		
+tr|C9RNC6|C9RNC6_FIBSS			17	K01990	2
+tr|C9RPK7|C9RPK7_FIBSS			232		
+tr|C9RII9|C9RII9_FIBSS			179		
+tr|C9RPP9|C9RPP9_FIBSS			82		
+tr|C9RPN8|C9RPN8_FIBSS			302	K03286	17
+tr|C9RJE0|C9RJE0_FIBSS			18	K03634	6
+tr|C9RQ39|C9RQ39_FIBSS			23	K01847	1
+tr|C9RR56|C9RR56_FIBSS	K03496	parA; chromosome partitioning protein	284		
+tr|C9RM43|C9RM43_FIBSS	K06942	ychF; ribosome-binding ATPase	469		
+tr|C9RJR5|C9RJR5_FIBSS	K03154	thiS; sulfur carrier protein	81		
+tr|C9RNE0|C9RNE0_FIBSS	K01104	E3.1.3.48; protein-tyrosine phosphatase [EC:3.1.3.48]	144		
+tr|D9S8P4|D9S8P4_FIBSS	K05592	deaD; ATP-dependent RNA helicase DeaD [EC:3.6.4.13]	389		
+tr|C9RN14|C9RN14_FIBSS	K17716	capD; UDP-glucose 4-epimerase [EC:5.1.3.2]	549		
+tr|C9RMK4|C9RMK4_FIBSS			235		
+tr|D9S9F6|D9S9F6_FIBSS			106	K03694	4
+tr|C9RNR6|C9RNR6_FIBSS	K03561	exbB; biopolymer transport protein ExbB	72		
+tr|C9RQJ1|C9RQJ1_FIBSS	K01179	E3.2.1.4; endoglucanase [EC:3.2.1.4]	338		
+tr|C9RQK6|C9RQK6_FIBSS	K03092	SIG54; RNA polymerase sigma-54 factor	321		
+tr|C9RQL3|C9RQL3_FIBSS			457		
+tr|D9SAY7|D9SAY7_FIBSS			269		
+tr|C9RKR2|C9RKR2_FIBSS	K03671	trxA; thioredoxin 1	111		
+tr|C9RKL3|C9RKL3_FIBSS	K02426	sufE; cysteine desulfuration protein SufE	115		
+tr|C9RMI9|C9RMI9_FIBSS	K09810	lolD; lipoprotein-releasing system ATP-binding protein [EC:3.6.3.-]	249		
+tr|C9RJ91|C9RJ91_FIBSS			25	K01176	1
+tr|C9RK03|C9RK03_FIBSS			160		
+tr|D9S5W8|D9S5W8_FIBSS	K07107	ybgC; acyl-CoA thioester hydrolase [EC:3.1.2.-]	109		
+tr|C9RNZ2|C9RNZ2_FIBSS			337		
+tr|C9RJ32|C9RJ32_FIBSS	K04077	groEL; chaperonin GroEL	751		
+tr|C9RPE4|C9RPE4_FIBSS	K02067	mlaD; phospholipid/cholesterol/gamma-HCH transport system substrate-binding protein	138		
+tr|C9RS35|C9RS35_FIBSS			55		
+tr|C9RN94|C9RN94_FIBSS			27	K03776	1
+tr|C9RQP9|C9RQP9_FIBSS			168	K09833	8
+tr|C9RPU4|C9RPU4_FIBSS	K02899	RP-L27; large subunit ribosomal protein L27	132		
+tr|C9RPF1|C9RPF1_FIBSS	K07114	yfbK; Ca-activated chloride channel homolog	192		
+tr|C9RR71|C9RR71_FIBSS			292		
+tr|C9RQU1|C9RQU1_FIBSS	K08301	rng; ribonuclease G [EC:3.1.26.-]	393		
+tr|C9RRI0|C9RRI0_FIBSS	K12340	tolC; outer membrane protein	201		
+tr|C9RP64|C9RP64_FIBSS	K00432	gpx; glutathione peroxidase [EC:1.11.1.9]	249		
+tr|C9RQM1|C9RQM1_FIBSS			25	K19119	2
+tr|C9RQA8|C9RQA8_FIBSS	K03582	recB; exodeoxyribonuclease V beta subunit [EC:3.1.11.5]	486		
+tr|C9RJP7|C9RJP7_FIBSS	K00957	cysD; sulfate adenylyltransferase subunit 2 [EC:2.7.7.4]	544		
+tr|C9RJS5|C9RJS5_FIBSS	K01728	pel; pectate lyase [EC:4.2.2.2]	88		
+tr|C9RPF9|C9RPF9_FIBSS			205		
+tr|C9RPL2|C9RPL2_FIBSS	K00133	asd; aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]	421		
+tr|C9RNY4|C9RNY4_FIBSS	K04094	trmFO; methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase [EC:2.1.1.74]	441		
+tr|C9RR97|C9RR97_FIBSS			286		
+tr|C9RM87|C9RM87_FIBSS			22	K03406	3
+tr|C9RM91|C9RM91_FIBSS			24	K01738	2
+tr|C9RQE2|C9RQE2_FIBSS			29	K06398	3
+tr|C9RNV4|C9RNV4_FIBSS	K02120	ATPVD; V/A-type H+/Na+-transporting ATPase subunit D	193		
+tr|C9RQR3|C9RQR3_FIBSS			433		
+tr|D9SBU9|D9SBU9_FIBSS			272		
+tr|C9RJ87|C9RJ87_FIBSS	K02078	acpP; acyl carrier protein	90		
+tr|C9RMV2|C9RMV2_FIBSS			27	K01011	1
+tr|D9SBI5|D9SBI5_FIBSS	K06158	ABCF3; ATP-binding cassette, subfamily F, member 3	589		
+tr|C9RRB6|C9RRB6_FIBSS			180	K00666	4
+tr|C9RRS2|C9RRS2_FIBSS	K03816	xpt; xanthine phosphoribosyltransferase [EC:2.4.2.22]	237		
+tr|C9RR01|C9RR01_FIBSS	K01358	clpP; ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]	282		
+tr|C9RQX5|C9RQX5_FIBSS			302		
+tr|C9RNP9|C9RNP9_FIBSS			140		
+tr|C9RP60|C9RP60_FIBSS			138		
+tr|C9RK35|C9RK35_FIBSS	K02517	lpxL; Kdo2-lipid IVA lauroyltransferase [EC:2.3.1.241]	14		
+tr|C9RIY4|C9RIY4_FIBSS			109	K01179	4
+tr|C9RJ49|C9RJ49_FIBSS			19	K02034	1
+tr|C9RJ77|C9RJ77_FIBSS			27	K09007	1
+tr|C9RLX4|C9RLX4_FIBSS			17	K03702	3
+tr|C9RM36|C9RM36_FIBSS			22	K00648	2
+tr|C9RNJ5|C9RNJ5_FIBSS			127	K03041	7
+tr|C9RMS1|C9RMS1_FIBSS			64	K07011	38
+tr|D9SAH6|D9SAH6_FIBSS	K00566	mnmA; tRNA-specific 2-thiouridylase [EC:2.8.1.-]	316		
+tr|C9RQK2|C9RQK2_FIBSS			39	K06204	21
+tr|C9RQJ8|C9RQJ8_FIBSS	K03703	uvrC; excinuclease ABC subunit C	508		
+tr|D9S7I3|D9S7I3_FIBSS	K07814	putative two-component system response regulator	106		
+tr|C9RL53|C9RL53_FIBSS	K06181	rluE; 23S rRNA pseudouridine2457 synthase [EC:5.4.99.20]	221		
+tr|C9RS67|C9RS67_FIBSS			18	K09011	1
+tr|C9RIW9|C9RIW9_FIBSS			611		
+tr|C9RJ39|C9RJ39_FIBSS	K01704	leuD; 3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]	228		
+tr|C9RRJ6|C9RRJ6_FIBSS			213		
+tr|D9S4H0|D9S4H0_FIBSS	K01874	MARS; methionyl-tRNA synthetase [EC:6.1.1.10]	617		
+tr|C9RNX5|C9RNX5_FIBSS			15	K01524	6
+tr|D9SA48|D9SA48_FIBSS			32	K07729	3
+tr|D9S9N7|D9S9N7_FIBSS			375		
+tr|C9RLM1|C9RLM1_FIBSS			341		
+tr|C9RJV4|C9RJV4_FIBSS	K01150	endA; deoxyribonuclease I [EC:3.1.21.1]	255		
+tr|C9RPW3|C9RPW3_FIBSS	K03665	hflX; GTPase	353		
+tr|C9RP18|C9RP18_FIBSS			124		
+tr|C9RLX6|C9RLX6_FIBSS	K09013	sufC; Fe-S cluster assembly ATP-binding protein	338		
+tr|C9RN77|C9RN77_FIBSS			340		
+tr|C9RM70|C9RM70_FIBSS	K00611	OTC; ornithine carbamoyltransferase [EC:2.1.3.3]	313		
+tr|C9RN39|C9RN39_FIBSS			206		
+tr|C9RNM2|C9RNM2_FIBSS			419	K01234	41
+tr|D9S8R3|D9S8R3_FIBSS	K01867	WARS; tryptophanyl-tRNA synthetase [EC:6.1.1.2]	389		
+tr|C9RNA6|C9RNA6_FIBSS			163	K18912	8
+tr|C9RKR7|C9RKR7_FIBSS	K00817	hisC; histidinol-phosphate aminotransferase [EC:2.6.1.9]	328		
+tr|D9S7T5|D9S7T5_FIBSS	K03630	radC; DNA repair protein RadC	193		
+tr|C9RQX7|C9RQX7_FIBSS			23	K07303	1
+tr|C9RJB6|C9RJB6_FIBSS			162	K07011	10
+tr|C9RRM3|C9RRM3_FIBSS	K07315	rsbU_P; phosphoserine phosphatase RsbU/P [EC:3.1.3.3]	406		
+tr|C9RRE8|C9RRE8_FIBSS	K01586	lysA; diaminopimelate decarboxylase [EC:4.1.1.20]	480		
+tr|C9RRP5|C9RRP5_FIBSS	K03100	lepB; signal peptidase I [EC:3.4.21.89]	177		
+tr|C9RMR1|C9RMR1_FIBSS			139		
+tr|C9RL08|C9RL08_FIBSS			19	K00164	2
+tr|C9RKN8|C9RKN8_FIBSS			53	K15576	2
+tr|C9RQC3|C9RQC3_FIBSS	K01952	purL; phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	1666		
+tr|C9RKC9|C9RKC9_FIBSS	K00620	argJ; glutamate N-acetyltransferase / amino-acid N-acetyltransferase [EC:2.3.1.35 2.3.1.1]	381		
+tr|C9RKG4|C9RKG4_FIBSS	K00991	ispD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase [EC:2.7.7.60]	168	K12506	16
+tr|C9RPK0|C9RPK0_FIBSS	K01737	queD; 6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase [EC:4.2.3.12 4.1.2.50]	141		
+tr|C9RM75|C9RM75_FIBSS			123	K13694	22
+tr|C9RJB3|C9RJB3_FIBSS			116		
+tr|C9RJZ1|C9RJZ1_FIBSS	K00342	nuoM; NADH-quinone oxidoreductase subunit M [EC:1.6.5.3]	312		
+tr|C9RJQ1|C9RJQ1_FIBSS	K02046	cysU; sulfate transport system permease protein	357		
+tr|C9RJC6|C9RJC6_FIBSS			133		
+tr|C9RS34|C9RS34_FIBSS	K07154	hipA; serine/threonine-protein kinase HipA [EC:2.7.11.1]	472		
+tr|C9RRL8|C9RRL8_FIBSS			269		
+tr|C9RRZ0|C9RRZ0_FIBSS			466		
+tr|D9SBK2|D9SBK2_FIBSS			321		
+tr|C9RQ80|C9RQ80_FIBSS	K02314	dnaB; replicative DNA helicase [EC:3.6.4.12]	78		
+tr|C9RM52|C9RM52_FIBSS			133		
+tr|C9RLE2|C9RLE2_FIBSS	K04096	smf; DNA processing protein	193		
+tr|C9RPZ4|C9RPZ4_FIBSS			25	K03147	1
+tr|C9RJN2|C9RJN2_FIBSS	K09760	rmuC; DNA recombination protein RmuC	294		
+tr|C9RJW0|C9RJW0_FIBSS	K01923	purC; phosphoribosylaminoimidazole-succinocarboxamide synthase [EC:6.3.2.6]	369		
+tr|C9RMS8|C9RMS8_FIBSS			251		
+tr|C9RLC2|C9RLC2_FIBSS	K07192	FLOT; flotillin	400		
+tr|C9RM18|C9RM18_FIBSS	K01929	murF; UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase [EC:6.3.2.10]	355		
+tr|C9RNN4|C9RNN4_FIBSS			248		
+tr|C9RMH4|C9RMH4_FIBSS	K06113	abnA; arabinan endo-1,5-alpha-L-arabinosidase [EC:3.2.1.99]	322		
+tr|C9RKX9|C9RKX9_FIBSS	K00338	nuoI; NADH-quinone oxidoreductase subunit I [EC:1.6.5.3]	142		
+tr|C9RKD3|C9RKD3_FIBSS			131	K02665	7
+tr|D9S6N6|D9S6N6_FIBSS			402		
+tr|C9RJW6|C9RJW6_FIBSS			25	K02945	1
+tr|D9S740|D9S740_FIBSS			107	K11249	44
+tr|D9S4Z5|D9S4Z5_FIBSS			283		
+tr|D9S5W7|D9S5W7_FIBSS			419		
+tr|D9S563|D9S563_FIBSS	K12251	aguB; N-carbamoylputrescine amidase [EC:3.5.1.53]	314		
+tr|C9RNU5|C9RNU5_FIBSS			504		
+tr|C9RRK4|C9RRK4_FIBSS			34	K02014	1
+tr|C9RQV8|C9RQV8_FIBSS	K03427	hsdM; type I restriction enzyme M protein [EC:2.1.1.72]	571		
+tr|C9RMV3|C9RMV3_FIBSS	K01733	thrC; threonine synthase [EC:4.2.3.1]	526		
+tr|D9S468|D9S468_FIBSS			414	K08139	91
+tr|D9S7X0|D9S7X0_FIBSS			35	K07729	8
+tr|C9RIN8|C9RIN8_FIBSS	K02341	DPO3D2; DNA polymerase III subunit delta' [EC:2.7.7.7]	154	K02343	10
+tr|C9RLG5|C9RLG5_FIBSS	K00290	LYS1; saccharopine dehydrogenase (NAD+, L-lysine forming) [EC:1.5.1.7]	680		
+tr|D9SAJ0|D9SAJ0_FIBSS	K02586	nifD; nitrogenase molybdenum-iron protein alpha chain [EC:1.18.6.1]	576		
+tr|C9RMB2|C9RMB2_FIBSS	K04517	tyrA2; prephenate dehydrogenase [EC:1.3.1.12]	220		
+tr|C9RKF0|C9RKF0_FIBSS			254		
+tr|C9RLI1|C9RLI1_FIBSS	K03106	SRP54; signal recognition particle subunit SRP54 [EC:3.6.5.4]	515		
+tr|C9RL25|C9RL25_FIBSS	K02956	RP-S15; small subunit ribosomal protein S15	110		
+tr|D9S801|D9S801_FIBSS	K01448	E3.5.1.28B; N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]	205		
+tr|C9RP34|C9RP34_FIBSS	K04043	dnaK; molecular chaperone DnaK	821		
+tr|C9RJ76|C9RJ76_FIBSS			342		
+tr|D9S5I6|D9S5I6_FIBSS			327		
+tr|C9RSA8|C9RSA8_FIBSS	K00981	E2.7.7.41; phosphatidate cytidylyltransferase [EC:2.7.7.41]	168		
+tr|C9RQZ4|C9RQZ4_FIBSS	K06897	7	239		
+tr|C9RRA7|C9RRA7_FIBSS	K19302	bcrC; undecaprenyl-diphosphatase [EC:3.6.1.27]	120		
+tr|D9S6F6|D9S6F6_FIBSS	K00969	nadD; nicotinate-nucleotide adenylyltransferase [EC:2.7.7.18]	120		
+tr|C9RJR4|C9RJR4_FIBSS			126		
+tr|C9RJ06|C9RJ06_FIBSS			19	K05973	2
+tr|D9S634|D9S634_FIBSS			439		
+tr|C9RQ42|C9RQ42_FIBSS			27	K02508	2
+tr|C9RP50|C9RP50_FIBSS	K01955	carB; carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]	1330		
+tr|C9RNM0|C9RNM0_FIBSS	K03284	corA; magnesium transporter	204		
+tr|C9RLP6|C9RLP6_FIBSS			16	K03701	7
+tr|C9RLW0|C9RLW0_FIBSS	K01437	ASPA; aspartoacylase [EC:3.5.1.15]	235		
+tr|C9RP26|C9RP26_FIBSS	K00788	thiE; thiamine-phosphate pyrophosphorylase [EC:2.5.1.3]	234		
+tr|C9RKQ0|C9RKQ0_FIBSS			127	K02316	4
+tr|C9RJK4|C9RJK4_FIBSS	K00339	nuoJ; NADH-quinone oxidoreductase subunit J [EC:1.6.5.3]	119		
+tr|D9S561|D9S561_FIBSS	K02836	prfB; peptide chain release factor 2	369		
+tr|C9RRU8|C9RRU8_FIBSS			101	K02674	3
+tr|D9S4X9|D9S4X9_FIBSS	K07814	putative two-component system response regulator	361		
+tr|C9RK74|C9RK74_FIBSS	K02065	mlaF; phospholipid/cholesterol/gamma-HCH transport system ATP-binding protein	210		
+tr|C9RPD2|C9RPD2_FIBSS			160		
+tr|C9RJR6|C9RJR6_FIBSS			455		
+tr|D9SAP3|D9SAP3_FIBSS	K02066	mlaE; phospholipid/cholesterol/gamma-HCH transport system permease protein	150		
+tr|C9RRB2|C9RRB2_FIBSS	K01491	folD; methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9]	438		
+tr|C9RPZ6|C9RPZ6_FIBSS			209		
+tr|C9RM78|C9RM78_FIBSS			32	K03553	3
+tr|C9RJZ9|C9RJZ9_FIBSS			538	K20276	16
+tr|D9SBQ2|D9SBQ2_FIBSS	K15045	RSAD2; radical S-adenosyl methionine domain-containing protein 2	206		
+tr|C9RL64|C9RL64_FIBSS	K07738	nrdR; transcriptional repressor NrdR	158		
+tr|C9RRQ8|C9RRQ8_FIBSS	K01591	pyrF; orotidine-5'-phosphate decarboxylase [EC:4.1.1.23]	190		
+tr|C9RMC2|C9RMC2_FIBSS			277		
+tr|C9RLA2|C9RLA2_FIBSS	K02035	ABC.PE.S; peptide/nickel transport system substrate-binding protein	430		
+tr|C9RL92|C9RL92_FIBSS			286		
+tr|C9RKX4|C9RKX4_FIBSS	K00343	nuoN; NADH-quinone oxidoreductase subunit N [EC:1.6.5.3]	313	K05573	27
+tr|C9RJR7|C9RJR7_FIBSS			188		
+tr|C9RJM2|C9RJM2_FIBSS	K07095	uncharacterized protein	176		
+tr|C9RLR4|C9RLR4_FIBSS	K00239	sdhA; succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4]	958		
+tr|C9RLL8|C9RLL8_FIBSS			35	K07726	1
+tr|D9S6T8|D9S6T8_FIBSS	K03820	lnt; apolipoprotein N-acyltransferase [EC:2.3.1.-]	256		
+tr|C9RNY8|C9RNY8_FIBSS			30	K13819	17
+tr|C9RP36|C9RP36_FIBSS			87		
+tr|C9RKD1|C9RKD1_FIBSS	K02340	DPO3D1; DNA polymerase III subunit delta [EC:2.7.7.7]	106		
+tr|C9RJ09|C9RJ09_FIBSS			151		
+tr|C9RIS6|C9RIS6_FIBSS			14	K06958	6
+tr|C9RS92|C9RS92_FIBSS			38		
+tr|C9RJ55|C9RJ55_FIBSS			26	K00406	2
+tr|D9S681|D9S681_FIBSS			106	K02670	4
+tr|C9RQR4|C9RQR4_FIBSS	K07133	uncharacterized protein	509		
+tr|C9RNS8|C9RNS8_FIBSS	K03424	tatD; TatD DNase family protein [EC:3.1.21.-]	213		
+tr|C9RNA3|C9RNA3_FIBSS					
+tr|C9RLS8|C9RLS8_FIBSS			21	K00117	2
+tr|C9RIW7|C9RIW7_FIBSS			176		
+tr|C9RMU7|C9RMU7_FIBSS	K03182	ubiD; 4-hydroxy-3-polyprenylbenzoate decarboxylase [EC:4.1.1.98]	644		
+tr|C9RPQ2|C9RPQ2_FIBSS			16	K00027	6
+tr|C9RRC6|C9RRC6_FIBSS			455		
+tr|C9RM03|C9RM03_FIBSS			66	K02566	27
+tr|D9S8N8|D9S8N8_FIBSS			151		
+tr|C9RMS2|C9RMS2_FIBSS			42	K06113	1
+tr|D9S9F5|D9S9F5_FIBSS	K06183	rsuA; 16S rRNA pseudouridine516 synthase [EC:5.4.99.19]	209		
+tr|C9RLW5|C9RLW5_FIBSS	K02621	parC; topoisomerase IV subunit A [EC:5.99.1.-]	917		
+tr|C9RP72|C9RP72_FIBSS			19	K00035	2
+tr|D9S9E9|D9S9E9_FIBSS			467		
+tr|C9RNG2|C9RNG2_FIBSS			19	K03833	2
+tr|C9RQH9|C9RQH9_FIBSS	K14623	dinD; DNA-damage-inducible protein D	268		
+tr|C9RKY3|C9RKY3_FIBSS	K00330	nuoA; NADH-quinone oxidoreductase subunit A [EC:1.6.5.3]	110		
+tr|C9RKH9|C9RKH9_FIBSS			68		
+tr|C9RL11|C9RL11_FIBSS	K03553	recA; recombination protein RecA	494		
+tr|C9RPV1|C9RPV1_FIBSS			28	K18138	1
+tr|D9S7L9|D9S7L9_FIBSS	K03466	ftsK; DNA segregation ATPase FtsK/SpoIIIE, S-DNA-T family	569		
+tr|C9RPV4|C9RPV4_FIBSS			558		
+tr|C9RIX8|C9RIX8_FIBSS	K01520	dut; dUTP pyrophosphatase [EC:3.6.1.23]	150		
+tr|C9RP51|C9RP51_FIBSS			125		
+tr|C9RIJ5|C9RIJ5_FIBSS	K14441	rimO; ribosomal protein S12 methylthiotransferase [EC:2.8.4.4]	381		
+tr|C9RQ53|C9RQ53_FIBSS	K01740	metY; O-acetylhomoserine (thiol)-lyase [EC:2.5.1.49]	660		
+tr|C9RNV2|C9RNV2_FIBSS	K02117	ATPVA; V/A-type H+/Na+-transporting ATPase subunit A [EC:3.6.3.14 3.6.3.15]	774		
+tr|C9RQ99|C9RQ99_FIBSS	K03502	DPO5C; DNA polymerase V	585		
+tr|C9RRC5|C9RRC5_FIBSS			185	K06978	7
+tr|C9RLY8|C9RLY8_FIBSS			29	K00362	2
+tr|C9RPM4|C9RPM4_FIBSS	K10536	aguA; agmatine deiminase [EC:3.5.3.12]	271		
+tr|C9RM71|C9RM71_FIBSS	K01012	bioB; biotin synthase [EC:2.8.1.6]	376		
+tr|C9RNK1|C9RNK1_FIBSS	K03530	hupB; DNA-binding protein HU-beta	105		
+tr|D9S909|D9S909_FIBSS			218		
+tr|C9RNV3|C9RNV3_FIBSS	K02118	ATPVB; V/A-type H+/Na+-transporting ATPase subunit B	665		
+tr|C9RQI3|C9RQI3_FIBSS			25	K01839	2
+tr|C9RLS1|C9RLS1_FIBSS	K07316	mod; adenine-specific DNA-methyltransferase [EC:2.1.1.72]	527	K00571	45
+tr|C9RQM2|C9RQM2_FIBSS	K07461	putative endonuclease	70		
+tr|C9RLL7|C9RLL7_FIBSS			58		
+tr|C9RL89|C9RL89_FIBSS			159		
+tr|D9S501|D9S501_FIBSS	K03149	thiG; thiazole synthase [EC:2.8.1.10]	408		
+tr|C9RKX1|C9RKX1_FIBSS			74		
+tr|C9RK60|C9RK60_FIBSS			156		
+tr|C9RQT0|C9RQT0_FIBSS	K07337	penicillin-binding protein activator	223		
+tr|D9S4N4|D9S4N4_FIBSS			358		
+tr|C9RQY7|C9RQY7_FIBSS			261		
+tr|C9RPT3|C9RPT3_FIBSS	K02304	MET8; precorrin-2 dehydrogenase / sirohydrochlorin ferrochelatase [EC:1.3.1.76 4.99.1.4]	53	K02302	29
+tr|C9RRT7|C9RRT7_FIBSS			128	K04744	4
+tr|C9RQJ5|C9RQJ5_FIBSS	K02034	ABC.PE.P1; peptide/nickel transport system permease protein	286		
+tr|C9RM13|C9RM13_FIBSS	K03590	ftsA; cell division protein FtsA	337		
+tr|C9RRJ7|C9RRJ7_FIBSS	K01625	eda; 2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase [EC:4.1.2.14 4.1.3.42]	172		
+tr|C9RNF0|C9RNF0_FIBSS			344	K01179	20
+tr|D9S9G6|D9S9G6_FIBSS			380	K07459	34
+tr|C9RLA3|C9RLA3_FIBSS	K17103	CHO1; CDP-diacylglycerol---serine O-phosphatidyltransferase [EC:2.7.8.8]	150		
+tr|C9RP93|C9RP93_FIBSS			797		
+tr|C9RKF2|C9RKF2_FIBSS	K00375	GntR family transcriptional regulator / MocR family aminotransferase	514		
+tr|C9RJR8|C9RJR8_FIBSS			105		
+tr|C9RMF6|C9RMF6_FIBSS			354		
+tr|D9S7Z8|D9S7Z8_FIBSS	K03979	obgE; GTPase [EC:3.6.5.-]	343		
+tr|C9RP16|C9RP16_FIBSS	K01881	PARS; prolyl-tRNA synthetase [EC:6.1.1.15]	559		
+tr|C9RQC4|C9RQC4_FIBSS			194		
+tr|C9RRB9|C9RRB9_FIBSS			39	K06959	1
+tr|D9S666|D9S666_FIBSS	K00338	nuoI; NADH-quinone oxidoreductase subunit I [EC:1.6.5.3]	157		
+tr|C9RIX2|C9RIX2_FIBSS	K02313	dnaA; chromosomal replication initiator protein	363		
+tr|C9RJJ7|C9RJJ7_FIBSS	K00332	nuoC; NADH-quinone oxidoreductase subunit C [EC:1.6.5.3]	99		
+tr|D9S4W5|D9S4W5_FIBSS	K05592	deaD; ATP-dependent RNA helicase DeaD [EC:3.6.4.13]	627		
+tr|C9RIP7|C9RIP7_FIBSS			22	K03929	5
+tr|C9RNZ7|C9RNZ7_FIBSS			108		
+tr|C9RNX6|C9RNX6_FIBSS			167		
+tr|C9RNC9|C9RNC9_FIBSS			52	K03307	2
+tr|D9SAL4|D9SAL4_FIBSS	K03501	gidB; 16S rRNA (guanine527-N7)-methyltransferase [EC:2.1.1.170]	157		
+tr|D9SBL9|D9SBL9_FIBSS			248		
+tr|C9RQP8|C9RQP8_FIBSS			158		
+tr|C9RRF3|C9RRF3_FIBSS			174	K01883	4
+tr|C9RIL9|C9RIL9_FIBSS	K03569	mreB; rod shape-determining protein MreB and related proteins	406		
+tr|C9RP71|C9RP71_FIBSS			21	K03781	1
+tr|C9RM24|C9RM24_FIBSS	K18475	fliB; lysine-N-methylase [EC:2.1.1.-]	178		
+tr|C9RIS2|C9RIS2_FIBSS	K03086	SIG1; RNA polymerase primary sigma factor	238		
+tr|C9RLU7|C9RLU7_FIBSS	K06287	maf; septum formation protein	170		
+tr|C9RN38|C9RN38_FIBSS	K03470	rnhB; ribonuclease HII [EC:3.1.26.4]	188		
+tr|D9SBC0|D9SBC0_FIBSS	K02988	RP-S5; small subunit ribosomal protein S5	158		
+tr|C9RJP2|C9RJP2_FIBSS	K15342	cas1; CRISP-associated protein Cas1	363		
+tr|C9RK68|C9RK68_FIBSS			30	K01012	2
+tr|C9RS69|C9RS69_FIBSS	K01778	dapF; diaminopimelate epimerase [EC:5.1.1.7]	256		
+tr|C9RJF3|C9RJF3_FIBSS	K09474	phoN; acid phosphatase (class A) [EC:3.1.3.2]	204		
+tr|C9RNW7|C9RNW7_FIBSS	K11751	ushA; 5'-nucleotidase / UDP-sugar diphosphatase [EC:3.1.3.5 3.6.1.45]	84		
+tr|C9RPE3|C9RPE3_FIBSS	K11189	PTS-HPR; phosphocarrier protein	82		
+tr|C9RQN5|C9RQN5_FIBSS	K03043	rpoB; DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]	945		
+tr|C9RR69|C9RR69_FIBSS			192	K00001	100
+tr|C9RRS4|C9RRS4_FIBSS	K00390	cysH; phosphoadenosine phosphosulfate reductase [EC:1.8.4.8 1.8.4.10]	640		
+tr|C9RJN1|C9RJN1_FIBSS			334		
+tr|C9RQN7|C9RQN7_FIBSS	K02864	RP-L10; large subunit ribosomal protein L10	109		
+tr|C9RRZ7|C9RRZ7_FIBSS			293		
+tr|C9RR23|C9RR23_FIBSS	K02895	RP-L24; large subunit ribosomal protein L24	84		
+tr|C9RJQ7|C9RJQ7_FIBSS			257	K02493	5
+tr|C9RRL2|C9RRL2_FIBSS			226		
+tr|C9RRA8|C9RRA8_FIBSS			22	K15634	2
+tr|C9RLW8|C9RLW8_FIBSS	K03771	surA; peptidyl-prolyl cis-trans isomerase SurA [EC:5.2.1.8]	217		
+tr|C9RM27|C9RM27_FIBSS			155	K03286	62
+tr|C9RM44|C9RM44_FIBSS			20	K07027	2
+tr|D9S889|D9S889_FIBSS			31	K08303	2
+tr|D9SAU8|D9SAU8_FIBSS			301		
+tr|C9RL51|C9RL51_FIBSS			127		
+tr|C9RPX2|C9RPX2_FIBSS			153		
+tr|C9RP41|C9RP41_FIBSS			538		
+tr|D9S670|D9S670_FIBSS			21	K00341	3
+tr|C9RK33|C9RK33_FIBSS			15	K03584	11
+tr|C9RPM0|C9RPM0_FIBSS			51	K00820	2
+tr|C9RPM9|C9RPM9_FIBSS	K07301	yrbG; cation:H+ antiporter	345		
+tr|C9RRB1|C9RRB1_FIBSS			24	K19295	6
+tr|D9SBZ4|D9SBZ4_FIBSS	K02067	mlaD; phospholipid/cholesterol/gamma-HCH transport system substrate-binding protein	109		
+tr|C9RN17|C9RN17_FIBSS	K13012	wbqP; O-antigen biosynthesis protein WbqP	308		
+tr|C9RN46|C9RN46_FIBSS	K01652	E2.2.1.6L; acetolactate synthase I/II/III large subunit [EC:2.2.1.6]	647		
+tr|C9RLA0|C9RLA0_FIBSS					
+tr|C9RM72|C9RM72_FIBSS			228		
+tr|C9RK88|C9RK88_FIBSS	K03500	rsmB; 16S rRNA (cytosine967-C5)-methyltransferase [EC:2.1.1.176]	267		
+tr|C9RKP4|C9RKP4_FIBSS	K01714	dapA; 4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7]	222		
+tr|C9RJQ6|C9RJQ6_FIBSS	K01740	metY; O-acetylhomoserine (thiol)-lyase [EC:2.5.1.49]	524		
+tr|D9S6F2|D9S6F2_FIBSS	K02066	mlaE; phospholipid/cholesterol/gamma-HCH transport system permease protein	211		
+tr|C9RRU5|C9RRU5_FIBSS	K16785	ecfT; energy-coupling factor transport system permease protein	176		
+tr|C9RP47|C9RP47_FIBSS			523		
+tr|C9RS94|C9RS94_FIBSS			22	K00626	1
+tr|C9RR41|C9RR41_FIBSS	K03744	lemA; LemA protein	215		
+tr|C9RMF5|C9RMF5_FIBSS			191	K01448	4
+tr|C9RJD6|C9RJD6_FIBSS			26	K02650	20
+tr|C9RJF9|C9RJF9_FIBSS			217		
+tr|D9S628|D9S628_FIBSS			326		
+tr|C9RJH9|C9RJH9_FIBSS			362		
+tr|D9S4I4|D9S4I4_FIBSS			28	K01933	2
+tr|C9RRH8|C9RRH8_FIBSS			234		
+tr|C9RNW5|C9RNW5_FIBSS			405		
+tr|C9RLG6|C9RLG6_FIBSS	K01585	speA; arginine decarboxylase [EC:4.1.1.19]	810		
+tr|C9RQK1|C9RQK1_FIBSS			213		
+tr|C9RPH2|C9RPH2_FIBSS			169		
+tr|C9RL84|C9RL84_FIBSS			13	K19597	1
+tr|D9S8G7|D9S8G7_FIBSS			247		
+tr|C9RNJ3|C9RNJ3_FIBSS			145	K01342	5
+tr|C9RL49|C9RL49_FIBSS	K07391	comM; magnesium chelatase family protein	497		
+tr|C9RRF7|C9RRF7_FIBSS			184		
+tr|C9RQ38|C9RQ38_FIBSS			104	K07272	11
+tr|C9RMH7|C9RMH7_FIBSS	K09922	uncharacterized protein	139		
+tr|D9S7B6|D9S7B6_FIBSS	K00972	UAP1; UDP-N-acetylglucosamine/UDP-N-acetylgalactosamine diphosphorylase [EC:2.7.7.23 2.7.7.83]	329		
+tr|C9RLT0|C9RLT0_FIBSS			309		
+tr|C9RPE0|C9RPE0_FIBSS			41	K03298	2
+tr|C9RJ37|C9RJ37_FIBSS			21	K03722	1
+tr|C9RLG2|C9RLG2_FIBSS			318		
+tr|C9RMR9|C9RMR9_FIBSS	K00748	lpxB; lipid-A-disaccharide synthase [EC:2.4.1.182]	203		
+tr|C9RIT8|C9RIT8_FIBSS			147		
+tr|C9RK07|C9RK07_FIBSS	K07091	lptF; lipopolysaccharide export system permease protein	295		
+tr|C9RM21|C9RM21_FIBSS			18	K02495	1
+tr|C9RIQ6|C9RIQ6_FIBSS			26	K02010	11
+tr|C9RMX7|C9RMX7_FIBSS	K02314	dnaB; replicative DNA helicase [EC:3.6.4.12]	396		
+tr|D9SBH8|D9SBH8_FIBSS	K02016	ABC.FEV.S; iron complex transport system substrate-binding protein	212		
+tr|C9RLU3|C9RLU3_FIBSS			356		
+tr|C9RR80|C9RR80_FIBSS			55	K07180	2
+tr|C9RQN2|C9RQN2_FIBSS	K02992	RP-S7; small subunit ribosomal protein S7	182		
+tr|C9RR65|C9RR65_FIBSS			26	K00831	2
+tr|C9RPW4|C9RPW4_FIBSS	K01095	pgpA; phosphatidylglycerophosphatase A [EC:3.1.3.27]	121		
+tr|C9RIZ8|C9RIZ8_FIBSS			20	K01740	2
+tr|C9RLU2|C9RLU2_FIBSS			483		
+tr|C9RJT0|C9RJT0_FIBSS	K01696	trpB; tryptophan synthase beta chain [EC:4.2.1.20]	517		
+tr|C9RL20|C9RL20_FIBSS	K01151	nfo; deoxyribonuclease IV [EC:3.1.21.2]	395		
+tr|C9RN57|C9RN57_FIBSS			103	K05349	4
+tr|D9S964|D9S964_FIBSS	K14652	ribBA; 3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II [EC:4.1.99.12 3.5.4.25]	551		
+tr|C9RJ88|C9RJ88_FIBSS	K03685	rnc; ribonuclease III [EC:3.1.26.3]	220		
+tr|C9RNB4|C9RNB4_FIBSS			152		
+tr|C9RS44|C9RS44_FIBSS			19	K09014	1
+tr|C9RP44|C9RP44_FIBSS			183		
+tr|C9RJB2|C9RJB2_FIBSS			150		
+tr|C9RPT0|C9RPT0_FIBSS	K01845	hemL; glutamate-1-semialdehyde 2,1-aminomutase [EC:5.4.3.8]	557		
+tr|C9RPA8|C9RPA8_FIBSS			72	K09809	66
+tr|C9RPC2|C9RPC2_FIBSS	K01126	E3.1.4.46; glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46]	175		
+tr|D9SBT4|D9SBT4_FIBSS			223		
+tr|C9RQT8|C9RQT8_FIBSS	K13788	pta; phosphate acetyltransferase [EC:2.3.1.8]	434		
+tr|C9RNT3|C9RNT3_FIBSS	K03596	lepA; GTP-binding protein LepA	811		
+tr|D9S8M7|D9S8M7_FIBSS	K08984	yjdF; putative membrane protein	209		
+tr|C9RQV4|C9RQV4_FIBSS			21	K04079	6
+tr|C9RJ26|C9RJ26_FIBSS	K03789	rimI; ribosomal-protein-alanine N-acetyltransferase [EC:2.3.1.128]	104		
+tr|C9RPZ0|C9RPZ0_FIBSS			157		
+tr|C9RKL2|C9RKL2_FIBSS			18	K07102	1
+tr|C9RLN1|C9RLN1_FIBSS			186		
+tr|C9RL97|C9RL97_FIBSS			24	K00033	2
+tr|D9S3U7|D9S3U7_FIBSS	K04759	feoB; ferrous iron transport protein B	692		
+tr|C9RMM5|C9RMM5_FIBSS			222		
+tr|C9RRN0|C9RRN0_FIBSS	K02027	ABC.MS.S; multiple sugar transport system substrate-binding protein	35		
+tr|C9RP28|C9RP28_FIBSS			28	K01870	3
+tr|C9RR66|C9RR66_FIBSS			22	K20534	3
+tr|C9RRS5|C9RRS5_FIBSS			289		
+tr|C9RJ02|C9RJ02_FIBSS			17	K07473	10
+tr|C9RR00|C9RR00_FIBSS	K03544	clpX; ATP-dependent Clp protease ATP-binding subunit ClpX	521		
+tr|C9RPU8|C9RPU8_FIBSS	K00147	proA; glutamate-5-semialdehyde dehydrogenase [EC:1.2.1.41]	414		
+tr|C9RRZ8|C9RRZ8_FIBSS			279		
+tr|C9RJB9|C9RJB9_FIBSS			245	K09144	23
+tr|C9RLX5|C9RLX5_FIBSS	K02316	dnaG; DNA primase [EC:2.7.7.-]	390		
+tr|D9S7U7|D9S7U7_FIBSS	K00075	murB; UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98]	250		
+tr|C9RNE7|C9RNE7_FIBSS			24	K03286	1
+tr|C9RPL9|C9RPL9_FIBSS	K00895	pfp; pyrophosphate--fructose-6-phosphate 1-phosphotransferase [EC:2.7.1.90]	704		
+tr|C9RLZ3|C9RLZ3_FIBSS			24	K01192	1
+tr|C9RN25|C9RN25_FIBSS	K19068	wbjC; UDP-2-acetamido-2,6-beta-L-arabino-hexul-4-ose reductase [EC:1.1.1.367]	622		
+tr|C9RN56|C9RN56_FIBSS			27	K02601	2
+tr|C9RQ17|C9RQ17_FIBSS	K02585	nifB; nitrogen fixation protein NifB	38		
+tr|C9RR27|C9RR27_FIBSS	K02878	RP-L16; large subunit ribosomal protein L16	199		
+tr|D9S9U6|D9S9U6_FIBSS			1482		
+tr|C9RQM6|C9RQM6_FIBSS	K01689	ENO; enolase [EC:4.2.1.11]	506		
+tr|C9RP15|C9RP15_FIBSS			120		
+tr|C9RJ30|C9RJ30_FIBSS	K00973	E2.7.7.24; glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24]	264		
+tr|C9RJW4|C9RJW4_FIBSS			215	K07407	7
+tr|D9S4Y2|D9S4Y2_FIBSS			30	K01887	1
+tr|C9RSA2|C9RSA2_FIBSS			283		
+tr|D9S533|D9S533_FIBSS			670		
+tr|C9RIT5|C9RIT5_FIBSS			22	K00666	4
+tr|C9RPQ7|C9RPQ7_FIBSS			386		
+tr|D9S4L1|D9S4L1_FIBSS	K03466	ftsK; DNA segregation ATPase FtsK/SpoIIIE, S-DNA-T family	225		
+tr|C9RS02|C9RS02_FIBSS	K09131	uncharacterized protein	65		
+tr|C9RPG0|C9RPG0_FIBSS	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	250		
+tr|C9RPS1|C9RPS1_FIBSS			66		
+tr|C9RRD4|C9RRD4_FIBSS	K01179	E3.2.1.4; endoglucanase [EC:3.2.1.4]	189		
+tr|C9RLS4|C9RLS4_FIBSS	K02030	ABC.PA.S; polar amino acid transport system substrate-binding protein	249		
+tr|C9RIX4|C9RIX4_FIBSS			239		
+tr|C9RJD8|C9RJD8_FIBSS			24	K03702	1
+tr|C9RJJ6|C9RJJ6_FIBSS	K00331	nuoB; NADH-quinone oxidoreductase subunit B [EC:1.6.5.3]	229		
+tr|C9RR28|C9RR28_FIBSS	K02982	RP-S3; small subunit ribosomal protein S3	279		
+tr|C9RKS4|C9RKS4_FIBSS	K04763	xerD; integrase/recombinase XerD	101	K03733	80
+tr|C9RKR9|C9RKR9_FIBSS	K02238	comEC; competence protein ComEC	384		
+tr|C9RJS0|C9RJS0_FIBSS	K19157	yafQ; mRNA interferase YafQ [EC:3.1.-.-]	125		
+tr|C9RJW8|C9RJW8_FIBSS			402		
+tr|C9RJT6|C9RJT6_FIBSS			143		
+tr|C9RIR5|C9RIR5_FIBSS			16	K02015	3
+tr|C9RKJ2|C9RKJ2_FIBSS			29	K12276	1
+tr|C9RRL9|C9RRL9_FIBSS			30	K00694	2
+tr|C9RJH4|C9RJH4_FIBSS			29	K01990	1
+tr|C9RMG0|C9RMG0_FIBSS	K03281	TC.CIC; chloride channel protein, CIC family	344		
+tr|C9RQT2|C9RQT2_FIBSS			22	K00611	2
+tr|C9RLY1|C9RLY1_FIBSS			16	K01892	2
+tr|C9RKV4|C9RKV4_FIBSS			294		
+tr|C9RIP2|C9RIP2_FIBSS			22	K02456	7
+tr|C9RNA4|C9RNA4_FIBSS	K02028	ABC.PA.A; polar amino acid transport system ATP-binding protein [EC:3.6.3.21]	311		
+tr|C9RLB1|C9RLB1_FIBSS	K04487	iscS; cysteine desulfurase [EC:2.8.1.7]	381		
+tr|C9RNI7|C9RNI7_FIBSS			170		
+tr|D9S8A1|D9S8A1_FIBSS	K02435	gatC; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C [EC:6.3.5.6 6.3.5.7]	74		
+tr|D9S8C2|D9S8C2_FIBSS	K00858	ppnK; NAD+ kinase [EC:2.7.1.23]	207		
+tr|C9RR19|C9RR19_FIBSS	K02933	RP-L6; large subunit ribosomal protein L6	228		
+tr|C9RLH4|C9RLH4_FIBSS			23	K10441	1
+tr|C9RJP9|C9RJP9_FIBSS			22	K02014	2
+tr|C9RL39|C9RL39_FIBSS			104		
+tr|C9RJJ4|C9RJJ4_FIBSS			137		
+tr|D9S5G9|D9S5G9_FIBSS			427		
+tr|C9RIV0|C9RIV0_FIBSS	K01885	EARS; glutamyl-tRNA synthetase [EC:6.1.1.17]	182	K01894	37
+tr|C9RPD1|C9RPD1_FIBSS			24	K01710	7
+tr|C9RS62|C9RS62_FIBSS	K01870	IARS; isoleucyl-tRNA synthetase [EC:6.1.1.5]	1080		
+tr|C9RRA1|C9RRA1_FIBSS			108		
+tr|C9RQP4|C9RQP4_FIBSS	K07107	ybgC; acyl-CoA thioester hydrolase [EC:3.1.2.-]	120		
+tr|D9SAR0|D9SAR0_FIBSS			455		
+tr|C9RK55|C9RK55_FIBSS	K06959	tex; protein Tex	801		
+tr|C9RIU3|C9RIU3_FIBSS	K01251	E3.3.1.1; adenosylhomocysteinase [EC:3.3.1.1]	137		
+tr|C9RK44|C9RK44_FIBSS			232		
+tr|C9RK61|C9RK61_FIBSS			55	K12138	2
+tr|C9RJI7|C9RJI7_FIBSS			396		
+tr|C9RPD4|C9RPD4_FIBSS	K01841	pepM; phosphoenolpyruvate phosphomutase [EC:5.4.2.9]	585		
+tr|C9RRE7|C9RRE7_FIBSS			56		
+tr|C9RP87|C9RP87_FIBSS			20	K12573	1
+tr|C9RKI0|C9RKI0_FIBSS			26	K02945	2
+tr|C9RJK2|C9RJK2_FIBSS	K00337	nuoH; NADH-quinone oxidoreductase subunit H [EC:1.6.5.3]	306		
+tr|C9RRC9|C9RRC9_FIBSS			227		
+tr|D9S8P6|D9S8P6_FIBSS	K15531	rexA; oligosaccharide reducing-end xylanase [EC:3.2.1.156]	259		
+tr|C9RMJ3|C9RMJ3_FIBSS			115	K09685	4
+tr|C9RKH1|C9RKH1_FIBSS	K09747	uncharacterized protein	116		
+tr|C9RS80|C9RS80_FIBSS			216		
+tr|C9RIX6|C9RIX6_FIBSS			246		
+tr|D9S5K0|D9S5K0_FIBSS			212	K09809	19
+tr|C9RRL1|C9RRL1_FIBSS			125		
+tr|C9RLK0|C9RLK0_FIBSS	K00950	folK; 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase [EC:2.7.6.3]	128		
+tr|C9RJX8|C9RJX8_FIBSS	K13017	wbpE; UDP-2-acetamido-2-deoxy-ribo-hexuluronate aminotransferase [EC:2.6.1.98]	288		
+tr|C9RRM9|C9RRM9_FIBSS	K00800	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19]	467		
+tr|C9RQX1|C9RQX1_FIBSS			209		
+tr|C9RPZ2|C9RPZ2_FIBSS			190		
+tr|C9RN12|C9RN12_FIBSS	K01791	wecB; UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	573		
+tr|C9RR16|C9RR16_FIBSS	K02907	RP-L30; large subunit ribosomal protein L30	69		
+tr|C9RMG8|C9RMG8_FIBSS			114	K01216	4
+tr|D9S570|D9S570_FIBSS			51	K02016	2
+tr|D9S7Q9|D9S7Q9_FIBSS			356		
+tr|C9RNE6|C9RNE6_FIBSS			81	K03892	20
+tr|C9RM57|C9RM57_FIBSS			149		
+tr|D9SAB9|D9SAB9_FIBSS			237		
+tr|C9RPI5|C9RPI5_FIBSS	K00656	E2.3.1.54; formate C-acetyltransferase [EC:2.3.1.54]	1204		
+tr|C9RLQ9|C9RLQ9_FIBSS			26	K07277	12
+tr|C9RKV1|C9RKV1_FIBSS			213		
+tr|C9RK38|C9RK38_FIBSS			69		
+tr|C9RK46|C9RK46_FIBSS			206		
+tr|D9S5W9|D9S5W9_FIBSS	K00700	glgB; 1,4-alpha-glucan branching enzyme [EC:2.4.1.18]	890		
+tr|C9RJF1|C9RJF1_FIBSS			280		
+tr|C9RJZ5|C9RJZ5_FIBSS	K01770	ispF; 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:4.6.1.12]	188	K12506	21
+tr|C9RJG8|C9RJG8_FIBSS			143		
+tr|C9RKZ6|C9RKZ6_FIBSS	K01649	leuA; 2-isopropylmalate synthase [EC:2.3.3.13]	362		
+tr|C9RRI9|C9RRI9_FIBSS			52	K02280	2
+tr|C9RPD7|C9RPD7_FIBSS	K01854	glf; UDP-galactopyranose mutase [EC:5.4.99.9]	564		
+tr|C9RRL5|C9RRL5_FIBSS			229	K06921	74
+tr|C9RLF6|C9RLF6_FIBSS	K01934	MTHFS; 5-formyltetrahydrofolate cyclo-ligase [EC:6.3.3.2]	110		
+tr|C9RMQ6|C9RMQ6_FIBSS	K06173	truA; tRNA pseudouridine38-40 synthase [EC:5.4.99.12]	190		
+tr|C9RQB2|C9RQB2_FIBSS			401		
+tr|D9SA36|D9SA36_FIBSS			185		
+tr|C9RKA1|C9RKA1_FIBSS	K00057	gpsA; glycerol-3-phosphate dehydrogenase (NAD(P)+) [EC:1.1.1.94]	312		
+tr|C9RQ68|C9RQ68_FIBSS			167		
+tr|C9RKZ7|C9RKZ7_FIBSS			18	K01997	1
+tr|D9SB79|D9SB79_FIBSS			13	K02025	3
+tr|D9S458|D9S458_FIBSS	K01181	E3.2.1.8; endo-1,4-beta-xylanase [EC:3.2.1.8]	105		
+tr|C9RK41|C9RK41_FIBSS			457		
+tr|C9RMT2|C9RMT2_FIBSS	K01873	VARS; valyl-tRNA synthetase [EC:6.1.1.9]	936		
+tr|C9RLZ6|C9RLZ6_FIBSS			14	K01153	2
+tr|D9S9G5|D9S9G5_FIBSS			31	K03312	1
+tr|C9RP73|C9RP73_FIBSS	K00558	DNMT1; DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]	478		
+tr|D9SAE5|D9SAE5_FIBSS	K01872	AARS; alanyl-tRNA synthetase [EC:6.1.1.7]	859		
+tr|C9RML5|C9RML5_FIBSS	K01678	E4.2.1.2AB; fumarate hydratase subunit beta [EC:4.2.1.2]	151		
+tr|C9RPG5|C9RPG5_FIBSS			109	K05895	4
+tr|C9RQ09|C9RQ09_FIBSS			186		
+tr|C9RMK0|C9RMK0_FIBSS			264		
+tr|C9RK69|C9RK69_FIBSS			37	K06180	1
+tr|C9RL83|C9RL83_FIBSS			183		
+tr|C9RQ19|C9RQ19_FIBSS	K01738	cysK; cysteine synthase A [EC:2.5.1.47]	192		
+tr|D9SAH2|D9SAH2_FIBSS			205		
+tr|C9RQM4|C9RQM4_FIBSS			560		
+tr|C9RLH6|C9RLH6_FIBSS	K02860	rimM; 16S rRNA processing protein RimM	108		
+tr|C9RKM8|C9RKM8_FIBSS			166		
+tr|C9RLP1|C9RLP1_FIBSS			24	K01652	1
+tr|C9RRM4|C9RRM4_FIBSS			26	K14441	2
+tr|D9S7V6|D9S7V6_FIBSS			60	K03892	42
+tr|D9S5P4|D9S5P4_FIBSS			18	K16169	2
+tr|C9RPA4|C9RPA4_FIBSS	K05946	E2.4.1.187; N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase [EC:2.4.1.187]	90		
+tr|C9RIZ4|C9RIZ4_FIBSS	K03775	slyD; FKBP-type peptidyl-prolyl cis-trans isomerase SlyD [EC:5.2.1.8]	99		
+tr|C9RPG2|C9RPG2_FIBSS			70		
+tr|D9S5E0|D9S5E0_FIBSS			23	K18139	2
+tr|C9RM41|C9RM41_FIBSS			140	K03561	4
+tr|C9RRM8|C9RRM8_FIBSS			141		
+tr|D9S480|D9S480_FIBSS	K02313	dnaA; chromosomal replication initiator protein	164		
+tr|C9RMJ9|C9RMJ9_FIBSS			643		
+tr|C9RPX9|C9RPX9_FIBSS	K02669	pilT; twitching motility protein PilT	444		
+tr|C9RQG2|C9RQG2_FIBSS			22	K07403	2
+tr|D9S873|D9S873_FIBSS			28	K03628	16
+tr|C9RRW0|C9RRW0_FIBSS	K02036	pstB; phosphate transport system ATP-binding protein [EC:3.6.3.27]	404		
+tr|D9S9K3|D9S9K3_FIBSS			247		
+tr|C9RRP8|C9RRP8_FIBSS			22	K00128	1
+tr|C9RNF5|C9RNF5_FIBSS			311		
+tr|C9RQT5|C9RQT5_FIBSS	K00850	pfkA; 6-phosphofructokinase 1 [EC:2.7.1.11]	468		
+tr|C9RQU7|C9RQU7_FIBSS	K02338	DPO3B; DNA polymerase III subunit beta [EC:2.7.7.7]	248		
+tr|C9RK32|C9RK32_FIBSS	K00606	panB; 3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11]	220		
+tr|C9RKC3|C9RKC3_FIBSS			16	K06889	8
+tr|C9RRS1|C9RRS1_FIBSS			207	K03458	129
+tr|D9S7K1|D9S7K1_FIBSS			151		
+tr|C9RQW5|C9RQW5_FIBSS	K00868	pdxK; pyridoxine kinase [EC:2.7.1.35]	286		
+tr|C9RQI2|C9RQI2_FIBSS	K03297	emrE; small multidrug resistance pump	130		
+tr|C9RK56|C9RK56_FIBSS			20	K05337	15
+tr|D9SAM3|D9SAM3_FIBSS			303		
+tr|C9RJ33|C9RJ33_FIBSS	K05366	mrcA; penicillin-binding protein 1A [EC:2.4.1.- 3.4.-.-]	532		
+tr|C9RJ22|C9RJ22_FIBSS	K00764	purF; amidophosphoribosyltransferase [EC:2.4.2.14]	506		
+tr|C9RQB0|C9RQB0_FIBSS			23	K01457	1
+tr|C9RMR4|C9RMR4_FIBSS			23	K02343	3
+tr|C9RR92|C9RR92_FIBSS			20	K00278	4
+tr|C9RQ59|C9RQ59_FIBSS			17	K10725	3
+tr|C9RRP2|C9RRP2_FIBSS			170		
+tr|D9S8D4|D9S8D4_FIBSS			22	K04654	2
+tr|C9RLL9|C9RLL9_FIBSS			951		
+tr|C9RRY0|C9RRY0_FIBSS			291		
+tr|C9RMN7|C9RMN7_FIBSS			372		
+tr|C9RKA5|C9RKA5_FIBSS			287	K12132	6
+tr|C9RQ21|C9RQ21_FIBSS	K02051	ABC.SN.S; NitT/TauT family transport system substrate-binding protein	193		
+tr|C9RL79|C9RL79_FIBSS			374		
+tr|D9S658|D9S658_FIBSS			21	K02890	4
+tr|C9RPJ3|C9RPJ3_FIBSS			329		
+tr|C9RJA9|C9RJA9_FIBSS			231		
+tr|C9RQE7|C9RQE7_FIBSS			228		
+tr|C9RNA1|C9RNA1_FIBSS			697		
+tr|C9RIS3|C9RIS3_FIBSS			147	K10621	4
+tr|D9S5Q7|D9S5Q7_FIBSS			227		
+tr|D9SA49|D9SA49_FIBSS			267		
+tr|C9RR85|C9RR85_FIBSS			416		
+tr|D9S764|D9S764_FIBSS			303		
+tr|D9SBK9|D9SBK9_FIBSS	K03773	fklB; FKBP-type peptidyl-prolyl cis-trans isomerase FklB [EC:5.2.1.8]	136	K03772	16
+tr|C9RKL6|C9RKL6_FIBSS	K04485	radA; DNA repair protein RadA/Sms	467		
+tr|C9RPT7|C9RPT7_FIBSS	K02492	hemA; glutamyl-tRNA reductase [EC:1.2.1.70]	247		
+tr|C9RMV9|C9RMV9_FIBSS	K01218	gmuG; mannan endo-1,4-beta-mannosidase [EC:3.2.1.78]	68		
+tr|C9RLC1|C9RLC1_FIBSS	K01579	panD; aspartate 1-decarboxylase [EC:4.1.1.11]	161		
+tr|D9S7F1|D9S7F1_FIBSS					
+tr|D9S986|D9S986_FIBSS			27	K02838	5
+tr|C9RLQ1|C9RLQ1_FIBSS			104	K06958	4
+tr|C9RS76|C9RS76_FIBSS	K03320	amt; ammonium transporter, Amt family	481		
+tr|D9S766|D9S766_FIBSS			16	K14445	1
+tr|C9RLV2|C9RLV2_FIBSS			153	K01989	4
+tr|C9RKF3|C9RKF3_FIBSS	K06215	pdxS; pyridoxal 5'-phosphate synthase pdxS subunit [EC:4.3.3.6]	484		
+tr|C9RM07|C9RM07_FIBSS			160	K06237	8
+tr|C9RIN6|C9RIN6_FIBSS	K09811	ftsX; cell division transport system permease protein	118		
+tr|C9RLE1|C9RLE1_FIBSS	K02499	yabN; tetrapyrrole methylase family protein / MazG family protein	245	K04765	24
+tr|D9S8E2|D9S8E2_FIBSS			1391		
+tr|C9RJ67|C9RJ67_FIBSS			114	K12988	25
+tr|C9RP31|C9RP31_FIBSS			421		
+tr|C9RQ25|C9RQ25_FIBSS					
+tr|C9RS90|C9RS90_FIBSS			13	K07473	9
+tr|D9SB37|D9SB37_FIBSS			35	K06889	1
+tr|C9RQF3|C9RQF3_FIBSS			19	K06200	6
+tr|C9RM93|C9RM93_FIBSS	K03657	uvrD; DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]	558		
+tr|C9RPZ5|C9RPZ5_FIBSS	K07133	uncharacterized protein	305		
+tr|C9RJ96|C9RJ96_FIBSS			21	K00979	1
+tr|C9RLR0|C9RLR0_FIBSS			38	K01951	14
+tr|C9RK08|C9RK08_FIBSS	K11720	lptG; lipopolysaccharide export system permease protein	136		
+tr|C9RMU9|C9RMU9_FIBSS	K16149	1	423		
+tr|D9S4R1|D9S4R1_FIBSS	K02584	nifA; Nif-specific regulatory protein	519		
+tr|C9RPB4|C9RPB4_FIBSS			175		
+tr|C9RRW8|C9RRW8_FIBSS			163		
+tr|D9S4E7|D9S4E7_FIBSS			103	K18654	3
+tr|C9RQQ9|C9RQQ9_FIBSS			63		
+tr|C9RQ44|C9RQ44_FIBSS	K09765	uncharacterized protein	272		
+tr|C9RQR9|C9RQR9_FIBSS			1341		
+tr|C9RR91|C9RR91_FIBSS			31	K01533	1
+tr|C9RLE4|C9RLE4_FIBSS	K18138	acrB; multidrug efflux pump	974		
+tr|C9RJM7|C9RJM7_FIBSS			138		
+tr|C9RJY9|C9RJY9_FIBSS	K00384	trxB; thioredoxin reductase (NADPH) [EC:1.8.1.9]	262		
+tr|C9RLV8|C9RLV8_FIBSS	K00946	thiL; thiamine-monophosphate kinase [EC:2.7.4.16]	209		
+tr|C9RRV6|C9RRV6_FIBSS			659		
+tr|C9RPU9|C9RPU9_FIBSS					
+tr|C9RLN4|C9RLN4_FIBSS			33	K03424	1
+tr|C9RQN8|C9RQN8_FIBSS	K02863	RP-L1; large subunit ribosomal protein L1	285		
+tr|C9RNT0|C9RNT0_FIBSS			169		
+tr|C9RNG5|C9RNG5_FIBSS			323		
+tr|C9RQ07|C9RQ07_FIBSS	K01760	metC; cystathionine beta-lyase [EC:4.4.1.8]	503	K17217	51
+tr|C9RMD8|C9RMD8_FIBSS			149		
+tr|C9RRN6|C9RRN6_FIBSS	K01939	purA; adenylosuccinate synthase [EC:6.3.4.4]	507		
+tr|C9RL37|C9RL37_FIBSS	K01462	PDF; peptide deformylase [EC:3.5.1.88]	182		
+tr|C9RLL4|C9RLL4_FIBSS			107	K06978	3
+tr|C9RM15|C9RM15_FIBSS	K01924	murC; UDP-N-acetylmuramate--alanine ligase [EC:6.3.2.8]	473		
+tr|D9S822|D9S822_FIBSS	K01687	ilvD; dihydroxy-acid dehydratase [EC:4.2.1.9]	888		
+tr|C9RR89|C9RR89_FIBSS			30	K05837	1
+tr|C9RJE5|C9RJE5_FIBSS			182	K08978	80
+tr|C9RRT2|C9RRT2_FIBSS	K03086	SIG1; RNA polymerase primary sigma factor	153		
+tr|D9S4P5|D9S4P5_FIBSS			56		
+tr|C9RR55|C9RR55_FIBSS	K03497	parB; chromosome partitioning protein, ParB family	248		
+tr|C9RR64|C9RR64_FIBSS			25	K08217	2
+tr|C9RNG3|C9RNG3_FIBSS			22	K03832	5
+tr|C9RPG7|C9RPG7_FIBSS			167		
+tr|C9RP98|C9RP98_FIBSS			131		
+tr|C9RKB3|C9RKB3_FIBSS	K06872	uncharacterized protein	130		
+tr|C9RNW4|C9RNW4_FIBSS			59	K01284	2
+tr|C9RRV2|C9RRV2_FIBSS			310		
+tr|C9RLJ5|C9RLJ5_FIBSS			217		
+tr|C9RQ31|C9RQ31_FIBSS	K02687	prmA; ribosomal protein L11 methyltransferase [EC:2.1.1.-]	168		
+tr|C9RRW3|C9RRW3_FIBSS			26	K07274	3
+tr|C9RJL0|C9RJL0_FIBSS	K02031	ABC.PE.A; peptide/nickel transport system ATP-binding protein	111		
+tr|C9RSA5|C9RSA5_FIBSS			26	K07451	2
+tr|C9RS96|C9RS96_FIBSS			28	K02472	1
+tr|C9RLM3|C9RLM3_FIBSS	K00088	guaB; IMP dehydrogenase [EC:1.1.1.205]	604		
+tr|C9RM12|C9RM12_FIBSS	K03531	ftsZ; cell division protein FtsZ	329		
+tr|C9RKQ7|C9RKQ7_FIBSS			35	K04749	26
+tr|D9S9K1|D9S9K1_FIBSS			209		
+tr|C9RMK9|C9RMK9_FIBSS			104		
+tr|C9RKT9|C9RKT9_FIBSS			41	K07005	33
+tr|C9RN35|C9RN35_FIBSS			280	K17108	130
+tr|C9RNY5|C9RNY5_FIBSS			19	K11710	2
+tr|C9RL95|C9RL95_FIBSS	K03147	thiC; phosphomethylpyrimidine synthase [EC:4.1.99.17]	805		
+tr|C9RPV3|C9RPV3_FIBSS			18	K03655	1
+tr|C9RK10|C9RK10_FIBSS			142	K03307	85
+tr|D9S5T7|D9S5T7_FIBSS	K13288	orn; oligoribonuclease [EC:3.1.-.-]	232		
+tr|C9RRW5|C9RRW5_FIBSS			180		
+tr|C9RNZ9|C9RNZ9_FIBSS			355		
+tr|D9S734|D9S734_FIBSS			296		
+tr|C9RPQ8|C9RPQ8_FIBSS	K02078	acpP; acyl carrier protein	88		
+tr|C9RQZ9|C9RQZ9_FIBSS	K01338	lon; ATP-dependent Lon protease [EC:3.4.21.53]	720		
+tr|D9S7N9|D9S7N9_FIBSS	K02433	gatA; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A [EC:6.3.5.6 6.3.5.7]	549		
+tr|C9RP30|C9RP30_FIBSS	K16692	etk-wzc; tyrosine-protein kinase Etk/Wzc [EC:2.7.10.-]	312		
+tr|C9RMR2|C9RMR2_FIBSS			323		
+tr|C9RLB0|C9RLB0_FIBSS	K01091	gph; phosphoglycolate phosphatase [EC:3.1.3.18]	155		
+tr|C9RLD3|C9RLD3_FIBSS			109	K02552	4
+tr|C9RNF6|C9RNF6_FIBSS	K02887	RP-L20; large subunit ribosomal protein L20	134		
+tr|C9RNP7|C9RNP7_FIBSS			261		
+tr|C9RPY7|C9RPY7_FIBSS			146		
+tr|D9S8D8|D9S8D8_FIBSS			346		
+tr|C9RN00|C9RN00_FIBSS	K15633	gpmI; 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12]	777		
+tr|C9RKZ2|C9RKZ2_FIBSS	K03169	topB; DNA topoisomerase III [EC:5.99.1.2]	305		
+tr|C9RLM9|C9RLM9_FIBSS	K03648	UNG; uracil-DNA glycosylase [EC:3.2.2.27]	293		
+tr|C9RK00|C9RK00_FIBSS	K10843	ERCC3; DNA excision repair protein ERCC-3 [EC:3.6.4.12]	656		
+tr|C9RPQ3|C9RPQ3_FIBSS	K07107	ybgC; acyl-CoA thioester hydrolase [EC:3.1.2.-]	154		
+tr|D9S6L9|D9S6L9_FIBSS			25	K07003	18
+tr|C9RIS0|C9RIS0_FIBSS	K03593	mrp; ATP-binding protein involved in chromosome partitioning	357		
+tr|D9S5J0|D9S5J0_FIBSS			38	K05565	1
+tr|D9SAH3|D9SAH3_FIBSS			30	K05801	6
+tr|C9RRK9|C9RRK9_FIBSS			119	K07001	3
+tr|C9RQ70|C9RQ70_FIBSS	K01523	hisE; phosphoribosyl-ATP pyrophosphohydrolase [EC:3.6.1.31]	93		
+tr|C9RJ51|C9RJ51_FIBSS			16	K02051	1
+tr|D9S9H8|D9S9H8_FIBSS	K02337	DPO3A1; DNA polymerase III subunit alpha [EC:2.7.7.7]	826		
+tr|C9RK13|C9RK13_FIBSS			102	K11748	43
+tr|C9RNT4|C9RNT4_FIBSS	K03768	PPIB; peptidyl-prolyl cis-trans isomerase B (cyclophilin B) [EC:5.2.1.8]	180		
+tr|C9RLY5|C9RLY5_FIBSS			17	K02655	4
+tr|C9RN50|C9RN50_FIBSS			17	K00705	3
+tr|D9S9L3|D9S9L3_FIBSS			18	K05340	7
+tr|C9RQF9|C9RQF9_FIBSS	K09815	znuA; zinc transport system substrate-binding protein	321		
+tr|C9RMZ6|C9RMZ6_FIBSS			149		
+tr|C9RMG5|C9RMG5_FIBSS			268		
+tr|D9S507|D9S507_FIBSS			18	K03325	1
+tr|C9RN09|C9RN09_FIBSS			236	K06320	24
+tr|C9RJ81|C9RJ81_FIBSS	K01179	E3.2.1.4; endoglucanase [EC:3.2.1.4]	283		
+tr|C9RPN6|C9RPN6_FIBSS	K08307	mltD; membrane-bound lytic murein transglycosylase D	378		
+tr|D9SA73|D9SA73_FIBSS			355		
+tr|C9RND8|C9RND8_FIBSS	K00059	fabG; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	261		
+tr|C9RIN0|C9RIN0_FIBSS			15	K02824	1
+tr|C9RL17|C9RL17_FIBSS	K03113	EIF1; translation initiation factor 1	124		
+tr|C9RR99|C9RR99_FIBSS	K03499	trkA; trk system potassium uptake protein	192		
+tr|C9RJL1|C9RJL1_FIBSS	K13895	yejE; microcin C transport system permease protein	338		
+tr|C9RJX3|C9RJX3_FIBSS			225	K16087	4
+tr|C9RQ43|C9RQ43_FIBSS			57	K07088	2
+tr|C9RS24|C9RS24_FIBSS			272		
+tr|C9RNQ7|C9RNQ7_FIBSS			32	K06886	1
+tr|C9RKN6|C9RKN6_FIBSS			26	K00819	1
+tr|D9S5A9|D9S5A9_FIBSS	K11784	mqnC; cyclic dehypoxanthinyl futalosine synthase [EC:1.21.98.1]	205		
+tr|D9S937|D9S937_FIBSS	K11175	purN; phosphoribosylglycinamide formyltransferase 1 [EC:2.1.2.2]	175		
+tr|C9RLH2|C9RLH2_FIBSS			36	K02024	1
+tr|C9RKV9|C9RKV9_FIBSS	K18285	mqnE; aminodeoxyfutalosine synthase [EC:2.5.1.120]	371		
+tr|C9RIT2|C9RIT2_FIBSS			19	K00791	1
+tr|C9RNB5|C9RNB5_FIBSS			17	K03468	3
+tr|C9RSA6|C9RSA6_FIBSS	K02838	frr; ribosome recycling factor	216		
+tr|C9RR53|C9RR53_FIBSS			69		
+tr|C9RJ57|C9RJ57_FIBSS			22	K00790	2
+tr|C9RLZ7|C9RLZ7_FIBSS	K02622	parE; topoisomerase IV subunit B [EC:5.99.1.-]	867		
+tr|D9S5P5|D9S5P5_FIBSS			21	K02018	2
+tr|C9RPC1|C9RPC1_FIBSS	K00991	ispD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase [EC:2.7.7.60]	241		
+tr|D9S586|D9S586_FIBSS	K00059	fabG; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	306		
+tr|D9S9B3|D9S9B3_FIBSS	K02027	ABC.MS.S; multiple sugar transport system substrate-binding protein	50	K17329	18
+tr|D9S777|D9S777_FIBSS			30	K06078	3
+tr|C9RMF2|C9RMF2_FIBSS			16	K03639	8
+tr|C9RQD2|C9RQD2_FIBSS			191		
+tr|C9RM86|C9RM86_FIBSS	K01940	argG; argininosuccinate synthase [EC:6.3.4.5]	510		
+tr|C9RNH6|C9RNH6_FIBSS			23	K01915	4
+tr|C9RQ02|C9RQ02_FIBSS			116		
+tr|C9RQA4|C9RQA4_FIBSS	K03547	sbcD; exonuclease SbcD	263		
+tr|C9RJP4|C9RJP4_FIBSS			425		
+tr|C9RR33|C9RR33_FIBSS	K02926	RP-L4; large subunit ribosomal protein L4	181		
+tr|C9RJZ0|C9RJZ0_FIBSS	K15531	rexA; oligosaccharide reducing-end xylanase [EC:3.2.1.156]	206		
+tr|D9S7C5|D9S7C5_FIBSS	K03624	greA; transcription elongation factor GreA	155		
+tr|D9S502|D9S502_FIBSS	K03150	thiH; 2-iminoacetate synthase [EC:4.1.99.19]	591		
+tr|C9RJJ3|C9RJJ3_FIBSS			58	K00441	3
+tr|C9RRX5|C9RRX5_FIBSS			215		
+tr|C9RIZ1|C9RIZ1_FIBSS	K00287	folA; dihydrofolate reductase [EC:1.5.1.3]	169		
+tr|C9RK94|C9RK94_FIBSS	K01814	hisA; phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase [EC:5.3.1.16]	319		
+tr|C9RK36|C9RK36_FIBSS			164		
+tr|C9RQV9|C9RQV9_FIBSS	K01153	hsdR; type I restriction enzyme, R subunit [EC:3.1.21.3]	1040		
+tr|D9SB74|D9SB74_FIBSS			314		
+tr|C9RJ93|C9RJ93_FIBSS	K14445	SLC13A2_3_5; solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2/3/5	510		
+tr|D9SA25|D9SA25_FIBSS			480		
+tr|C9RMM8|C9RMM8_FIBSS			764		
+tr|C9RLR1|C9RLR1_FIBSS			32	K03770	2
+tr|D9S6X5|D9S6X5_FIBSS			268		
+tr|D9S972|D9S972_FIBSS			367	K08738	6
+tr|C9RM77|C9RM77_FIBSS	K00989	rph; ribonuclease PH [EC:2.7.7.56]	238		
+tr|C9RLE9|C9RLE9_FIBSS	K02939	RP-L9; large subunit ribosomal protein L9	138		
+tr|C9RP62|C9RP62_FIBSS	K00077	panE; 2-dehydropantoate 2-reductase [EC:1.1.1.169]	219		
+tr|C9RIY7|C9RIY7_FIBSS	K06207	typA; GTP-binding protein	650		
+tr|C9RK72|C9RK72_FIBSS			17	K07259	5
+tr|C9RPC9|C9RPC9_FIBSS			193		
+tr|C9RQX0|C9RQX0_FIBSS			21	K02063	4
+tr|C9RLP5|C9RLP5_FIBSS			158		
+tr|D9S6G3|D9S6G3_FIBSS	K14742	tsaB; tRNA threonylcarbamoyladenosine biosynthesis protein TsaB	38		
+tr|C9RMH8|C9RMH8_FIBSS			147		
+tr|C9RRL4|C9RRL4_FIBSS			239		
+tr|C9RQQ5|C9RQQ5_FIBSS			156		
+tr|C9RK67|C9RK67_FIBSS			31	K08307	1
+tr|C9RMN4|C9RMN4_FIBSS			62	K19092	9
+tr|C9RNH1|C9RNH1_FIBSS			367		
+tr|C9RL82|C9RL82_FIBSS			193		
+tr|C9RLV1|C9RLV1_FIBSS			32	K05800	1
+tr|D9S9D5|D9S9D5_FIBSS			18	K03321	1
+tr|C9RLF1|C9RLF1_FIBSS	K02990	RP-S6; small subunit ribosomal protein S6	84		
+tr|C9RMJ5|C9RMJ5_FIBSS	K00052	leuB; 3-isopropylmalate dehydrogenase [EC:1.1.1.85]	493		
+tr|C9RMX5|C9RMX5_FIBSS	K02065	mlaF; phospholipid/cholesterol/gamma-HCH transport system ATP-binding protein	279		
+tr|C9RP35|C9RP35_FIBSS			22	K02054	1
+tr|C9RN98|C9RN98_FIBSS			286		
+tr|C9RPQ5|C9RPQ5_FIBSS			221		
+tr|C9RKE1|C9RKE1_FIBSS	K03768	PPIB; peptidyl-prolyl cis-trans isomerase B (cyclophilin B) [EC:5.2.1.8]	126		
+tr|C9RPU2|C9RPU2_FIBSS			20	K05526	1
+tr|C9RKJ1|C9RKJ1_FIBSS			213		
+tr|C9RL76|C9RL76_FIBSS			126		
+tr|C9RIN7|C9RIN7_FIBSS			155		
+tr|C9RLT7|C9RLT7_FIBSS			63	K13038	2
+tr|C9RJP0|C9RJP0_FIBSS			106	K17898	4
+tr|C9RRT3|C9RRT3_FIBSS			60	K03709	25
+tr|C9RQ27|C9RQ27_FIBSS			383		
+tr|C9RSB3|C9RSB3_FIBSS	K00099	dxr; 1-deoxy-D-xylulose-5-phosphate reductoisomerase [EC:1.1.1.267]	389		
+tr|C9RN15|C9RN15_FIBSS			437		
+tr|D9SBH5|D9SBH5_FIBSS			142		
+tr|C9RMT5|C9RMT5_FIBSS			36	K01997	2
+tr|C9RNJ1|C9RNJ1_FIBSS			104		
+tr|C9RLW7|C9RLW7_FIBSS	K09812	ftsE; cell division transport system ATP-binding protein	226		
+tr|C9RP79|C9RP79_FIBSS			24	K02548	1
+tr|C9RMB8|C9RMB8_FIBSS	K01728	pel; pectate lyase [EC:4.2.2.2]	71		
+tr|C9RQH4|C9RQH4_FIBSS			298	K19720	10
+tr|C9RKY0|C9RKY0_FIBSS	K00337	nuoH; NADH-quinone oxidoreductase subunit H [EC:1.6.5.3]	346		
+tr|D9S6S8|D9S6S8_FIBSS			417		
+tr|C9RKS7|C9RKS7_FIBSS			63		
+tr|C9RJ97|C9RJ97_FIBSS	K02654	pilD; leader peptidase (prepilin peptidase) / N-methyltransferase [EC:3.4.23.43 2.1.1.-]	184		
+tr|D9S5A5|D9S5A5_FIBSS			169	K05874	7
+tr|C9RJG4|C9RJG4_FIBSS	K03976	ybaK; Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase [EC:3.1.1.-]	215		
+tr|D9S6A4|D9S6A4_FIBSS	K03517	nadA; quinolinate synthase [EC:2.5.1.72]	307		
+tr|C9RQ74|C9RQ74_FIBSS	K03978	engB; GTP-binding protein	182		
+tr|C9RQX2|C9RQX2_FIBSS			26	K02050	2
+tr|C9RRE2|C9RRE2_FIBSS	K01179	E3.2.1.4; endoglucanase [EC:3.2.1.4]	484		
+tr|D9SBJ7|D9SBJ7_FIBSS	K03498	trkH; trk system potassium uptake protein	346		
+tr|C9RP96|C9RP96_FIBSS			18	K13527	2
+tr|C9RKL4|C9RKL4_FIBSS	K17830	GGR; digeranylgeranylglycerophospholipid reductase [EC:1.3.1.101 1.3.7.11]	121		
+tr|C9RKF5|C9RKF5_FIBSS			58		
+tr|D9S5P3|D9S5P3_FIBSS	K11991	tadA; tRNA(adenine34) deaminase [EC:3.5.4.33]	163		
+tr|C9RLG7|C9RLG7_FIBSS			196	K12997	17
+tr|D9S8V7|D9S8V7_FIBSS			457		
+tr|C9RLE6|C9RLE6_FIBSS			22	K13641	4
+tr|C9RM19|C9RM19_FIBSS	K01928	murE; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase [EC:6.3.2.13]	383		
+tr|C9RNN2|C9RNN2_FIBSS	K03797	E3.4.21.102; carboxyl-terminal processing protease [EC:3.4.21.102]	99		
+tr|C9RP67|C9RP67_FIBSS			428		
+tr|C9RJM3|C9RJM3_FIBSS			502		
+tr|C9RK96|C9RK96_FIBSS	K15856	rmd; GDP-4-dehydro-6-deoxy-D-mannose reductase [EC:1.1.1.281]	185		
+tr|C9RQ16|C9RQ16_FIBSS	K02588	nifH; nitrogenase iron protein NifH [EC:1.18.6.1]	378		
+tr|C9RKR4|C9RKR4_FIBSS	K03568	tldD; TldD protein	477		
+tr|C9RQE0|C9RQE0_FIBSS	K04763	xerD; integrase/recombinase XerD	256		
+tr|C9RII8|C9RII8_FIBSS			70		
+tr|C9RII2|C9RII2_FIBSS	K11749	rseP; regulator of sigma E protease [EC:3.4.24.-]	294		
+tr|C9RPJ1|C9RPJ1_FIBSS			40	K01201	15
+tr|C9RKU7|C9RKU7_FIBSS			172	K12449	22
+tr|C9RPA2|C9RPA2_FIBSS	K00012	UGDH; UDPglucose 6-dehydrogenase [EC:1.1.1.22]	648		
+tr|C9RQ71|C9RQ71_FIBSS	K00765	hisG; ATP phosphoribosyltransferase [EC:2.4.2.17]	271		
+tr|D9SBI1|D9SBI1_FIBSS			237	K13612	4
+tr|C9RQ73|C9RQ73_FIBSS	K06187	recR; recombination protein RecR	197		
+tr|C9RMT1|C9RMT1_FIBSS			692		
+tr|D9S7U6|D9S7U6_FIBSS			31	K02316	4
+tr|C9RQE6|C9RQE6_FIBSS	K00641	metX; homoserine O-acetyltransferase [EC:2.3.1.31]	482		
+tr|C9RM04|C9RM04_FIBSS	K09761	rsmE; 16S rRNA (uracil1498-N3)-methyltransferase [EC:2.1.1.193]	120		
+tr|C9RPX8|C9RPX8_FIBSS	K02653	pilC; type IV pilus assembly protein PilC	371		
+tr|D9SA30|D9SA30_FIBSS			317		
+tr|C9RL35|C9RL35_FIBSS			292		
+tr|C9RLS0|C9RLS0_FIBSS			57		
+tr|C9RJ18|C9RJ18_FIBSS			17	K01998	1
+tr|C9RRJ1|C9RRJ1_FIBSS			152		
+tr|C9RIR1|C9RIR1_FIBSS	K03763	DPO3A2; DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]	134	K02342	12
+tr|C9RJ48|C9RJ48_FIBSS			25	K03321	1
+tr|D9SB58|D9SB58_FIBSS			127		
+tr|C9RPB8|C9RPB8_FIBSS	K04773	sppA; protease IV [EC:3.4.21.-]	338		
+tr|C9RRZ9|C9RRZ9_FIBSS			225		
+tr|C9RQ72|C9RQ72_FIBSS	K07181	putative signal transduction protein containing EAL and modified HD-GYP domains	232		
+tr|C9RMY8|C9RMY8_FIBSS			155		
+tr|C9RQR1|C9RQR1_FIBSS			263		
+tr|C9RM68|C9RM68_FIBSS			246		
+tr|C9RMI8|C9RMI8_FIBSS	K09808	lolC_E; lipoprotein-releasing system permease protein	308		
+tr|C9RLU4|C9RLU4_FIBSS			202		
+tr|C9RKC1|C9RKC1_FIBSS			20	K00655	1
+tr|C9RM54|C9RM54_FIBSS	K19271	catA; chloramphenicol O-acetyltransferase type A [EC:2.3.1.28]	179	K00525	4
+tr|C9RK65|C9RK65_FIBSS			116	K06894	4
+tr|C9RRT6|C9RRT6_FIBSS			17	K02469	1
+tr|C9RMD6|C9RMD6_FIBSS			146		
+tr|C9RJ10|C9RJ10_FIBSS			16	K03832	16
+tr|C9RLQ7|C9RLQ7_FIBSS			114		
+tr|C9RME5|C9RME5_FIBSS			19	K02337	5
+tr|C9RJE6|C9RJE6_FIBSS	K00859	coaE; dephospho-CoA kinase [EC:2.7.1.24]	108		
+tr|C9RIV1|C9RIV1_FIBSS			32	K00161	1
+tr|C9RKT1|C9RKT1_FIBSS			259		
+tr|C9RJJ8|C9RJJ8_FIBSS	K00333	nuoD; NADH-quinone oxidoreductase subunit D [EC:1.6.5.3]	322	K13378	53
+tr|C9RJD0|C9RJD0_FIBSS			227		
+tr|C9RIP5|C9RIP5_FIBSS			36	K02433	1
+tr|C9RPB5|C9RPB5_FIBSS	K02996	RP-S9; small subunit ribosomal protein S9	155		
+tr|C9RRD3|C9RRD3_FIBSS	K00677	lpxA; UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]	223		
+tr|C9RPI4|C9RPI4_FIBSS			158	K01179	14
+tr|D9S4U4|D9S4U4_FIBSS			54	K02538	2
+tr|C9RP25|C9RP25_FIBSS			21	K02650	18
+tr|C9RLB2|C9RLB2_FIBSS			390		
+tr|C9RIV5|C9RIV5_FIBSS			226		
+tr|C9RJ24|C9RJ24_FIBSS	K01921	ddl; D-alanine-D-alanine ligase [EC:6.3.2.4]	254		
+tr|C9RPJ7|C9RPJ7_FIBSS	K01596	E4.1.1.32; phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32]	842		
+tr|C9RQ32|C9RQ32_FIBSS			257		
+tr|C9RN73|C9RN73_FIBSS			293	K07011	22
+tr|C9RLZ2|C9RLZ2_FIBSS			122	K01870	3
+tr|C9RPH7|C9RPH7_FIBSS	K02071	metN; D-methionine transport system ATP-binding protein	260		
+tr|C9RMD5|C9RMD5_FIBSS			139		
+tr|C9RPQ0|C9RPQ0_FIBSS	K00647	fabB; 3-oxoacyl-[acyl-carrier-protein] synthase I [EC:2.3.1.41]	294		
+tr|C9RJ29|C9RJ29_FIBSS			310		
+tr|C9RPN1|C9RPN1_FIBSS	K01255	CARP; leucyl aminopeptidase [EC:3.4.11.1]	325		
+tr|D9S4P6|D9S4P6_FIBSS			69		
+tr|C9RKA2|C9RKA2_FIBSS			179	K06237	7
+tr|C9RRW4|C9RRW4_FIBSS	K02040	pstS; phosphate transport system substrate-binding protein	266		
+tr|C9RKC5|C9RKC5_FIBSS			116	K15781	4
+tr|C9RR11|C9RR11_FIBSS	K02952	RP-S13; small subunit ribosomal protein S13	178		
+tr|C9RR94|C9RR94_FIBSS	K00912	lpxK; tetraacyldisaccharide 4'-kinase [EC:2.7.1.130]	115		
+tr|C9RJ31|C9RJ31_FIBSS	K04078	groES; chaperonin GroES	136		
+tr|D9SBM3|D9SBM3_FIBSS	K03088	SIG3.2; RNA polymerase sigma-70 factor, ECF subfamily	57		
+tr|D9S922|D9S922_FIBSS			17	K05020	1
+tr|D9S9V8|D9S9V8_FIBSS			15	K01669	1
+tr|D9S3W1|D9S3W1_FIBSS			17	K11473	3
+tr|D9S6B0|D9S6B0_FIBSS			19	K01056	2
+tr|D9S5K6|D9S5K6_FIBSS			186		
+tr|D9S654|D9S654_FIBSS			15	K00033	2
+tr|D9S5Y7|D9S5Y7_FIBSS			13	K07056	6
+tr|D9SBX8|D9SBX8_FIBSS			53	K02434	2
+tr|D9S6U7|D9S6U7_FIBSS			15	K09972	2
+tr|D9S5C1|D9S5C1_FIBSS			29	K02348	1
+tr|D9SAU6|D9SAU6_FIBSS			18	K03282	1
+tr|D9S6F4|D9S6F4_FIBSS			23	K03101	2
+tr|D9S5E9|D9S5E9_FIBSS			244	K03561	4
+tr|D9SB73|D9SB73_FIBSS			101	K02361	4
+tr|D9S827|D9S827_FIBSS			419		
+tr|D9SBE7|D9SBE7_FIBSS			412		
+tr|D9SC05|D9SC05_FIBSS			17	K01206	1
+tr|D9S6X6|D9S6X6_FIBSS			156		
+tr|D9SBY1|D9SBY1_FIBSS			216		
+tr|D9SAF3|D9SAF3_FIBSS			17	K01738	3
+tr|D9S5T0|D9S5T0_FIBSS			168	K06888	4
+tr|D9S472|D9S472_FIBSS	K01870	IARS; isoleucyl-tRNA synthetase [EC:6.1.1.5]	114		
+tr|D9S4B4|D9S4B4_FIBSS			19	K03470	1
+tr|D9SAY5|D9SAY5_FIBSS			97	K06994	2
+tr|D9SAE8|D9SAE8_FIBSS			23	K01118	1
+tr|D9S4X4|D9S4X4_FIBSS			274		
+tr|D9S8W9|D9S8W9_FIBSS			117		
+tr|D9S5X2|D9S5X2_FIBSS			36	K06890	1
+tr|D9S7Q0|D9S7Q0_FIBSS			18	K03980	1
+tr|D9S566|D9S566_FIBSS			21	K01736	3
+tr|D9S8C7|D9S8C7_FIBSS			247		
+tr|D9SA65|D9SA65_FIBSS			29	K03427	2
+tr|D9SAQ4|D9SAQ4_FIBSS			25	K01870	2
+tr|D9S994|D9S994_FIBSS			17	K02040	2
+tr|D9S756|D9S756_FIBSS			18	K01820	2
+tr|D9S901|D9S901_FIBSS			182	K03925	4
+tr|D9S718|D9S718_FIBSS			58	K13766	2
+tr|D9SC09|D9SC09_FIBSS			1007		
+tr|D9S828|D9S828_FIBSS			104		
+tr|D9S4P9|D9S4P9_FIBSS			24	K03703	2
+tr|D9SAV1|D9SAV1_FIBSS			111	K01126	4
+tr|D9S7G0|D9S7G0_FIBSS			21	K01703	2
+tr|D9S7A8|D9S7A8_FIBSS			19	K01992	1
+tr|D9SAM7|D9SAM7_FIBSS			21	K03767	3
+tr|D9SA62|D9SA62_FIBSS			31	K10117	1
+tr|D9S400|D9S400_FIBSS			21	K01744	7
+tr|D9SA07|D9SA07_FIBSS			25	K09471	2
+tr|D9S484|D9S484_FIBSS			284		
+tr|D9S881|D9S881_FIBSS			23	K00404	8
+tr|D9S6Q3|D9S6Q3_FIBSS			52	K16087	2
+tr|D9SAS1|D9SAS1_FIBSS			21	K07776	1
+tr|D9SBX6|D9SBX6_FIBSS			288	K20276	6
+tr|D9S4M8|D9S4M8_FIBSS			159		
+tr|D9S4Y7|D9S4Y7_FIBSS			221		
+tr|D9S9J5|D9S9J5_FIBSS			457		
+tr|D9S531|D9S531_FIBSS			195		
+tr|D9S7W1|D9S7W1_FIBSS			26	K10804	6
+tr|D9SBL3|D9SBL3_FIBSS			47	K06168	2
+tr|D9S817|D9S817_FIBSS			268		
+tr|D9S5H0|D9S5H0_FIBSS			22	K07040	16
+tr|D9S948|D9S948_FIBSS			36	K00406	1
+tr|D9S6Z3|D9S6Z3_FIBSS			105	K02390	3
+tr|D9SBE8|D9SBE8_FIBSS			22	K01928	2
+tr|D9S760|D9S760_FIBSS			29	K02377	4
+tr|D9SBA8|D9SBA8_FIBSS	K00568	ubiG; 2-polyprenyl-6-hydroxyphenyl methylase / 3-demethylubiquinone-9 3-methyltransferase [EC:2.1.1.222 2.1.1.64]	32		
+tr|D9S5C3|D9S5C3_FIBSS			28	K14393	1
+tr|D9S423|D9S423_FIBSS			219		
+tr|D9SBM5|D9SBM5_FIBSS			23	K17675	2
+tr|D9S5F0|D9S5F0_FIBSS			91	K01183	5
+tr|D9S819|D9S819_FIBSS			251		
+tr|D9SAV0|D9SAV0_FIBSS			126	K03587	3
+tr|D9SBT5|D9SBT5_FIBSS			16	K01929	2
+tr|D9SA50|D9SA50_FIBSS			37	K07031	1
+tr|D9SAF5|D9SAF5_FIBSS			259	K01442	4
+tr|D9S5Z6|D9S5Z6_FIBSS			29	K02035	1
+tr|D9S9M8|D9S9M8_FIBSS			153	K06990	4
+tr|D9S7Z7|D9S7Z7_FIBSS			81	K05366	2
+tr|D9SB38|D9SB38_FIBSS			20	K02014	1
+tr|D9S7M8|D9S7M8_FIBSS			21	K03530	1
+tr|D9S8G3|D9S8G3_FIBSS			709		
+tr|D9S802|D9S802_FIBSS			150	K06870	3
+tr|D9S7J4|D9S7J4_FIBSS			21	K09761	3
+tr|D9S8M4|D9S8M4_FIBSS			23	K01912	1
+tr|D9S769|D9S769_FIBSS			20	K06950	11
+tr|D9S6T7|D9S6T7_FIBSS			26	K03578	3
+tr|D9S6G8|D9S6G8_FIBSS			14	K03722	2
+tr|D9SAV3|D9SAV3_FIBSS			57	K16347	3
+tr|D9S9V3|D9S9V3_FIBSS			27	K00873	7
+tr|D9S7Z4|D9S7Z4_FIBSS			21	K01955	2
+tr|D9S928|D9S928_FIBSS			85		
+tr|D9S470|D9S470_FIBSS			15	K03737	2
+tr|D9S8Y0|D9S8Y0_FIBSS			16	K00052	1
+tr|D9SAN7|D9SAN7_FIBSS			259	K09607	9
+tr|D9S479|D9S479_FIBSS			18	K01620	1
+tr|D9S5X4|D9S5X4_FIBSS			15	K02339	1
+tr|D9S4Q5|D9S4Q5_FIBSS			18	K06919	2
+tr|D9S678|D9S678_FIBSS			259		
+tr|D9SBK0|D9SBK0_FIBSS			37	K01880	4
+tr|D9S829|D9S829_FIBSS			19	K09948	2
+tr|D9S4F6|D9S4F6_FIBSS			19	K01897	1
+tr|D9S7A2|D9S7A2_FIBSS			26	K15727	1
+tr|D9S943|D9S943_FIBSS			21	K00947	2
+tr|D9S9J4|D9S9J4_FIBSS			156		
+tr|D9S931|D9S931_FIBSS			22	K01955	1
+tr|D9S4S3|D9S4S3_FIBSS			15	K00370	1
+tr|D9S3Y2|D9S3Y2_FIBSS			161		
+tr|D9S7E0|D9S7E0_FIBSS			16	K03979	2
+tr|D9S759|D9S759_FIBSS			16	K02564	1
+tr|D9S5H9|D9S5H9_FIBSS			584		
+tr|D9SAQ9|D9SAQ9_FIBSS			104		
+tr|D9S5N9|D9S5N9_FIBSS	K07334	higA; proteic killer suppression protein	36		
+tr|D9S5N3|D9S5N3_FIBSS			25	K00013	2
+tr|D9S7X3|D9S7X3_FIBSS			23	K00121	5
+tr|D9S9V5|D9S9V5_FIBSS			59	K07462	2
+tr|D9S5M3|D9S5M3_FIBSS			101	K03040	4
+tr|D9SBI4|D9SBI4_FIBSS			103	K00125	2
+tr|D9SAQ2|D9SAQ2_FIBSS			14	K01872	2
+tr|D9SA39|D9SA39_FIBSS			16	K01092	2
+tr|D9S6A8|D9S6A8_FIBSS			17	K06889/K07397	2
+tr|D9S8V1|D9S8V1_FIBSS			18	K00481	3
+tr|D9S8H7|D9S8H7_FIBSS			156	K01216	4
+tr|D9S975|D9S975_FIBSS			140	K01870	4
+tr|D9S5E8|D9S5E8_FIBSS			19	K09825	1
+tr|D9S8S4|D9S8S4_FIBSS			15	K02343	2
+tr|D9S7T7|D9S7T7_FIBSS			19	K02987	1
+tr|D9S7I6|D9S7I6_FIBSS			12	K02035	4
+tr|D9S720|D9S720_FIBSS			17	K03696	1
+tr|D9S7K8|D9S7K8_FIBSS			102	K07278	4
+tr|D9SB88|D9SB88_FIBSS			15	K00830	3
+tr|D9S9V9|D9S9V9_FIBSS			19	K00058	5
+tr|D9S460|D9S460_FIBSS			22	K19191	1
+tr|D9S9K0|D9S9K0_FIBSS			222	K03655	4
+tr|D9S6R3|D9S6R3_FIBSS			52	K06886	2
+tr|D9SAY1|D9SAY1_FIBSS			16	K02063	1
+tr|D9S6L2|D9S6L2_FIBSS			13	K03070	5
+tr|D9S820|D9S820_FIBSS			21	K02437	5
+tr|D9S9B6|D9S9B6_FIBSS					
+tr|D9S4Y6|D9S4Y6_FIBSS			17	K03628	1
+tr|D9S9A6|D9S9A6_FIBSS			106	K03529	4
+tr|D9SAE6|D9SAE6_FIBSS			23	K03413	1
+tr|D9S3Y4|D9S3Y4_FIBSS			19	K02931	1
+tr|D9S8C3|D9S8C3_FIBSS			139	K02392	3
+tr|D9S701|D9S701_FIBSS			33	K00215	1
+tr|D9S6V8|D9S6V8_FIBSS			187	K06877	4
+tr|D9S5K2|D9S5K2_FIBSS			13	K01812	2
+tr|D9S636|D9S636_FIBSS			116	K01838	3
+tr|D9S4E3|D9S4E3_FIBSS	K03100	lepB; signal peptidase I [EC:3.4.21.89]	36		
+tr|D9S4S9|D9S4S9_FIBSS			20	K01854	1
+tr|D9S6D3|D9S6D3_FIBSS			18	K03177	2
+tr|D9S4E6|D9S4E6_FIBSS			24	K03546	1
+tr|D9S6H2|D9S6H2_FIBSS			742		
+tr|D9S927|D9S927_FIBSS			56		
+tr|D9S579|D9S579_FIBSS			44	K00685	2
+tr|D9S5V0|D9S5V0_FIBSS			26	K09152	3
+tr|D9S4A0|D9S4A0_FIBSS			17	K02038	1
+tr|D9S522|D9S522_FIBSS			150	K05845	4
+tr|D9S684|D9S684_FIBSS			27	K14162	5
+tr|D9S9F8|D9S9F8_FIBSS			223	K09760	4
+tr|D9S993|D9S993_FIBSS			31	K12132	4
+tr|D9S4Z2|D9S4Z2_FIBSS			114		
+tr|D9S439|D9S439_FIBSS			16	K00978	1
+tr|D9S748|D9S748_FIBSS			20	K07473	2
+tr|D9S7V4|D9S7V4_FIBSS			17	K03499	3
+tr|D9S3W5|D9S3W5_FIBSS			15	K03150	1
+tr|D9S8T8|D9S8T8_FIBSS			16	K03299	1
+tr|D9S7W8|D9S7W8_FIBSS			135		
+tr|D9S804|D9S804_FIBSS			26	K03797	2
+tr|D9SBF7|D9SBF7_FIBSS			57	K02015	2
+tr|D9S790|D9S790_FIBSS			15	K01206	1
+tr|D9S4E9|D9S4E9_FIBSS			191		
+tr|D9SA12|D9SA12_FIBSS			29	K03330	2
+tr|D9S552|D9S552_FIBSS			111	K03529	3
+tr|D9S4J8|D9S4J8_FIBSS			29	K02039	2
+tr|D9S7R3|D9S7R3_FIBSS			17	K00962	1
+tr|D9S834|D9S834_FIBSS			18	K06412	4
+tr|D9S4X5|D9S4X5_FIBSS			14	K06147	3
+tr|D9S7H4|D9S7H4_FIBSS			181	K00057	4
+tr|D9S891|D9S891_FIBSS			23	K03703	1
+tr|D9S6X4|D9S6X4_FIBSS			52	K02058	2
+tr|D9S4V5|D9S4V5_FIBSS			246		
+tr|D9S9D6|D9S9D6_FIBSS			47	K07277	4
+tr|D9S6N1|D9S6N1_FIBSS			37	K19339	1
+tr|D9SB60|D9SB60_FIBSS			17	K03701	3
+tr|D9S9A4|D9S9A4_FIBSS			135		
+tr|D9S4Q7|D9S4Q7_FIBSS			21	K00821	1
+tr|D9S9Z2|D9S9Z2_FIBSS			116		
+tr|D9S6U3|D9S6U3_FIBSS			23	K02355	1
+tr|D9SAB5|D9SAB5_FIBSS			15	K00220	1
+tr|D9S934|D9S934_FIBSS			505		
+tr|D9SBR1|D9SBR1_FIBSS			128	K19134	16
+tr|D9S8I8|D9S8I8_FIBSS			21	K06180	1
+tr|D9S9A7|D9S9A7_FIBSS			55	K02519	2
+tr|D9S971|D9S971_FIBSS			70	K09791	7
+tr|D9SB39|D9SB39_FIBSS			274	K10804	10
+tr|D9S7V8|D9S7V8_FIBSS			20	K00605	1
+tr|D9SBJ0|D9SBJ0_FIBSS			18	K03924	9
+tr|D9SAD9|D9SAD9_FIBSS			16	K19229	3
+tr|D9S443|D9S443_FIBSS			59	K18661	2
+tr|D9S7A1|D9S7A1_FIBSS	K02909	RP-L31; large subunit ribosomal protein L31	80		
+tr|D9S5S9|D9S5S9_FIBSS			21	K00560	1
+tr|D9S3X1|D9S3X1_FIBSS			14	K01524	11
+tr|D9S957|D9S957_FIBSS			14	K03040	1
+tr|D9S6Q4|D9S6Q4_FIBSS			32	K03568	2
+tr|D9SC01|D9SC01_FIBSS			141	K01990	4
+tr|D9S923|D9S923_FIBSS			512	K19122	4
+tr|D9SAM4|D9SAM4_FIBSS			35	K01182	2
+tr|D9S886|D9S886_FIBSS			17	K00036	2
+tr|D9SC14|D9SC14_FIBSS			135		
+tr|D9SAT7|D9SAT7_FIBSS			59	K04567	2
+tr|D9S9S3|D9S9S3_FIBSS			107		
+tr|D9SAF1|D9SAF1_FIBSS			140		
+tr|D9S6J0|D9S6J0_FIBSS			19	K01903	3
+tr|D9SAZ8|D9SAZ8_FIBSS			26	K03687	1
+tr|D9S794|D9S794_FIBSS			202		
+tr|D9S7K3|D9S7K3_FIBSS			52	K03723	3
+tr|D9SBW5|D9SBW5_FIBSS			465		
+tr|D9S9H5|D9S9H5_FIBSS			26	K03657	1
+tr|D9SAB2|D9SAB2_FIBSS			26	K01951	1
+tr|D9S788|D9S788_FIBSS	K01012	bioB; biotin synthase [EC:2.8.1.6]	16		
+tr|D9S7B4|D9S7B4_FIBSS			28	K03672	2
+tr|D9S643|D9S643_FIBSS			16	K02437	1
+tr|D9S7G1|D9S7G1_FIBSS			16	K03517	8
+tr|D9S836|D9S836_FIBSS			144	K07107	4
+tr|D9S4N5|D9S4N5_FIBSS			17	K02316	2
+tr|D9S696|D9S696_FIBSS			18	K05896	1
+tr|D9S5X0|D9S5X0_FIBSS			25	K00655	1
+tr|D9S9U1|D9S9U1_FIBSS			103	K02035	6
+tr|D9SC13|D9SC13_FIBSS	K19171	dndD; DNA sulfur modification protein DndD	152		
+tr|D9S8X9|D9S8X9_FIBSS			256	K01870	7
+tr|D9S4L5|D9S4L5_FIBSS			16	K01992	2
+tr|D9S6J2|D9S6J2_FIBSS			14	K11381	1
+tr|D9S474|D9S474_FIBSS			37	K03686	1
+tr|D9SB81|D9SB81_FIBSS			222		
+tr|D9S5I7|D9S5I7_FIBSS			375		
+tr|D9S5U9|D9S5U9_FIBSS			37	K02004	1
+tr|D9SB21|D9SB21_FIBSS			11	K01854	1
+tr|D9S8S2|D9S8S2_FIBSS			184		
+tr|D9S7F9|D9S7F9_FIBSS			23	K00525	3
+tr|D9S5C8|D9S5C8_FIBSS			31	K03702	2
+tr|D9S8Z7|D9S8Z7_FIBSS			278		
+tr|D9S8G4|D9S8G4_FIBSS			288		
+tr|D9SBH4|D9SBH4_FIBSS			16	K05561	2
+tr|D9S691|D9S691_FIBSS			16	K09807	11
+tr|D9S4M4|D9S4M4_FIBSS			21	K01963	2
+tr|D9S6F7|D9S6F7_FIBSS			23	K00560	6
+tr|D9SA46|D9SA46_FIBSS			25	K19115	2
+tr|D9S580|D9S580_FIBSS			182	K02044	4
+tr|D9SBY4|D9SBY4_FIBSS			152	K02313	4
+tr|D9S9S4|D9S9S4_FIBSS			23	K01685	4
+tr|D9S826|D9S826_FIBSS			62		
+tr|D9S568|D9S568_FIBSS			93	K01995	1
+tr|D9S5S7|D9S5S7_FIBSS			107	K12373	3
+tr|D9S9T3|D9S9T3_FIBSS			152		
+tr|D9S810|D9S810_FIBSS			149		
+tr|D9S8U0|D9S8U0_FIBSS			19	K00526	1
+tr|D9SB87|D9SB87_FIBSS			25	K02806	2
+tr|D9S4N3|D9S4N3_FIBSS			27	K00951	2
+tr|D9S4U6|D9S4U6_FIBSS			105		
+tr|D9S6S2|D9S6S2_FIBSS			15	K03424	1
+tr|D9S7W4|D9S7W4_FIBSS			13	K17758/K17759	5
+tr|D9S9C9|D9S9C9_FIBSS			203		
+tr|D9SB40|D9SB40_FIBSS			215	K10804	5
+tr|D9S8B1|D9S8B1_FIBSS			363		
+Contaminant_TRYP_PIG			153	K01312	19
+Contaminant_Trypa1					
+Contaminant_Trypa2					
+Contaminant_Trypa3					
+Contaminant_Trypa4					
+Contaminant_Trypa5			17	K03701	1
+Contaminant_Trypa6					
+Contaminant_TRYP_BOVIN			153	K01312	19
+Contaminant_CTRA_BOVIN			135	K01312	16
+Contaminant_CTRB_BOVIN			131	K01312	15
+Contaminant_ALBU_HUMAN			20	K03685	1
+Contaminant_ALBU_BOVIN			16	K01494	2
+Contaminant_K2C1_HUMAN			38	K03546	5
+Contaminant_K22E_HUMAN			24	K03529	2
+Contaminant_K1C9_HUMAN			25	K03529	2
+Contaminant_K1C10_HUMAN			24	K03529	4

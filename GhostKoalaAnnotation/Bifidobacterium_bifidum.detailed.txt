@@ -1,0 +1,2131 @@
+tr|U2BVU7|U2BVU7_BIFBI	K00266	gltD; glutamate synthase (NADPH/NADH) small chain [EC:1.4.1.13 1.4.1.14]	606		
+tr|U2CDJ7|U2CDJ7_BIFBI	K12574	rnj; ribonuclease J [EC:3.1.-.-]	832		
+tr|U2CEF2|U2CEF2_BIFBI			211		
+tr|U2CIK4|U2CIK4_BIFBI	K07133	uncharacterized protein	55		
+tr|U2CFT0|U2CFT0_BIFBI			16	K01179	1
+tr|U2DNT6|U2DNT6_BIFBI			17	K01872	1
+tr|U2BW14|U2BW14_BIFBI			1060	K01155	104
+tr|U2BYW4|U2BYW4_BIFBI			56	K03556	3
+tr|U2DLT7|U2DLT7_BIFBI	K07776	regX3; two-component system, OmpR family, response regulator RegX3	318		
+tr|U2CE99|U2CE99_BIFBI	K06217	phoH; phosphate starvation-inducible protein PhoH and related proteins	376		
+tr|U2DKJ9|U2DKJ9_BIFBI	K09157	uncharacterized protein	718		
+tr|U2DRR4|U2DRR4_BIFBI	K02469	gyrA; DNA gyrase subunit A [EC:5.99.1.3]	1248		
+tr|U2CD62|U2CD62_BIFBI			17	K00555	1
+tr|U2CG12|U2CG12_BIFBI			25	K02952	2
+tr|U2DVB3|U2DVB3_BIFBI			14	K07473	3
+tr|U2DWD0|U2DWD0_BIFBI	K01153	hsdR; type I restriction enzyme, R subunit [EC:3.1.21.3]	1187		
+tr|U2CHD0|U2CHD0_BIFBI	K01778	dapF; diaminopimelate epimerase [EC:5.1.1.7]	216		
+tr|U2CFL6|U2CFL6_BIFBI	K02108	ATPF0A; F-type H+-transporting ATPase subunit a	283		
+tr|U2CCZ9|U2CCZ9_BIFBI	K00014	aroE; shikimate dehydrogenase [EC:1.1.1.25]	190		
+tr|U2BZZ6|U2BZZ6_BIFBI			20	K09808	1
+tr|U2DU38|U2DU38_BIFBI	K01740	metY; O-acetylhomoserine (thiol)-lyase [EC:2.5.1.49]	372		
+tr|U2DRB4|U2DRB4_BIFBI	K02911	RP-L32; large subunit ribosomal protein L32	89		
+tr|U2C076|U2C076_BIFBI			310		
+tr|U2DUV3|U2DUV3_BIFBI	K01588	purE; 5-(carboxyamino)imidazole ribonucleotide mutase [EC:5.4.99.18]	244		
+tr|U2CD38|U2CD38_BIFBI	K03799	htpX; heat shock protein HtpX [EC:3.4.24.-]	350		
+tr|U2CDJ3|U2CDJ3_BIFBI			384		
+tr|U2BZF3|U2BZF3_BIFBI	K02470	gyrB; DNA gyrase subunit B [EC:5.99.1.3]	836		
+tr|U2BXX3|U2BXX3_BIFBI	K04487	iscS; cysteine desulfurase [EC:2.8.1.7]	353		
+tr|U2BYQ8|U2BYQ8_BIFBI			19	K03637	2
+tr|U2BZY9|U2BZY9_BIFBI			14	K00823	2
+tr|U2CE54|U2CE54_BIFBI	K02113	ATPF1D; F-type H+-transporting ATPase subunit delta	191		
+tr|U2DSV8|U2DSV8_BIFBI	K10907	aminotransferase [EC:2.6.1.-]	345		
+tr|U2CFY9|U2CFY9_BIFBI	K07088	uncharacterized protein	97		
+tr|U2CFJ2|U2CFJ2_BIFBI	K04043	dnaK; molecular chaperone DnaK	974		
+tr|U2DP17|U2DP17_BIFBI	K01304	pcp; pyroglutamyl-peptidase [EC:3.4.19.3]	237		
+tr|U2DVD2|U2DVD2_BIFBI	K04042	glmU; bifunctional UDP-N-acetylglucosamine pyrophosphorylase / Glucosamine-1-phosphate N-acetyltransferase [EC:2.7.7.23 2.3.1.157]	538		
+tr|U2DSA9|U2DSA9_BIFBI	K01887	RARS; arginyl-tRNA synthetase [EC:6.1.1.19]	741		
+tr|U2DU68|U2DU68_BIFBI			14	K00382	6
+tr|U2DRY4|U2DRY4_BIFBI	K12132	prkC; eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]	360		
+tr|U2BZJ2|U2BZJ2_BIFBI	K02355	fusA; elongation factor G	1100		
+tr|U2CDX2|U2CDX2_BIFBI	K03168	topA; DNA topoisomerase I [EC:5.99.1.2]	1107		
+tr|U2CIY1|U2CIY1_BIFBI	K01693	hisB; imidazoleglycerol-phosphate dehydratase [EC:4.2.1.19]	309		
+tr|U2CJX3|U2CJX3_BIFBI	K12132	prkC; eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]	570		
+tr|U2CEP5|U2CEP5_BIFBI	K01372	BLMH; bleomycin hydrolase [EC:3.4.22.40]	548		
+tr|U2DST0|U2DST0_BIFBI	K03524	birA; BirA family transcriptional regulator, biotin operon repressor / biotin-[acetyl-CoA-carboxylase] ligase [EC:6.3.4.15]	152		
+tr|U2CF51|U2CF51_BIFBI			149		
+tr|U2CGK1|U2CGK1_BIFBI	K10006	gluC; glutamate transport system permease protein	306		
+tr|U2CFS5|U2CFS5_BIFBI			53	K07684	8
+tr|U2DVR5|U2DVR5_BIFBI			181		
+tr|U2BXA6|U2BXA6_BIFBI	K02433	gatA; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A [EC:6.3.5.6 6.3.5.7]	710		
+tr|U2CES6|U2CES6_BIFBI	K04078	groES; chaperonin GroES	159		
+tr|U2CEY2|U2CEY2_BIFBI	K00789	metK; S-adenosylmethionine synthetase [EC:2.5.1.6]	535		
+tr|U2CGL9|U2CGL9_BIFBI	K01972	E6.5.1.2; DNA ligase (NAD+) [EC:6.5.1.2]	871		
+tr|U2BWY2|U2BWY2_BIFBI			18	K01142	7
+tr|U2CGR3|U2CGR3_BIFBI	K01925	murD; UDP-N-acetylmuramoylalanine--D-glutamate ligase [EC:6.3.2.9]	462		
+tr|U2BY83|U2BY83_BIFBI	K00382	DLD; dihydrolipoamide dehydrogenase [EC:1.8.1.4]	346		
+tr|U2DST8|U2DST8_BIFBI	K02109	ATPF0B; F-type H+-transporting ATPase subunit b	173		
+tr|U2BZW1|U2BZW1_BIFBI	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	282		
+tr|U2C0N6|U2C0N6_BIFBI			116	K11927	4
+tr|U2CEN5|U2CEN5_BIFBI			22	K00215	2
+tr|U2DPL7|U2DPL7_BIFBI	K01739	metB; cystathionine gamma-synthase [EC:2.5.1.48]	476		
+tr|U2CF10|U2CF10_BIFBI	K02899	RP-L27; large subunit ribosomal protein L27	136		
+tr|U2DPN2|U2DPN2_BIFBI			66		
+tr|U2BW84|U2BW84_BIFBI			26	K01537	4
+tr|U2DPW7|U2DPW7_BIFBI			388		
+tr|U2BZC2|U2BZC2_BIFBI	K02902	RP-L28; large subunit ribosomal protein L28	96		
+tr|U2DSW8|U2DSW8_BIFBI	K09760	rmuC; DNA recombination protein RmuC	352		
+tr|U2BXT8|U2BXT8_BIFBI	K01591	pyrF; orotidine-5'-phosphate decarboxylase [EC:4.1.1.23]	338		
+tr|U2CGH0|U2CGH0_BIFBI			235		
+tr|U2CFX9|U2CFX9_BIFBI			22	K07666	2
+tr|U2CD54|U2CD54_BIFBI	K01621	xfp; xylulose-5-phosphate/fructose-6-phosphate phosphoketolase [EC:4.1.2.9 4.1.2.22]	1202		
+tr|U2DVE5|U2DVE5_BIFBI			60	K03686	3
+tr|U2DVA5|U2DVA5_BIFBI	K03684	rnd; ribonuclease D [EC:3.1.13.5]	400		
+tr|U2DSA4|U2DSA4_BIFBI					
+tr|U2CCU0|U2CCU0_BIFBI	K09014	sufB; Fe-S cluster assembly protein SufB	793		
+tr|U2DW91|U2DW91_BIFBI			19	K07483	15
+tr|U2DX09|U2DX09_BIFBI			52	K01187	2
+tr|U2DMX9|U2DMX9_BIFBI	K01151	nfo; deoxyribonuclease IV [EC:3.1.21.2]	262		
+tr|U2DU93|U2DU93_BIFBI	K02835	prfA; peptide chain release factor 1	507		
+tr|U2CE94|U2CE94_BIFBI			74		
+tr|U2DUL0|U2DUL0_BIFBI			210		
+tr|U2DPC0|U2DPC0_BIFBI	K02004	ABC.CD.P; putative ABC transport system permease protein	198		
+tr|U2DS36|U2DS36_BIFBI	K03466	ftsK; DNA segregation ATPase FtsK/SpoIIIE, S-DNA-T family	268		
+tr|U2DWN9|U2DWN9_BIFBI			175		
+tr|U2DRJ1|U2DRJ1_BIFBI	K04488	iscU; nitrogen fixation protein NifU and related proteins	182		
+tr|U2CH57|U2CH57_BIFBI	K01938	fhs; formate--tetrahydrofolate ligase [EC:6.3.4.3]	410		
+tr|U2DM68|U2DM68_BIFBI			324		
+tr|U2CHW1|U2CHW1_BIFBI	K02356	efp; elongation factor P	302		
+tr|U2DL75|U2DL75_BIFBI	K01786	araD; L-ribulose-5-phosphate 4-epimerase [EC:5.1.3.4]	299	K03080	45
+tr|U2DSK9|U2DSK9_BIFBI	K02004	ABC.CD.P; putative ABC transport system permease protein	296		
+tr|U2BYN8|U2BYN8_BIFBI			442		
+tr|U2CC09|U2CC09_BIFBI			120		
+tr|U2CF18|U2CF18_BIFBI	K03704	cspA; cold shock protein (beta-ribbon, CspA family)	172		
+tr|U2CE35|U2CE35_BIFBI	K01077	E3.1.3.1; alkaline phosphatase [EC:3.1.3.1]	392		
+tr|U2DM09|U2DM09_BIFBI			661		
+tr|U2CG22|U2CG22_BIFBI	K01696	trpB; tryptophan synthase beta chain [EC:4.2.1.20]	600		
+tr|U2CDT9|U2CDT9_BIFBI			239		
+tr|U2CIM6|U2CIM6_BIFBI	K02335	DPO1; DNA polymerase I [EC:2.7.7.7]	901		
+tr|U2CE85|U2CE85_BIFBI	K02435	gatC; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C [EC:6.3.5.6 6.3.5.7]	122		
+tr|U2CHU1|U2CHU1_BIFBI			111		
+tr|U2DTX1|U2DTX1_BIFBI					
+tr|U2CDE3|U2CDE3_BIFBI	K02904	RP-L29; large subunit ribosomal protein L29	111		
+tr|U2DW02|U2DW02_BIFBI	K00806	uppS; undecaprenyl diphosphate synthase [EC:2.5.1.31]	388		
+tr|U2BWE9|U2BWE9_BIFBI			192		
+tr|U2CF46|U2CF46_BIFBI	K16786	ecfA1; energy-coupling factor transport system ATP-binding protein [EC:3.6.3.-]	193		
+	K16787	ecfA2; energy-coupling factor transport system ATP-binding protein [EC:3.6.3.-]			
+tr|U2BZ36|U2BZ36_BIFBI			434		
+tr|U2C1K6|U2C1K6_BIFBI			855		
+tr|U2DQC1|U2DQC1_BIFBI	K06999	phospholipase/carboxylesterase	165		
+tr|U2DUW3|U2DUW3_BIFBI			138		
+tr|U2BVX7|U2BVX7_BIFBI	K09015	sufD; Fe-S cluster assembly protein SufD	433		
+tr|U2C0L6|U2C0L6_BIFBI	K07574	yhbY; RNA-binding protein	87		
+tr|U2CH16|U2CH16_BIFBI			63		
+tr|U2CEC0|U2CEC0_BIFBI	K01462	PDF; peptide deformylase [EC:3.5.1.88]	236		
+tr|U2DL69|U2DL69_BIFBI	K01531	mgtA; Mg2+-importing ATPase [EC:3.6.3.2]	78		
+tr|U2BXE9|U2BXE9_BIFBI	K00031	IDH1; isocitrate dehydrogenase [EC:1.1.1.42]	658		
+tr|U2DUL7|U2DUL7_BIFBI			477		
+tr|U2C0Q1|U2C0Q1_BIFBI			838		
+tr|U2DS76|U2DS76_BIFBI			73		
+tr|U2DN14|U2DN14_BIFBI	K00598	tam; trans-aconitate 2-methyltransferase [EC:2.1.1.144]	73		
+tr|U2DV64|U2DV64_BIFBI	K07391	comM; magnesium chelatase family protein	504		
+tr|U2CEQ0|U2CEQ0_BIFBI			121		
+tr|U2CH56|U2CH56_BIFBI			141		
+tr|U2DRY1|U2DRY1_BIFBI	K07768	senX3; two-component system, OmpR family, sensor histidine kinase SenX3 [EC:2.7.13.3]	262		
+tr|U2BWG4|U2BWG4_BIFBI	K02438	treX; glycogen operon protein [EC:3.2.1.-]	626		
+tr|U2CJW8|U2CJW8_BIFBI			152		
+tr|U2CDZ8|U2CDZ8_BIFBI			181		
+tr|U2DVH9|U2DVH9_BIFBI	K07069	uncharacterized protein	115		
+tr|U2BY26|U2BY26_BIFBI	K04077	groEL; chaperonin GroEL	779		
+tr|U2DM48|U2DM48_BIFBI			16	K10011	6
+tr|U2DS54|U2DS54_BIFBI	K02952	RP-S13; small subunit ribosomal protein S13	223		
+tr|U2CDK4|U2CDK4_BIFBI	K01462	PDF; peptide deformylase [EC:3.5.1.88]	238		
+tr|U2DSS2|U2DSS2_BIFBI			299		
+tr|U2BWJ6|U2BWJ6_BIFBI	K02879	RP-L17; large subunit ribosomal protein L17	156		
+tr|U2BV40|U2BV40_BIFBI			19	K02500	3
+tr|U2CHW6|U2CHW6_BIFBI	K02358	tuf; elongation factor Tu	652		
+tr|U2CGP9|U2CGP9_BIFBI	K03767	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]	248		
+tr|U2BX42|U2BX42_BIFBI	K03549	kup; KUP system potassium uptake protein	752		
+tr|U2DS20|U2DS20_BIFBI	K00705	malQ; 4-alpha-glucanotransferase [EC:2.4.1.25]	703		
+tr|U2BZB6|U2BZB6_BIFBI			370		
+tr|U2DLD8|U2DLD8_BIFBI			22	K07284	13
+tr|U2DMV6|U2DMV6_BIFBI			104	K06370	3
+tr|U2DM78|U2DM78_BIFBI			247		
+tr|U2BVN9|U2BVN9_BIFBI	K01653	E2.2.1.6S; acetolactate synthase I/III small subunit [EC:2.2.1.6]	219		
+tr|U2CEH6|U2CEH6_BIFBI	K07024	uncharacterized protein	116		
+tr|U2CE71|U2CE71_BIFBI			354	K02035	27
+tr|U2DSX4|U2DSX4_BIFBI	K04751	glnB; nitrogen regulatory protein P-II 1	173		
+tr|U2C0A9|U2C0A9_BIFBI			335		
+tr|U2DNY5|U2DNY5_BIFBI			533	K02003/K02004	192
+tr|U2BZ62|U2BZ62_BIFBI			21	K08311	2
+tr|U2CHK0|U2CHK0_BIFBI	K02501	hisH; glutamine amidotransferase [EC:2.4.2.-]	253		
+tr|U2CFK3|U2CFK3_BIFBI			725		
+tr|U2DUA9|U2DUA9_BIFBI	K19265	gpr; L-glyceraldehyde 3-phosphate reductase [EC:1.1.1.-]	453		
+tr|U2DRN7|U2DRN7_BIFBI			256	K13059	93
+tr|U2DUR6|U2DUR6_BIFBI			20	K11903	1
+tr|U2DN97|U2DN97_BIFBI	K00762	pyrE; orotate phosphoribosyltransferase [EC:2.4.2.10]	253		
+tr|U2BWI6|U2BWI6_BIFBI	K02988	RP-S5; small subunit ribosomal protein S5	249		
+tr|U2CIQ3|U2CIQ3_BIFBI	K11068	hlyIII; hemolysin III	273		
+tr|U2CHR8|U2CHR8_BIFBI			390		
+tr|U2DLM4|U2DLM4_BIFBI			18	K01912	1
+tr|U2DMC2|U2DMC2_BIFBI	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	397		
+tr|U2DLZ7|U2DLZ7_BIFBI	K02933	RP-L6; large subunit ribosomal protein L6	245		
+tr|U2CE81|U2CE81_BIFBI			174		
+tr|U2BVN5|U2BVN5_BIFBI			274		
+tr|U2BYZ3|U2BYZ3_BIFBI			53	K02337	2
+tr|U2DU07|U2DU07_BIFBI	K02033	ABC.PE.P; peptide/nickel transport system permease protein	400		
+tr|U2CGM9|U2CGM9_BIFBI	K03544	clpX; ATP-dependent Clp protease ATP-binding subunit ClpX	507		
+tr|U2CGV8|U2CGV8_BIFBI			125		
+tr|U2DLH0|U2DLH0_BIFBI			51	K00571	28
+tr|U2DN81|U2DN81_BIFBI			21	K02276	1
+tr|U2C0X2|U2C0X2_BIFBI	K00761	upp; uracil phosphoribosyltransferase [EC:2.4.2.9]	306		
+tr|U2DNE5|U2DNE5_BIFBI			174		
+tr|U2CGT1|U2CGT1_BIFBI	K03499	trkA; trk system potassium uptake protein	236		
+tr|U2DQT9|U2DQT9_BIFBI			378		
+tr|U2BWI3|U2BWI3_BIFBI	K02931	RP-L5; large subunit ribosomal protein L5	301		
+tr|U2DKM7|U2DKM7_BIFBI	K01714	dapA; 4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7]	186		
+tr|U2CCM4|U2CCM4_BIFBI	K03100	lepB; signal peptidase I [EC:3.4.21.89]	196		
+tr|U2CHN9|U2CHN9_BIFBI	K06199	crcB; CrcB protein	52		
+tr|U2DQS1|U2DQS1_BIFBI	K20074	prpC; PPM family protein phosphatase [EC:3.1.3.16]	103		
+tr|U2DLF4|U2DLF4_BIFBI			16	K03086	7
+tr|U2BZV6|U2BZV6_BIFBI			186		
+tr|U2CF09|U2CF09_BIFBI	K03648	UNG; uracil-DNA glycosylase [EC:3.2.2.27]	324		
+tr|U2CEN0|U2CEN0_BIFBI			280	K06221	69
+tr|U2BXN6|U2BXN6_BIFBI	K03977	engA; GTPase	804		
+tr|U2BYY9|U2BYY9_BIFBI			81		
+tr|U2DRZ3|U2DRZ3_BIFBI			152		
+tr|U2DPT9|U2DPT9_BIFBI	K03553	recA; recombination protein RecA	537		
+tr|U2C1A9|U2C1A9_BIFBI			21	K01721	2
+tr|U2DUP0|U2DUP0_BIFBI			10	K03526	8
+tr|U2CES4|U2CES4_BIFBI	K11754	folC; dihydrofolate synthase / folylpolyglutamate synthase [EC:6.3.2.12 6.3.2.17]	509		
+tr|U2CEV8|U2CEV8_BIFBI	K06207	typA; GTP-binding protein	987		
+tr|U2DLE3|U2DLE3_BIFBI	K01736	aroC; chorismate synthase [EC:4.2.3.5]	547		
+tr|U2DPD0|U2DPD0_BIFBI	K02834	rbfA; ribosome-binding factor A	169		
+tr|U2CEH1|U2CEH1_BIFBI	K00927	PGK; phosphoglycerate kinase [EC:2.7.2.3]	580		
+tr|U2DRB1|U2DRB1_BIFBI			672		
+tr|U2DPE5|U2DPE5_BIFBI	K01081	E3.1.3.5; 5'-nucleotidase [EC:3.1.3.5]	192	K07004	165
+tr|U2DPA2|U2DPA2_BIFBI	K02039	phoU; phosphate transport system protein	229		
+tr|U2CFQ8|U2CFQ8_BIFBI			18	K00342	1
+tr|U2C196|U2C196_BIFBI			54	K13274	5
+tr|U2CE31|U2CE31_BIFBI	K03686	dnaJ; molecular chaperone DnaJ	309		
+tr|U2C1B1|U2C1B1_BIFBI			66		
+tr|U2CEJ9|U2CEJ9_BIFBI			16	K07461	1
+tr|U2BZX1|U2BZX1_BIFBI	K06950	uncharacterized protein	120		
+tr|U2BXL6|U2BXL6_BIFBI	K03727	helY; ATP-dependent RNA helicase HelY [EC:3.6.4.-]	824		
+tr|U2CFA2|U2CFA2_BIFBI	K09009	uncharacterized protein	149	K01524	41
+tr|U2DPQ0|U2DPQ0_BIFBI	K02909	RP-L31; large subunit ribosomal protein L31	108		
+tr|U2DUC6|U2DUC6_BIFBI	K01495	GCH1; GTP cyclohydrolase I [EC:3.5.4.16]	257		
+tr|U2BYH3|U2BYH3_BIFBI	K03816	xpt; xanthine phosphoribosyltransferase [EC:2.4.2.22]	270		
+tr|U2CF66|U2CF66_BIFBI	K00948	PRPS; ribose-phosphate pyrophosphokinase [EC:2.7.6.1]	476		
+tr|U2CEL5|U2CEL5_BIFBI	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	423		
+tr|U2BZ91|U2BZ91_BIFBI			201		
+tr|U2CDQ8|U2CDQ8_BIFBI			212		
+tr|U2DRA2|U2DRA2_BIFBI	K06960	uncharacterized protein	109		
+tr|U2BYT2|U2BYT2_BIFBI	K07386	pepO; putative endopeptidase [EC:3.4.24.-]	745		
+tr|U2DRR5|U2DRR5_BIFBI	K03705	hrcA; heat-inducible transcriptional repressor	274		
+tr|U2CJ82|U2CJ82_BIFBI			146		
+tr|U2C0J7|U2C0J7_BIFBI	K09811	ftsX; cell division transport system permease protein	321		
+tr|U2BYW7|U2BYW7_BIFBI	K04095	fic; cell filamentation protein	54		
+tr|U2CFB4|U2CFB4_BIFBI			411		
+tr|U2CEA7|U2CEA7_BIFBI	K02026	ABC.MS.P1; multiple sugar transport system permease protein	334		
+tr|U2DQA0|U2DQA0_BIFBI	K00818	E2.6.1.11; acetylornithine aminotransferase [EC:2.6.1.11]	403		
+tr|U2CJN2|U2CJN2_BIFBI			33	K06222	1
+tr|U2DQT2|U2DQT2_BIFBI			387		
+tr|U2CHV6|U2CHV6_BIFBI			466		
+tr|U2CIK8|U2CIK8_BIFBI	K01704	leuD; 3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]	296		
+tr|U2DN06|U2DN06_BIFBI			24	K12132	4
+tr|U2BX37|U2BX37_BIFBI			379		
+tr|U2BWL3|U2BWL3_BIFBI	K01761	E4.4.1.11; methionine-gamma-lyase [EC:4.4.1.11]	153	K01758	27
+tr|U2CGD6|U2CGD6_BIFBI	K03743	pncC; nicotinamide-nucleotide amidase [EC:3.5.1.42]	134		
+tr|U2DRW3|U2DRW3_BIFBI			24	K01611	3
+tr|U2DNP8|U2DNP8_BIFBI	K09118	uncharacterized protein	1011		
+tr|U2CGJ0|U2CGJ0_BIFBI			26	K07645	1
+tr|U2CCC6|U2CCC6_BIFBI			185		
+tr|U2CE06|U2CE06_BIFBI	K03149	thiG; thiazole synthase [EC:2.8.1.10]	332		
+tr|U2CFG3|U2CFG3_BIFBI			234		
+tr|U2CJ87|U2CJ87_BIFBI	K01190	lacZ; beta-galactosidase [EC:3.2.1.23]	559		
+tr|U2DNN6|U2DNN6_BIFBI	K01915	glnA; glutamine synthetase [EC:6.3.1.2]	747		
+tr|U2CDP8|U2CDP8_BIFBI	K02939	RP-L9; large subunit ribosomal protein L9	163		
+tr|U2DTI7|U2DTI7_BIFBI	K02035	ABC.PE.S; peptide/nickel transport system substrate-binding protein	381		
+tr|U2CHG7|U2CHG7_BIFBI			19	K07451	4
+tr|U2DRQ2|U2DRQ2_BIFBI			112	K01209	79
+tr|U2CF61|U2CF61_BIFBI	K02990	RP-S6; small subunit ribosomal protein S6	135		
+tr|U2DQV1|U2DQV1_BIFBI	K01239	iunH; purine nucleosidase [EC:3.2.2.1]	87		
+tr|U2DM32|U2DM32_BIFBI	K03647	nrdI; protein involved in ribonucleotide reduction	175		
+tr|U2BXK2|U2BXK2_BIFBI			164		
+tr|U2DQU4|U2DQU4_BIFBI	K02836	prfB; peptide chain release factor 2	538		
+tr|U2CG04|U2CG04_BIFBI			28	K02034	1
+tr|U2DTC4|U2DTC4_BIFBI			22	K02109	1
+tr|U2CG02|U2CG02_BIFBI			108	K08300	6
+tr|U2BZX4|U2BZX4_BIFBI	K01940	argG; argininosuccinate synthase [EC:6.3.4.5]	636		
+tr|U2BW68|U2BW68_BIFBI			15	K03147	5
+tr|U2BWE5|U2BWE5_BIFBI			15	K17836	12
+tr|U2DLW3|U2DLW3_BIFBI	K02913	RP-L33; large subunit ribosomal protein L33	107		
+tr|U2CGC9|U2CGC9_BIFBI	K01142	E3.1.11.2; exodeoxyribonuclease III [EC:3.1.11.2]	304		
+tr|U2CJM3|U2CJM3_BIFBI	K02529	lacI; LacI family transcriptional regulator	135		
+tr|U2CG37|U2CG37_BIFBI			375		
+tr|U2CDH1|U2CDH1_BIFBI			214		
+tr|U2DRZ2|U2DRZ2_BIFBI	K00688	E2.4.1.1; starch phosphorylase [EC:2.4.1.1]	1035		
+tr|U2CI59|U2CI59_BIFBI			479		
+tr|U2C0Q6|U2C0Q6_BIFBI	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	102		
+tr|U2DRE6|U2DRE6_BIFBI	K06215	pdxS; pyridoxal 5'-phosphate synthase pdxS subunit [EC:4.3.3.6]	460		
+tr|U2DS32|U2DS32_BIFBI			141		
+tr|U2DRD8|U2DRD8_BIFBI	K03082	sgbU; hexulose-6-phosphate isomerase [EC:5.-.-.-]	295	K03079	61
+tr|U2DS01|U2DS01_BIFBI			304		
+tr|U2DN85|U2DN85_BIFBI	K00549	metE; 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:2.1.1.14]	936		
+tr|U2DQU0|U2DQU0_BIFBI	K06180	rluD; 23S rRNA pseudouridine1911/1915/1917 synthase [EC:5.4.99.23]	344		
+tr|U2DT81|U2DT81_BIFBI			257		
+tr|U2DTK1|U2DTK1_BIFBI	K04066	priA; primosomal protein N' (replication factor Y) (superfamily II helicase) [EC:3.6.4.-]	445		
+tr|U2DPM1|U2DPM1_BIFBI	K08289	purT; phosphoribosylglycinamide formyltransferase 2 [EC:2.1.2.2]	423		
+tr|U2CJY2|U2CJY2_BIFBI			166		
+tr|U2DX38|U2DX38_BIFBI	K00700	glgB; 1,4-alpha-glucan branching enzyme [EC:2.4.1.18]	1054		
+tr|U2DTB2|U2DTB2_BIFBI			18	K05896	2
+tr|U2CF36|U2CF36_BIFBI			133		
+tr|U2BZB1|U2BZB1_BIFBI	K00764	purF; amidophosphoribosyltransferase [EC:2.4.2.14]	726		
+tr|U2BV51|U2BV51_BIFBI			128	K03466	5
+tr|U2DPQ8|U2DPQ8_BIFBI			389		
+tr|U2CJY7|U2CJY7_BIFBI			535		
+tr|U2CFK4|U2CFK4_BIFBI			101		
+tr|U2DN27|U2DN27_BIFBI			268		
+tr|U2C086|U2C086_BIFBI	K08659	pepDA; dipeptidase [EC:3.4.-.-]	636		
+tr|U2DMH0|U2DMH0_BIFBI			790		
+tr|U2DX43|U2DX43_BIFBI	K07024	uncharacterized protein	230		
+tr|U2CE07|U2CE07_BIFBI			294		
+tr|U2CEC2|U2CEC2_BIFBI			18	K03086	1
+tr|U2DLJ6|U2DLJ6_BIFBI			18	K11535	4
+tr|U2CJ76|U2CJ76_BIFBI	K11963	urtE; urea transport system ATP-binding protein	18	K01996	17
+tr|U2DUK5|U2DUK5_BIFBI	K00033	PGD; 6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343]	644		
+tr|U2DN70|U2DN70_BIFBI			22	K01890	2
+tr|U2CHQ7|U2CHQ7_BIFBI	K01662	dxs; 1-deoxy-D-xylulose-5-phosphate synthase [EC:2.2.1.7]	510		
+tr|U2CF84|U2CF84_BIFBI			147		
+tr|U2DNB1|U2DNB1_BIFBI	K03527	ispH; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase [EC:1.17.7.4]	358		
+tr|U2DUI1|U2DUI1_BIFBI	K04485	radA; DNA repair protein RadA/Sms	524		
+tr|U2CFR3|U2CFR3_BIFBI	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	340		
+tr|U2DSP9|U2DSP9_BIFBI			35	K00380	1
+tr|U2DRZ9|U2DRZ9_BIFBI			1041		
+tr|U2DLU2|U2DLU2_BIFBI			261		
+tr|U2DLR0|U2DLR0_BIFBI	K05520	pfpI; protease I [EC:3.2.-.-]	144		
+tr|U2CG47|U2CG47_BIFBI			20	K19689	1
+tr|U2BXH5|U2BXH5_BIFBI			14	K07711	3
+tr|U2BZ71|U2BZ71_BIFBI			60	K06113	2
+tr|U2DSM1|U2DSM1_BIFBI			318		
+tr|U2CDW1|U2CDW1_BIFBI	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	339		
+tr|U2DL80|U2DL80_BIFBI			235		
+tr|U2BZN1|U2BZN1_BIFBI			14	K00012	2
+tr|U2CFA6|U2CFA6_BIFBI			277		
+tr|U2DS19|U2DS19_BIFBI	K00859	coaE; dephospho-CoA kinase [EC:2.7.1.24]	178		
+tr|U2CGZ0|U2CGZ0_BIFBI	K03525	coaX; type III pantothenate kinase [EC:2.7.1.33]	310		
+tr|U2DMN6|U2DMN6_BIFBI	K02110	ATPF0C; F-type H+-transporting ATPase subunit c	64		
+tr|U2BXS8|U2BXS8_BIFBI			19	K03734	2
+tr|U2DPQ4|U2DPQ4_BIFBI			134	K00681	4
+tr|U2CFQ0|U2CFQ0_BIFBI	K17686	copA; Cu+-exporting ATPase [EC:3.6.3.54]	522		
+tr|U2CGS3|U2CGS3_BIFBI	K00147	proA; glutamate-5-semialdehyde dehydrogenase [EC:1.2.1.41]	455		
+tr|U2CF00|U2CF00_BIFBI			622		
+tr|U2DRS5|U2DRS5_BIFBI			56	K03733	3
+tr|U2CGN9|U2CGN9_BIFBI	K03545	tig; trigger factor	490		
+tr|U2CG08|U2CG08_BIFBI			115	K01468	3
+tr|U2DRU9|U2DRU9_BIFBI	K01951	guaA; GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]	815		
+tr|U2DRX6|U2DRX6_BIFBI	K01626	E2.5.1.54; 3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54]	437		
+tr|U2DVW0|U2DVW0_BIFBI	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	497		
+tr|U2DS29|U2DS29_BIFBI	K02946	RP-S10; small subunit ribosomal protein S10	198		
+tr|U2CHH5|U2CHH5_BIFBI			269		
+tr|U2CFG6|U2CFG6_BIFBI			15	K00826	1
+tr|U2BYV0|U2BYV0_BIFBI			457		
+tr|U2DVE0|U2DVE0_BIFBI			209		
+tr|U2DUG1|U2DUG1_BIFBI	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	257		
+tr|U2CK29|U2CK29_BIFBI	K18955	whiB1_2_3_4; WhiB family transcriptional regulator, redox-sensing transcriptional regulator	130		
+tr|U2CHP5|U2CHP5_BIFBI			51	K01356	2
+tr|U2DVS9|U2DVS9_BIFBI	K18334	fucD; L-fuconate dehydratase [EC:4.2.1.68]	156		
+tr|U2BYC8|U2BYC8_BIFBI	K01056	PTH1; peptidyl-tRNA hydrolase, PTH1 family [EC:3.1.1.29]	242		
+tr|U2C1L5|U2C1L5_BIFBI	K01421	yhgE; putative membrane protein	244		
+tr|U2DTF2|U2DTF2_BIFBI			318		
+tr|U2DLL5|U2DLL5_BIFBI	K03686	dnaJ; molecular chaperone DnaJ	404		
+tr|U2DLC3|U2DLC3_BIFBI	K07042	ybeY; probable rRNA maturation factor	208		
+tr|U2CHV1|U2CHV1_BIFBI			271		
+tr|U2DML2|U2DML2_BIFBI			61	K03753	2
+tr|U2CGI9|U2CGI9_BIFBI	K00162	PDHB; pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1]	351		
+tr|U2DKP4|U2DKP4_BIFBI			17	K02529	14
+tr|U2DP85|U2DP85_BIFBI	K00796	folP; dihydropteroate synthase [EC:2.5.1.15]	275		
+tr|U2BY73|U2BY73_BIFBI	K03593	mrp; ATP-binding protein involved in chromosome partitioning	395		
+tr|U2DV52|U2DV52_BIFBI	K02004	ABC.CD.P; putative ABC transport system permease protein	447		
+tr|U2DS22|U2DS22_BIFBI	K02074	ABC.ZM.A; zinc/manganese transport system ATP-binding protein	225		
+tr|U2CEK1|U2CEK1_BIFBI			144		
+tr|U2DRN2|U2DRN2_BIFBI			143	K02477	16
+tr|U2CG91|U2CG91_BIFBI	K03088	SIG3.2; RNA polymerase sigma-70 factor, ECF subfamily	217		
+tr|U2BX04|U2BX04_BIFBI	K00943	tmk; dTMP kinase [EC:2.7.4.9]	228		
+tr|U2DUQ0|U2DUQ0_BIFBI			239	K03655	16
+tr|U2DRR0|U2DRR0_BIFBI			17	K01869	3
+tr|U2CI72|U2CI72_BIFBI			16	K03529	2
+tr|U2DWU6|U2DWU6_BIFBI			300		
+tr|U2BYV9|U2BYV9_BIFBI			162		
+tr|U2DL43|U2DL43_BIFBI	K03106	SRP54; signal recognition particle subunit SRP54 [EC:3.6.5.4]	696		
+tr|U2DRS6|U2DRS6_BIFBI	K03980	murJ; putative peptidoglycan lipid II flippase	451		
+tr|U2DRW7|U2DRW7_BIFBI			58		
+tr|U2CGF7|U2CGF7_BIFBI			633		
+tr|U2CIH5|U2CIH5_BIFBI			174		
+tr|U2CHY8|U2CHY8_BIFBI	K02072	metI; D-methionine transport system permease protein	201		
+tr|U2CD15|U2CD15_BIFBI	K00615	E2.2.1.1; transketolase [EC:2.2.1.1]	900		
+tr|U2DMP4|U2DMP4_BIFBI	K01507	ppa; inorganic pyrophosphatase [EC:3.6.1.1]	231		
+tr|U2CGQ6|U2CGQ6_BIFBI			72		
+tr|U2DRV4|U2DRV4_BIFBI	K00925	ackA; acetate kinase [EC:2.7.2.1]	555		
+tr|U2CGL0|U2CGL0_BIFBI	K04096	smf; DNA processing protein	208		
+tr|U2CH65|U2CH65_BIFBI			468		
+tr|U2BYJ7|U2BYJ7_BIFBI	K00128	E1.2.1.3; aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]	387		
+tr|U2DVI3|U2DVI3_BIFBI			317		
+tr|U2CEY7|U2CEY7_BIFBI	K01079	serB; phosphoserine phosphatase [EC:3.1.3.3]	227		
+tr|U2BZG6|U2BZG6_BIFBI			130		
+tr|U2BX63|U2BX63_BIFBI			110		
+tr|U2DRI0|U2DRI0_BIFBI	K00325	pntB; NAD(P) transhydrogenase subunit beta [EC:1.6.1.2]	438		
+tr|U2DS81|U2DS81_BIFBI	K00525	E1.17.4.1A; ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]	1060		
+tr|U2DSN0|U2DSN0_BIFBI	K00928	lysC; aspartate kinase [EC:2.7.2.4]	200		
+tr|U2C1C0|U2C1C0_BIFBI	K01673	cynT; carbonic anhydrase [EC:4.2.1.1]	180		
+tr|U2BZN5|U2BZN5_BIFBI	K07443	ybaZ; methylated-DNA-protein-cysteine methyltransferase related protein	132		
+tr|U2DU35|U2DU35_BIFBI	K12952	ctpE; cation-transporting ATPase E [EC:3.6.3.-]	659		
+tr|U2CHG2|U2CHG2_BIFBI	K08156	araJ; MFS transporter, DHA1 family, arabinose polymer utilization protein	351	K19577	32
+tr|U2DQ53|U2DQ53_BIFBI			295	K01436	58
+tr|U2CI96|U2CI96_BIFBI			14	K06999	4
+tr|U2BYK7|U2BYK7_BIFBI			408		
+tr|U2DQV0|U2DQV0_BIFBI	K06177	rluA; tRNA pseudouridine32 synthase / 23S rRNA pseudouridine746 synthase [EC:5.4.99.28 5.4.99.29]	241		
+tr|U2CEE6|U2CEE6_BIFBI			21	K07496	1
+tr|U2CGZ9|U2CGZ9_BIFBI			110		
+tr|U2DQA9|U2DQA9_BIFBI	K02069	ABC.X2.P; putative ABC transport system permease protein	197		
+tr|U2CGQ2|U2CGQ2_BIFBI	K01689	ENO; enolase [EC:4.2.1.11]	645		
+tr|U2DS39|U2DS39_BIFBI	K02961	RP-S17; small subunit ribosomal protein S17	134		
+tr|U2DV69|U2DV69_BIFBI	K06966	uncharacterized protein	329		
+tr|U2DLG7|U2DLG7_BIFBI			524		
+tr|U2BWK1|U2BWK1_BIFBI			189		
+tr|U2DUE6|U2DUE6_BIFBI			258		
+tr|U2BXM6|U2BXM6_BIFBI			252		
+tr|U2DRV8|U2DRV8_BIFBI			115		
+tr|U2CEV9|U2CEV9_BIFBI	K02982	RP-S3; small subunit ribosomal protein S3	360		
+tr|U2BW01|U2BW01_BIFBI			76		
+tr|U2DND1|U2DND1_BIFBI			177		
+tr|U2CDU1|U2CDU1_BIFBI			56		
+tr|U2DNF8|U2DNF8_BIFBI	K13527	mpa; proteasome-associated ATPase	458		
+tr|U2CEF5|U2CEF5_BIFBI	K01784	galE; UDP-glucose 4-epimerase [EC:5.1.3.2]	471		
+tr|U2CDN1|U2CDN1_BIFBI	K07284	srtA; sortase A [EC:3.4.22.70]	186		
+tr|U2CHT1|U2CHT1_BIFBI	K12132	prkC; eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]	391	K08884	124
+tr|U2DSZ7|U2DSZ7_BIFBI	K01897	ACSL; long-chain acyl-CoA synthetase [EC:6.2.1.3]	513		
+tr|U2DPF8|U2DPF8_BIFBI			685		
+tr|U2DT61|U2DT61_BIFBI			434		
+tr|U2DN75|U2DN75_BIFBI			347		
+tr|U2DPG7|U2DPG7_BIFBI			275		
+tr|U2DP13|U2DP13_BIFBI			31	K07338	1
+tr|U2CET6|U2CET6_BIFBI			17	K03699	2
+tr|U2DQ62|U2DQ62_BIFBI			17	K07006	10
+tr|U2C1K2|U2C1K2_BIFBI			199		
+tr|U2DVB0|U2DVB0_BIFBI	K01950	E6.3.5.1; NAD+ synthase (glutamine-hydrolysing) [EC:6.3.5.1]	696		
+tr|U2BWA2|U2BWA2_BIFBI			157		
+tr|U2BZ51|U2BZ51_BIFBI			15	K00615	3
+tr|U2CEC7|U2CEC7_BIFBI			14	K03979	10
+tr|U2DNV8|U2DNV8_BIFBI	K02034	ABC.PE.P1; peptide/nickel transport system permease protein	440		
+tr|U2CH04|U2CH04_BIFBI			101		
+tr|U2C1B6|U2C1B6_BIFBI	K01595	ppc; phosphoenolpyruvate carboxylase [EC:4.1.1.31]	1205		
+tr|U2BVV6|U2BVV6_BIFBI			11	K04043	8
+tr|U2DPE1|U2DPE1_BIFBI			64	K18546	5
+tr|U2CHD3|U2CHD3_BIFBI	K01835	pgm; phosphoglucomutase [EC:5.4.2.2]	812		
+tr|U2BYT6|U2BYT6_BIFBI					
+tr|U2BXX9|U2BXX9_BIFBI	K04517	tyrA2; prephenate dehydrogenase [EC:1.3.1.12]	217		
+tr|U2BY66|U2BY66_BIFBI	K16784	bioM; biotin transport system ATP-binding protein [EC:3.6.3.-]	139		
+tr|U2DMI2|U2DMI2_BIFBI	K00928	lysC; aspartate kinase [EC:2.7.2.4]	352		
+tr|U2CFA7|U2CFA7_BIFBI	K07284	srtA; sortase A [EC:3.4.22.70]	172		
+tr|U2BY37|U2BY37_BIFBI	K03696	clpC; ATP-dependent Clp protease ATP-binding subunit ClpC	1235		
+tr|U2DMP0|U2DMP0_BIFBI			23	K03799	2
+tr|U2DPY8|U2DPY8_BIFBI	K08969	mtnE; aminotransferase [EC:2.6.1.-]	220	K10206	52
+tr|U2DSN4|U2DSN4_BIFBI	K07029	dagK; diacylglycerol kinase (ATP) [EC:2.7.1.107]	118		
+tr|U2DL85|U2DL85_BIFBI	K08681	pdxT; 5'-phosphate synthase pdxT subunit [EC:4.3.3.6]	212		
+tr|U2CGF3|U2CGF3_BIFBI	K01955	carB; carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]	1550		
+tr|U2CK10|U2CK10_BIFBI			17	K07552	2
+tr|U2CGG5|U2CGG5_BIFBI	K02992	RP-S7; small subunit ribosomal protein S7	269		
+tr|U2CEJ2|U2CEJ2_BIFBI			230		
+tr|U2DMW3|U2DMW3_BIFBI	K06925	tsaE; tRNA threonylcarbamoyladenosine biosynthesis protein TsaE	155		
+tr|U2CG50|U2CG50_BIFBI	K01129	dgt; dGTPase [EC:3.1.5.1]	540		
+tr|U2DQH7|U2DQH7_BIFBI			26	K07240	2
+tr|U2DTJ1|U2DTJ1_BIFBI			436		
+tr|U2C1G9|U2C1G9_BIFBI			476		
+tr|U2DML8|U2DML8_BIFBI	K03687	GRPE; molecular chaperone GrpE	178		
+tr|U2DPW2|U2DPW2_BIFBI	K03625	nusB; N utilization substance protein B	168		
+tr|U2CED2|U2CED2_BIFBI			209		
+tr|U2CHI5|U2CHI5_BIFBI			19	K02996	3
+tr|U2DPB0|U2DPB0_BIFBI			131		
+tr|U2CFT7|U2CFT7_BIFBI	K00831	serC; phosphoserine aminotransferase [EC:2.6.1.52]	465		
+tr|U2DR98|U2DR98_BIFBI	K08316	rsmD; 16S rRNA (guanine966-N2)-methyltransferase [EC:2.1.1.171]	146		
+tr|U2C1H4|U2C1H4_BIFBI	K03218	rlmB; 23S rRNA (guanosine2251-2'-O)-methyltransferase [EC:2.1.1.185]	366		
+tr|U2CEG7|U2CEG7_BIFBI			112		
+tr|U2DUD8|U2DUD8_BIFBI			141		
+tr|U2BZM0|U2BZM0_BIFBI	K13051	iaaA; beta-aspartyl-peptidase (threonine type) [EC:3.4.19.5]	255		
+tr|U2DW18|U2DW18_BIFBI	K00013	hisD; histidinol dehydrogenase [EC:1.1.1.23]	482		
+tr|U2CDC6|U2CDC6_BIFBI			304		
+tr|U2CH71|U2CH71_BIFBI			461		
+tr|U2CK05|U2CK05_BIFBI	K00873	PK; pyruvate kinase [EC:2.7.1.40]	611		
+tr|U2CEU1|U2CEU1_BIFBI	K00134	GAPDH; glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]	509		
+tr|U2BV72|U2BV72_BIFBI			345		
+tr|U2DU26|U2DU26_BIFBI			501		
+tr|U2DPC6|U2DPC6_BIFBI	K01443	nagA; N-acetylglucosamine-6-phosphate deacetylase [EC:3.5.1.25]	70		
+tr|U2BX12|U2BX12_BIFBI	K01649	leuA; 2-isopropylmalate synthase [EC:2.3.3.13]	769		
+tr|U2CK23|U2CK23_BIFBI			381		
+tr|U2CHB9|U2CHB9_BIFBI	K01190	lacZ; beta-galactosidase [EC:3.2.1.23]	877		
+tr|U2BWM1|U2BWM1_BIFBI	K02888	RP-L21; large subunit ribosomal protein L21	140		
+tr|U2C1G0|U2C1G0_BIFBI			326		
+tr|U2DLK1|U2DLK1_BIFBI	K09762	uncharacterized protein	347		
+tr|U2CEZ5|U2CEZ5_BIFBI	K02956	RP-S15; small subunit ribosomal protein S15	151		
+tr|U2DT76|U2DT76_BIFBI			20	K00981	3
+tr|U2CI92|U2CI92_BIFBI			25	K00059	3
+tr|U2BXB1|U2BXB1_BIFBI			314		
+tr|U2DKN2|U2DKN2_BIFBI	K03431	glmM; phosphoglucosamine mutase [EC:5.4.2.10]	614		
+tr|U2CGK6|U2CGK6_BIFBI			445		
+tr|U2DU79|U2DU79_BIFBI	K01740	metY; O-acetylhomoserine (thiol)-lyase [EC:2.5.1.49]	601		
+tr|U2DR66|U2DR66_BIFBI	K07454	putative restriction endonuclease	76		
+tr|U2DRU6|U2DRU6_BIFBI			211		
+tr|U2CJQ9|U2CJQ9_BIFBI	K02528	ksgA; 16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase [EC:2.1.1.182]	315		
+tr|U2DTP1|U2DTP1_BIFBI			370		
+tr|U2DPD8|U2DPD8_BIFBI			523		
+tr|U2BY88|U2BY88_BIFBI	K09810	lolD; lipoprotein-releasing system ATP-binding protein [EC:3.6.3.-]	49	K02003	47
+tr|U2CER5|U2CER5_BIFBI	K02935	RP-L7; large subunit ribosomal protein L7/L12	129		
+tr|U2CHF6|U2CHF6_BIFBI			387		
+tr|U2DUF6|U2DUF6_BIFBI	K01104	E3.1.3.48; protein-tyrosine phosphatase [EC:3.1.3.48]	191		
+tr|U2C080|U2C080_BIFBI	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	642		
+tr|U2CEI7|U2CEI7_BIFBI			118		
+tr|U2DQY6|U2DQY6_BIFBI			513		
+tr|U2CCD9|U2CCD9_BIFBI			259		
+tr|U2DNH4|U2DNH4_BIFBI			143		
+tr|U2DT43|U2DT43_BIFBI	K00355	NQO1; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]	121		
+tr|U2DQK9|U2DQK9_BIFBI	K01703	leuC; 3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]	717		
+tr|U2CFM4|U2CFM4_BIFBI	K02909	RP-L31; large subunit ribosomal protein L31	122		
+tr|U2DSH0|U2DSH0_BIFBI	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	483		
+tr|U2BVQ7|U2BVQ7_BIFBI	K02049	ABC.SN.A; NitT/TauT family transport system ATP-binding protein	456		
+tr|U2CCF6|U2CCF6_BIFBI	K00052	leuB; 3-isopropylmalate dehydrogenase [EC:1.1.1.85]	440		
+tr|U2DVH5|U2DVH5_BIFBI			25	K12132	3
+tr|U2DWC4|U2DWC4_BIFBI	K00053	ilvC; ketol-acid reductoisomerase [EC:1.1.1.86]	413		
+tr|U2DVN5|U2DVN5_BIFBI			20	K00053	2
+tr|U2CHV5|U2CHV5_BIFBI			445	K03293	130
+tr|U2CFY4|U2CFY4_BIFBI	K03701	uvrA; excinuclease ABC subunit A	1130		
+tr|U2CF40|U2CF40_BIFBI			328		
+tr|U2BYM1|U2BYM1_BIFBI	K02035	ABC.PE.S; peptide/nickel transport system substrate-binding protein	475		
+tr|U2BWZ9|U2BWZ9_BIFBI	K08483	PTS-EI.PTSI; phosphotransferase system, enzyme I, PtsI [EC:2.7.3.9]	534		
+tr|U2CDF4|U2CDF4_BIFBI	K02907	RP-L30; large subunit ribosomal protein L30	66		
+tr|U2CFK7|U2CFK7_BIFBI			224		
+tr|U2DR72|U2DR72_BIFBI			328		
+tr|U2BVV1|U2BVV1_BIFBI			12	K01621	3
+tr|U2CGU7|U2CGU7_BIFBI	K02004	ABC.CD.P; putative ABC transport system permease protein	269		
+tr|U2DP99|U2DP99_BIFBI			18	K03702	3
+tr|U2C0I1|U2C0I1_BIFBI	K01190	lacZ; beta-galactosidase [EC:3.2.1.23]	935		
+tr|U2C1M6|U2C1M6_BIFBI	K01664	pabA; para-aminobenzoate synthetase component II [EC:2.6.1.85]	265		
+tr|U2C1S6|U2C1S6_BIFBI			803		
+tr|U2BWH2|U2BWH2_BIFBI	K02892	RP-L23; large subunit ribosomal protein L23	144		
+tr|U2CFP2|U2CFP2_BIFBI	K02434	gatB; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]	731		
+tr|U2DTD5|U2DTD5_BIFBI	K00609	pyrB; aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2]	419		
+tr|U2DN01|U2DN01_BIFBI			307		
+tr|U2DLM9|U2DLM9_BIFBI			16	K01187	7
+tr|U2DUS1|U2DUS1_BIFBI			126		
+tr|U2DMY3|U2DMY3_BIFBI			80		
+tr|U2CH91|U2CH91_BIFBI			342		
+tr|U2BXZ8|U2BXZ8_BIFBI	K03060	rpoZ; DNA-directed RNA polymerase subunit omega [EC:2.7.7.6]	128		
+tr|U2CCV6|U2CCV6_BIFBI			313		
+tr|U2CHG0|U2CHG0_BIFBI	K00674	dapD; 2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase [EC:2.3.1.117]	376		
+tr|U2CFW4|U2CFW4_BIFBI			173		
+tr|U2CH89|U2CH89_BIFBI			288		
+tr|U2CFF1|U2CFF1_BIFBI	K06187	recR; recombination protein RecR	291		
+tr|U2CFA3|U2CFA3_BIFBI			58	K01802	57
+tr|U2DX34|U2DX34_BIFBI	K02077	ABC.ZM.S; zinc/manganese transport system substrate-binding protein	202		
+tr|U2CCN3|U2CCN3_BIFBI			16	K01193	2
+tr|U2C0G4|U2C0G4_BIFBI			428		
+tr|U2DUF1|U2DUF1_BIFBI			360		
+tr|U2CHX2|U2CHX2_BIFBI	K01620	ltaE; threonine aldolase [EC:4.1.2.48]	400		
+tr|U2DRE1|U2DRE1_BIFBI	K03470	rnhB; ribonuclease HII [EC:3.1.26.4]	200		
+tr|U2CFC5|U2CFC5_BIFBI			380		
+tr|U2CFS7|U2CFS7_BIFBI	K02357	tsf; elongation factor Ts	340		
+tr|U2CJL9|U2CJL9_BIFBI	K04047	dps; starvation-inducible DNA-binding protein	194		
+tr|U2DQT0|U2DQT0_BIFBI	K03147	thiC; phosphomethylpyrimidine synthase [EC:4.1.99.17]	982		
+tr|U2C0L2|U2C0L2_BIFBI	K01193	E3.2.1.26; beta-fructofuranosidase [EC:3.2.1.26]	26		
+tr|U2BYG8|U2BYG8_BIFBI	K00820	glmS; glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16]	132		
+tr|U2DS94|U2DS94_BIFBI	K01868	TARS; threonyl-tRNA synthetase [EC:6.1.1.3]	22		
+tr|U2DRL6|U2DRL6_BIFBI	K08296	sixA; phosphohistidine phosphatase [EC:3.1.3.-]	125		
+tr|U2DWW3|U2DWW3_BIFBI	K11991	tadA; tRNA(adenine34) deaminase [EC:3.5.4.33]	147		
+tr|U2BXB5|U2BXB5_BIFBI	K03688	ubiB; ubiquinone biosynthesis protein	573		
+tr|U2DW51|U2DW51_BIFBI			378		
+tr|U2BXY4|U2BXY4_BIFBI	K02034	ABC.PE.P1; peptide/nickel transport system permease protein	318		
+tr|U2CGL6|U2CGL6_BIFBI			121		
+tr|U2DU75|U2DU75_BIFBI	K00845	glk; glucokinase [EC:2.7.1.2]	356		
+tr|U2DRX1|U2DRX1_BIFBI	K01304	pcp; pyroglutamyl-peptidase [EC:3.4.19.3]	159		
+tr|U2DW94|U2DW94_BIFBI	K03655	recG; ATP-dependent DNA helicase RecG [EC:3.6.4.12]	298		
+tr|U2DU30|U2DU30_BIFBI			113		
+tr|U2DVH2|U2DVH2_BIFBI			213		
+tr|U2CFN0|U2CFN0_BIFBI	K02851	wecA; UDP-GlcNAc:undecaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33]	399		
+tr|U2CEW9|U2CEW9_BIFBI	K02881	RP-L18; large subunit ribosomal protein L18	177		
+tr|U2DVF2|U2DVF2_BIFBI	K01153	hsdR; type I restriction enzyme, R subunit [EC:3.1.21.3]	1249		
+tr|U2DS34|U2DS34_BIFBI	K02965	RP-S19; small subunit ribosomal protein S19	180		
+tr|U2BX60|U2BX60_BIFBI			16	K01890	2
+tr|U2BW44|U2BW44_BIFBI			442		
+tr|U2DS14|U2DS14_BIFBI	K01515	nudF; ADP-ribose pyrophosphatase [EC:3.6.1.13]	126		
+tr|U2DX01|U2DX01_BIFBI	K05364	E2.4.1.129; peptidoglycan glycosyltransferase [EC:2.4.1.129]	187		
+tr|U2CFV0|U2CFV0_BIFBI			405		
+tr|U2CE19|U2CE19_BIFBI	K00989	rph; ribonuclease PH [EC:2.7.7.56]	369		
+tr|U2BYE6|U2BYE6_BIFBI	K03588	ftsW; cell division protein FtsW	311		
+tr|U2CEP1|U2CEP1_BIFBI	K08303	putative protease [EC:3.4.-.-]	403		
+tr|U2CDX6|U2CDX6_BIFBI	K00965	galT; UDPglucose--hexose-1-phosphate uridylyltransferase [EC:2.7.7.12]	536		
+tr|U2DTR2|U2DTR2_BIFBI			1162		
+tr|U2DNT3|U2DNT3_BIFBI	K01524	ppx-gppA; exopolyphosphatase / guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase [EC:3.6.1.11 3.6.1.40]	77		
+tr|U2BYP9|U2BYP9_BIFBI			14	K03046	2
+tr|U2DX31|U2DX31_BIFBI	K03702	uvrB; excinuclease ABC subunit B	1078		
+tr|U2CDK5|U2CDK5_BIFBI	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	268		
+tr|U2BZ66|U2BZ66_BIFBI			20	K01129	2
+tr|U2CES9|U2CES9_BIFBI			121	K20429	108
+tr|U2BWC7|U2BWC7_BIFBI	K02037	pstC; phosphate transport system permease protein	296		
+tr|U2DMR6|U2DMR6_BIFBI	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	55		
+tr|U2CDI7|U2CDI7_BIFBI			1347		
+tr|U2CCK0|U2CCK0_BIFBI			28	K07088	15
+tr|U2DMD4|U2DMD4_BIFBI			211		
+tr|U2BV80|U2BV80_BIFBI			369		
+tr|U2DLY3|U2DLY3_BIFBI	K02906	RP-L3; large subunit ribosomal protein L3	313		
+tr|U2CI37|U2CI37_BIFBI	K04069	pflA; pyruvate formate lyase activating enzyme [EC:1.97.1.4]	391		
+tr|U2BZA2|U2BZA2_BIFBI	K01952	purL; phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	1790		
+tr|U2DNL4|U2DNL4_BIFBI	K07478	ycaJ; putative ATPase	567		
+tr|U2C006|U2C006_BIFBI			124		
+tr|U2BXK7|U2BXK7_BIFBI			174		
+tr|U2DU46|U2DU46_BIFBI	K03427	hsdM; type I restriction enzyme M protein [EC:2.1.1.72]	705		
+tr|U2CEK7|U2CEK7_BIFBI			668		
+tr|U2CHM2|U2CHM2_BIFBI	K03925	mraZ; MraZ protein	204		
+tr|U2C180|U2C180_BIFBI			420		
+tr|U2DU49|U2DU49_BIFBI			41	K07075	2
+tr|U2CG52|U2CG52_BIFBI			16	K00615	4
+tr|U2DQ15|U2DQ15_BIFBI	K00868	pdxK; pyridoxine kinase [EC:2.7.1.35]	383		
+tr|U2CEF8|U2CEF8_BIFBI			25	K02057	1
+tr|U2CEU6|U2CEU6_BIFBI	K02887	RP-L20; large subunit ribosomal protein L20	213		
+tr|U2CF31|U2CF31_BIFBI	K09022	ridA; 2-iminobutanoate/2-iminopropanoate deaminase [EC:3.5.99.10]	70		
+tr|U2DT71|U2DT71_BIFBI	K01091	gph; phosphoglycolate phosphatase [EC:3.1.3.18]	56		
+tr|U2CH62|U2CH62_BIFBI			255		
+tr|U2CGB7|U2CGB7_BIFBI					
+tr|U2BZV2|U2BZV2_BIFBI	K15634	gpmB; probable phosphoglycerate mutase [EC:5.4.2.12]	87	K01834	25
+tr|U2CIK7|U2CIK7_BIFBI			112		
+tr|U2CE29|U2CE29_BIFBI			55	K00627	2
+tr|U2CK15|U2CK15_BIFBI	K02075	ABC.ZM.P; zinc/manganese transport system permease protein	251		
+tr|U2BZU8|U2BZU8_BIFBI			173		
+tr|U2DX05|U2DX05_BIFBI			263		
+tr|U2CHU7|U2CHU7_BIFBI			22	K04095	5
+tr|U2DMG3|U2DMG3_BIFBI	K03734	apbE; FAD:protein FMN transferase [EC:2.7.1.180]	189		
+tr|U2DPZ7|U2DPZ7_BIFBI	K02073	metQ; D-methionine transport system substrate-binding protein	238		
+tr|U2DWA5|U2DWA5_BIFBI	K03564	BCP; peroxiredoxin Q/BCP [EC:1.11.1.15]	186		
+tr|U2DRN5|U2DRN5_BIFBI	K07047	uncharacterized protein	274		
+tr|U2CJP8|U2CJP8_BIFBI	K03501	gidB; 16S rRNA (guanine527-N7)-methyltransferase [EC:2.1.1.170]	198		
+tr|U2DRL7|U2DRL7_BIFBI			218		
+tr|U2DNV0|U2DNV0_BIFBI			292		
+tr|U2DVW5|U2DVW5_BIFBI			259		
+tr|U2DNC7|U2DNC7_BIFBI	K00278	nadB; L-aspartate oxidase [EC:1.4.3.16]	438		
+tr|U2CGX1|U2CGX1_BIFBI	K01870	IARS; isoleucyl-tRNA synthetase [EC:6.1.1.5]	1466		
+tr|U2CJX7|U2CJX7_BIFBI			454		
+tr|U2CFR8|U2CFR8_BIFBI	K02027	ABC.MS.S; multiple sugar transport system substrate-binding protein	311		
+tr|U2DLB9|U2DLB9_BIFBI	K00324	pntA; NAD(P) transhydrogenase subunit alpha [EC:1.6.1.2]	91		
+tr|U2DUN1|U2DUN1_BIFBI			20	K00760	1
+tr|U2DTM8|U2DTM8_BIFBI			143		
+tr|U2BW63|U2BW63_BIFBI	K00558	DNMT1; DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]	313		
+tr|U2BYX1|U2BYX1_BIFBI	K02548	menA; 1,4-dihydroxy-2-naphthoate octaprenyltransferase [EC:2.5.1.74 2.5.1.-]	201		
+tr|U2DLC8|U2DLC8_BIFBI			367		
+tr|U2DTG7|U2DTG7_BIFBI	K04763	xerD; integrase/recombinase XerD	323		
+tr|U2BYM5|U2BYM5_BIFBI			49	K00018	46
+tr|U2CDG1|U2CDG1_BIFBI	K02919	RP-L36; large subunit ribosomal protein L36	75		
+tr|U2DV34|U2DV34_BIFBI	K06942	ychF; ribosome-binding ATPase	541		
+tr|U2C1N9|U2C1N9_BIFBI			18	K01839	1
+tr|U2DRQ0|U2DRQ0_BIFBI	K06958	rapZ; RNase adapter protein RapZ	383		
+tr|U2DRK7|U2DRK7_BIFBI			171	K07741	45
+tr|U2DLS6|U2DLS6_BIFBI			385		
+tr|U2DPK1|U2DPK1_BIFBI			18	K01897	1
+tr|U2DUU9|U2DUU9_BIFBI	K07089	uncharacterized protein	114		
+tr|U2CIR4|U2CIR4_BIFBI			67		
+tr|U2CCL0|U2CCL0_BIFBI	K07507	mgtC; putative Mg2+ transporter-C (MgtC) family protein	54		
+tr|U2DUM2|U2DUM2_BIFBI			245		
+tr|U2DTY3|U2DTY3_BIFBI	K03624	greA; transcription elongation factor GreA	193		
+tr|U2DRC2|U2DRC2_BIFBI	K01810	GPI; glucose-6-phosphate isomerase [EC:5.3.1.9]	884		
+tr|U2DRN9|U2DRN9_BIFBI	K00384	trxB; thioredoxin reductase (NADPH) [EC:1.8.1.9]	558		
+tr|U2CEX3|U2CEX3_BIFBI			234		
+tr|U2CDD8|U2CDD8_BIFBI	K02886	RP-L2; large subunit ribosomal protein L2	478		
+tr|U2CFQ5|U2CFQ5_BIFBI	K02314	dnaB; replicative DNA helicase [EC:3.6.4.12]	605		
+tr|U2DTS4|U2DTS4_BIFBI			651		
+tr|U2BY78|U2BY78_BIFBI			22	K19175	1
+tr|U2BVR2|U2BVR2_BIFBI	K02775	PTS-Gat-EIIC; PTS system, galactitol-specific IIC component	466		
+tr|U2CIQ9|U2CIQ9_BIFBI			334		
+tr|U2CEZ3|U2CEZ3_BIFBI	K13570	pup; prokaryotic ubiquitin-like protein Pup	47		
+tr|U2DMW8|U2DMW8_BIFBI	K01869	LARS; leucyl-tRNA synthetase [EC:6.1.1.4]	1421		
+tr|U2DTM2|U2DTM2_BIFBI			263		
+tr|U2BWQ7|U2BWQ7_BIFBI	K01512	acyP; acylphosphatase [EC:3.6.1.7]	78		
+tr|U2CEI2|U2CEI2_BIFBI	K07154	hipA; serine/threonine-protein kinase HipA [EC:2.7.11.1]	313		
+tr|U2DNK3|U2DNK3_BIFBI	K01876	DARS; aspartyl-tRNA synthetase [EC:6.1.1.12]	884		
+tr|U2DQU6|U2DQU6_BIFBI			532		
+tr|U2BX72|U2BX72_BIFBI	K07503	nucS; endonuclease [EC:3.1.-.-]	304		
+tr|U2CF28|U2CF28_BIFBI			301		
+tr|U2CI90|U2CI90_BIFBI	K03475	PTS-Ula-EIIC; PTS system, ascorbate-specific IIC component	587		
+tr|U2DLV9|U2DLV9_BIFBI			306		
+tr|U2CG30|U2CG30_BIFBI	K03111	ssb; single-strand DNA-binding protein	186		
+tr|U2CH31|U2CH31_BIFBI	K05340	glcU; glucose uptake protein	168		
+tr|U2DLI6|U2DLI6_BIFBI	K00965	galT; UDPglucose--hexose-1-phosphate uridylyltransferase [EC:2.7.7.12]	412		
+tr|U2CIB1|U2CIB1_BIFBI			12	K01878	6
+tr|U2CFI9|U2CFI9_BIFBI	K01186	NEU1; sialidase-1 [EC:3.2.1.18]	156		
+tr|U2DQR5|U2DQR5_BIFBI	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	263		
+tr|U2CHK5|U2CHK5_BIFBI	K19577	ydhP; MFS transporter, DHA1 family, inner membrane transport protein	26		
+tr|U2CDL8|U2CDL8_BIFBI	K00527	nrdD; ribonucleoside-triphosphate reductase [EC:1.17.4.2]	1038		
+tr|U2CDH0|U2CDH0_BIFBI			157	K20420	4
+tr|U2CDY4|U2CDY4_BIFBI			16	K00304	2
+tr|U2CHL1|U2CHL1_BIFBI			161		
+tr|U2CCY8|U2CCY8_BIFBI	K07260	vanY; D-alanyl-D-alanine carboxypeptidase [EC:3.4.16.4]	202		
+tr|U2CEJ6|U2CEJ6_BIFBI			187	K07452	4
+tr|U2CFI1|U2CFI1_BIFBI			21	K01232	2
+tr|U2BZR8|U2BZR8_BIFBI			338		
+tr|U2DRQ5|U2DRQ5_BIFBI	K03075	secG; preprotein translocase subunit SecG	102		
+tr|U2CIU5|U2CIU5_BIFBI	K09812	ftsE; cell division transport system ATP-binding protein	358		
+tr|U2DN24|U2DN24_BIFBI			683	K13573	5
+tr|U2CD81|U2CD81_BIFBI			376		
+tr|U2BY54|U2BY54_BIFBI	K10007	gluD; glutamate transport system permease protein	334		
+tr|U2DRJ4|U2DRJ4_BIFBI	K01937	pyrG; CTP synthase [EC:6.3.4.2]	876		
+tr|U2CD67|U2CD67_BIFBI			69		
+tr|U2CGW2|U2CGW2_BIFBI	K00865	glxK; glycerate kinase [EC:2.7.1.31]	370		
+tr|U2DLY7|U2DLY7_BIFBI	K02890	RP-L22; large subunit ribosomal protein L22	173		
+tr|U2CE02|U2CE02_BIFBI	K00793	ribE; riboflavin synthase [EC:2.5.1.9]	16		
+tr|U2BWM4|U2BWM4_BIFBI			279		
+tr|U2C191|U2C191_BIFBI	K00012	UGDH; UDPglucose 6-dehydrogenase [EC:1.1.1.22]	520		
+tr|U2CFI2|U2CFI2_BIFBI	K02033	ABC.PE.P; peptide/nickel transport system permease protein	294		
+tr|U2BVM2|U2BVM2_BIFBI	K00554	trmD; tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228]	310		
+tr|U2BWV9|U2BWV9_BIFBI			16	K02016	1
+tr|U2CEX4|U2CEX4_BIFBI	K00939	adk; adenylate kinase [EC:2.7.4.3]	245		
+tr|U2CGP7|U2CGP7_BIFBI	K03823	pat; phosphinothricin acetyltransferase [EC:2.3.1.183]	103		
+tr|U2DTN4|U2DTN4_BIFBI			106		
+tr|U2DV23|U2DV23_BIFBI			178		
+tr|U2DR86|U2DR86_BIFBI			19	K00789	2
+tr|U2BVZ6|U2BVZ6_BIFBI			20	K03526	1
+tr|U2CHJ0|U2CHJ0_BIFBI			17	K03168	1
+tr|U2CDC1|U2CDC1_BIFBI			240		
+tr|U2DRP4|U2DRP4_BIFBI			312		
+tr|U2C0J0|U2C0J0_BIFBI			21	K01887	2
+tr|U2C1M1|U2C1M1_BIFBI	K20074	prpC; PPM family protein phosphatase [EC:3.1.3.16]	403		
+tr|U2BXS3|U2BXS3_BIFBI			180		
+tr|U2BYC3|U2BYC3_BIFBI			315		
+tr|U2BXW8|U2BXW8_BIFBI	K06024	scpB; segregation and condensation protein B	199		
+tr|U2BXG2|U2BXG2_BIFBI	K10005	gluB; glutamate transport system substrate-binding protein	133		
+tr|U2C0H7|U2C0H7_BIFBI	K13525	VCP; transitional endoplasmic reticulum ATPase	193		
+tr|U2CFF7|U2CFF7_BIFBI	K08972	putative membrane protein	69		
+tr|U2DRE8|U2DRE8_BIFBI			193		
+tr|U2BYD8|U2BYD8_BIFBI	K01752	E4.3.1.17; L-serine dehydratase [EC:4.3.1.17]	525		
+tr|U2DX12|U2DX12_BIFBI			101	K07497	13
+tr|U2DUD3|U2DUD3_BIFBI			20	K02014	2
+tr|U2DMF0|U2DMF0_BIFBI			14	K02759	9
+tr|U2CGT5|U2CGT5_BIFBI			27	K07175	2
+tr|U2CEW7|U2CEW7_BIFBI	K02031	ABC.PE.A; peptide/nickel transport system ATP-binding protein	678	K02031	98
+	K02032	ABC.PE.A1; peptide/nickel transport system ATP-binding protein			
+tr|U2CHE1|U2CHE1_BIFBI	K02755	PTS-Bgl-EIIA; PTS system, beta-glucoside-specific IIA component [EC:2.7.1.-]	632		
+	K02756	PTS-Bgl-EIIB; PTS system, beta-glucoside-specific IIB component [EC:2.7.1.-]			
+	K02757	PTS-Bgl-EIIC; PTS system, beta-glucoside-specific IIC component			
+tr|U2DRL0|U2DRL0_BIFBI	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	368	K09691	24
+tr|U2BYE3|U2BYE3_BIFBI	K03587	ftsI; cell division protein FtsI (penicillin-binding protein 3)	483		
+tr|U2BYR3|U2BYR3_BIFBI			112	K13633	26
+tr|U2CFE1|U2CFE1_BIFBI			738		
+tr|U2CI82|U2CI82_BIFBI	K08177	oxlT; MFS transporter, OFA family, oxalate/formate antiporter	356		
+tr|U2C1D5|U2C1D5_BIFBI			23	K02529	10
+tr|U2CI56|U2CI56_BIFBI			18	K00101	5
+tr|U2CG87|U2CG87_BIFBI			104	K00700	4
+tr|U2C0U8|U2C0U8_BIFBI	K03427	hsdM; type I restriction enzyme M protein [EC:2.1.1.72]	726		
+tr|U2DQI7|U2DQI7_BIFBI			146		
+tr|U2DRX9|U2DRX9_BIFBI			338		
+tr|U2CDW7|U2CDW7_BIFBI			505		
+tr|U2CED7|U2CED7_BIFBI	K06915	uncharacterized protein	211		
+tr|U2BVS9|U2BVS9_BIFBI			324	K06221	28
+tr|U2CI77|U2CI77_BIFBI	K01867	WARS; tryptophanyl-tRNA synthetase [EC:6.1.1.2]	553		
+tr|U2CI54|U2CI54_BIFBI	K09974	uncharacterized protein	161		
+tr|U2CCS6|U2CCS6_BIFBI	K03595	era; GTPase	348		
+tr|U2DLA3|U2DLA3_BIFBI	K16148	glgA; starch synthase [EC:2.4.1.21]	541		
+tr|U2BX15|U2BX15_BIFBI	K00133	asd; aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]	553		
+tr|U2DSB5|U2DSB5_BIFBI	K11358	yhdR; aspartate aminotransferase [EC:2.6.1.1]	451		
+tr|U2CCF2|U2CCF2_BIFBI			396		
+tr|U2DT90|U2DT90_BIFBI	K06188	aqpZ; aquaporin Z	110		
+tr|U2DPV6|U2DPV6_BIFBI			225		
+tr|U2CD84|U2CD84_BIFBI	K01243	mtnN; adenosylhomocysteine nucleosidase [EC:3.2.2.9]	194		
+tr|U2C0B3|U2C0B3_BIFBI			204		
+tr|U2BXL2|U2BXL2_BIFBI	K01607	pcaC; 4-carboxymuconolactone decarboxylase [EC:4.1.1.44]	67		
+tr|U2CF65|U2CF65_BIFBI			224		
+tr|U2DWR4|U2DWR4_BIFBI			11	K02768/K08483/K11183	2
+tr|U2DL48|U2DL48_BIFBI			139		
+tr|U2CDE9|U2CDE9_BIFBI	K02954	RP-S14; small subunit ribosomal protein S14	122		
+tr|U2DV00|U2DV00_BIFBI			191		
+tr|U2DQM1|U2DQM1_BIFBI	K02863	RP-L1; large subunit ribosomal protein L1	339		
+tr|U2CF50|U2CF50_BIFBI	K02440	GLPF; glycerol uptake facilitator protein	301		
+tr|U2DSD8|U2DSD8_BIFBI			120		
+tr|U2CDV8|U2CDV8_BIFBI	K07024	uncharacterized protein	50		
+tr|U2CFE6|U2CFE6_BIFBI			267		
+tr|U2DWV8|U2DWV8_BIFBI			1178		
+tr|U2DPS2|U2DPS2_BIFBI			101		
+tr|U2DMY7|U2DMY7_BIFBI			33	K02484	2
+tr|U2DR16|U2DR16_BIFBI	K00690	E2.4.1.7; sucrose phosphorylase [EC:2.4.1.7]	162		
+tr|U2CEG1|U2CEG1_BIFBI			77	K02483	4
+tr|U2C0V3|U2C0V3_BIFBI			132		
+tr|U2CD99|U2CD99_BIFBI			377		
+tr|U2DV46|U2DV46_BIFBI			521	K01259	74
+tr|U2DNI1|U2DNI1_BIFBI	K03704	cspA; cold shock protein (beta-ribbon, CspA family)	73		
+tr|U2DL65|U2DL65_BIFBI			13	K01662	3
+tr|U2CG77|U2CG77_BIFBI	K01933	purM; phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.3.1]	464		
+tr|U2DRR9|U2DRR9_BIFBI	K02313	dnaA; chromosomal replication initiator protein	474		
+tr|U2DQZ1|U2DQZ1_BIFBI	K03578	hrpA; ATP-dependent helicase HrpA [EC:3.6.4.13]	1302		
+tr|U2DNV3|U2DNV3_BIFBI	K01443	nagA; N-acetylglucosamine-6-phosphate deacetylase [EC:3.5.1.25]	353		
+tr|U2CEB9|U2CEB9_BIFBI			147		
+tr|U2BX22|U2BX22_BIFBI			72		
+tr|U2DLJ1|U2DLJ1_BIFBI			68		
+tr|U2DW07|U2DW07_BIFBI	K02337	DPO3A1; DNA polymerase III subunit alpha [EC:2.7.7.7]	1563		
+tr|U2BVP3|U2BVP3_BIFBI	K02428	rdgB; XTP/dITP diphosphohydrolase [EC:3.6.1.66]	234		
+tr|U2BXR7|U2BXR7_BIFBI			17	K03808	3
+tr|U2DRU4|U2DRU4_BIFBI	K07407	E3.2.1.22B; alpha-galactosidase [EC:3.2.1.22]	583		
+tr|U2DQB3|U2DQB3_BIFBI			142		
+tr|U2CDX7|U2CDX7_BIFBI			16	K03924	3
+tr|U2BXF3|U2BXF3_BIFBI	K01409	KAE1; N6-L-threonylcarbamoyladenine synthase [EC:2.3.1.234]	478		
+tr|U2DQ85|U2DQ85_BIFBI	K03631	recN; DNA repair protein RecN (Recombination protein N)	437		
+tr|U2CHU9|U2CHU9_BIFBI	K00783	rlmH; 23S rRNA (pseudouridine1915-N3)-methyltransferase [EC:2.1.1.177]	209		
+tr|U2CGI5|U2CGI5_BIFBI			221		
+tr|U2DUS7|U2DUS7_BIFBI			120		
+tr|U2CEZ7|U2CEZ7_BIFBI			450		
+tr|U2DN19|U2DN19_BIFBI					
+tr|U2DSR1|U2DSR1_BIFBI			205		
+tr|U2CER2|U2CER2_BIFBI	K00982	glnE; glutamate-ammonia-ligase adenylyltransferase [EC:2.7.7.42]	933		
+tr|U2CEE2|U2CEE2_BIFBI			216		
+tr|U2DNW9|U2DNW9_BIFBI			18	K07309	2
+tr|U2DSW0|U2DSW0_BIFBI			318		
+tr|U2BYX7|U2BYX7_BIFBI			53	K03466	2
+tr|U2DU53|U2DU53_BIFBI			28	K11996	5
+tr|U2DN32|U2DN32_BIFBI			213		
+tr|U2BVL0|U2BVL0_BIFBI			229		
+tr|U2CF21|U2CF21_BIFBI	K06287	maf; septum formation protein	154		
+tr|U2CD47|U2CD47_BIFBI			298		
+tr|U2BVT8|U2BVT8_BIFBI			18	K02495	3
+tr|U2DQV4|U2DQV4_BIFBI	K00099	dxr; 1-deoxy-D-xylulose-5-phosphate reductoisomerase [EC:1.1.1.267]	440		
+tr|U2DLB5|U2DLB5_BIFBI	K00826	E2.6.1.42; branched-chain amino acid aminotransferase [EC:2.6.1.42]	479		
+tr|U2DMS7|U2DMS7_BIFBI			586		
+tr|U2CII5|U2CII5_BIFBI	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	643		
+tr|U2DU61|U2DU61_BIFBI	K02034	ABC.PE.P1; peptide/nickel transport system permease protein	237		
+tr|U2CEA8|U2CEA8_BIFBI	K09013	sufC; Fe-S cluster assembly ATP-binding protein	403		
+tr|U2CGR5|U2CGR5_BIFBI			119		
+tr|U2CGB3|U2CGB3_BIFBI	K00767	nadC; nicotinate-nucleotide pyrophosphorylase (carboxylating) [EC:2.4.2.19]	338		
+tr|U2BVL9|U2BVL9_BIFBI			221	K06915	4
+tr|U2CHT6|U2CHT6_BIFBI			296		
+tr|U2CEW4|U2CEW4_BIFBI	K02895	RP-L24; large subunit ribosomal protein L24	147		
+tr|U2BX98|U2BX98_BIFBI	K03719	lrp; Lrp/AsnC family transcriptional regulator, leucine-responsive regulatory protein	153		
+tr|U2DUP5|U2DUP5_BIFBI			142		
+tr|U2DQ94|U2DQ94_BIFBI	K01866	YARS; tyrosyl-tRNA synthetase [EC:6.1.1.1]	566		
+tr|U2CH21|U2CH21_BIFBI			261		
+tr|U2CDR6|U2CDR6_BIFBI	K02601	nusG; transcriptional antiterminator NusG	273		
+tr|U2CFZ9|U2CFZ9_BIFBI			456		
+tr|U2CI75|U2CI75_BIFBI			189		
+tr|U2CCL4|U2CCL4_BIFBI	K02050	ABC.SN.P; NitT/TauT family transport system permease protein	588		
+tr|U2C1E7|U2C1E7_BIFBI	K03536	rnpA; ribonuclease P protein component [EC:3.1.26.5]	60		
+tr|U2C1S2|U2C1S2_BIFBI	K03503	DPO5D; DNA polymerase V [EC:3.4.21.-]	143		
+tr|U2BX83|U2BX83_BIFBI			423		
+tr|U2BYS1|U2BYS1_BIFBI			23	K07638	10
+tr|U2DSM4|U2DSM4_BIFBI	K01854	glf; UDP-galactopyranose mutase [EC:5.4.99.9]	568		
+tr|U2C0W7|U2C0W7_BIFBI			107		
+tr|U2CIX7|U2CIX7_BIFBI			19	K00764	2
+tr|U2CG20|U2CG20_BIFBI			39	K06236	1
+tr|U2DP10|U2DP10_BIFBI			207	K02031	58
+tr|U2DW22|U2DW22_BIFBI	K01814	hisA; phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase [EC:5.3.1.16]	268	K01814	44
+	K01817	trpF; phosphoribosylanthranilate isomerase [EC:5.3.1.24]			
+tr|U2BVH6|U2BVH6_BIFBI			256		
+tr|U2DN56|U2DN56_BIFBI	K01159	ruvC; crossover junction endodeoxyribonuclease RuvC [EC:3.1.22.4]	227		
+tr|U2BV74|U2BV74_BIFBI			343		
+tr|U2BYP4|U2BYP4_BIFBI			31	K18926	10
+tr|U2BXE5|U2BXE5_BIFBI	K02967	RP-S2; small subunit ribosomal protein S2	381		
+tr|U2BZS4|U2BZS4_BIFBI	K00656	E2.3.1.54; formate C-acetyltransferase [EC:2.3.1.54]	1183		
+tr|U2DW57|U2DW57_BIFBI	K01939	purA; adenylosuccinate synthase [EC:6.3.4.4]	658		
+tr|U2BX75|U2BX75_BIFBI	K02111	ATPF1A; F-type H+-transporting ATPase subunit alpha [EC:3.6.3.14]	860		
+tr|U2BZE2|U2BZE2_BIFBI	K00951	relA; GTP pyrophosphokinase [EC:2.7.6.5]	1071		
+tr|U2DWP8|U2DWP8_BIFBI			216		
+tr|U2DT93|U2DT93_BIFBI	K01903	sucC; succinyl-CoA synthetase beta subunit [EC:6.2.1.5]	374		
+tr|U2CJW4|U2CJW4_BIFBI	K01421	yhgE; putative membrane protein	211		
+tr|U2DP53|U2DP53_BIFBI			510		
+tr|U2CG57|U2CG57_BIFBI			18	K06207	2
+tr|U2CII9|U2CII9_BIFBI	K01421	yhgE; putative membrane protein	645		
+tr|U2DTL0|U2DTL0_BIFBI	K13571	pafA; proteasome accessory factor A [EC:6.3.1.19]	354		
+tr|U2DKY7|U2DKY7_BIFBI			303		
+tr|U2CHB4|U2CHB4_BIFBI			118		
+tr|U2DM95|U2DM95_BIFBI	K03111	ssb; single-strand DNA-binding protein	181		
+tr|U2DP46|U2DP46_BIFBI	K02493	hemK; release factor glutamine methyltransferase [EC:2.1.1.297]	246		
+tr|U2DV29|U2DV29_BIFBI			155		
+tr|U2DTI3|U2DTI3_BIFBI	K03733	xerC; integrase/recombinase XerC	294		
+tr|U2DSP2|U2DSP2_BIFBI	K00937	ppk; polyphosphate kinase [EC:2.7.4.1]	1068		
+tr|U2DNG3|U2DNG3_BIFBI	K03530	hupB; DNA-binding protein HU-beta	137		
+tr|U2CHG6|U2CHG6_BIFBI			264		
+tr|U2CIJ9|U2CIJ9_BIFBI			285		
+tr|U2DSE3|U2DSE3_BIFBI	K02963	RP-S18; small subunit ribosomal protein S18	118		
+tr|U2C1T1|U2C1T1_BIFBI			610		
+tr|U2CEE7|U2CEE7_BIFBI			70	K03827	5
+tr|U2DUD0|U2DUD0_BIFBI	K10805	tesB; acyl-CoA thioesterase II [EC:3.1.2.-]	318		
+tr|U2CI18|U2CI18_BIFBI	K00240	sdhB; succinate dehydrogenase / fumarate reductase, iron-sulfur subunit [EC:1.3.5.1 1.3.5.4]	218	K00245	15
+tr|U2BXY9|U2BXY9_BIFBI			260		
+tr|U2C0P1|U2C0P1_BIFBI			11	K03046	3
+tr|U2C1A0|U2C1A0_BIFBI			241		
+tr|U2BYN4|U2BYN4_BIFBI			190		
+tr|U2BYD3|U2BYD3_BIFBI			167		
+tr|U2CHP7|U2CHP7_BIFBI	K02919	RP-L36; large subunit ribosomal protein L36	56		
+tr|U2BXH1|U2BXH1_BIFBI			171		
+tr|U2DUG4|U2DUG4_BIFBI					
+tr|U2DVN1|U2DVN1_BIFBI			299		
+tr|U2CFD5|U2CFD5_BIFBI			324		
+tr|U2DMX2|U2DMX2_BIFBI	K15634	gpmB; probable phosphoglycerate mutase [EC:5.4.2.12]	92	K01834	43
+tr|U2DMZ7|U2DMZ7_BIFBI			18	K01621	2
+tr|U2CIZ1|U2CIZ1_BIFBI			264		
+tr|U2BW33|U2BW33_BIFBI	K03703	uvrC; excinuclease ABC subunit C	765		
+tr|U2CHS2|U2CHS2_BIFBI			184		
+tr|U2CFR4|U2CFR4_BIFBI	K12410	npdA; NAD-dependent deacetylase [EC:3.5.1.-]	283		
+tr|U2BY13|U2BY13_BIFBI	K01756	purB; adenylosuccinate lyase [EC:4.3.2.2]	619		
+tr|U2BXN1|U2BXN1_BIFBI	K01523	hisE; phosphoribosyl-ATP pyrophosphohydrolase [EC:3.6.1.31]	132		
+tr|U2DQ55|U2DQ55_BIFBI			24	K07171	1
+tr|U2DS45|U2DS45_BIFBI	K02994	RP-S8; small subunit ribosomal protein S8	209		
+tr|U2CGC3|U2CGC3_BIFBI	K02033	ABC.PE.P; peptide/nickel transport system permease protein	352		
+tr|U2DQ89|U2DQ89_BIFBI	K06442	tlyA; 23S rRNA (cytidine1920-2'-O)/16S rRNA (cytidine1409-2'-O)-methyltransferase [EC:2.1.1.226 2.1.1.227]	240		
+tr|U2DRT2|U2DRT2_BIFBI	K00773	tgt; queuine tRNA-ribosyltransferase [EC:2.4.2.29]	609		
+tr|U2CH70|U2CH70_BIFBI	K04075	tilS; tRNA(Ile)-lysidine synthase [EC:6.3.4.19]	246		
+tr|U2DWR6|U2DWR6_BIFBI	K00262	E1.4.1.4; glutamate dehydrogenase (NADP+) [EC:1.4.1.4]	687		
+tr|U2BZZ3|U2BZZ3_BIFBI			340		
+tr|U2DSQ6|U2DSQ6_BIFBI			46	K02529	37
+tr|U2DL90|U2DL90_BIFBI			262		
+tr|U2DSX0|U2DSX0_BIFBI	K07009	uncharacterized protein	289		
+tr|U2CJK0|U2CJK0_BIFBI			578		
+tr|U2CHI9|U2CHI9_BIFBI			308		
+tr|U2BZ31|U2BZ31_BIFBI	K01057	PGLS; 6-phosphogluconolactonase [EC:3.1.1.31]	186		
+tr|U2DU65|U2DU65_BIFBI			115	K11059	4
+tr|U2DMK7|U2DMK7_BIFBI			18	K02495	1
+tr|U2BVW8|U2BVW8_BIFBI	K02503	HINT1; histidine triad (HIT) family protein	116		
+tr|U2DTQ3|U2DTQ3_BIFBI	K01892	HARS; histidyl-tRNA synthetase [EC:6.1.1.21]	564		
+tr|U2DT24|U2DT24_BIFBI			19	K02926	1
+tr|U2BXZ4|U2BXZ4_BIFBI	K12952	ctpE; cation-transporting ATPase E [EC:3.6.3.-]	401		
+tr|U2CGU0|U2CGU0_BIFBI	K01755	argH; argininosuccinate lyase [EC:4.3.2.1]	663		
+tr|U2CE38|U2CE38_BIFBI			185	K05346	14
+tr|U2BWU4|U2BWU4_BIFBI	K16785	ecfT; energy-coupling factor transport system permease protein	112		
+tr|U2BZQ2|U2BZQ2_BIFBI	K14155	patB; cystathione beta-lyase [EC:4.4.1.8]	341		
+tr|U2CG07|U2CG07_BIFBI	K04567	KARS; lysyl-tRNA synthetase, class II [EC:6.1.1.6]	720		
+tr|U2CER0|U2CER0_BIFBI	K06901	pbuG; putative MFS transporter, AGZA family, xanthine/uracil permease	621		
+tr|U2CHC5|U2CHC5_BIFBI	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	725		
+tr|U2CGC5|U2CGC5_BIFBI			180		
+tr|U2DQI1|U2DQI1_BIFBI			110		
+tr|U2C0C2|U2C0C2_BIFBI					
+tr|U2CCQ7|U2CCQ7_BIFBI	K00265	gltB; glutamate synthase (NADPH/NADH) large chain [EC:1.4.1.13 1.4.1.14]	1959		
+tr|U2DSC6|U2DSC6_BIFBI			17	K01129	1
+tr|U2DRS1|U2DRS1_BIFBI	K06346	jag; spoIIIJ-associated protein	212		
+tr|U2BZC7|U2BZC7_BIFBI	K02911	RP-L32; large subunit ribosomal protein L32	51		
+tr|U2C0F9|U2C0F9_BIFBI	K01776	murI; glutamate racemase [EC:5.1.1.3]	258		
+tr|U2DL00|U2DL00_BIFBI	K03426	E3.6.1.22; NAD+ diphosphatase [EC:3.6.1.22]	208		
+tr|U2CJZ2|U2CJZ2_BIFBI	K01710	E4.2.1.46; dTDP-glucose 4,6-dehydratase [EC:4.2.1.46]	489		
+tr|U2CGU4|U2CGU4_BIFBI			186	K03458	92
+tr|U2BXP7|U2BXP7_BIFBI	K03551	ruvB; holliday junction DNA helicase RuvB [EC:3.6.4.12]	463		
+tr|U2BZX8|U2BZX8_BIFBI	K00620	argJ; glutamate N-acetyltransferase / amino-acid N-acetyltransferase [EC:2.3.1.35 2.3.1.1]	437		
+tr|U2DQJ6|U2DQJ6_BIFBI			167		
+tr|U2CE10|U2CE10_BIFBI			290		
+tr|U2CFW8|U2CFW8_BIFBI	K16209	lacS; lactose/raffinose/galactose permease	472		
+tr|U2C0S7|U2C0S7_BIFBI			21	K03500	3
+tr|U2CDS1|U2CDS1_BIFBI	K03979	obgE; GTPase [EC:3.6.5.-]	671		
+tr|U2DVD7|U2DVD7_BIFBI	K01733	thrC; threonine synthase [EC:4.2.3.1]	558		
+tr|U2C1N4|U2C1N4_BIFBI			131		
+tr|U2CF55|U2CF55_BIFBI			211		
+tr|U2DWT8|U2DWT8_BIFBI	K00384	trxB; thioredoxin reductase (NADPH) [EC:1.8.1.9]	345		
+tr|U2C1E2|U2C1E2_BIFBI			161		
+tr|U2CFX7|U2CFX7_BIFBI	K03469	rnhA; ribonuclease HI [EC:3.1.26.4]	224		
+tr|U2DUA6|U2DUA6_BIFBI	K01265	map; methionyl aminopeptidase [EC:3.4.11.18]	386		
+tr|U2BY03|U2BY03_BIFBI	K00604	MTFMT; methionyl-tRNA formyltransferase [EC:2.1.2.9]	311		
+tr|U2CFN5|U2CFN5_BIFBI	K13288	orn; oligoribonuclease [EC:3.1.-.-]	266		
+tr|U2BW93|U2BW93_BIFBI			224		
+tr|U2CGA6|U2CGA6_BIFBI	K05896	scpA; segregation and condensation protein A	234		
+tr|U2DVX5|U2DVX5_BIFBI			140		
+tr|U2DMP8|U2DMP8_BIFBI			144		
+tr|U2CIM7|U2CIM7_BIFBI			247		
+tr|U2DMK5|U2DMK5_BIFBI			155		
+tr|U2BV90|U2BV90_BIFBI	K01919	gshA; glutamate--cysteine ligase [EC:6.3.2.2]	297		
+tr|U2DNR1|U2DNR1_BIFBI			36	K18827	4
+tr|U2BWF8|U2BWF8_BIFBI			167		
+tr|U2DPG3|U2DPG3_BIFBI			16	K10187	2
+tr|U2BV55|U2BV55_BIFBI	K03924	moxR; MoxR-like ATPase [EC:3.6.3.-]	346		
+tr|U2CG18|U2CG18_BIFBI	K00765	hisG; ATP phosphoribosyltransferase [EC:2.4.2.17]	350		
+tr|U2BV59|U2BV59_BIFBI	K03657	uvrD; DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]	518		
+tr|U2CC35|U2CC35_BIFBI	K07458	vsr; DNA mismatch endonuclease, patch repair protein [EC:3.1.-.-]	167		
+tr|U2DNU1|U2DNU1_BIFBI	K01000	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase [EC:2.7.8.13]	438		
+tr|U2BWE1|U2BWE1_BIFBI			105		
+tr|U2CHJ4|U2CHJ4_BIFBI			17	K01874	2
+tr|U2BWN0|U2BWN0_BIFBI	K00872	thrB1; homoserine kinase [EC:2.7.1.39]	254		
+tr|U2BYJ3|U2BYJ3_BIFBI			503	K17869	52
+tr|U2DWU2|U2DWU2_BIFBI			137		
+tr|U2CHQ1|U2CHQ1_BIFBI			20	K03046	1
+tr|U2DLN3|U2DLN3_BIFBI	K08372	pepD; putative serine protease PepD [EC:3.4.21.-]	360		
+tr|U2BZK3|U2BZK3_BIFBI			291		
+tr|U2CDW9|U2CDW9_BIFBI	K01354	ptrB; oligopeptidase B [EC:3.4.21.83]	723		
+tr|U2DLB1|U2DLB1_BIFBI	K02968	RP-S20; small subunit ribosomal protein S20	106		
+tr|U2DRT4|U2DRT4_BIFBI			563		
+tr|U2DL57|U2DL57_BIFBI	K00763	pncB; nicotinate phosphoribosyltransferase [EC:6.3.4.21]	528		
+tr|U2CIN6|U2CIN6_BIFBI	K01491	folD; methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9]	392		
+tr|U2CDW8|U2CDW8_BIFBI	K11189	PTS-HPR; phosphocarrier protein	83		
+tr|U2CE25|U2CE25_BIFBI			247		
+tr|U2BYI8|U2BYI8_BIFBI			178		
+tr|U2CDM4|U2CDM4_BIFBI			29	K01952	3
+tr|U2CFC8|U2CFC8_BIFBI			17	K02035	3
+tr|U2CE63|U2CE63_BIFBI	K03322	mntH; manganese transport protein	467		
+tr|U2DKN8|U2DKN8_BIFBI	K01524	ppx-gppA; exopolyphosphatase / guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase [EC:3.6.1.11 3.6.1.40]	318		
+tr|U2BWB2|U2BWB2_BIFBI			309	K05810	29
+tr|U2CD03|U2CD03_BIFBI	K01803	TPI; triosephosphate isomerase (TIM) [EC:5.3.1.1]	303	K00927/K01803	29
+tr|U2DW27|U2DW27_BIFBI			319		
+tr|U2CGE7|U2CGE7_BIFBI			166		
+tr|U2C1R2|U2C1R2_BIFBI	K02945	RP-S1; small subunit ribosomal protein S1	777		
+tr|U2CCT6|U2CCT6_BIFBI			216		
+tr|U2DM27|U2DM27_BIFBI	K03744	lemA; LemA protein	202		
+tr|U2DKL4|U2DKL4_BIFBI			722		
+tr|U2BVM6|U2BVM6_BIFBI			162	K18907	46
+tr|U2BXI6|U2BXI6_BIFBI			310		
+tr|U2CHI4|U2CHI4_BIFBI	K10254	ohyA; oleate hydratase [EC:4.2.1.53]	913		
+tr|U2CET1|U2CET1_BIFBI	K00075	murB; UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98]	374		
+tr|U2DUU4|U2DUU4_BIFBI	K02954	RP-S14; small subunit ribosomal protein S14	126		
+tr|U2CE88|U2CE88_BIFBI			265		
+tr|U2DTP5|U2DTP5_BIFBI			18	K03529	1
+tr|U2CFT4|U2CFT4_BIFBI	K01834	PGAM; 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11]	365		
+tr|U2DS50|U2DS50_BIFBI	K02876	RP-L15; large subunit ribosomal protein L15	203		
+tr|U2CJR9|U2CJR9_BIFBI			598		
+tr|U2DUN5|U2DUN5_BIFBI	K03497	parB; chromosome partitioning protein, ParB family	89		
+tr|U2BXP2|U2BXP2_BIFBI			409		
+tr|U2CIA4|U2CIA4_BIFBI			275		
+tr|U2CG66|U2CG66_BIFBI			23	K00500	1
+tr|U2DQV9|U2DQV9_BIFBI			209		
+tr|U2DQV5|U2DQV5_BIFBI	K03602	xseB; exodeoxyribonuclease VII small subunit [EC:3.1.11.6]	71		
+tr|U2CGD4|U2CGD4_BIFBI	K12952	ctpE; cation-transporting ATPase E [EC:3.6.3.-]	405		
+tr|U2BX80|U2BX80_BIFBI	K00651	metA; homoserine O-succinyltransferase [EC:2.3.1.46]	392		
+tr|U2DP74|U2DP74_BIFBI			351		
+tr|U2DT47|U2DT47_BIFBI			17	K00285	2
+tr|U2DTH2|U2DTH2_BIFBI	K03517	nadA; quinolinate synthase [EC:2.5.1.72]	584		
+tr|U2DLQ6|U2DLQ6_BIFBI	K05995	pepE; dipeptidase E [EC:3.4.13.21]	148		
+tr|U2CG16|U2CG16_BIFBI			22	K13527	2
+tr|U2DSV4|U2DSV4_BIFBI	K01873	VARS; valyl-tRNA synthetase [EC:6.1.1.9]	1314		
+tr|U2DQY1|U2DQY1_BIFBI	K00817	hisC; histidinol-phosphate aminotransferase [EC:2.6.1.9]	437		
+tr|U2BZI0|U2BZI0_BIFBI	K01591	pyrF; orotidine-5'-phosphate decarboxylase [EC:4.1.1.23]	311		
+tr|U2DLP7|U2DLP7_BIFBI	K07220	uncharacterized protein	166		
+tr|U2CF05|U2CF05_BIFBI	K06191	nrdH; glutaredoxin-like protein NrdH	88		
+tr|U2CC19|U2CC19_BIFBI			261		
+tr|U2C0I6|U2C0I6_BIFBI	K02221	yggT; YggT family protein	65		
+tr|U2CIJ8|U2CIJ8_BIFBI			298	K07284	38
+tr|U2DVS5|U2DVS5_BIFBI			194		
+tr|U2DWR0|U2DWR0_BIFBI	K02822	PTS-Ula-EIIB; PTS system, ascorbate-specific IIB component [EC:2.7.1.194]	54	K02821	6
+tr|U2CCG1|U2CCG1_BIFBI	K00598	tam; trans-aconitate 2-methyltransferase [EC:2.1.1.144]	127		
+tr|U2DUX7|U2DUX7_BIFBI	K00766	trpD; anthranilate phosphoribosyltransferase [EC:2.4.2.18]	345		
+tr|U2C0M2|U2C0M2_BIFBI			311		
+tr|U2CGI0|U2CGI0_BIFBI	K02483	two-component system	180		
+tr|U2CEY4|U2CEY4_BIFBI			200		
+tr|U2CCV9|U2CCV9_BIFBI			238		
+tr|U2CEC8|U2CEC8_BIFBI	K03789	rimI; ribosomal-protein-alanine N-acetyltransferase [EC:2.3.1.128]	132		
+tr|U2CF99|U2CF99_BIFBI	K03723	mfd; transcription-repair coupling factor (superfamily II helicase) [EC:3.6.4.-]	1455		
+tr|U2CCU4|U2CCU4_BIFBI	K03786	aroQ; 3-dehydroquinate dehydratase II [EC:4.2.1.10]	198		
+tr|U2CDX3|U2CDX3_BIFBI			294		
+tr|U2BVX4|U2BVX4_BIFBI	K00975	glgC; glucose-1-phosphate adenylyltransferase [EC:2.7.7.27]	599		
+tr|U2DUR0|U2DUR0_BIFBI	K03654	recQ; ATP-dependent DNA helicase RecQ [EC:3.6.4.12]	574		
+tr|U2CFU6|U2CFU6_BIFBI	K00287	folA; dihydrofolate reductase [EC:1.5.1.3]	182		
+tr|U2CEM1|U2CEM1_BIFBI	K03550	ruvA; holliday junction DNA helicase RuvA [EC:3.6.4.12]	179		
+tr|U2CFY7|U2CFY7_BIFBI	K03488	licT; beta-glucoside operon transcriptional antiterminator	232		
+tr|U2BYG1|U2BYG1_BIFBI	K01262	pepP; Xaa-Pro aminopeptidase [EC:3.4.11.9]	634		
+tr|U2CF15|U2CF15_BIFBI	K07088	uncharacterized protein	324		
+tr|U2DMJ7|U2DMJ7_BIFBI			238	K01869	4
+tr|U2CGF1|U2CGF1_BIFBI	K13571	pafA; proteasome accessory factor A [EC:6.3.1.19]	413		
+tr|U2DQ98|U2DQ98_BIFBI			497		
+tr|U2CIA0|U2CIA0_BIFBI			322		
+tr|U2CHD9|U2CHD9_BIFBI	K02529	lacI; LacI family transcriptional regulator	230		
+tr|U2CJV1|U2CJV1_BIFBI			115	K02348	6
+tr|U2CIT9|U2CIT9_BIFBI			28	K03306	3
+tr|U2BXU3|U2BXU3_BIFBI			282	K00001	90
+tr|U2CF71|U2CF71_BIFBI			190		
+tr|U2BXU9|U2BXU9_BIFBI	K17810	asl; D-aspartate ligase [EC:6.3.1.12]	373		
+tr|U2DWV4|U2DWV4_BIFBI	K07284	srtA; sortase A [EC:3.4.22.70]	211		
+tr|U2DU58|U2DU58_BIFBI			13	K02027	12
+tr|U2BWZ5|U2BWZ5_BIFBI	K07230	p19; periplasmic iron binding protein	219		
+tr|U2DLP2|U2DLP2_BIFBI			385		
+tr|U2DVZ1|U2DVZ1_BIFBI			10	K05685	4
+tr|U2DM83|U2DM83_BIFBI			220		
+tr|U2CFB1|U2CFB1_BIFBI	K02563	murG; UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227]	376	K01924	36
+tr|U2CDI3|U2CDI3_BIFBI			20	K02967	13
+tr|U2DPC3|U2DPC3_BIFBI			195		
+tr|U2DQS3|U2DQS3_BIFBI			532		
+tr|U2DLK7|U2DLK7_BIFBI	K00016	LDH; L-lactate dehydrogenase [EC:1.1.1.27]	264		
+tr|U2CH85|U2CH85_BIFBI			23	K01998	3
+tr|U2CEP7|U2CEP7_BIFBI			621		
+tr|U2DTG1|U2DTG1_BIFBI	K00949	thiN; thiamine pyrophosphokinase [EC:2.7.6.2]	160		
+tr|U2CCL9|U2CCL9_BIFBI	K00880	lyxK; L-xylulokinase [EC:2.7.1.53]	447		
+tr|U2BX28|U2BX28_BIFBI			16	K02007	4
+tr|U2CFR6|U2CFR6_BIFBI	K03798	ftsH; cell division protease FtsH [EC:3.4.24.-]	839		
+tr|U2C1Q2|U2C1Q2_BIFBI			286		
+tr|U2DR84|U2DR84_BIFBI	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	319		
+tr|U2BW30|U2BW30_BIFBI			14	K05788	2
+tr|U2CDI8|U2CDI8_BIFBI	K00526	E1.17.4.1B; ribonucleoside-diphosphate reductase beta chain [EC:1.17.4.1]	548		
+tr|U2CII0|U2CII0_BIFBI			23	K03588	5
+tr|U2DPS7|U2DPS7_BIFBI	K13787	idsA; geranylgeranyl diphosphate synthase, type I [EC:2.5.1.1 2.5.1.10 2.5.1.29]	225		
+tr|U2BXW3|U2BXW3_BIFBI	K02916	RP-L35; large subunit ribosomal protein L35	76		
+tr|U2BW73|U2BW73_BIFBI	K00528	fpr; ferredoxin--NADP+ reductase [EC:1.18.1.2]	523		
+tr|U2DVS0|U2DVS0_BIFBI	K02867	RP-L11; large subunit ribosomal protein L11	201		
+tr|U2DPJ0|U2DPJ0_BIFBI			103	K06888	4
+tr|U2CFP6|U2CFP6_BIFBI	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	134		
+tr|U2BW48|U2BW48_BIFBI	K00616	E2.2.1.2; transaldolase [EC:2.2.1.2]	502		
+tr|U2CIE3|U2CIE3_BIFBI			282		
+tr|U2DNB5|U2DNB5_BIFBI			106		
+tr|U2BZD7|U2BZD7_BIFBI	K06990	MEMO1; MEMO1 family protein	69		
+tr|U2CI66|U2CI66_BIFBI			13	K01962/K01963	1
+tr|U2CHE6|U2CHE6_BIFBI	K01875	SARS; seryl-tRNA synthetase [EC:6.1.1.11]	614		
+tr|U2DQB6|U2DQB6_BIFBI			123	K18697	4
+tr|U2CII6|U2CII6_BIFBI			15	K05995	1
+tr|U2CEN7|U2CEN7_BIFBI			15	K03830	4
+tr|U2CFD4|U2CFD4_BIFBI	K02341	DPO3D2; DNA polymerase III subunit delta' [EC:2.7.7.7]	359		
+tr|U2CEK3|U2CEK3_BIFBI			149		
+tr|U2CIH6|U2CIH6_BIFBI			20	K01972	3
+tr|U2BXD4|U2BXD4_BIFBI	K01657	trpE; anthranilate synthase component I [EC:4.1.3.27]	613		
+tr|U2DU82|U2DU82_BIFBI			28	K02004	14
+tr|U2CHH2|U2CHH2_BIFBI			204		
+tr|U2DRY8|U2DRY8_BIFBI	K02036	pstB; phosphate transport system ATP-binding protein [EC:3.6.3.27]	422		
+tr|U2DRI8|U2DRI8_BIFBI	K09761	rsmE; 16S rRNA (uracil1498-N3)-methyltransferase [EC:2.1.1.193]	148		
+tr|U2BZH5|U2BZH5_BIFBI	K06890	uncharacterized protein	194		
+tr|U2DQT4|U2DQT4_BIFBI	K03531	ftsZ; cell division protein FtsZ	429		
+tr|U2DU22|U2DU22_BIFBI	K03657	uvrD; DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]	880		
+tr|U2BXT3|U2BXT3_BIFBI			16	K02276	2
+tr|U2DU15|U2DU15_BIFBI	K08281	pncA; nicotinamidase/pyrazinamidase [EC:3.5.1.19 3.5.1.-]	237		
+tr|U2BW23|U2BW23_BIFBI			231		
+tr|U2CFP4|U2CFP4_BIFBI			199		
+tr|U2CD88|U2CD88_BIFBI	K02038	pstA; phosphate transport system permease protein	303		
+tr|U2CGS9|U2CGS9_BIFBI	K02031	ABC.PE.A; peptide/nickel transport system ATP-binding protein	675		
+	K02032	ABC.PE.A1; peptide/nickel transport system ATP-binding protein			
+tr|U2C1D2|U2C1D2_BIFBI	K03282	mscL; large conductance mechanosensitive channel	117		
+tr|U2CG13|U2CG13_BIFBI			178		
+tr|U2DRW2|U2DRW2_BIFBI			26	K18926	12
+tr|U2CG27|U2CG27_BIFBI	K00602	purH; phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10]	681		
+tr|U2CCT1|U2CCT1_BIFBI	K09761	rsmE; 16S rRNA (uracil1498-N3)-methyltransferase [EC:2.1.1.193]	75		
+tr|U2DMG0|U2DMG0_BIFBI	K02004	ABC.CD.P; putative ABC transport system permease protein	438		
+tr|U2CE41|U2CE41_BIFBI			226	K19285	19
+tr|U2DMA4|U2DMA4_BIFBI	K01921	ddl; D-alanine-D-alanine ligase [EC:6.3.2.4]	418		
+tr|U2DV40|U2DV40_BIFBI	K00161	PDHA; pyruvate dehydrogenase E1 component alpha subunit [EC:1.2.4.1]	371		
+tr|U2DPI5|U2DPI5_BIFBI			20	K02622	2
+tr|U2DRJ9|U2DRJ9_BIFBI	K01735	aroB; 3-dehydroquinate synthase [EC:4.2.3.4]	277	K13829	77
+tr|U2CFL1|U2CFL1_BIFBI	K02115	ATPF1G; F-type H+-transporting ATPase subunit gamma	356		
+tr|U2CDP2|U2CDP2_BIFBI			65		
+tr|U2CI64|U2CI64_BIFBI			115		
+tr|U2DP89|U2DP89_BIFBI	K12373	HEXA_B; hexosaminidase [EC:3.2.1.52]	472		
+tr|U2DN10|U2DN10_BIFBI			162		
+tr|U2CCI7|U2CCI7_BIFBI			235	K01951	17
+tr|U2DQL7|U2DQL7_BIFBI			109		
+tr|U2CGS6|U2CGS6_BIFBI	K07979	ytrA; GntR family transcriptional regulator	127		
+tr|U2CCQ2|U2CCQ2_BIFBI			283		
+tr|U2DWV1|U2DWV1_BIFBI			166		
+tr|U2CE14|U2CE14_BIFBI	K03424	tatD; TatD DNase family protein [EC:3.1.21.-]	338		
+tr|U2BW52|U2BW52_BIFBI	K06153	bacA; undecaprenyl-diphosphatase [EC:3.6.1.27]	307		
+tr|U2CDL0|U2CDL0_BIFBI	K00003	E1.1.1.3; homoserine dehydrogenase [EC:1.1.1.3]	449		
+tr|U2DX25|U2DX25_BIFBI			352	K06902	4
+tr|U2CGX4|U2CGX4_BIFBI			23	K03321	3
+tr|U2DN36|U2DN36_BIFBI	K08744	CRLS; cardiolipin synthase (CMP-forming) [EC:2.7.8.41]	186		
+tr|U2DUB4|U2DUB4_BIFBI	K03439	trmB; tRNA (guanine-N7-)-methyltransferase [EC:2.1.1.33]	271		
+tr|U2CH51|U2CH51_BIFBI	K01647	CS; citrate synthase [EC:2.3.3.1]	516		
+tr|U2DQN1|U2DQN1_BIFBI	K18333	L-fucose dehydrogenase	144	K00059	13
+tr|U2CJN6|U2CJN6_BIFBI			243		
+tr|U2CJ14|U2CJ14_BIFBI	K03484	scrR; LacI family transcriptional regulator, sucrose operon repressor	183		
+tr|U2CGP6|U2CGP6_BIFBI	K00991	ispD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase [EC:2.7.7.60]	219		
+tr|U2CHH4|U2CHH4_BIFBI	K03584	recO; DNA repair protein RecO (recombination protein O)	235		
+tr|U2BXE0|U2BXE0_BIFBI	K02838	frr; ribosome recycling factor	250		
+tr|U2BV67|U2BV67_BIFBI	K01256	pepN; aminopeptidase N [EC:3.4.11.2]	970		
+tr|U2DWT4|U2DWT4_BIFBI	K03217	yidC; YidC/Oxa1 family membrane protein insertase	286		
+tr|U2CEH7|U2CEH7_BIFBI			155		
+tr|U2BWP6|U2BWP6_BIFBI			262		
+tr|U2BVR5|U2BVR5_BIFBI	K02884	RP-L19; large subunit ribosomal protein L19	167		
+tr|U2CEB6|U2CEB6_BIFBI	K09903	pyrH; uridylate kinase [EC:2.7.4.22]	366		
+tr|U2DMN1|U2DMN1_BIFBI	K02112	ATPF1B; F-type H+-transporting ATPase subunit beta [EC:3.6.3.14]	806		
+tr|U2DRT7|U2DRT7_BIFBI	K03655	recG; ATP-dependent DNA helicase RecG [EC:3.6.4.12]	407		
+tr|U2BWQ1|U2BWQ1_BIFBI			121		
+tr|U2DP07|U2DP07_BIFBI	K02027	ABC.MS.S; multiple sugar transport system substrate-binding protein	394		
+tr|U2CK19|U2CK19_BIFBI			418		
+tr|U2C010|U2C010_BIFBI			122		
+tr|U2DMT6|U2DMT6_BIFBI			44	K01236	9
+tr|U2CH08|U2CH08_BIFBI			53	K18926	10
+tr|U2CGX8|U2CGX8_BIFBI			129		
+tr|U2BVQ4|U2BVQ4_BIFBI	K07507	mgtC; putative Mg2+ transporter-C (MgtC) family protein	127		
+tr|U2CFB0|U2CFB0_BIFBI			384		
+tr|U2CEQ2|U2CEQ2_BIFBI			23	K00758	1
+tr|U2CE91|U2CE91_BIFBI			32	K00762	11
+tr|U2BVY3|U2BVY3_BIFBI			73		
+tr|U2BZW7|U2BZW7_BIFBI			345		
+tr|U2CHF1|U2CHF1_BIFBI			353		
+tr|U2CI94|U2CI94_BIFBI			548		
+tr|U2CIJ4|U2CIJ4_BIFBI			327		
+tr|U2DLG3|U2DLG3_BIFBI	K07442	TRM61; tRNA (adenine57-N1/adenine58-N1)-methyltransferase [EC:2.1.1.219 2.1.1.220]	351		
+tr|U2CGE2|U2CGE2_BIFBI	K06168	miaB; tRNA-2-methylthio-N6-dimethylallyladenosine synthase [EC:2.8.4.3]	628		
+tr|U2CK00|U2CK00_BIFBI			31	K01515	26
+tr|U2DMU6|U2DMU6_BIFBI	K06941	rlmN; 23S rRNA (adenine2503-C2)-methyltransferase [EC:2.1.1.192]	497		
+tr|U2DN92|U2DN92_BIFBI	K00610	pyrI; aspartate carbamoyltransferase regulatory subunit	151		
+tr|U2BVL5|U2BVL5_BIFBI	K03655	recG; ATP-dependent DNA helicase RecG [EC:3.6.4.12]	516		
+tr|U2DSK2|U2DSK2_BIFBI	K01223	E3.2.1.86B; 6-phospho-beta-glucosidase [EC:3.2.1.86]	650		
+tr|U2DT86|U2DT86_BIFBI			363		
+tr|U2CJ20|U2CJ20_BIFBI	K01624	FBA; fructose-bisphosphate aldolase, class II [EC:4.1.2.13]	501		
+tr|U2CHP1|U2CHP1_BIFBI	K02077	ABC.ZM.S; zinc/manganese transport system substrate-binding protein	191		
+tr|U2C0R5|U2C0R5_BIFBI	K06199	crcB; CrcB protein	66		
+tr|U2CE92|U2CE92_BIFBI	K02897	RP-L25; large subunit ribosomal protein L25	202		
+tr|U2DSY2|U2DSY2_BIFBI	K02025	ABC.MS.P; multiple sugar transport system permease protein	333		
+tr|U2DRU1|U2DRU1_BIFBI			34	K01992	3
+tr|U2BYA7|U2BYA7_BIFBI	K18704	tarL; CDP-ribitol ribitolphosphotransferase [EC:2.7.8.14]	334		
+tr|U2DTA2|U2DTA2_BIFBI	K01868	TARS; threonyl-tRNA synthetase [EC:6.1.1.3]	999		
+tr|U2DVP8|U2DVP8_BIFBI			224		
+tr|U2DSS7|U2DSS7_BIFBI			23	K02275	1
+tr|U2BY47|U2BY47_BIFBI			65	K07659	5
+tr|U2DQR9|U2DQR9_BIFBI	K07053	E3.1.3.97; 3',5'-nucleoside bisphosphate phosphatase [EC:3.1.3.97]	285		
+tr|U2DU01|U2DU01_BIFBI	K00847	E2.7.1.4; fructokinase [EC:2.7.1.4]	327		
+tr|U2DS66|U2DS66_BIFBI	K02600	nusA; N utilization substance protein A	432		
+tr|U2CCK5|U2CCK5_BIFBI			27	K01114	1
+tr|U2DLD3|U2DLD3_BIFBI	K11717	sufS; cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]	536		
+tr|U2DRH3|U2DRH3_BIFBI	K03596	lepA; GTP-binding protein LepA	975		
+tr|U2BXM1|U2BXM1_BIFBI			24	K20276	1
+tr|U2DWZ3|U2DWZ3_BIFBI			288		
+tr|U2BZ75|U2BZ75_BIFBI			18	K01972	6
+tr|U2DRI5|U2DRI5_BIFBI			499		
+tr|U2CCH6|U2CCH6_BIFBI	K06956	uncharacterized protein	260		
+tr|U2DW41|U2DW41_BIFBI	K03438	mraW; 16S rRNA (cytosine1402-N4)-methyltransferase [EC:2.1.1.199]	369		
+tr|U2CEL7|U2CEL7_BIFBI	K01902	sucD; succinyl-CoA synthetase alpha subunit [EC:6.2.1.5]	367		
+tr|U2BX49|U2BX49_BIFBI	K03975	dedA; membrane-associated protein	281		
+tr|U2DU98|U2DU98_BIFBI	K07024	uncharacterized protein	220		
+tr|U2CEV1|U2CEV1_BIFBI	K02926	RP-L4; large subunit ribosomal protein L4	276		
+tr|U2DSM7|U2DSM7_BIFBI			18	K11893	1
+tr|U2CIP0|U2CIP0_BIFBI	K07736	carD; CarD family transcriptional regulator	228		
+tr|U2BYH7|U2BYH7_BIFBI	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	186		
+tr|U2CG63|U2CG63_BIFBI			173		
+tr|U2DVY8|U2DVY8_BIFBI	K03101	lspA; signal peptidase II [EC:3.4.23.36]	138		
+tr|U2DP50|U2DP50_BIFBI	K01187	malZ; alpha-glucosidase [EC:3.2.1.20]	629		
+tr|U2CF93|U2CF93_BIFBI	K09692	tagG; teichoic acid transport system permease protein	16	K09690	12
+tr|U2CJP4|U2CJP4_BIFBI	K02914	RP-L34; large subunit ribosomal protein L34	73		
+tr|U2DLZ1|U2DLZ1_BIFBI	K02874	RP-L14; large subunit ribosomal protein L14	190		
+tr|U2CDJ2|U2CDJ2_BIFBI	K07473	dinJ; DNA-damage-inducible protein J	14		
+tr|U2BZL4|U2BZL4_BIFBI	K02071	metN; D-methionine transport system ATP-binding protein	316		
+tr|U2CIZ5|U2CIZ5_BIFBI	K00016	LDH; L-lactate dehydrogenase [EC:1.1.1.27]	352	K00024	116
+tr|U2CHH0|U2CHH0_BIFBI			18	K00335	1
+tr|U2CD72|U2CD72_BIFBI			19	K03310	2
+tr|U2BVJ1|U2BVJ1_BIFBI	K02437	gcvH; glycine cleavage system H protein	136		
+tr|U2DSX8|U2DSX8_BIFBI			371		
+tr|U2CFE0|U2CFE0_BIFBI	K02986	RP-S4; small subunit ribosomal protein S4	320		
+tr|U2CHF0|U2CHF0_BIFBI	K01880	GARS; glycyl-tRNA synthetase [EC:6.1.1.14]	778		
+tr|U2CIJ3|U2CIJ3_BIFBI			549		
+tr|U2CFE5|U2CFE5_BIFBI			52	K03695	3
+tr|U2CI83|U2CI83_BIFBI	K00930	argB; acetylglutamate kinase [EC:2.7.2.8]	399		
+tr|U2CDB1|U2CDB1_BIFBI	K03924	moxR; MoxR-like ATPase [EC:3.6.3.-]	64		
+tr|U2DWQ1|U2DWQ1_BIFBI	K03655	recG; ATP-dependent DNA helicase RecG [EC:3.6.4.12]	382		
+tr|U2CCG9|U2CCG9_BIFBI	K06902	UMF1; MFS transporter, UMF1 family	434		
+tr|U2CGY1|U2CGY1_BIFBI			60		
+tr|U2CEX9|U2CEX9_BIFBI	K03040	rpoA; DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]	525		
+tr|U2CHS4|U2CHS4_BIFBI	K01744	aspA; aspartate ammonia-lyase [EC:4.3.1.1]	459		
+tr|U2BYL7|U2BYL7_BIFBI	K12308	bgaB; beta-galactosidase [EC:3.2.1.23]	651		
+tr|U2DP38|U2DP38_BIFBI	K01792	E5.1.3.15; glucose-6-phosphate 1-epimerase [EC:5.1.3.15]	172		
+tr|U2DT16|U2DT16_BIFBI	K03284	corA; magnesium transporter	350		
+tr|U2CII1|U2CII1_BIFBI			15	K00330	3
+tr|U2DNA2|U2DNA2_BIFBI	K03529	smc; chromosome segregation protein	943		
+tr|U2CFR0|U2CFR0_BIFBI	K03110	ftsY; fused signal recognition particle receptor	409		
+tr|U2DLX9|U2DLX9_BIFBI	K04072	adhE; acetaldehyde dehydrogenase / alcohol dehydrogenase [EC:1.2.1.10 1.1.1.1]	1223		
+tr|U2BZE8|U2BZE8_BIFBI	K02469	gyrA; DNA gyrase subunit A [EC:5.99.1.3]	1004		
+tr|U2CIX3|U2CIX3_BIFBI			161		
+tr|U2CHK8|U2CHK8_BIFBI	K03294	TC.APA; basic amino acid/polyamine antiporter, APA family	528		
+tr|U2DM04|U2DM04_BIFBI	K02948	RP-S11; small subunit ribosomal protein S11	230		
+tr|U2C0A3|U2C0A3_BIFBI			1110		
+tr|U2DRT8|U2DRT8_BIFBI			16	K00891	1
+tr|U2DRU2|U2DRU2_BIFBI			124		
+tr|U2CC14|U2CC14_BIFBI			1606		
+tr|U2CE78|U2CE78_BIFBI			52	K01992	2
+tr|U2CCH9|U2CCH9_BIFBI	K02860	rimM; 16S rRNA processing protein RimM	152		
+tr|U2CEE1|U2CEE1_BIFBI			22	K00571	13
+tr|U2CEG6|U2CEG6_BIFBI	K03701	uvrA; excinuclease ABC subunit A	1447		
+tr|U2CDH6|U2CDH6_BIFBI			20	K12436	1
+tr|U2CEX7|U2CEX7_BIFBI	K01681	ACO; aconitate hydratase [EC:4.2.1.3]	1290		
+tr|U2CG86|U2CG86_BIFBI	K01779	racD; aspartate racemase [EC:5.1.1.13]	236		
+tr|U2DQC8|U2DQC8_BIFBI			156	K05343	3
+tr|U2DNI5|U2DNI5_BIFBI			252		
+tr|U2CFV7|U2CFV7_BIFBI			216		
+tr|U2C1F1|U2C1F1_BIFBI	K03496	parA; chromosome partitioning protein	239		
+tr|U2DW61|U2DW61_BIFBI			30	K08602	3
+tr|U2CGA8|U2CGA8_BIFBI	K01520	dut; dUTP pyrophosphatase [EC:3.6.1.23]	206		
+tr|U2DRS8|U2DRS8_BIFBI			75	K03791	7
+tr|U2DSZ2|U2DSZ2_BIFBI			17	K07042	1
+tr|U2DVG0|U2DVG0_BIFBI			130		
+tr|U2BZP1|U2BZP1_BIFBI			19	K07019	2
+tr|U2DS25|U2DS25_BIFBI			11	K00557	4
+tr|U2DTT5|U2DTT5_BIFBI			17	K07644	2
+tr|U2C090|U2C090_BIFBI			16	K03837	1
+tr|U2DTS9|U2DTS9_BIFBI			16	K00050	1
+tr|U2CHT9|U2CHT9_BIFBI			15	K07141	3
+tr|U2CIP9|U2CIP9_BIFBI	K18955	whiB1_2_3_4; WhiB family transcriptional regulator, redox-sensing transcriptional regulator	120		
+tr|U2CFM0|U2CFM0_BIFBI			18	K01439	1
+tr|U2DRT1|U2DRT1_BIFBI	K00919	ispE; 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase [EC:2.7.1.148]	149		
+tr|U2DLU7|U2DLU7_BIFBI	K02864	RP-L10; large subunit ribosomal protein L10	228		
+tr|U2BXR3|U2BXR3_BIFBI			21	K06187	10
+tr|U2CG71|U2CG71_BIFBI			15	K03208	1
+tr|U2DMQ6|U2DMQ6_BIFBI			17	K01262	1
+tr|U2CI05|U2CI05_BIFBI	K01740	metY; O-acetylhomoserine (thiol)-lyase [EC:2.5.1.49]	618		
+tr|U2CG34|U2CG34_BIFBI			16	K02342	4
+tr|U2DR49|U2DR49_BIFBI			13	K01997	2
+tr|U2BZ57|U2BZ57_BIFBI			19	K01751	2
+tr|U2CCJ1|U2CCJ1_BIFBI	K07040	uncharacterized protein	170		
+tr|U2DWN1|U2DWN1_BIFBI			42		
+tr|U2CDN6|U2CDN6_BIFBI	K06997	yggS; PLP dependent protein	224		
+tr|U2CGU8|U2CGU8_BIFBI	K00145	argC; N-acetyl-gamma-glutamyl-phosphate reductase [EC:1.2.1.38]	388		
+tr|U2CDV6|U2CDV6_BIFBI	K07024	uncharacterized protein	44		
+tr|U2CCY4|U2CCY4_BIFBI			279		
+tr|U2BY59|U2BY59_BIFBI			14	K02591	2
+tr|U2C1Q7|U2C1Q7_BIFBI	K05794	terC; tellurite resistance protein TerC	243		
+tr|U2CFK9|U2CFK9_BIFBI	K07090	uncharacterized protein	144		
+tr|U2CFM5|U2CFM5_BIFBI			17	K01258	3
+tr|U2DVY4|U2DVY4_BIFBI			584		
+tr|U2BZD2|U2BZD2_BIFBI	K03711	fur; Fur family transcriptional regulator, ferric uptake regulator	148		
+tr|U2BYU0|U2BYU0_BIFBI			21	K02026	1
+tr|U2DV12|U2DV12_BIFBI			246		
+tr|U2DUT7|U2DUT7_BIFBI			17	K01439	1
+tr|U2DN51|U2DN51_BIFBI	K00759	APRT; adenine phosphoribosyltransferase [EC:2.4.2.7]	191		
+tr|U2CF02|U2CF02_BIFBI	K07114	yfbK; Ca-activated chloride channel homolog	184		
+tr|U2BW89|U2BW89_BIFBI			16	K01956	2
+tr|U2CCH2|U2CCH2_BIFBI			32	K03294	6
+tr|U2DN46|U2DN46_BIFBI			20	K07486	1
+tr|U2DTK6|U2DTK6_BIFBI			14	K03575	2
+tr|U2CEV2|U2CEV2_BIFBI			257	K03574	23
+tr|U2DVC8|U2DVC8_BIFBI			18	K06076	1
+tr|U2DTZ6|U2DTZ6_BIFBI	K01924	murC; UDP-N-acetylmuramate--alanine ligase [EC:6.3.2.8]	442		
+tr|U2DRC6|U2DRC6_BIFBI			29	K02519	1
+tr|U2DM90|U2DM90_BIFBI			13	K01462	3
+tr|U2DRF7|U2DRF7_BIFBI			197		
+tr|U2CE45|U2CE45_BIFBI	K03523	bioY; biotin transport system substrate-specific component	121		
+tr|U2DLN8|U2DLN8_BIFBI			10	K01265	6
+tr|U2DQR7|U2DQR7_BIFBI	K03043	rpoB; DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]	1804		
+tr|U2CGG0|U2CGG0_BIFBI			17	K07105	2
+tr|U2DPX9|U2DPX9_BIFBI			148		
+tr|U2DSU2|U2DSU2_BIFBI			13	K09803	12
+tr|U2DVN8|U2DVN8_BIFBI			22	K03529	1
+tr|U2C1C3|U2C1C3_BIFBI	K07043	uncharacterized protein	138		
+tr|U2BVJ5|U2BVJ5_BIFBI			12	K01940	2
+tr|U2DS87|U2DS87_BIFBI			190		
+tr|U2BZ86|U2BZ86_BIFBI	K02316	dnaG; DNA primase [EC:2.7.7.-]	685		
+tr|U2CDZ2|U2CDZ2_BIFBI			130		
+tr|U2DUT2|U2DUT2_BIFBI	K01945	purD; phosphoribosylamine--glycine ligase [EC:6.3.4.13]	508		
+tr|U2BYY5|U2BYY5_BIFBI	K00560	thyA; thymidylate synthase [EC:2.1.1.45]	453		
+tr|U2DN41|U2DN41_BIFBI	K01695	trpA; tryptophan synthase alpha chain [EC:4.2.1.20]	298		
+tr|U2BV36|U2BV36_BIFBI			13	K10670	2
+tr|U2BZ22|U2BZ22_BIFBI			19	K07171	1
+tr|U2DWP3|U2DWP3_BIFBI			169		
+tr|U2DLS1|U2DLS1_BIFBI			21	K02036	1
+tr|U2DT28|U2DT28_BIFBI			68		
+tr|U2CJI1|U2CJI1_BIFBI	K01854	glf; UDP-galactopyranose mutase [EC:5.4.99.9]	454		
+tr|U2CFZ3|U2CFZ3_BIFBI			18	K00606	2
+tr|U2DL88|U2DL88_BIFBI			144		
+tr|U2DQ27|U2DQ27_BIFBI	K03313	nhaA; Na+:H+ antiporter, NhaA family	381		
+tr|U2CC51|U2CC51_BIFBI			20	K08218	2
+tr|U2DVQ3|U2DVQ3_BIFBI			12	K00101	6
+tr|U2DRW6|U2DRW6_BIFBI			77	K07482	4
+tr|U2DU10|U2DU10_BIFBI			78	K07497	6
+tr|U2BW05|U2BW05_BIFBI	K05786	rarD; chloramphenicol-sensitive protein RarD	39		
+tr|U2CF97|U2CF97_BIFBI			118		
+tr|U2CFD7|U2CFD7_BIFBI			10	K02982	9
+tr|U2CFN7|U2CFN7_BIFBI	K03628	rho; transcription termination factor Rho	600		
+tr|U2CHJ3|U2CHJ3_BIFBI			236		
+tr|U2CCP2|U2CCP2_BIFBI			12	K03738	5
+tr|U2DRG8|U2DRG8_BIFBI			785		
+tr|U2DW10|U2DW10_BIFBI			19	K02313	5
+tr|U2DN60|U2DN60_BIFBI			20	K00772	1
+tr|U2CIT4|U2CIT4_BIFBI	K09772	sepF; cell division inhibitor SepF	142		
+tr|U2BZK7|U2BZK7_BIFBI			346		
+tr|U2CGW7|U2CGW7_BIFBI			351		
+tr|U2DL14|U2DL14_BIFBI			18	K01835	2
+tr|U2DPR3|U2DPR3_BIFBI			23	K03621	1
+tr|U2DW36|U2DW36_BIFBI			130		
+tr|U2DS08|U2DS08_BIFBI			17	K12234	3
+tr|U2BY22|U2BY22_BIFBI	K03924	moxR; MoxR-like ATPase [EC:3.6.3.-]	407		
+tr|U2CGJ5|U2CGJ5_BIFBI			15	K00566	1
+tr|U2DRM3|U2DRM3_BIFBI			184		
+tr|U2DWZ6|U2DWZ6_BIFBI	K01278	DPP4; dipeptidyl-peptidase 4 [EC:3.4.14.5]	526		
+tr|U2CDV1|U2CDV1_BIFBI	K03671	trxA; thioredoxin 1	129	K00384	15
+tr|U2DPB6|U2DPB6_BIFBI			17	K03572	2
+tr|U2CC57|U2CC57_BIFBI			557		
+tr|U2CGP5|U2CGP5_BIFBI			103		
+tr|U2DNE0|U2DNE0_BIFBI	K01372	BLMH; bleomycin hydrolase [EC:3.4.22.40]	426		
+tr|U2CHL6|U2CHL6_BIFBI	K01356	lexA; repressor LexA [EC:3.4.21.88]	266		
+tr|U2DNW2|U2DNW2_BIFBI			117		
+tr|U2CHL5|U2CHL5_BIFBI	K01697	E4.2.1.22; cystathionine beta-synthase [EC:4.2.1.22]	447		
+tr|U2DMJ3|U2DMJ3_BIFBI	K03574	mutT; 8-oxo-dGTP diphosphatase [EC:3.6.1.55]	242		
+tr|U2CH42|U2CH42_BIFBI			254		
+tr|U2CFL3|U2CFL3_BIFBI			519		
+tr|U2CI28|U2CI28_BIFBI			16	K17758/K17759	1
+tr|U2CH74|U2CH74_BIFBI			19	K03687	1
+tr|U2BYS5|U2BYS5_BIFBI			20	K00382	2
+tr|U2CE01|U2CE01_BIFBI			14	K01524	3
+tr|U2BZF7|U2BZF7_BIFBI	K00655	plsC; 1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51]	254		
+tr|U2CCN7|U2CCN7_BIFBI			22	K02519	1
+tr|U2CJV5|U2CJV5_BIFBI	K03574	mutT; 8-oxo-dGTP diphosphatase [EC:3.6.1.55]	122		
+tr|U2CG44|U2CG44_BIFBI					
+tr|U2DT00|U2DT00_BIFBI	K01897	ACSL; long-chain acyl-CoA synthetase [EC:6.2.1.3]	607		
+tr|U2DPR7|U2DPR7_BIFBI			259		
+tr|U2CDS5|U2CDS5_BIFBI			24	K13020	3
+tr|U2CDY9|U2CDY9_BIFBI	K02902	RP-L28; large subunit ribosomal protein L28	82		
+tr|U2CIW3|U2CIW3_BIFBI			22	K01791	1
+tr|U2CFJ5|U2CFJ5_BIFBI			26	K03426	1
+tr|U2CC47|U2CC47_BIFBI			16	K09458	1
+tr|U2BXJ1|U2BXJ1_BIFBI			199		
+tr|U2DNY9|U2DNY9_BIFBI			13	K03767	1
+tr|U2DWS1|U2DWS1_BIFBI			21	K01953	1
+tr|U2CH44|U2CH44_BIFBI			29	K08974	1
+tr|U2DUE2|U2DUE2_BIFBI			14	K02037	2
+tr|U2BWC2|U2BWC2_BIFBI	K01626	E2.5.1.54; 3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54]	481		
+tr|U2CE20|U2CE20_BIFBI	K01874	MARS; methionyl-tRNA synthetase [EC:6.1.1.10]	911		
+tr|U2DKM2|U2DKM2_BIFBI			73	K00571	9
+tr|U2CH37|U2CH37_BIFBI			41		
+tr|U2DRU8|U2DRU8_BIFBI	K01754	E4.3.1.19; threonine dehydratase [EC:4.3.1.19]	386		
+tr|U2CH47|U2CH47_BIFBI			19	K01707	1
+tr|U2CEI1|U2CEI1_BIFBI			173		
+tr|U2DNF0|U2DNF0_BIFBI			26	K03555	1
+tr|U2DTU6|U2DTU6_BIFBI	K01207	nagZ; beta-N-acetylhexosaminidase [EC:3.2.1.52]	238		
+tr|U2CHM1|U2CHM1_BIFBI	K01923	purC; phosphoribosylaminoimidazole-succinocarboxamide synthase [EC:6.3.2.6]	293		
+tr|U2DWY4|U2DWY4_BIFBI			61		
+tr|U2DRP2|U2DRP2_BIFBI			284		
+tr|U2BYZ7|U2BYZ7_BIFBI			197		
+tr|U2CEB5|U2CEB5_BIFBI			11	K02654	8
+tr|U2CGH8|U2CGH8_BIFBI			17	K03446	2
+tr|U2DS98|U2DS98_BIFBI			19	K03070	1
+tr|U2BYL2|U2BYL2_BIFBI			15	K00626	4
+tr|U2CG56|U2CG56_BIFBI	K07173	luxS; S-ribosylhomocysteine lyase [EC:4.4.1.21]	241		
+tr|U2C1D8|U2C1D8_BIFBI			21	K01209	2
+tr|U2CD59|U2CD59_BIFBI	K13788	pta; phosphate acetyltransferase [EC:2.3.1.8]	497		
+tr|U2DR97|U2DR97_BIFBI	K00053	ilvC; ketol-acid reductoisomerase [EC:1.1.1.86]	55		
+tr|U2DPH8|U2DPH8_BIFBI			16	K01890	2
+tr|U2BWB6|U2BWB6_BIFBI			14	K04030	3
+tr|U2BXI0|U2BXI0_BIFBI			22	K02982	2
+tr|U2BX88|U2BX88_BIFBI			231		
+tr|U2CDA4|U2CDA4_BIFBI	K03790	rimJ; ribosomal-protein-alanine N-acetyltransferase [EC:2.3.1.128]	175		
+tr|U2DQR3|U2DQR3_BIFBI			15	K00111	3
+tr|U2DMV1|U2DMV1_BIFBI			172		
+tr|U2DT06|U2DT06_BIFBI			237		
+tr|U2DQ09|U2DQ09_BIFBI	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	328		
+tr|U2C0S1|U2C0S1_BIFBI			353		
+tr|U2CEN1|U2CEN1_BIFBI			123		
+tr|U2C0K6|U2C0K6_BIFBI			285		
+tr|U2CFP8|U2CFP8_BIFBI			10	K03043	9
+tr|U2C1M9|U2C1M9_BIFBI			182		
+tr|U2DPY5|U2DPY5_BIFBI			159		
+tr|U2BZ46|U2BZ46_BIFBI			137		
+tr|U2DWB2|U2DWB2_BIFBI	K02004	ABC.CD.P; putative ABC transport system permease protein	518		
+tr|U2CFS3|U2CFS3_BIFBI	K00981	E2.7.7.41; phosphatidate cytidylyltransferase [EC:2.7.7.41]	230		
+tr|U2CIY6|U2CIY6_BIFBI	K01915	glnA; glutamine synthetase [EC:6.3.1.2]	717		
+tr|U2CDY8|U2CDY8_BIFBI			17	K13634	2
+tr|U2CDG5|U2CDG5_BIFBI	K12373	HEXA_B; hexosaminidase [EC:3.2.1.52]	593		
+tr|U2BVU3|U2BVU3_BIFBI			22	K01223	8
+tr|U2DQJ2|U2DQJ2_BIFBI	K15923	AXY8; alpha-L-fucosidase 2 [EC:3.2.1.51]	409		
+tr|U2DUQ5|U2DUQ5_BIFBI	K01775	alr; alanine racemase [EC:5.1.1.1]	448		
+tr|U2C072|U2C072_BIFBI			20	K01147	1
+tr|U2DSY6|U2DSY6_BIFBI	K02500	hisF; cyclase [EC:4.1.3.-]	357		
+tr|U2CED3|U2CED3_BIFBI	K02237	comEA; competence protein ComEA	85		
+tr|U2CGB9|U2CGB9_BIFBI	K03086	SIG1; RNA polymerase primary sigma factor	572		
+tr|U2DNX6|U2DNX6_BIFBI			12	K17758/K17759	3
+tr|U2DM62|U2DM62_BIFBI	K01126	E3.1.4.46; glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46]	68		
+tr|U2BX19|U2BX19_BIFBI	K02343	DPO3G; DNA polymerase III subunit gamma/tau [EC:2.7.7.7]	565		
+tr|U2BXQ8|U2BXQ8_BIFBI			14	K00833	3
+tr|U2BXJ5|U2BXJ5_BIFBI			469		
+tr|U2DUL4|U2DUL4_BIFBI			16	K01704	2
+tr|U2BZY4|U2BZY4_BIFBI			15	K01609	5
+tr|U2CIQ5|U2CIQ5_BIFBI			65	K15921	4
+tr|U2CEL1|U2CEL1_BIFBI			28	K08903	2
+tr|U2DL60|U2DL60_BIFBI			12	K02498	7
+tr|U2BW09|U2BW09_BIFBI	K06915	uncharacterized protein	108		
+tr|U2DRM0|U2DRM0_BIFBI			86		
+tr|U2CIW8|U2CIW8_BIFBI			17	K00574	1
+tr|U2BWK9|U2BWK9_BIFBI	K00962	pnp; polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]	1119		
+tr|U2CFE9|U2CFE9_BIFBI			13	K10843	2
+tr|U2CFY2|U2CFY2_BIFBI			11	K01870	8
+tr|U2C095|U2C095_BIFBI			195		
+tr|U2CID3|U2CID3_BIFBI			15	K06911	2
+tr|U2CI74|U2CI74_BIFBI	K01710	E4.2.1.46; dTDP-glucose 4,6-dehydratase [EC:4.2.1.46]	504		
+tr|U2DPL2|U2DPL2_BIFBI			15	K03495	2
+tr|U2DP34|U2DP34_BIFBI			13	K04042	2
+tr|U2CFW9|U2CFW9_BIFBI			241		
+tr|U2DM00|U2DM00_BIFBI	K03076	secY; preprotein translocase subunit SecY	606		
+tr|U2DLA7|U2DLA7_BIFBI	K14260	alaA; alanine-synthesizing transaminase [EC:2.6.1.66 2.6.1.2]	664		
+tr|U2DSJ7|U2DSJ7_BIFBI			14	K01778	1
+tr|U2C0B8|U2C0B8_BIFBI			226	K01802	64
+tr|U2CDI2|U2CDI2_BIFBI			324		
+tr|U2BV64|U2BV64_BIFBI			65		
+tr|U2CJK4|U2CJK4_BIFBI			629		
+tr|U2DND5|U2DND5_BIFBI			21	K01284	1
+tr|U2DM99|U2DM99_BIFBI			19	K01870	1
+tr|U2DQ67|U2DQ67_BIFBI			482		
+tr|U2CFG5|U2CFG5_BIFBI			39	K20074	1
+tr|U2CEJ5|U2CEJ5_BIFBI			148		
+tr|U2CJS7|U2CJS7_BIFBI	K01494	dcd; dCTP deaminase [EC:3.5.4.13]	316		
+tr|U2CH12|U2CH12_BIFBI			14	K06180	2
+tr|U2CHN4|U2CHN4_BIFBI			17	K03438	1
+tr|U2CHA9|U2CHA9_BIFBI	K02004	ABC.CD.P; putative ABC transport system permease protein	353		
+tr|U2DRQ9|U2DRQ9_BIFBI			290		
+tr|U2BZ01|U2BZ01_BIFBI			19	K00367	1
+tr|U2CIB4|U2CIB4_BIFBI	K03629	recF; DNA replication and repair protein RecF	268		
+tr|U2DL36|U2DL36_BIFBI	K07078	uncharacterized protein	224		
+tr|U2DMB0|U2DMB0_BIFBI			541		
+tr|U2BVR9|U2BVR9_BIFBI	K01897	ACSL; long-chain acyl-CoA synthetase [EC:6.2.1.3]	520		
+tr|U2BWT8|U2BWT8_BIFBI			18	K07726	1
+tr|U2CD34|U2CD34_BIFBI			18	K19712	1
+tr|U2CE58|U2CE58_BIFBI			317		
+tr|U2DPX3|U2DPX3_BIFBI			14	K02967	1
+tr|U2DWL7|U2DWL7_BIFBI			111		
+tr|U2DSG0|U2DSG0_BIFBI	K03073	secE; preprotein translocase subunit SecE	75		
+tr|U2CDK9|U2CDK9_BIFBI			147	K00294	4
+tr|U2CIL9|U2CIL9_BIFBI			15	K01182	4
+tr|U2DPU5|U2DPU5_BIFBI	K03466	ftsK; DNA segregation ATPase FtsK/SpoIIIE, S-DNA-T family	897		
+tr|U2CDL5|U2CDL5_BIFBI	K01586	lysA; diaminopimelate decarboxylase [EC:4.1.1.20]	187		
+tr|U2CGZ4|U2CGZ4_BIFBI			71	K02031/K02032	59
+tr|U2DNF5|U2DNF5_BIFBI			15	K01637	5
+tr|U2DQ71|U2DQ71_BIFBI	K00948	PRPS; ribose-phosphate pyrophosphokinase [EC:2.7.6.1]	507		
+tr|U2BXV4|U2BXV4_BIFBI			60	K01236	2
+tr|U2C0V7|U2C0V7_BIFBI			451		
+tr|U2CCM9|U2CCM9_BIFBI			15	K04079	1
+tr|U2CCS2|U2CCS2_BIFBI	K06889	uncharacterized protein	214		
+tr|U2DPF4|U2DPF4_BIFBI			322		
+tr|U2CJK8|U2CJK8_BIFBI			16	K06183	1
+tr|U2CI38|U2CI38_BIFBI	K02072	metI; D-methionine transport system permease protein	25		
+tr|U2C1F4|U2C1F4_BIFBI			301		
+tr|U2CH60|U2CH60_BIFBI	K01784	galE; UDP-glucose 4-epimerase [EC:5.1.3.2]	461		
+tr|U2DWB7|U2DWB7_BIFBI			17	K07018	1
+tr|U2CE68|U2CE68_BIFBI			54		
+tr|U2BVW0|U2BVW0_BIFBI			15	K20531	1
+tr|U2CH92|U2CH92_BIFBI			15	K00060	1
+tr|U2CDM0|U2CDM0_BIFBI			14	K15533	9
+tr|U2CGP2|U2CGP2_BIFBI			81	K18704	29
+tr|U2CFI4|U2CFI4_BIFBI	K07056	rsmI; 16S rRNA (cytidine1402-2'-O)-methyltransferase [EC:2.1.1.198]	341		
+tr|U2DLW8|U2DLW8_BIFBI			17	K03185	1
+tr|U2CGR8|U2CGR8_BIFBI	K09710	ybeB; ribosome-associated protein	132		
+tr|U2DMM7|U2DMM7_BIFBI			425		
+tr|U2BXF8|U2BXF8_BIFBI	K02238	comEC; competence protein ComEC	93		
+tr|U2CIS4|U2CIS4_BIFBI	K00941	thiD; hydroxymethylpyrimidine/phosphomethylpyrimidine kinase [EC:2.7.1.49 2.7.4.7]	269	K14153	31
+tr|U2CGS0|U2CGS0_BIFBI	K06201	cutC; copper homeostasis protein	200		
+tr|U2BXC6|U2BXC6_BIFBI			20	K03800	2
+tr|U2DT11|U2DT11_BIFBI			19	K00995	1
+tr|U2DT33|U2DT33_BIFBI			165		
+tr|U2DNG9|U2DNG9_BIFBI			18	K01866	1
+tr|U2DU86|U2DU86_BIFBI			21	K17836	7
+tr|U2BZH1|U2BZH1_BIFBI	K00791	miaA; tRNA dimethylallyltransferase [EC:2.5.1.75]	283		
+tr|U2CFH0|U2CFH0_BIFBI			344		
+tr|U2C1G4|U2C1G4_BIFBI			276		
+tr|U2C0P5|U2C0P5_BIFBI	K16264	czcD; cobalt-zinc-cadmium efflux system protein	308		
+tr|U2DQA4|U2DQA4_BIFBI	K01890	FARSB; phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]	1008		
+tr|U2BWS3|U2BWS3_BIFBI			237		
+tr|U2CJP0|U2CJP0_BIFBI	K02470	gyrB; DNA gyrase subunit B [EC:5.99.1.3]	1001		
+tr|U2CC04|U2CC04_BIFBI			119	K06187	3
+tr|U2DVP6|U2DVP6_BIFBI			158		
+tr|U2DNZ3|U2DNZ3_BIFBI			26	K07583	1
+tr|U2CJ69|U2CJ69_BIFBI			198		
+tr|U2BYU6|U2BYU6_BIFBI			70		
+tr|U2CF56|U2CF56_BIFBI			16	K00383	3
+tr|U2DNX3|U2DNX3_BIFBI			22	K05782	1
+tr|U2DQW1|U2DQW1_BIFBI			1080		
+tr|U2BYG3|U2BYG3_BIFBI			16	K00406	1
+tr|U2DRG1|U2DRG1_BIFBI			131		
+tr|U2BVP9|U2BVP9_BIFBI			128	K04075	3
+tr|U2CIL4|U2CIL4_BIFBI			183	K07052	41
+tr|U2CCI2|U2CCI2_BIFBI	K06895	lysE; L-lysine exporter family protein LysE/ArgO	188		
+tr|U2DWA0|U2DWA0_BIFBI			14	K01960	2
+tr|U2DSN8|U2DSN8_BIFBI			21	K12510	5
+tr|U2CF26|U2CF26_BIFBI					
+tr|U2DL17|U2DL17_BIFBI			332		
+tr|U2DUY2|U2DUY2_BIFBI	K03565	recX; regulatory protein	111		
+tr|U2CCZ3|U2CCZ3_BIFBI			16	K02004	3
+tr|U2DTB8|U2DTB8_BIFBI			51	K01621	4
+tr|U2BWY7|U2BWY7_BIFBI	K02761	PTS-Cel-EIIC; PTS system, cellobiose-specific IIC component	444		
+tr|U2DVG7|U2DVG7_BIFBI			581		
+tr|U2DP00|U2DP00_BIFBI			20	K01698	8
+tr|U2CHZ5|U2CHZ5_BIFBI			11	K06076	3
+tr|U2CHA0|U2CHA0_BIFBI			18	K00873	4
+tr|U2DVR1|U2DVR1_BIFBI			14	K02230	1
+tr|U2DUI5|U2DUI5_BIFBI	K01197	hya; hyaluronoglucosaminidase [EC:3.2.1.35]	617		
+tr|U2CCV3|U2CCV3_BIFBI			18	K02066	5
+tr|U2CJI5|U2CJI5_BIFBI			53	K07483	16
+tr|U2BWS8|U2BWS8_BIFBI	K17624	engCP; endo-alpha-N-acetylgalactosaminidase [EC:3.2.1.97]	963		
+tr|U2DPT3|U2DPT3_BIFBI	K03070	secA; preprotein translocase subunit SecA	1275		
+tr|U2DU97|U2DU97_BIFBI	K00088	guaB; IMP dehydrogenase [EC:1.1.1.205]	793		
+tr|U2CDL3|U2CDL3_BIFBI			16	K06001	2
+tr|U2DKQ5|U2DKQ5_BIFBI			813		
+tr|U2CFC2|U2CFC2_BIFBI			19	K19341	1
+tr|U2DWY8|U2DWY8_BIFBI			14	K03568	2
+tr|U2CFB7|U2CFB7_BIFBI			12	K01892	5
+tr|U2DUC2|U2DUC2_BIFBI	K01992	ABC-2.P; ABC-2 type transport system permease protein	228		
+tr|U2DSP5|U2DSP5_BIFBI			386	K07011	53
+tr|U2CD76|U2CD76_BIFBI	K00991	ispD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase [EC:2.7.7.60]	189		
+tr|U2DRP6|U2DRP6_BIFBI			14	K03500	3
+tr|U2CDV4|U2CDV4_BIFBI			15	K01053	1
+tr|U2CEW3|U2CEW3_BIFBI			58	K01262	2
+tr|U2DS15|U2DS15_BIFBI	K02346	DPO4; DNA polymerase IV [EC:2.7.7.7]	361		
+tr|U2DR23|U2DR23_BIFBI			19	K09017	1
+tr|U2CIB9|U2CIB9_BIFBI			14	K04066	1
+tr|U2CC25|U2CC25_BIFBI	K00215	dapB; 4-hydroxy-tetrahydrodipicolinate reductase [EC:1.17.1.8]	272		
+tr|U2DSC1|U2DSC1_BIFBI	K03695	clpB; ATP-dependent Clp protease ATP-binding subunit ClpB	1264		
+tr|U2CFQ3|U2CFQ3_BIFBI			55	K02224	2
+tr|U2CDM6|U2CDM6_BIFBI			15	K00426	1
+tr|U2CFT5|U2CFT5_BIFBI			14	K11900	5
+tr|U2CGK5|U2CGK5_BIFBI			14	K02886	3
+tr|U2CI78|U2CI78_BIFBI	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	210		
+tr|U2CHI0|U2CHI0_BIFBI			17	K02967	1
+tr|U2CG70|U2CG70_BIFBI	K00297	metF; methylenetetrahydrofolate reductase (NADPH) [EC:1.5.1.20]	289		
+tr|U2BYV5|U2BYV5_BIFBI	K00760	hprT; hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]	228		
+tr|U2DTY8|U2DTY8_BIFBI	K01929	murF; UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase [EC:6.3.2.10]	394		
+tr|U2C0K1|U2C0K1_BIFBI			56	K03789	4
+tr|U2CIH1|U2CIH1_BIFBI	K15533	1	68		
+tr|U2DP30|U2DP30_BIFBI			277		
+tr|U2CGK0|U2CGK0_BIFBI			15	K02343	2
+tr|U2CFS2|U2CFS2_BIFBI			20	K02274	1
+tr|U2C0N2|U2C0N2_BIFBI			153		
+tr|U2DS27|U2DS27_BIFBI			356		
+tr|U2BXI4|U2BXI4_BIFBI			16	K00425	2
+tr|U2DW66|U2DW66_BIFBI			19	K00372	3
+tr|U2DQK0|U2DQK0_BIFBI			256		
+tr|U2CH83|U2CH83_BIFBI	K04095	fic; cell filamentation protein	43		
+tr|U2BZ06|U2BZ06_BIFBI			17	K07043	1
+tr|U2BW39|U2BW39_BIFBI			17	K03579	1
+tr|U2CFC4|U2CFC4_BIFBI			195		
+tr|U2DLF8|U2DLF8_BIFBI			107		
+tr|U2CG81|U2CG81_BIFBI			60		
+tr|U2DX21|U2DX21_BIFBI			23	K01515	7
+tr|U2BYQ3|U2BYQ3_BIFBI			17	K00620	1
+tr|U2DLL9|U2DLL9_BIFBI	K15533	1	262		
+tr|U2DLT1|U2DLT1_BIFBI			346		
+tr|U2DLR5|U2DLR5_BIFBI			16	K03830	5
+tr|U2C0X6|U2C0X6_BIFBI			16	K09181	1
+tr|U2DT66|U2DT66_BIFBI	K00963	UGP2; UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9]	532		
+tr|U2CE33|U2CE33_BIFBI			16	K00111	3
+tr|U2CGG4|U2CGG4_BIFBI			17	K00700	1
+tr|U2BX09|U2BX09_BIFBI	K11068	hlyIII; hemolysin III	215		
+tr|U2DW13|U2DW13_BIFBI			164		
+tr|U2DRA3|U2DRA3_BIFBI			264		
+tr|U2BY32|U2BY32_BIFBI	K02484	two-component system	338		
+tr|U2CE83|U2CE83_BIFBI			13	K01495	1
+tr|U2BW79|U2BW79_BIFBI			221		
+tr|U2CH26|U2CH26_BIFBI			168		
+tr|U2DSG5|U2DSG5_BIFBI	K08659	pepDA; dipeptidase [EC:3.4.-.-]	511		
+tr|U2DRQ6|U2DRQ6_BIFBI			15	K01895	1
+tr|U2CHT4|U2CHT4_BIFBI			157	K04085	4
+tr|U2DR11|U2DR11_BIFBI	K00053	ilvC; ketol-acid reductoisomerase [EC:1.1.1.86]	170		
+tr|U2BV84|U2BV84_BIFBI	K04068	nrdG; anaerobic ribonucleoside-triphosphate reductase activating protein [EC:1.97.1.4]	289		
+tr|U2DUA2|U2DUA2_BIFBI			104	K07301	4
+tr|U2DM16|U2DM16_BIFBI	K02519	infB; translation initiation factor IF-2	121		
+tr|U2CFF9|U2CFF9_BIFBI			190		
+tr|U2DQK5|U2DQK5_BIFBI	K01885	EARS; glutamyl-tRNA synthetase [EC:6.1.1.17]	693		
+tr|U2CGD0|U2CGD0_BIFBI			17	K01474	2
+tr|U2CI62|U2CI62_BIFBI			111		
+tr|U2CF13|U2CF13_BIFBI			13	K07560	3
+tr|U2DL28|U2DL28_BIFBI			226	K00852	8
+tr|U2BWG8|U2BWG8_BIFBI			133		
+tr|U2CEM5|U2CEM5_BIFBI	K12373	HEXA_B; hexosaminidase [EC:3.2.1.52]	353		
+tr|U2CHA4|U2CHA4_BIFBI			337		
+tr|U2CCX3|U2CCX3_BIFBI			35	K01997/K01998	1
+tr|U2CGN1|U2CGN1_BIFBI			209		
+tr|U2CJM7|U2CJM7_BIFBI	K00075	murB; UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98]	22		
+tr|U2DPN7|U2DPN7_BIFBI			727		
+tr|U2DTL7|U2DTL7_BIFBI			14	K03665	2
+tr|U2DLX3|U2DLX3_BIFBI	K02871	RP-L13; large subunit ribosomal protein L13	204		
+tr|U2CG42|U2CG42_BIFBI	K06956	uncharacterized protein	377		
+tr|U2BZI5|U2BZI5_BIFBI			13	K01875	2
+tr|U2CH80|U2CH80_BIFBI			950		
+tr|U2BWT3|U2BWT3_BIFBI			344		
+tr|U2BVK0|U2BVK0_BIFBI			659		
+tr|U2BVF9|U2BVF9_BIFBI			17	K02232	1
+tr|U2C0A0|U2C0A0_BIFBI	K07133	uncharacterized protein	97		
+tr|U2DTX8|U2DTX8_BIFBI	K01524	ppx-gppA; exopolyphosphatase / guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase [EC:3.6.1.11 3.6.1.40]	207		
+tr|U2CGR6|U2CGR6_BIFBI			60	K02519	4
+tr|U2C1A5|U2C1A5_BIFBI			229		
+tr|U2DSQ3|U2DSQ3_BIFBI	K06950	uncharacterized protein	164		
+tr|U2CFH5|U2CFH5_BIFBI			23	K02033	1
+tr|U2DX27|U2DX27_BIFBI	K07183	nasT; response regulator NasT	207		
+tr|U2DRH6|U2DRH6_BIFBI			127		
+tr|U2DNZ7|U2DNZ7_BIFBI	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	155		
+tr|U2DTA7|U2DTA7_BIFBI			19	K20276	1
+tr|U2BXG6|U2BXG6_BIFBI			828		
+tr|U2DW86|U2DW86_BIFBI			16	K02621	3
+tr|U2CJ52|U2CJ52_BIFBI			129		
+tr|U2CFW3|U2CFW3_BIFBI			187	K18351	26
+tr|U2CJ24|U2CJ24_BIFBI			15	K09458	3
+tr|U2DKY2|U2DKY2_BIFBI			275		
+tr|U2CH40|U2CH40_BIFBI			74	K07666	4
+tr|U2DSF4|U2DSF4_BIFBI			17	K01006	6
+tr|U2CJS3|U2CJS3_BIFBI			655		
+tr|U2DRK5|U2DRK5_BIFBI			335		
+tr|U2DT99|U2DT99_BIFBI			15	K00198	3
+tr|U2DMF5|U2DMF5_BIFBI			19	K03489	7
+tr|U2DMQ1|U2DMQ1_BIFBI			434		
+tr|U2CFF3|U2CFF3_BIFBI	K01760	metC; cystathionine beta-lyase [EC:4.4.1.8]	176	K17217	65
+tr|U2DR63|U2DR63_BIFBI			15	K01953	2
+tr|U2CEK8|U2CEK8_BIFBI	K01783	rpe; ribulose-phosphate 3-epimerase [EC:5.1.3.1]	313		
+tr|U2CD20|U2CD20_BIFBI			265		
+tr|U2CJ47|U2CJ47_BIFBI			19	K00937	1
+tr|U2CJQ4|U2CJQ4_BIFBI			579		
+tr|U2CHW2|U2CHW2_BIFBI			17	K02034	2
+tr|U2CJL5|U2CJL5_BIFBI	K03386	PRDX2_4; peroxiredoxin (alkyl hydroperoxide reductase subunit C) [EC:1.11.1.15]	298		
+tr|U2DSU7|U2DSU7_BIFBI			16	K15987	1
+tr|U2DP58|U2DP58_BIFBI			16	K03111	6
+tr|U2CGJ4|U2CGJ4_BIFBI	K00286	proC; pyrroline-5-carboxylate reductase [EC:1.5.1.2]	268		
+tr|U2DNN1|U2DNN1_BIFBI			17	K02313	1
+tr|U2CE47|U2CE47_BIFBI			22	K05592	1
+tr|U2DV05|U2DV05_BIFBI	K01956	carA; carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]	553		
+tr|U2CHU4|U2CHU4_BIFBI	K07058	membrane protein	138		
+tr|U2CFL9|U2CFL9_BIFBI			11	K00627	8
+tr|U2CFH7|U2CFH7_BIFBI			15	K02946	2
+tr|U2CH79|U2CH79_BIFBI	K00790	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase [EC:2.5.1.7]	691		
+tr|U2DVG4|U2DVG4_BIFBI					
+tr|U2CGT4|U2CGT4_BIFBI			372		
+tr|U2CH88|U2CH88_BIFBI			14	K10439	2
+tr|U2CER8|U2CER8_BIFBI	K02823	pyrDII; dihydroorotate dehydrogenase electron transfer subunit	211		
+tr|U2CDZ3|U2CDZ3_BIFBI			29	K00164	2
+tr|U2DNJ6|U2DNJ6_BIFBI			15	K03335	1
+tr|U2CGL3|U2CGL3_BIFBI			401		
+tr|U2BZG1|U2BZG1_BIFBI			19	K01085	2
+tr|U2DNU6|U2DNU6_BIFBI	K03589	ftsQ; cell division protein FtsQ	143		
+tr|U2BYI2|U2BYI2_BIFBI			25	K01665	2
+tr|U2C0F4|U2C0F4_BIFBI			165		
+tr|U2CD09|U2CD09_BIFBI			18	K01999	1
+tr|U2CJ00|U2CJ00_BIFBI	K00058	serA; D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95]	490		
+tr|U2CFH2|U2CFH2_BIFBI	K01206	FUCA; alpha-L-fucosidase [EC:3.2.1.51]	293		
+tr|U2DPM7|U2DPM7_BIFBI			19	K03431	2
+tr|U2CEC3|U2CEC3_BIFBI			508		
+tr|U2BZ28|U2BZ28_BIFBI			120	K01205	104
+tr|U2CFT1|U2CFT1_BIFBI	K00088	guaB; IMP dehydrogenase [EC:1.1.1.205]	541		
+tr|U2CHJ8|U2CHJ8_BIFBI			17	K02034	3
+tr|U2BW27|U2BW27_BIFBI			750		
+tr|U2BXA2|U2BXA2_BIFBI			750		
+tr|U2DTV9|U2DTV9_BIFBI			18	K12132	1
+tr|U2DSD2|U2DSD2_BIFBI	K01885	EARS; glutamyl-tRNA synthetase [EC:6.1.1.17]	172		
+tr|U2BWD6|U2BWD6_BIFBI			17	K07442	2
+tr|U2BXV9|U2BXV9_BIFBI	K03976	ybaK; Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase [EC:3.1.1.-]	173		
+tr|U2DNK9|U2DNK9_BIFBI	K10005	gluB; glutamate transport system substrate-binding protein	352		
+tr|U2DR43|U2DR43_BIFBI	K00053	ilvC; ketol-acid reductoisomerase [EC:1.1.1.86]	185		
+tr|U2C1L0|U2C1L0_BIFBI			154		
+tr|U2CFJ1|U2CFJ1_BIFBI			13	K00451	4
+tr|U2DSV0|U2DSV0_BIFBI			14	K01191	2
+tr|U2DWN6|U2DWN6_BIFBI			183	K13274	15
+tr|U2CFZ7|U2CFZ7_BIFBI			35	K00040	1
+tr|U2CES2|U2CES2_BIFBI			114	K00865	4
+tr|U2DRZ6|U2DRZ6_BIFBI			19	K14155	1
+tr|U2BWZ0|U2BWZ0_BIFBI			149	K02003	15
+tr|U2DQ50|U2DQ50_BIFBI			153		
+tr|U2CFM9|U2CFM9_BIFBI			319		
+tr|U2DLQ1|U2DLQ1_BIFBI			52	K02056	2
+tr|U2DPK7|U2DPK7_BIFBI			188	K19337	14
+tr|U2CEY9|U2CEY9_BIFBI	K11533	fas; fatty acid synthase, bacteria type [EC:2.3.1.-]	1569		
+tr|U2CG82|U2CG82_BIFBI			790		
+tr|U2DR38|U2DR38_BIFBI					
+tr|U2CCR7|U2CCR7_BIFBI			110		
+tr|U2DQC4|U2DQC4_BIFBI			10	K02563	4
+tr|U2CD42|U2CD42_BIFBI	K03655	recG; ATP-dependent DNA helicase RecG [EC:3.6.4.12]	304		
+tr|U2CE61|U2CE61_BIFBI	K16147	glgE; starch synthase (maltosyl-transferring) [EC:2.4.99.16]	737		
+tr|U2BZ11|U2BZ11_BIFBI	K01807	rpiA; ribose 5-phosphate isomerase A [EC:5.3.1.6]	313		
+tr|U2CGH5|U2CGH5_BIFBI			15	K01265	1
+tr|U2DNA8|U2DNA8_BIFBI	K01928	murE; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase [EC:6.3.2.13]	201	K05362	35
+tr|U2DPA7|U2DPA7_BIFBI			13	K07442	2
+tr|U2CHW7|U2CHW7_BIFBI			14	K00371	7
+tr|U2DTU0|U2DTU0_BIFBI			530		
+tr|U2CFZ4|U2CFZ4_BIFBI			21	K07090	1
+tr|U2BWJ1|U2BWJ1_BIFBI	K02518	infA; translation initiation factor IF-1	128		
+tr|U2BVS4|U2BVS4_BIFBI			16	K06881	1
+tr|U2CE53|U2CE53_BIFBI			16	K00507	2
+tr|U2BYF0|U2BYF0_BIFBI	K07560	dtd; D-tyrosyl-tRNA(Tyr) deacylase [EC:3.1.-.-]	171		
+tr|U2CGW9|U2CGW9_BIFBI			13	K00817	6
+tr|U2CG96|U2CG96_BIFBI	K01589	purK; 5-(carboxyamino)imidazole ribonucleotide synthase [EC:6.3.4.18]	470		
+tr|U2DQW5|U2DQW5_BIFBI			71	K19231	4
+tr|U2C185|U2C185_BIFBI			20	K01704	1
+tr|U2DR28|U2DR28_BIFBI			29	K03800	1
+tr|U2CEL2|U2CEL2_BIFBI	K06178	rluB; 23S rRNA pseudouridine2605 synthase [EC:5.4.99.22]	333		
+tr|U2DR61|U2DR61_BIFBI			229		
+tr|U2BZ41|U2BZ41_BIFBI			13	K00651	3
+tr|U2DS03|U2DS03_BIFBI	K01934	MTHFS; 5-formyltetrahydrofolate cyclo-ligase [EC:6.3.3.2]	93		
+tr|U2BWK5|U2BWK5_BIFBI	K00997	acpS; holo-[acyl-carrier protein] synthase [EC:2.7.8.7]	72		
+tr|U2DL98|U2DL98_BIFBI			24	K06919	2
+tr|U2DWQ6|U2DWQ6_BIFBI	K03699	tlyC; putative hemolysin	509		
+tr|U2DWX9|U2DWX9_BIFBI			124		
+tr|U2CG92|U2CG92_BIFBI			16	K03575	1
+tr|U2DLV3|U2DLV3_BIFBI			58		
+tr|U2CIV8|U2CIV8_BIFBI	K03526	gcpE; (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase [EC:1.17.7.1 1.17.7.3]	535		
+tr|U2DVE8|U2DVE8_BIFBI			14	K07088	1
+tr|U2DMW0|U2DMW0_BIFBI			232		
+tr|U2BZ82|U2BZ82_BIFBI			23	K08484	1
+tr|U2CCW3|U2CCW3_BIFBI			42	K05786	9
+tr|U2C0H1|U2C0H1_BIFBI			190		
+tr|U2DQ21|U2DQ21_BIFBI	K07460	yraN; putative endonuclease	91		
+tr|U2CEQ4|U2CEQ4_BIFBI	K02040	pstS; phosphate transport system substrate-binding protein	358		
+tr|U2CG25|U2CG25_BIFBI	K01897	ACSL; long-chain acyl-CoA synthetase [EC:6.2.1.3]	154		
+tr|U2CF23|U2CF23_BIFBI			17	K00324	2
+tr|U2DL32|U2DL32_BIFBI			18	K18912	1
+tr|U2BZM6|U2BZM6_BIFBI			436		
+tr|U2DU90|U2DU90_BIFBI	K00574	cfa; cyclopropane-fatty-acyl-phospholipid synthase [EC:2.1.1.79]	399		
+tr|U2CHC4|U2CHC4_BIFBI	K03177	truB; tRNA pseudouridine55 synthase [EC:5.4.99.25]	244		
+tr|U2BWD2|U2BWD2_BIFBI			19	K03979	2
+tr|U2CIJ0|U2CIJ0_BIFBI	K06910	uncharacterized protein	166		
+tr|U2DM39|U2DM39_BIFBI			251		
+tr|U2BWR4|U2BWR4_BIFBI			15	K02548	1
+tr|U2CC30|U2CC30_BIFBI			16	K00526	1
+tr|U2DPJ6|U2DPJ6_BIFBI			33	K02040	1
+tr|U2CE66|U2CE66_BIFBI			16	K08256	2
+tr|U2DRK0|U2DRK0_BIFBI			15	K03686	2
+tr|U2DP66|U2DP66_BIFBI			102		
+tr|U2DS61|U2DS61_BIFBI	K06173	truA; tRNA pseudouridine38-40 synthase [EC:5.4.99.12]	289		
+tr|U2CED8|U2CED8_BIFBI			13	K06162	3
+tr|U2DPV0|U2DPV0_BIFBI	K07816	E2.7.6.5X; putative GTP pyrophosphokinase [EC:2.7.6.5]	76		
+tr|U2BWH8|U2BWH8_BIFBI	K02878	RP-L16; large subunit ribosomal protein L16	214		
+tr|U2DTF7|U2DTF7_BIFBI	K01785	galM; aldose 1-epimerase [EC:5.1.3.3]	202		
+tr|U2DSW5|U2DSW5_BIFBI			19	K02004	1
+tr|U2CEM3|U2CEM3_BIFBI			17	K17737	1
+tr|U2CEF1|U2CEF1_BIFBI			12	K00647	2
+tr|U2DNW6|U2DNW6_BIFBI			19	K02033	1
+tr|U2DX17|U2DX17_BIFBI			194		
+tr|U2CI69|U2CI69_BIFBI	K00858	ppnK; NAD+ kinase [EC:2.7.1.23]	339		
+tr|U2DQ82|U2DQ82_BIFBI			23	K07793	2
+tr|U2CEA3|U2CEA3_BIFBI			15	K03596	1
+tr|U2CDK0|U2CDK0_BIFBI	K08300	rne; ribonuclease E [EC:3.1.26.12]	749		
+tr|U2BX23|U2BX23_BIFBI			32	K02419	1
+tr|U2DMS1|U2DMS1_BIFBI			130		
+tr|U2CI60|U2CI60_BIFBI	K00969	nadD; nicotinate-nucleotide adenylyltransferase [EC:2.7.7.18]	316		
+tr|U2CIA6|U2CIA6_BIFBI	K01462	PDF; peptide deformylase [EC:3.5.1.88]	128		
+tr|U2DNY1|U2DNY1_BIFBI			47	K07483	34
+tr|U2CHD6|U2CHD6_BIFBI			15	K03547	1
+tr|U2CJJ2|U2CJJ2_BIFBI			210	K01361	18
+tr|U2CDY1|U2CDY1_BIFBI			466		
+tr|U2CIB6|U2CIB6_BIFBI			13	K11961	3
+tr|U2CCG5|U2CCG5_BIFBI			16	K07473	7
+tr|U2C1C7|U2C1C7_BIFBI			17	K01710	1
+tr|U2DMK0|U2DMK0_BIFBI			10	K01890	5
+tr|U2CF60|U2CF60_BIFBI			13	K01687	5
+tr|U2DS10|U2DS10_BIFBI	K02438	treX; glycogen operon protein [EC:3.2.1.-]	1068		
+tr|U2DRY7|U2DRY7_BIFBI			175		
+tr|U2CE98|U2CE98_BIFBI	K00990	glnD; [protein-PII] uridylyltransferase [EC:2.7.7.59]	468		
+tr|U2DMI5|U2DMI5_BIFBI			21	K00946	8
+tr|U2CF72|U2CF72_BIFBI	K00057	gpsA; glycerol-3-phosphate dehydrogenase (NAD(P)+) [EC:1.1.1.94]	352		
+tr|U2CHI1|U2CHI1_BIFBI			15	K08692	2
+tr|U2DVX0|U2DVX0_BIFBI	K03657	uvrD; DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]	432		
+tr|U2CI86|U2CI86_BIFBI	K02529	lacI; LacI family transcriptional regulator	102		
+tr|U2CE12|U2CE12_BIFBI	K00954	E2.7.7.3A; pantetheine-phosphate adenylyltransferase [EC:2.7.7.3]	197		
+tr|U2DV17|U2DV17_BIFBI	K02950	RP-S12; small subunit ribosomal protein S12	222		
+tr|U2DL40|U2DL40_BIFBI	K02959	RP-S16; small subunit ribosomal protein S16	146		
+tr|U2BWR9|U2BWR9_BIFBI			13	K09690	2
+tr|U2C0C7|U2C0C7_BIFBI	K15533	1	68		
+tr|U2C0W2|U2C0W2_BIFBI			15	K03976	2
+tr|U2DUJ6|U2DUJ6_BIFBI			404		
+tr|U2BZA6|U2BZA6_BIFBI			20	K09919	1
+tr|U2CDH8|U2CDH8_BIFBI	K03524	birA; BirA family transcriptional regulator, biotin operon repressor / biotin-[acetyl-CoA-carboxylase] ligase [EC:6.3.4.15]	126		
+tr|U2DMG7|U2DMG7_BIFBI			19	K02523	1
+tr|U2DTX5|U2DTX5_BIFBI	K01665	pabB; para-aminobenzoate synthetase component I [EC:2.6.1.85]	277		
+tr|U2C1H9|U2C1H9_BIFBI	K03316	TC.CPA1; monovalent cation:H+ antiporter, CPA1 family	465		
+tr|U2DP21|U2DP21_BIFBI			252	K01181	24
+tr|U2DQL3|U2DQL3_BIFBI			14	K05575	2
+tr|U2DVX9|U2DVX9_BIFBI			19	K13918	2
+tr|U2CCP6|U2CCP6_BIFBI			121		
+tr|U2CGD8|U2CGD8_BIFBI	K01687	ilvD; dihydroxy-acid dehydratase [EC:4.2.1.9]	792		
+tr|U2CEG3|U2CEG3_BIFBI	K08217	mef; MFS transporter, DHA3 family, macrolide efflux protein	30		
+tr|U2DRP8|U2DRP8_BIFBI	K02821	PTS-Ula-EIIA; PTS system, ascorbate-specific IIA component [EC:2.7.1.194]	135		
+tr|U2DKK3|U2DKK3_BIFBI	K03216	trmL; tRNA (cytidine/uridine-2'-O-)-methyltransferase [EC:2.1.1.207]	261		
+tr|U2DPD5|U2DPD5_BIFBI			185		
+tr|U2DUX3|U2DUX3_BIFBI			173		
+tr|U2DMB5|U2DMB5_BIFBI			21	K16926	5
+tr|U2BWP1|U2BWP1_BIFBI			16	K15986	2
+tr|U2DUM6|U2DUM6_BIFBI			20	K01958	1
+tr|U2DSI3|U2DSI3_BIFBI			239		
+tr|U2CFB9|U2CFB9_BIFBI	K02760	PTS-Cel-EIIB; PTS system, cellobiose-specific IIB component [EC:2.7.1.196 2.7.1.205]	108		
+tr|U2DNL9|U2DNL9_BIFBI	K00886	ppgK; polyphosphate glucokinase [EC:2.7.1.63]	311		
+tr|U2CI87|U2CI87_BIFBI	K01889	FARSA; phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]	497		
+tr|U2DUB8|U2DUB8_BIFBI	K00048	fucO; lactaldehyde reductase [EC:1.1.1.77]	523		
+tr|U2DX47|U2DX47_BIFBI			385		
+tr|U2BY17|U2BY17_BIFBI			103	K02230	4
+tr|U2DRD0|U2DRD0_BIFBI	K01531	mgtA; Mg2+-importing ATPase [EC:3.6.3.2]	532		
+tr|U2DRF3|U2DRF3_BIFBI			15	K06295	3
+tr|U2CH66|U2CH66_BIFBI			13	K10773	2
+tr|U2DM43|U2DM43_BIFBI	K01439	dapE; succinyl-diaminopimelate desuccinylase [EC:3.5.1.18]	395		
+tr|U2BYF8|U2BYF8_BIFBI			15	K13292	2
+tr|U2BZ18|U2BZ18_BIFBI			16	K01926	1
+tr|U2CDF9|U2CDF9_BIFBI	K00849	galK; galactokinase [EC:2.7.1.6]	421		
+tr|U2C001|U2C001_BIFBI			17	K00162	1
+tr|U2CF41|U2CF41_BIFBI			350		
+tr|U2CG38|U2CG38_BIFBI			72		
+tr|U2DUG9|U2DUG9_BIFBI	K02529	lacI; LacI family transcriptional regulator	169		
+tr|U2CFU0|U2CFU0_BIFBI	K02340	DPO3D1; DNA polymerase III subunit delta [EC:2.7.7.7]	238		
+tr|U2DRX5|U2DRX5_BIFBI	K01048	pldB; lysophospholipase [EC:3.1.1.5]	212		
+tr|U2DNC2|U2DNC2_BIFBI	K03496	parA; chromosome partitioning protein	403		
+tr|U2CEL9|U2CEL9_BIFBI	K03306	TC.PIT; inorganic phosphate transporter, PiT family	446		
+tr|U2CFX4|U2CFX4_BIFBI			17	K12980	1
+tr|U2BZW4|U2BZW4_BIFBI			321		
+tr|U2DL21|U2DL21_BIFBI			13	K01752	4
+tr|U2DMU2|U2DMU2_BIFBI			14	K02114	1
+tr|U2CGV2|U2CGV2_BIFBI			114		
+tr|U2DU04|U2DU04_BIFBI	K02564	nagB; glucosamine-6-phosphate deaminase [EC:3.5.99.6]	340		
+tr|U2DLL2|U2DLL2_BIFBI	K03311	TC.LIVCS; branched-chain amino acid:cation transporter, LIVCS family	368		
+tr|U2DS69|U2DS69_BIFBI	K01197	hya; hyaluronoglucosaminidase [EC:3.2.1.35]	385		
+tr|U2CIF2|U2CIF2_BIFBI	K06999	phospholipase/carboxylesterase	179		
+tr|U2BW18|U2BW18_BIFBI			286		
+tr|U2CEQ7|U2CEQ7_BIFBI			14	K00156	2
+tr|U2CJL2|U2CJL2_BIFBI			584		
+tr|U2BYR8|U2BYR8_BIFBI			104	K07566	29
+tr|U2DTE7|U2DTE7_BIFBI			17	K20431	1
+tr|U2DQT6|U2DQT6_BIFBI	K01714	dapA; 4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7]	114		
+tr|U2DUY8|U2DUY8_BIFBI	K00995	pgsA; CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase [EC:2.7.8.5]	178		
+tr|U2CD94|U2CD94_BIFBI			620		
+tr|U2CCW8|U2CCW8_BIFBI			166		
+tr|U2CE59|U2CE59_BIFBI			19	K01841	1
+tr|U2DVZ8|U2DVZ8_BIFBI			368		
+tr|U2DME4|U2DME4_BIFBI			175	K07024	14
+tr|U2DVP2|U2DVP2_BIFBI			17	K09458	2
+tr|U2DNS4|U2DNS4_BIFBI			16	K11175	1
+tr|U2CHX7|U2CHX7_BIFBI			11	K11781	3
+tr|U2DT20|U2DT20_BIFBI			273		
+tr|U2BY08|U2BY08_BIFBI	K01092	E3.1.3.25; myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25]	197		
+tr|U2DT52|U2DT52_BIFBI	K07457	endonuclease III related protein	173		
+tr|U2DLI0|U2DLI0_BIFBI	K15533	1	132		
+tr|U2DP42|U2DP42_BIFBI	K00010	iolG; myo-inositol 2-dehydrogenase / D-chiro-inositol 1-dehydrogenase [EC:1.1.1.18 1.1.1.369]	300		
+tr|U2C1P4|U2C1P4_BIFBI			224	K03665	4
+tr|U2DLE9|U2DLE9_BIFBI			35	K00833	1
+tr|U2DVZ4|U2DVZ4_BIFBI	K03664	smpB; SsrA-binding protein	231		
+tr|U2CGA3|U2CGA3_BIFBI			17	K07463	1
+tr|U2BX47|U2BX47_BIFBI			15	K09930	2
+tr|U2CIP5|U2CIP5_BIFBI			193		
+tr|U2CDQ3|U2CDQ3_BIFBI			122	K01533	4
+tr|U2BW97|U2BW97_BIFBI			16	K02032	2
+tr|U2CGE6|U2CGE6_BIFBI			23	K07025	19
+tr|U2DM54|U2DM54_BIFBI	K20116	PTS-Glc1-EIIA; PTS system, glucose-specific IIA component [EC:2.7.1.199]	22		
+	K20117	PTS-Glc1-EIIB; PTS system, glucose-specific IIB component [EC:2.7.1.199]			
+	K20118	PTS-Glc1-EIIC; PTS system, glucose-specific IIC component			
+tr|U2CGT9|U2CGT9_BIFBI			17	K09815	1
+tr|U2DRN3|U2DRN3_BIFBI			134	K02485	3
+tr|U2DMM2|U2DMM2_BIFBI			19	K05712	2
+tr|U2CHM5|U2CHM5_BIFBI			210		
+tr|U2DQM6|U2DQM6_BIFBI	K05838	ybbN; putative thioredoxin	270		
+tr|U2DSR5|U2DSR5_BIFBI	K01186	NEU1; sialidase-1 [EC:3.2.1.18]	360		
+tr|U2BVK4|U2BVK4_BIFBI	K00849	galK; galactokinase [EC:2.7.1.6]	57		
+tr|U2DU41|U2DU41_BIFBI			13	K06958	2
+tr|U2CFV1|U2CFV1_BIFBI			17	K10206	1
+tr|U2CEB2|U2CEB2_BIFBI			146		
+tr|U2CFC0|U2CFC0_BIFBI			17	K07152	1
+tr|U2CIK2|U2CIK2_BIFBI			218		
+tr|U2DM72|U2DM72_BIFBI			24	K10440	1
+tr|U2CF34|U2CF34_BIFBI			143		
+tr|U2BX54|U2BX54_BIFBI	K13640	hspR; MerR family transcriptional regulator, heat shock protein HspR	126		
+tr|U2CHY3|U2CHY3_BIFBI			13	K09815	2
+tr|U2DMI9|U2DMI9_BIFBI	K02283	cpaF; pilus assembly protein CpaF	298		
+tr|U2DPF0|U2DPF0_BIFBI	K00036	G6PD; glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49 1.1.1.363]	830		
+tr|U2DRB9|U2DRB9_BIFBI			55	K03406	2
+tr|U2CCX8|U2CCX8_BIFBI			140		
+tr|U2CDY7|U2CDY7_BIFBI			15	K02054	1
+tr|U2CEA4|U2CEA4_BIFBI			273		
+tr|U2CH75|U2CH75_BIFBI	K13940	sulD; dihydroneopterin aldolase / 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase [EC:4.1.2.25 2.7.6.3]	264		
+tr|U2DU73|U2DU73_BIFBI			37	K07005	22
+tr|U2DVQ6|U2DVQ6_BIFBI			361		
+tr|U2BYF4|U2BYF4_BIFBI			291		
+tr|U2CHC9|U2CHC9_BIFBI			35		
+tr|U2DR76|U2DR76_BIFBI	K00226	pyrD; dihydroorotate dehydrogenase (fumarate) [EC:1.3.98.1]	327	K00254	45
+tr|U2DMH8|U2DMH8_BIFBI			54	K00036	2
+tr|U2DL11|U2DL11_BIFBI			21	K04487	2
+tr|U2DRM2|U2DRM2_BIFBI			322		
+tr|U2DVF5|U2DVF5_BIFBI	K00611	OTC; ornithine carbamoyltransferase [EC:2.1.3.3]	414		
+tr|U2DWM6|U2DWM6_BIFBI	K01992	ABC-2.P; ABC-2 type transport system permease protein	246	K09690	16
+tr|U2BZT0|U2BZT0_BIFBI	K07024	uncharacterized protein	221		
+tr|U2DUZ5|U2DUZ5_BIFBI	K07816	E2.7.6.5X; putative GTP pyrophosphokinase [EC:2.7.6.5]	158		
+tr|U2BY42|U2BY42_BIFBI			54	K02433	2
+tr|U2CEJ1|U2CEJ1_BIFBI	K15533	1	180		
+tr|U2DTC9|U2DTC9_BIFBI			13	K09903	1
+tr|U2DWM2|U2DWM2_BIFBI			16	K01703	2
+tr|U2DP63|U2DP63_BIFBI			16	K00231	1
+tr|U2CE16|U2CE16_BIFBI	K01652	E2.2.1.6L; acetolactate synthase I/II/III large subunit [EC:2.2.1.6]	724		
+tr|U2DMH4|U2DMH4_BIFBI			20	K07478	1
+tr|U2CG75|U2CG75_BIFBI	K01465	URA4; dihydroorotase [EC:3.5.2.3]	380		
+tr|U2CHE4|U2CHE4_BIFBI			13	K02238	4
+tr|U2CHF5|U2CHF5_BIFBI			393		
+tr|U2CE24|U2CE24_BIFBI			15	K01626	2
+tr|U2BX33|U2BX33_BIFBI	K03154	thiS; sulfur carrier protein	43		
+tr|U2DUK0|U2DUK0_BIFBI			133		
+tr|U2BVN0|U2BVN0_BIFBI	K01883	CARS; cysteinyl-tRNA synthetase [EC:6.1.1.16]	606		
+tr|U2BVY8|U2BVY8_BIFBI	K07082	UPF0755 protein	255		
+tr|U2CFU5|U2CFU5_BIFBI			17	K00428	3
+tr|U2DMR2|U2DMR2_BIFBI	K00764	purF; amidophosphoribosyltransferase [EC:2.4.2.14]	18		
+tr|U2DV59|U2DV59_BIFBI			223		
+tr|U2CI12|U2CI12_BIFBI	K00239	sdhA; succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4]	560		
+tr|U2CJ10|U2CJ10_BIFBI			529		
+tr|U2CG31|U2CG31_BIFBI	K03210	yajC; preprotein translocase subunit YajC	40		
+tr|U2DL52|U2DL52_BIFBI	K03685	rnc; ribonuclease III [EC:3.1.26.3]	257		
+tr|U2DP70|U2DP70_BIFBI			20	K01990	1
+tr|U2DL72|U2DL72_BIFBI			17	K05515	1
+tr|U2DKK7|U2DKK7_BIFBI	K03046	rpoC; DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]	1877		
+tr|U2BWA6|U2BWA6_BIFBI	K01805	xylA; xylose isomerase [EC:5.3.1.5]	12		
+tr|U2DR82|U2DR82_BIFBI			13	K02056	4
+tr|U2C0R1|U2C0R1_BIFBI			14	K16090	3
+tr|U2CIM4|U2CIM4_BIFBI			18	K01761	1
+tr|U2BWL7|U2BWL7_BIFBI			13	K01703	4
+tr|U2DR92|U2DR92_BIFBI			18	K07454	1
+tr|U2DWS6|U2DWS6_BIFBI			102		
+tr|U2DSK6|U2DSK6_BIFBI			17	K07024	12
+tr|U2CI51|U2CI51_BIFBI	K05350	bglB; beta-glucosidase [EC:3.2.1.21]	443		
+tr|U2DQS8|U2DQS8_BIFBI			18	K01255	2
+tr|U2CIB0|U2CIB0_BIFBI			36	K01887	1
+tr|U2DU19|U2DU19_BIFBI	K00820	glmS; glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16]	150		
+tr|U2CIL8|U2CIL8_BIFBI			12	K06281	2
+tr|U2CGB2|U2CGB2_BIFBI	K03724	lhr; ATP-dependent helicase Lhr and Lhr-like helicase [EC:3.6.4.-]	1056		
+tr|U2DQX6|U2DQX6_BIFBI			21	K03335	1
+tr|U2CE50|U2CE50_BIFBI			15	K03147	1
+tr|U2DMT2|U2DMT2_BIFBI	K03320	amt; ammonium transporter, Amt family	455		
+tr|U2DR95|U2DR95_BIFBI			24	K00283	1
+tr|U2CGV7|U2CGV7_BIFBI			252		
+tr|U2CJJ6|U2CJJ6_BIFBI			662		
+tr|U2CE76|U2CE76_BIFBI			18	K02803/K02804	1
+tr|U2C0Y1|U2C0Y1_BIFBI			134		
+tr|U2CFD1|U2CFD1_BIFBI	K00820	glmS; glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16]	54		
+tr|U2CI99|U2CI99_BIFBI			207		
+tr|U2CD30|U2CD30_BIFBI			19	K18989	8
+tr|U2DRS0|U2DRS0_BIFBI	K15533	1	226		
+tr|U2DR55|U2DR55_BIFBI			15	K02470	2
+tr|U2DV83|U2DV83_BIFBI	K01358	clpP; ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]	327		
+tr|U2CDW5|U2CDW5_BIFBI	K07243	FTR; high-affinity iron transporter	347		
+tr|U2DUV7|U2DUV7_BIFBI			289		
+tr|U2DSR7|U2DSR7_BIFBI			15	K02669	2
+tr|U2DTR9|U2DTR9_BIFBI			205		
+tr|U2CEB1|U2CEB1_BIFBI	K01496	hisI; phosphoribosyl-AMP cyclohydrolase [EC:3.5.4.19]	194		
+tr|U2CCR2|U2CCR2_BIFBI	K02495	hemN; oxygen-independent coproporphyrinogen III oxidase [EC:1.3.99.22]	447		
+tr|U2DR90|U2DR90_BIFBI			24	K01870	1
+tr|U2BXC1|U2BXC1_BIFBI			417		
+tr|U2DP94|U2DP94_BIFBI			19	K07670	2
+tr|U2CHR3|U2CHR3_BIFBI			17	K07263	2
+tr|U2CCJ6|U2CCJ6_BIFBI			15	K00368	1
+tr|U2BVZ2|U2BVZ2_BIFBI	K15634	gpmB; probable phosphoglycerate mutase [EC:5.4.2.12]	228		
+tr|U2DPH3|U2DPH3_BIFBI			31	K07177	1
+tr|U2DTH7|U2DTH7_BIFBI			13	K08303	5
+tr|U2CJ65|U2CJ65_BIFBI	K12308	bgaB; beta-galactosidase [EC:3.2.1.23]	593		
+tr|U2C1R8|U2C1R8_BIFBI	K01770	ispF; 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:4.6.1.12]	142	K12506	15
+tr|U2BVK8|U2BVK8_BIFBI			34	K03583	1
+tr|U2CF77|U2CF77_BIFBI	K00931	proB; glutamate 5-kinase [EC:2.7.2.11]	409		
+tr|U2DRA7|U2DRA7_BIFBI			290		
+tr|U2DQZ6|U2DQZ6_BIFBI			15	K01892	1
+tr|U2DRM8|U2DRM8_BIFBI			18	K00705	1
+tr|U2DML4|U2DML4_BIFBI	K01186	NEU1; sialidase-1 [EC:3.2.1.18]	172		
+tr|U2CE95|U2CE95_BIFBI	K00324	pntA; NAD(P) transhydrogenase subunit alpha [EC:1.6.1.2]	328		
+tr|U2DSE9|U2DSE9_BIFBI			571		
+tr|U2CHZ9|U2CHZ9_BIFBI			287		
+tr|U2DRX0|U2DRX0_BIFBI	K12267	msrAB; peptide methionine sulfoxide reductase msrA/msrB [EC:1.8.4.11 1.8.4.12]	353		
+tr|U2CIL2|U2CIL2_BIFBI			17	K01114	1
+tr|U2CE43|U2CE43_BIFBI			16	K06178	1
+tr|U2CIC8|U2CIC8_BIFBI	K00970	pcnB; poly(A) polymerase [EC:2.7.7.19]	668		
+tr|U2CI32|U2CI32_BIFBI			15	K01990	2
+tr|U2CHQ2|U2CHQ2_BIFBI			20	K14652	2
+tr|U2DQX0|U2DQX0_BIFBI			14	K00230	1
+tr|U2CET5|U2CET5_BIFBI	K07282	pgsA; poly-gamma-glutamate synthesis protein (capsule biosynthesis protein)	279		
+tr|U2DR70|U2DR70_BIFBI	K03800	lplA; lipoate---protein ligase [EC:6.3.1.20]	245		
+tr|U2DNP2|U2DNP2_BIFBI			21	K07670	10
+tr|U2DNJ0|U2DNJ0_BIFBI			15	K00700	1
+tr|U2CF81|U2CF81_BIFBI			23	K10817	1
+tr|U2DUH5|U2DUH5_BIFBI	K02519	infB; translation initiation factor IF-2	963		
+tr|U2CIV3|U2CIV3_BIFBI	K07729	putative transcriptional regulator	57		
+tr|U2BWX7|U2BWX7_BIFBI			15	K02111	2
+tr|U2CFK0|U2CFK0_BIFBI			18	K02016	1
+tr|U2CIE7|U2CIE7_BIFBI			17	K19955	1
+tr|U2DTE1|U2DTE1_BIFBI	K17828	pyrDI; dihydroorotate dehydrogenase (NAD+) catalytic subunit [EC:1.3.1.14]	339		
+tr|U2CGS5|U2CGS5_BIFBI	K02035	ABC.PE.S; peptide/nickel transport system substrate-binding protein	599		
+tr|U2DS05|U2DS05_BIFBI	K01854	glf; UDP-galactopyranose mutase [EC:5.4.99.9]	152		
+tr|U2CEI6|U2CEI6_BIFBI			317		
+tr|U2DNM5|U2DNM5_BIFBI			1043		
+tr|U2C0M7|U2C0M7_BIFBI			15	K02031	3
+tr|U2CBZ6|U2CBZ6_BIFBI			20	K03609	2
+tr|U2BXQ2|U2BXQ2_BIFBI			13	K11178	1
+tr|U2CFX3|U2CFX3_BIFBI	K11753	ribF; riboflavin kinase / FMN adenylyltransferase [EC:2.7.1.26 2.7.7.2]	290		
+tr|U2BWN6|U2BWN6_BIFBI	K01586	lysA; diaminopimelate decarboxylase [EC:4.1.1.20]	279		
+tr|U2BVT3|U2BVT3_BIFBI			649		
+tr|U2CFN9|U2CFN9_BIFBI	K01881	PARS; prolyl-tRNA synthetase [EC:6.1.1.15]	804		
+tr|U2CE73|U2CE73_BIFBI	K01442	E3.5.1.24; choloylglycine hydrolase [EC:3.5.1.24]	264		
+tr|U2CH34|U2CH34_BIFBI	K00661	maa; maltose O-acetyltransferase [EC:2.3.1.79]	62		
+tr|U2CH48|U2CH48_BIFBI			22	K05366	4
+tr|U2CJ99|U2CJ99_BIFBI	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	124		
+tr|U2DSL2|U2DSL2_BIFBI			18	K15866	4
+tr|U2CID7|U2CID7_BIFBI	K10112	msmX; multiple sugar transport system ATP-binding protein	569		
+tr|U2CGV3|U2CGV3_BIFBI	K03437	spoU; RNA methyltransferase, TrmH family	206		
+tr|U2CIN0|U2CIN0_BIFBI			57	K01999	2
+tr|U2DTJ5|U2DTJ5_BIFBI			16	K03120	2
+tr|U2CG61|U2CG61_BIFBI			17	K02690	2
+tr|U2CBZ2|U2CBZ2_BIFBI			418		
+tr|U2CG95|U2CG95_BIFBI			18	K00239	3
+tr|U2CFF4|U2CFF4_BIFBI			54	K03752	2
+tr|U2CGM7|U2CGM7_BIFBI			239		
+tr|U2DR79|U2DR79_BIFBI			18	K03624	1
+tr|U2BYK3|U2BYK3_BIFBI			19	K17836	1
+tr|U2DW80|U2DW80_BIFBI	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	33		
+tr|U2CGY5|U2CGY5_BIFBI	K02026	ABC.MS.P1; multiple sugar transport system permease protein	147		
+tr|U2CCF9|U2CCF9_BIFBI			449		
+tr|U2DL25|U2DL25_BIFBI			19	K00595	3
+tr|U2CFV9|U2CFV9_BIFBI			16	K07812	2
+tr|U2CFU1|U2CFU1_BIFBI			11	K09958	2
+tr|U2CIS9|U2CIS9_BIFBI	K00878	thiM; hydroxyethylthiazole kinase [EC:2.7.1.50]	234		
+tr|U2DQQ8|U2DQQ8_BIFBI	K07166	ACT domain-containing protein	135		
+tr|U2DR52|U2DR52_BIFBI			21	K07478	1
+tr|U2BV46|U2BV46_BIFBI	K03575	mutY; A/G-specific adenine glycosylase [EC:3.2.2.-]	292		
+tr|U2CEH2|U2CEH2_BIFBI			14	K02690	5
+tr|U2DL94|U2DL94_BIFBI	K01897	ACSL; long-chain acyl-CoA synthetase [EC:6.2.1.3]	480		
+tr|U2CFI6|U2CFI6_BIFBI			30	K02474	1
+tr|U2BX93|U2BX93_BIFBI	K10773	NTH; endonuclease III [EC:4.2.99.18]	255		
+tr|U2DNS9|U2DNS9_BIFBI	K02619	pabC; 4-amino-4-deoxychorismate lyase [EC:4.1.3.38]	32	K00826	27
+tr|U2CFC9|U2CFC9_BIFBI			25	K01812	1
+tr|U2CHS7|U2CHS7_BIFBI			19	K00626	1
+tr|U2DP03|U2DP03_BIFBI			327		
+tr|U2CEM7|U2CEM7_BIFBI	K00800	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19]	446		
+tr|U2CDZ7|U2CDZ7_BIFBI			13	K10716	3
+tr|U2CEU0|U2CEU0_BIFBI	K02996	RP-S9; small subunit ribosomal protein S9	226		
+tr|U2CJR5|U2CJR5_BIFBI			19	K10231	1
+tr|U2DP79|U2DP79_BIFBI	K07259	dacB; D-alanyl-D-alanine carboxypeptidase / D-alanyl-D-alanine-endopeptidase (penicillin-binding protein 4) [EC:3.4.16.4 3.4.21.-]	227		
+tr|U2DRL2|U2DRL2_BIFBI			18	K03750	1
+tr|U2DSL6|U2DSL6_BIFBI	K02529	lacI; LacI family transcriptional regulator	78		
+tr|U2DT39|U2DT39_BIFBI	K08217	mef; MFS transporter, DHA3 family, macrolide efflux protein	159		
+tr|U2CGM2|U2CGM2_BIFBI			20	K00425	3
+tr|U2CIC4|U2CIC4_BIFBI	K03497	parB; chromosome partitioning protein, ParB family	333		
+tr|U2BYM9|U2BYM9_BIFBI			15	K01950	3
+tr|U2DMZ2|U2DMZ2_BIFBI			15	K08994	2
+tr|U2CCU7|U2CCU7_BIFBI	K07447	ruvX; putative holliday junction resolvase [EC:3.1.-.-]	136		
+tr|U2DQS6|U2DQS6_BIFBI			413		
+tr|U2CHK2|U2CHK2_BIFBI			12	K11089	1
+tr|U2CDB5|U2CDB5_BIFBI			358		
+tr|U2CJI9|U2CJI9_BIFBI			59	K02230	2
+tr|U2BVW4|U2BVW4_BIFBI	K01897	ACSL; long-chain acyl-CoA synthetase [EC:6.2.1.3]	544		
+tr|U2CFG2|U2CFG2_BIFBI	K01153	hsdR; type I restriction enzyme, R subunit [EC:3.1.21.3]	1223		
+tr|U2DM22|U2DM22_BIFBI			194		
+tr|U2CGW4|U2CGW4_BIFBI			16	K02575	1
+tr|U2DR02|U2DR02_BIFBI	K07738	nrdR; transcriptional repressor NrdR	212		
+tr|U2DRG4|U2DRG4_BIFBI	K02013	ABC.FEV.A; iron complex transport system ATP-binding protein [EC:3.6.3.34]	250		
+tr|U2DKP9|U2DKP9_BIFBI	K03601	xseA; exodeoxyribonuclease VII large subunit [EC:3.1.11.6]	416		
+tr|U2DUJ1|U2DUJ1_BIFBI			104		
+tr|U2BX67|U2BX67_BIFBI	K11263	bccA; acetyl-CoA/propionyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein [EC:6.4.1.2 6.4.1.3 6.3.4.14]	657		
+tr|U2DMM5|U2DMM5_BIFBI	K11533	fas; fatty acid synthase, bacteria type [EC:2.3.1.-]	1784		
+tr|U2CIN2|U2CIN2_BIFBI	K05794	terC; tellurite resistance protein TerC	138		
+tr|U2DW31|U2DW31_BIFBI	K03665	hflX; GTPase	546		
+tr|U2CGR0|U2CGR0_BIFBI			111	K02004	4
+tr|U2CGA2|U2CGA2_BIFBI	K02520	infC; translation initiation factor IF-3	267		
+tr|U2DRM7|U2DRM7_BIFBI			494		
+tr|U2CC42|U2CC42_BIFBI			350		
+tr|U2DLH6|U2DLH6_BIFBI			18	K12368	1
+tr|U2BW57|U2BW57_BIFBI			81		
+tr|U2CFN2|U2CFN2_BIFBI	K04092	tyrA1; chorismate mutase [EC:5.4.99.5]	111		
+tr|U2CI55|U2CI55_BIFBI			273		
+tr|U2DQ41|U2DQ41_BIFBI	K01358	clpP; ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]	303		
+tr|U2DST4|U2DST4_BIFBI	K02114	ATPF1E; F-type H+-transporting ATPase subunit epsilon	69		
+tr|U2CH52|U2CH52_BIFBI			12	K16051	1
+tr|U2CH96|U2CH96_BIFBI			16	K03545	3
+tr|U2CI70|U2CI70_BIFBI			222		
+tr|U2CHN0|U2CHN0_BIFBI	K03502	DPO5C; DNA polymerase V	601		
+tr|U2CGU5|U2CGU5_BIFBI	K03402	argR; transcriptional regulator of arginine metabolism	130		
+tr|U2BZ96|U2BZ96_BIFBI			52	K03070	2
+tr|U2BYY1|U2BYY1_BIFBI			153		
+tr|U2CJW0|U2CJW0_BIFBI			21	K10237	1
+tr|U2CDD3|U2CDD3_BIFBI			58	K00789	2
+tr|U2CDY2|U2CDY2_BIFBI			315		
+tr|U2DUW8|U2DUW8_BIFBI	K07727	putative transcriptional regulator	102		
+tr|U2DRK2|U2DRK2_BIFBI	K01872	AARS; alanyl-tRNA synthetase [EC:6.1.1.7]	1129		
+tr|U2DTQ8|U2DTQ8_BIFBI	K10008	gluA; glutamate transport system ATP-binding protein [EC:3.6.3.-]	385		
+tr|U2CIR9|U2CIR9_BIFBI	K07177	Lon-like protease	216		
+tr|U2CFJ8|U2CFJ8_BIFBI	K15634	gpmB; probable phosphoglycerate mutase [EC:5.4.2.12]	195		
+tr|U2CF45|U2CF45_BIFBI			495		
+tr|U2CHN5|U2CHN5_BIFBI			13	K03699	2
+tr|U2DWT0|U2DWT0_BIFBI	K02338	DPO3B; DNA polymerase III subunit beta [EC:2.7.7.7]	433		
+tr|U2CFV4|U2CFV4_BIFBI			135		
+tr|U2DRD4|U2DRD4_BIFBI			10	K07054	3
+tr|U2CGI4|U2CGI4_BIFBI			26	K06969	1
+tr|U2DPP2|U2DPP2_BIFBI			17	K01868	1
+tr|U2BZJ6|U2BZJ6_BIFBI			320		
+tr|U2BXD0|U2BXD0_BIFBI	K15533	1	123	K15534	14
+tr|U2DN64|U2DN64_BIFBI			16	K01847	2
+tr|U2CEU5|U2CEU5_BIFBI	K01575	alsD; acetolactate decarboxylase [EC:4.1.1.5]	175		
+tr|U2CJ58|U2CJ58_BIFBI	K00645	fabD; [acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39]	32		
+tr|U2CDG6|U2CDG6_BIFBI			15	K02112	2
+tr|U2DQ03|U2DQ03_BIFBI			626		
+tr|U2DP25|U2DP25_BIFBI			38	K06075	1
+tr|U2CGH1|U2CGH1_BIFBI			556		
+tr|U2DT57|U2DT57_BIFBI			76		
+tr|U2CD24|U2CD24_BIFBI			66		
+tr|U2C0Y5|U2C0Y5_BIFBI			22	K08903	1
+tr|U2DKL8|U2DKL8_BIFBI			13	K02031	1
+Contaminant_TRYP_PIG			153	K01312	19
+Contaminant_Trypa1					
+Contaminant_Trypa2					
+Contaminant_Trypa3					
+Contaminant_Trypa4					
+Contaminant_Trypa5			17	K03701	1
+Contaminant_Trypa6					
+Contaminant_TRYP_BOVIN			153	K01312	19
+Contaminant_CTRA_BOVIN			135	K01312	16
+Contaminant_CTRB_BOVIN			131	K01312	15
+Contaminant_ALBU_HUMAN			20	K03685	1
+Contaminant_ALBU_BOVIN			16	K01494	2
+Contaminant_K2C1_HUMAN			38	K03546	5
+Contaminant_K22E_HUMAN			24	K03529	2
+Contaminant_K1C9_HUMAN			25	K03529	2
+Contaminant_K1C10_HUMAN			24	K03529	4

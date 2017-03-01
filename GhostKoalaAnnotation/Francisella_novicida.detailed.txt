@@ -1,0 +1,1739 @@
+sp|A0Q808|ACCA_FRATN	K01962	accA; acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2]	400		
+sp|A0Q5S7|AEEP_FRATN	K19802	ycjG; L-Ala-D/L-Glu epimerase [EC:5.1.1.20]	255		
+sp|A0Q5X2|ALR_FRATN	K01775	alr; alanine racemase [EC:5.1.1.1]	219		
+sp|A0Q7I7|ANMK_FRATN	K09001	anmK; anhydro-N-acetylmuramic acid kinase [EC:2.7.1.170]	361		
+sp|A0Q8C6|APT_FRATN	K00759	APRT; adenine phosphoribosyltransferase [EC:2.4.2.7]	204		
+sp|A0Q706|AROB_FRATN	K01735	aroB; 3-dehydroquinate synthase [EC:4.2.3.4]	337		
+sp|A0Q4Z0|AROC_FRATN	K01736	aroC; chorismate synthase [EC:4.2.3.5]	502		
+sp|A0Q707|AROK_FRATN	K00891	E2.7.1.71; shikimate kinase [EC:2.7.1.71]	211		
+sp|A0Q5E2|AROQ_FRATN	K03786	aroQ; 3-dehydroquinate dehydratase II [EC:4.2.1.10]	165		
+sp|A0Q8E1|ATPA_FRATN	K02111	ATPF1A; F-type H+-transporting ATPase subunit alpha [EC:3.6.3.14]	795		
+sp|A0Q8D9|ATPB_FRATN	K02112	ATPF1B; F-type H+-transporting ATPase subunit beta [EC:3.6.3.14]	754		
+sp|A0Q8E2|ATPD_FRATN	K02113	ATPF1D; F-type H+-transporting ATPase subunit delta	140		
+sp|A0Q8D8|ATPE_FRATN	K02114	ATPF1E; F-type H+-transporting ATPase subunit epsilon	111		
+sp|A0Q8E3|ATPF_FRATN	K02109	ATPF0B; F-type H+-transporting ATPase subunit b	153		
+sp|A0Q8E0|ATPG_FRATN	K02115	ATPF1G; F-type H+-transporting ATPase subunit gamma	318		
+sp|A0Q638|BIOB_FRATN	K01012	bioB; biotin synthase [EC:2.8.1.6]	364		
+sp|A0Q635|BIOD_FRATN	K01935	bioD; dethiobiotin synthetase [EC:6.3.3.3]	168		
+sp|A0Q5Y3|CAS9_FRATN			886	K03427	9
+sp|A0Q8A2|CCA_FRATN	K00974	cca; tRNA nucleotidyltransferase (CCA-adding enzyme) [EC:2.7.7.72 3.1.3.- 3.1.4.-]	286		
+sp|A0Q839|CH10_FRATN	K04078	groES; chaperonin GroES	130		
+sp|A0Q838|CH60_FRATN	K04077	groEL; chaperonin GroEL	772		
+sp|A0Q6S9|CLPP_FRATN	K01358	clpP; ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]	292		
+sp|A0Q5Y0|COAD_FRATN	K00954	E2.7.7.3A; pantetheine-phosphate adenylyltransferase [EC:2.7.7.3]	173		
+sp|A0Q6K1|COQ7_FRATN	K06134	COQ7; ubiquinone biosynthesis monooxygenase Coq7 [EC:1.14.13.-]	230		
+sp|A0Q7Q2|CPF1_FRATN			1028		
+sp|A0Q4E4|CYOE_FRATN	K02301	cyoE; protoheme IX farnesyltransferase [EC:2.5.1.-]	273		
+sp|A0Q6F0|CYSN_FRATN	K00956	cysN; sulfate adenylyltransferase subunit 1 [EC:2.7.7.4]	621		
+sp|A0Q8L5|DAPA_FRATN	K01714	dapA; 4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7]	229		
+sp|A0Q696|DCD_FRATN	K01494	dcd; dCTP deaminase [EC:3.5.4.13]	333		
+sp|A0Q8F6|DCUP_FRATN	K01599	hemE; uroporphyrinogen decarboxylase [EC:4.1.1.37]	379		
+sp|A0Q4A6|DDL_FRATN	K01921	ddl; D-alanine-D-alanine ligase [EC:6.3.2.4]	267		
+sp|A0Q534|DER_FRATN	K03977	engA; GTPase	541		
+sp|A0Q3U7|DNAA_FRATN	K02313	dnaA; chromosomal replication initiator protein	480		
+sp|A0Q7F0|DNAK_FRATN	K04043	dnaK; molecular chaperone DnaK	933		
+sp|A0Q7L0|DNLJ_FRATN	K01972	E6.5.1.2; DNA ligase (NAD+) [EC:6.5.1.2]	685		
+sp|A0Q6K9|DPO4_FRATN	K02346	DPO4; DNA polymerase IV [EC:2.7.7.7]	322		
+sp|A0Q402|DTD_FRATN	K07560	dtd; D-tyrosyl-tRNA(Tyr) deacylase [EC:3.1.-.-]	153		
+sp|A0Q4H7|DUT_FRATN	K01520	dut; dUTP pyrophosphatase [EC:3.6.1.23]	180		
+sp|A0Q7Y5|DXR_FRATN	K00099	dxr; 1-deoxy-D-xylulose-5-phosphate reductoisomerase [EC:1.1.1.267]	398		
+sp|A0Q6B9|DXS_FRATN	K01662	dxs; 1-deoxy-D-xylulose-5-phosphate synthase [EC:2.2.1.7]	773		
+sp|A0Q4I1|EFG_FRATN	K02355	fusA; elongation factor G	1088		
+sp|A0Q415|EFP_FRATN	K02356	efp; elongation factor P	276		
+sp|A0Q4H2|EFTS_FRATN	K02357	tsf; elongation factor Ts	346		
+sp|A0Q874|EFTU_FRATN	K02358	tuf; elongation factor Tu	669		
+sp|A0Q6R7|ENGB_FRATN	K03978	engB; GTP-binding protein	233		
+sp|A0Q5J9|ENO_FRATN	K01689	ENO; enolase [EC:4.2.1.11]	590		
+sp|A0Q5J0|ERPA_FRATN	K15724	erpA; iron-sulfur cluster insertion protein	156		
+sp|A0Q7Y1|FABZ_FRATN	K02372	fabZ; 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59]	159		
+sp|A0Q5C7|FETP_FRATN			125		
+sp|A0Q626|FMT_FRATN	K00604	MTFMT; methionyl-tRNA formyltransferase [EC:2.1.2.9]	315		
+sp|A0Q505|FOLD_FRATN	K01491	folD; methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9]	322		
+sp|A0Q5P0|G6PI_FRATN	K01810	GPI; glucose-6-phosphate isomerase [EC:5.3.1.9]	602		
+sp|A0Q8I2|GATA_FRATN	K02433	gatA; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A [EC:6.3.5.6 6.3.5.7]	505		
+sp|A0Q8I1|GATB_FRATN	K02434	gatB; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]	555		
+sp|A0Q587|GCSPA_FRATN	K00282	gcvPA; glycine dehydrogenase subunit 1 [EC:1.4.4.2]	556		
+sp|A0Q588|GCSPB_FRATN	K00283	gcvPB; glycine dehydrogenase subunit 2 [EC:1.4.4.2]	662		
+sp|A0Q585|GCST_FRATN	K00605	gcvT; aminomethyltransferase [EC:2.1.2.10]	401		
+sp|A0Q596|GLGA_FRATN	K00703	E2.4.1.21; starch synthase [EC:2.4.1.21]	561		
+sp|A0Q593|GLGB_FRATN	K00700	glgB; 1,4-alpha-glucan branching enzyme [EC:2.4.1.18]	791		
+sp|A0Q595|GLGC_FRATN	K00975	glgC; glucose-1-phosphate adenylyltransferase [EC:2.7.7.27]	594		
+sp|A0Q8C5|GLMM_FRATN	K03431	glmM; phosphoglucosamine mutase [EC:5.4.2.10]	406		
+sp|A0Q565|GLMU_FRATN	K04042	glmU; bifunctional UDP-N-acetylglucosamine pyrophosphorylase / Glucosamine-1-phosphate N-acetyltransferase [EC:2.7.7.23 2.3.1.157]	524		
+sp|A0Q7M7|GLO2_FRATN	K01069	E3.1.2.6; hydroxyacylglutathione hydrolase [EC:3.1.2.6]	171		
+sp|A0Q880|GLPK_FRATN	K00864	glpK; glycerol kinase [EC:2.7.1.30]	718		
+sp|A0Q7C5|GLYA_FRATN	K00600	glyA; glycine hydroxymethyltransferase [EC:2.1.2.1]	603		
+sp|A0Q4Y5|GPDA_FRATN	K00057	gpsA; glycerol-3-phosphate dehydrogenase (NAD(P)+) [EC:1.1.1.94]	278		
+sp|A0Q5M6|GPMI_FRATN	K15633	gpmI; 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12]	644		
+sp|A0Q5P2|GREA_FRATN	K03624	greA; transcription elongation factor GreA	206		
+sp|A0Q7F1|GRPE_FRATN	K03687	GRPE; molecular chaperone GrpE	181		
+sp|A0Q628|GSA_FRATN	K01845	hemL; glutamate-1-semialdehyde 2,1-aminomutase [EC:5.4.3.8]	554		
+sp|A0Q6C0|GUAA_FRATN	K01951	guaA; GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]	706		
+sp|A0Q845|HEM1_FRATN	K02492	hemA; glutamyl-tRNA reductase [EC:1.2.1.70]	313		
+sp|A0Q481|HEM3_FRATN	K01749	hemC; hydroxymethylbilane synthase [EC:2.5.1.61]	331		
+sp|A0Q6H6|HEM6_FRATN	K00228	CPOX; coproporphyrinogen III oxidase [EC:1.3.3.3]	410		
+sp|A0Q6Z1|HEMH_FRATN	K01772	hemH; ferrochelatase [EC:4.99.1.1]	356		
+sp|A0Q6S3|HFQ_FRATN	K03666	hfq; host factor-I protein	126		
+sp|A0Q6L9|HSLU_FRATN	K03667	hslU; ATP-dependent HslUV protease ATP-binding subunit HslU	615		
+sp|A0Q4L0|HTPG_FRATN	K04079	htpG; molecular chaperone HtpG	727		
+sp|A0Q669|IF1_FRATN	K02518	infA; translation initiation factor IF-1	133		
+sp|A0Q8F3|IF2_FRATN	K02519	infB; translation initiation factor IF-2	882		
+sp|A0Q6R5|ILVD_FRATN	K01687	ilvD; dihydroxy-acid dehydratase [EC:4.2.1.9]	787		
+sp|A0Q492|ISPE_FRATN	K00919	ispE; 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase [EC:2.7.1.148]	204		
+sp|A0Q6Y1|ISPF_FRATN	K01770	ispF; 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:4.6.1.12]	196		
+sp|A0Q6U8|ISPG_FRATN	K03526	gcpE; (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase [EC:1.17.7.1 1.17.7.3]	549		
+sp|A0Q4T9|ISPH_FRATN	K03527	ispH; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase [EC:1.17.7.4]	368		
+sp|A0Q713|KAD_FRATN	K00939	adk; adenylate kinase [EC:2.7.4.3]	279		
+sp|A0Q5L1|KATG_FRATN	K03782	katG; catalase-peroxidase [EC:1.11.1.21]	905		
+sp|A0Q8L0|KDPA_FRATN	K01546	kdpA; K+-transporting ATPase ATPase A chain [EC:3.6.3.12]	550		
+sp|A0Q5J1|KDSA_FRATN	K01627	kdsA; 2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase) [EC:2.5.1.55]	412		
+sp|A0Q5R0|KDSB_FRATN	K00979	kdsB; 3-deoxy-manno-octulosonate cytidylyltransferase (CMP-KDO synthetase) [EC:2.7.7.38]	271		
+sp|A0Q893|KTHY_FRATN	K00943	tmk; dTMP kinase [EC:2.7.4.9]	206		
+sp|A0Q453|LEPA_FRATN	K03596	lepA; GTP-binding protein LepA	929		
+sp|A0Q406|LEUD_FRATN	K01704	leuD; 3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]	198		
+sp|A0Q7B3|LGT_FRATN	K13292	lgt; phosphatidylglycerol:prolipoprotein diacylglycerol transferase [EC:2.-.-.-]	345		
+sp|A0Q6Q2|LIPA_FRATN	K03644	lipA; lipoyl synthase [EC:2.8.1.8]	449		
+sp|A0Q6D2|LIPB_FRATN	K03801	lipB; lipoyl(octanoyl) transferase [EC:2.3.1.181]	237		
+sp|A0Q4N4|LOLA_FRATN	K03634	lolA; outer membrane lipoprotein carrier protein	125		
+sp|A0Q491|LOLB_FRATN	K02494	lolB; outer membrane lipoprotein LolB	106		
+sp|A0Q5D8|LPTD_FRATN	K04744	lptD; LPS-assembly protein	400		
+sp|A0Q7X9|LPXB_FRATN	K00748	lpxB; lipid-A-disaccharide synthase [EC:2.4.1.182]	339		
+sp|A0Q4N6|LPXF_FRATN			79	K12978	24
+sp|A0Q8A0|LPXK_FRATN	K00912	lpxK; tetraacyldisaccharide 4'-kinase [EC:2.7.1.130]	278		
+sp|A0Q528|LSPA_FRATN	K03101	lspA; signal peptidase II [EC:3.4.23.36]	150		
+sp|A0Q6K3|MDH_FRATN	K00024	mdh; malate dehydrogenase [EC:1.1.1.37]	429		
+sp|A0Q862|METK_FRATN	K00789	metK; S-adenosylmethionine synthetase [EC:2.5.1.6]	564		
+sp|A0Q6S4|MIAA_FRATN	K00791	miaA; tRNA dimethylallyltransferase [EC:2.5.1.75]	313		
+sp|A0Q6T5|MIAB_FRATN	K06168	miaB; tRNA-2-methylthio-N6-dimethylallyladenosine synthase [EC:2.8.4.3]	626		
+sp|A0Q4S0|MINE_FRATN	K03608	minE; cell division topological specificity factor	64		
+sp|A0Q454|MNMA_FRATN	K00566	mnmA; tRNA-specific 2-thiouridylase [EC:2.8.1.-]	496		
+sp|A0Q7G4|MNME_FRATN	K03650	mnmE; tRNA modification GTPase [EC:3.6.-.-]	475		
+sp|A0Q753|MNMG_FRATN	K03495	gidA; tRNA uridine 5-carboxymethylaminomethyl modification enzyme	833		
+sp|A0Q5C1|MRAY_FRATN	K01000	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase [EC:2.7.8.13]	430		
+sp|A0Q425|MURC_FRATN	K01924	murC; UDP-N-acetylmuramate--alanine ligase [EC:6.3.2.8]	357		
+sp|A0Q5C2|MURD_FRATN	K01925	murD; UDP-N-acetylmuramoylalanine--D-glutamate ligase [EC:6.3.2.9]	289		
+sp|A0Q766|MURG_FRATN	K02563	murG; UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227]	315		
+sp|A0Q804|MURQ_FRATN	K07106	murQ; N-acetylmuramic acid 6-phosphate etherase [EC:4.2.1.126]	346		
+sp|A0Q809|MUTS_FRATN	K03555	mutS; DNA mismatch repair protein MutS	834		
+sp|A0Q7Q7|NADK_FRATN	K00858	ppnK; NAD+ kinase [EC:2.7.1.23]	244		
+sp|A0Q4L4|NDK_FRATN	K00940	ndk; nucleoside-diphosphate kinase [EC:2.7.4.6]	228		
+sp|A0Q8N8|NHAA_FRATN	K03313	nhaA; Na+:H+ antiporter, NhaA family	355		
+sp|A0Q8H1|NUOB_FRATN	K00331	nuoB; NADH-quinone oxidoreductase subunit B [EC:1.6.5.3]	284		
+sp|A0Q8H0|NUOC_FRATN	K00332	nuoC; NADH-quinone oxidoreductase subunit C [EC:1.6.5.3]	221		
+sp|A0Q8G9|NUOD_FRATN	K00333	nuoD; NADH-quinone oxidoreductase subunit D [EC:1.6.5.3]	674		
+sp|A0Q8G5|NUOH_FRATN	K00337	nuoH; NADH-quinone oxidoreductase subunit H [EC:1.6.5.3]	469		
+sp|A0Q8G4|NUOI_FRATN	K00338	nuoI; NADH-quinone oxidoreductase subunit I [EC:1.6.5.3]	263		
+sp|A0Q8K2|OBG_FRATN	K03979	obgE; GTPase [EC:3.6.5.-]	390		
+sp|A0Q414|ORN_FRATN	K13288	orn; oligoribonuclease [EC:3.1.-.-]	229		
+sp|A0Q7L2|PANB_FRATN	K00606	panB; 3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11]	297		
+sp|A0Q7L3|PANC_FRATN	K01918	panC; pantoate--beta-alanine ligase [EC:6.3.2.1]	241		
+sp|A0Q7L4|PAND_FRATN	K01579	panD; aspartate 1-decarboxylase [EC:4.1.1.11]	135		
+sp|A0Q5I1|PDXS_FRATN	K06215	pdxS; pyridoxal 5'-phosphate synthase pdxS subunit [EC:4.3.3.6]	418		
+sp|A0Q5I2|PDXT_FRATN	K08681	pdxT; 5'-phosphate synthase pdxT subunit [EC:4.3.3.6]	183		
+sp|A0Q7J1|PGK_FRATN	K00927	PGK; phosphoglycerate kinase [EC:2.7.2.3]	512		
+sp|A0Q7J6|PLSX_FRATN	K03621	plsX; glycerol-3-phosphate acyltransferase PlsX [EC:2.3.1.15]	355		
+sp|A0Q6X6|PLSY_FRATN	K08591	plsY; glycerol-3-phosphate acyltransferase PlsY [EC:2.3.1.15]	198		
+sp|A0Q5I9|PNP_FRATN	K00962	pnp; polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]	782		
+sp|A0Q562|PSD_FRATN	K01613	psd; phosphatidylserine decarboxylase [EC:4.1.1.65]	274		
+sp|A0Q6M6|PTH_FRATN	K01056	PTH1; peptidyl-tRNA hydrolase, PTH1 family [EC:3.1.1.29]	204		
+sp|A0Q4C3|PURA_FRATN	K01939	purA; adenylosuccinate synthase [EC:6.3.4.4]	457		
+sp|A0Q8N2|PURT_FRATN	K08289	purT; phosphoribosylglycinamide formyltransferase 2 [EC:2.1.2.2]	480		
+sp|A0Q4L3|PYRG_FRATN	K01937	pyrG; CTP synthase [EC:6.3.4.2]	750		
+sp|A0Q4H3|PYRH_FRATN	K09903	pyrH; uridylate kinase [EC:2.7.4.22]	239		
+sp|A0Q7A0|QUEA_FRATN	K07568	queA; S-adenosylmethionine:tRNA ribosyltransferase-isomerase [EC:2.4.99.17]	409		
+sp|A0Q8F2|RBFA_FRATN	K02834	rbfA; ribosome-binding factor A	113		
+sp|A0Q468|RECA_FRATN	K03553	recA; recombination protein RecA	501		
+sp|A0Q5W0|RECF_FRATN	K03629	recF; DNA replication and repair protein RecF	300		
+sp|A0Q7A9|RECO_FRATN			14	K03584	10
+sp|A0Q768|RECR_FRATN	K06187	recR; recombination protein RecR	215		
+sp|A0Q844|RF1_FRATN	K02835	prfA; peptide chain release factor 1	534		
+sp|A0Q892|RF3_FRATN	K02837	prfC; peptide chain release factor 3	776		
+sp|A0Q860|RIMM_FRATN	K02860	rimM; 16S rRNA processing protein RimM	132		
+sp|A0Q4U9|RIMO_FRATN	K14441	rimO; ribosomal protein S12 methylthiotransferase [EC:2.8.4.4]	560		
+sp|A0Q8F5|RIMP_FRATN	K09748	rimP; ribosome maturation factor RimP	142		
+sp|A0Q869|RL10_FRATN	K02864	RP-L10; large subunit ribosomal protein L10	218		
+sp|A0Q871|RL11_FRATN	K02867	RP-L11; large subunit ribosomal protein L11	220		
+sp|A0Q7F4|RL13_FRATN	K02871	RP-L13; large subunit ribosomal protein L13	222		
+sp|A0Q4J3|RL14_FRATN	K02874	RP-L14; large subunit ribosomal protein L14	208		
+sp|A0Q4K2|RL15_FRATN	K02876	RP-L15; large subunit ribosomal protein L15	197		
+sp|A0Q4J0|RL16_FRATN	K02878	RP-L16; large subunit ribosomal protein L16	227		
+sp|A0Q4K9|RL17_FRATN	K02879	RP-L17; large subunit ribosomal protein L17	183		
+sp|A0Q4J9|RL18_FRATN	K02881	RP-L18; large subunit ribosomal protein L18	164		
+sp|A0Q858|RL19_FRATN	K02884	RP-L19; large subunit ribosomal protein L19	164		
+sp|A0Q870|RL1_FRATN	K02863	RP-L1; large subunit ribosomal protein L1	324		
+sp|A0Q759|RL20_FRATN	K02887	RP-L20; large subunit ribosomal protein L20	169		
+sp|A0Q5Q2|RL21_FRATN	K02888	RP-L21; large subunit ribosomal protein L21	130		
+sp|A0Q4I8|RL22_FRATN	K02890	RP-L22; large subunit ribosomal protein L22	163		
+sp|A0Q4I5|RL23_FRATN	K02892	RP-L23; large subunit ribosomal protein L23	120		
+sp|A0Q4J4|RL24_FRATN	K02895	RP-L24; large subunit ribosomal protein L24	144		
+sp|A0Q6N0|RL25_FRATN	K02897	RP-L25; large subunit ribosomal protein L25	120		
+sp|A0Q5Q3|RL27_FRATN	K02899	RP-L27; large subunit ribosomal protein L27	138		
+sp|A0Q4S4|RL28_FRATN	K02902	RP-L28; large subunit ribosomal protein L28	139		
+sp|A0Q4J1|RL29_FRATN	K02904	RP-L29; large subunit ribosomal protein L29	64		
+sp|A0Q4I6|RL2_FRATN	K02886	RP-L2; large subunit ribosomal protein L2	414		
+sp|A0Q4K1|RL30_FRATN	K02907	RP-L30; large subunit ribosomal protein L30	86		
+sp|A0Q4M1|RL31_FRATN	K02909	RP-L31; large subunit ribosomal protein L31	116		
+sp|A0Q7J5|RL32_FRATN	K02911	RP-L32; large subunit ribosomal protein L32	88		
+sp|A0Q4S3|RL33_FRATN	K02913	RP-L33; large subunit ribosomal protein L33	94		
+sp|A0Q422|RL34_FRATN	K02914	RP-L34; large subunit ribosomal protein L34	74		
+sp|A0Q760|RL35_FRATN	K02916	RP-L35; large subunit ribosomal protein L35	76		
+sp|A0Q4K4|RL36_FRATN	K02919	RP-L36; large subunit ribosomal protein L36	60		
+sp|A0Q4I3|RL3_FRATN	K02906	RP-L3; large subunit ribosomal protein L3	311		
+sp|A0Q4I4|RL4_FRATN	K02926	RP-L4; large subunit ribosomal protein L4	256		
+sp|A0Q4J5|RL5_FRATN	K02931	RP-L5; large subunit ribosomal protein L5	281		
+sp|A0Q4J8|RL6_FRATN	K02933	RP-L6; large subunit ribosomal protein L6	229		
+sp|A0Q868|RL7_FRATN	K02935	RP-L7; large subunit ribosomal protein L7/L12	149		
+sp|A0Q6H2|RL9_FRATN	K02939	RP-L9; large subunit ribosomal protein L9	147		
+sp|A0Q5J5|RLMD_FRATN	K03215	rumA; 23S rRNA (uracil1939-C5)-methyltransferase [EC:2.1.1.190]	477		
+sp|A0Q526|RLME_FRATN	K02427	rlmE; 23S rRNA (uridine2552-2'-O)-methyltransferase [EC:2.1.1.166]	246		
+sp|A0Q842|RLMH_FRATN	K00783	rlmH; 23S rRNA (pseudouridine1915-N3)-methyltransferase [EC:2.1.1.177]	169		
+sp|A0Q621|RLMKL_FRATN	K12297	rlmL; 23S rRNA (guanine2445-N2)-methyltransferase / 23S rRNA (guanine2069-N7)-methyltransferase [EC:2.1.1.173 2.1.1.264]	638		
+sp|A0Q6H0|RLMN_FRATN	K06941	rlmN; 23S rRNA (adenine2503-C2)-methyltransferase [EC:2.1.1.192]	468		
+sp|A0Q7W6|RNC_FRATN	K03685	rnc; ribonuclease III [EC:3.1.26.3]	216		
+sp|A0Q7F9|RNH2_FRATN	K03470	rnhB; ribonuclease HII [EC:3.1.26.4]	216		
+sp|A0Q6W0|RNH_FRATN	K03469	rnhA; ribonuclease HI [EC:3.1.26.4]	215		
+sp|A0Q4X5|RNPH_FRATN	K00989	rph; ribonuclease PH [EC:2.7.7.56]	333		
+sp|A0Q756|RPIA_FRATN	K01807	rpiA; ribose 5-phosphate isomerase A [EC:5.3.1.6]	272		
+sp|A0Q4K8|RPOA1_FRATN	K03040	rpoA; DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]	281		
+sp|A0Q7R6|RPOA2_FRATN	K03040	rpoA; DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]	264		
+sp|A0Q867|RPOB_FRATN	K03043	rpoB; DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]	1718		
+sp|A0Q866|RPOC_FRATN	K03046	rpoC; DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]	1788		
+sp|A0Q5J3|RPOZ_FRATN	K03060	rpoZ; DNA-directed RNA polymerase subunit omega [EC:2.7.7.6]	71		
+sp|A0Q4H4|RRF_FRATN	K02838	frr; ribosome recycling factor	241		
+sp|A0Q4I2|RS10_FRATN	K02946	RP-S10; small subunit ribosomal protein S10	184		
+sp|A0Q4K6|RS11_FRATN	K02948	RP-S11; small subunit ribosomal protein S11	207		
+sp|A0Q4H9|RS12_FRATN	K02950	RP-S12; small subunit ribosomal protein S12	228		
+sp|A0Q4K5|RS13_FRATN	K02952	RP-S13; small subunit ribosomal protein S13	194		
+sp|A0Q4J6|RS14_FRATN	K02954	RP-S14; small subunit ribosomal protein S14	154		
+sp|A0Q5I8|RS15_FRATN	K02956	RP-S15; small subunit ribosomal protein S15	129		
+sp|A0Q861|RS16_FRATN	K02959	RP-S16; small subunit ribosomal protein S16	130		
+sp|A0Q4J2|RS17_FRATN	K02961	RP-S17; small subunit ribosomal protein S17	118		
+sp|A0Q6H3|RS18_FRATN	K02963	RP-S18; small subunit ribosomal protein S18	123		
+sp|A0Q4I7|RS19_FRATN	K02965	RP-S19; small subunit ribosomal protein S19	163		
+sp|A0Q452|RS20_FRATN	K02968	RP-S20; small subunit ribosomal protein S20	122		
+sp|A0Q4H1|RS2_FRATN	K02967	RP-S2; small subunit ribosomal protein S2	315		
+sp|A0Q4I9|RS3_FRATN	K02982	RP-S3; small subunit ribosomal protein S3	311		
+sp|A0Q4K7|RS4_FRATN	K02986	RP-S4; small subunit ribosomal protein S4	314		
+sp|A0Q4K0|RS5_FRATN	K02988	RP-S5; small subunit ribosomal protein S5	219		
+sp|A0Q6H4|RS6_FRATN	K02990	RP-S6; small subunit ribosomal protein S6	158		
+sp|A0Q4I0|RS7_FRATN	K02992	RP-S7; small subunit ribosomal protein S7	229		
+sp|A0Q4J7|RS8_FRATN	K02994	RP-S8; small subunit ribosomal protein S8	164		
+sp|A0Q5E0|RSMA_FRATN	K02528	ksgA; 16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase [EC:2.1.1.182]	244		
+sp|A0Q444|RSMG_FRATN	K03501	gidB; 16S rRNA (guanine527-N7)-methyltransferase [EC:2.1.1.170]	185		
+sp|A0Q5I5|RSMH_FRATN	K03438	mraW; 16S rRNA (cytosine1402-N4)-methyltransferase [EC:2.1.1.199]	306		
+sp|A0Q814|RSMJ_FRATN	K15984	rsmJ; 16S rRNA (guanine1516-N2)-methyltransferase [EC:2.1.1.242]	150		
+sp|A0Q6P7|RUVA_FRATN	K03550	ruvA; holliday junction DNA helicase RuvA [EC:3.6.4.12]	197		
+sp|A0Q6B4|RUVB_FRATN	K03551	ruvB; holliday junction DNA helicase RuvB [EC:3.6.4.12]	516		
+sp|A0Q6P9|RUVC_FRATN	K01159	ruvC; crossover junction endodeoxyribonuclease RuvC [EC:3.1.22.4]	201		
+sp|A0Q5P9|SECA_FRATN	K03070	secA; preprotein translocase subunit SecA	1119		
+sp|A0Q467|SECB1_FRATN	K03071	secB; preprotein translocase subunit SecB	156		
+sp|A0Q810|SECB2_FRATN	K03071	secB; preprotein translocase subunit SecB	157		
+sp|A0Q735|SSRP_FRATN	K03664	smpB; SsrA-binding protein	205		
+sp|A0Q5H4|SUCC_FRATN	K01903	sucC; succinyl-CoA synthetase beta subunit [EC:6.2.1.5]	576		
+sp|A0Q604|SYA_FRATN	K01872	AARS; alanyl-tRNA synthetase [EC:6.1.1.7]	1019		
+sp|A0Q4Q1|SYC_FRATN	K01883	CARS; cysteinyl-tRNA synthetase [EC:6.1.1.16]	579		
+sp|A0Q4G6|SYE_FRATN	K01885	EARS; glutamyl-tRNA synthetase [EC:6.1.1.17]	605		
+sp|A0Q6A6|SYFA_FRATN	K01889	FARSA; phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]	490		
+sp|A0Q599|SYGA_FRATN	K01878	glyQ; glycyl-tRNA synthetase alpha chain [EC:6.1.1.14]	485		
+sp|A0Q8F1|SYH_FRATN	K01892	HARS; histidyl-tRNA synthetase [EC:6.1.1.21]	479		
+sp|A0Q529|SYI_FRATN	K01870	IARS; isoleucyl-tRNA synthetase [EC:6.1.1.5]	1183		
+sp|A0Q693|SYL_FRATN	K01869	LARS; leucyl-tRNA synthetase [EC:6.1.1.4]	1081		
+sp|A0Q556|SYM_FRATN	K01874	MARS; methionyl-tRNA synthetase [EC:6.1.1.10]	893		
+sp|A0Q7N3|SYP_FRATN	K01881	PARS; prolyl-tRNA synthetase [EC:6.1.1.15]	677		
+sp|A0Q5D7|SYR_FRATN	K01887	RARS; arginyl-tRNA synthetase [EC:6.1.1.19]	578		
+sp|A0Q5M5|SYS_FRATN	K01875	SARS; seryl-tRNA synthetase [EC:6.1.1.11]	557		
+sp|A0Q762|SYT_FRATN	K01868	TARS; threonyl-tRNA synthetase [EC:6.1.1.3]	834		
+sp|A0Q5K3|TDH_FRATN	K00060	tdh; threonine 3-dehydrogenase [EC:1.1.1.103]	515		
+sp|A0Q6X1|TGT_FRATN	K00773	tgt; queuine tRNA-ribosyltransferase [EC:2.4.2.29]	579		
+sp|A0Q6T0|TIG_FRATN	K03545	tig; trigger factor	412		
+sp|A0Q7B6|TILS_FRATN	K04075	tilS; tRNA(Ile)-lysidine synthase [EC:6.3.4.19]	243		
+sp|A0Q4U6|TOLB_FRATN	K03641	tolB; TolB protein	273		
+sp|A0Q8C4|TPIS_FRATN	K01803	TPI; triosephosphate isomerase (TIM) [EC:5.3.1.1]	255		
+sp|A0Q3W9|TPMT_FRATN	K00569	TPMT; thiopurine S-methyltransferase [EC:2.1.1.67]	156		
+sp|A0Q7Q5|TRMB_FRATN	K03439	trmB; tRNA (guanine-N7-)-methyltransferase [EC:2.1.1.33]	246		
+sp|A0Q859|TRMD_FRATN	K00554	trmD; tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228]	303		
+sp|A0Q8M6|TRPB_FRATN	K01696	trpB; tryptophan synthase beta chain [EC:4.2.1.20]	683		
+sp|A0Q8R1|TRPD_FRATN	K00766	trpD; anthranilate phosphoribosyltransferase [EC:2.4.2.18]	285		
+sp|A0Q6C2|TRUA_FRATN	K06173	truA; tRNA pseudouridine38-40 synthase [EC:5.4.99.12]	286		
+sp|A0Q7W5|TRUB_FRATN	K03177	truB; tRNA pseudouridine55 synthase [EC:5.4.99.25]	285		
+sp|A0Q864|TSAD_FRATN	K01409	KAE1; N6-L-threonylcarbamoyladenine synthase [EC:2.3.1.234]	388		
+sp|A0Q6E3|TTCA1_FRATN	K14058	ttcA; tRNA 2-thiocytidine biosynthesis protein TtcA	373		
+sp|A0Q736|TTCA2_FRATN	K14058	ttcA; tRNA 2-thiocytidine biosynthesis protein TtcA	258		
+sp|A0Q7B4|TYSY_FRATN	K00560	thyA; thymidylate synthase [EC:2.1.1.45]	406		
+sp|A0Q4X3|UBIA_FRATN	K03179	ubiA; 4-hydroxybenzoate polyprenyltransferase [EC:2.5.1.39]	267		
+sp|A0Q549|UBIE_FRATN	K03183	ubiE; demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201]	379		
+sp|A0Q7Y8|UNG_FRATN	K03648	UNG; uracil-DNA glycosylase [EC:3.2.2.27]	302		
+sp|A0Q5K6|UPP_FRATN	K00761	upp; uracil phosphoribosyltransferase [EC:2.4.2.9]	313		
+sp|A0Q5Q7|UVRC_FRATN	K03703	uvrC; excinuclease ABC subunit C	548		
+sp|A0Q6Q0|Y1028_FRATN			359		
+sp|A0Q767|Y1196_FRATN	K09747	uncharacterized protein	114		
+sp|A0Q841|Y1542_FRATN	K09861	uncharacterized protein	249		
+sp|A0Q512|Y424_FRATN	K07460	yraN; putative endonuclease	102		
+sp|A0Q5Q9|Y682_FRATN	K09791	uncharacterized protein	77	K00912	4
+sp|A0Q614|Y789_FRATN	K07146	UPF0176 protein	469		
+sp|A0Q656|Y833_FRATN			113		
+sp|A0Q689|Y866_FRATN	K07735	algH; putative transcriptional regulator	146		
+sp|A0Q6T7|YBEY_FRATN	K07042	ybeY; probable rRNA maturation factor	153		
+sp|A0Q419|YIDC_FRATN	K03217	yidC; YidC/Oxa1 family membrane protein insertase	485		
+sp|A0Q420|YIDD_FRATN	K08998	uncharacterized protein	93		
+sp|A0Q690|YQGF_FRATN	K07447	ruvX; putative holliday junction resolvase [EC:3.1.-.-]	126		
+tr|V6BF68|V6BF68_FRATN			14	K02198	2
+tr|B3VTA6|B3VTA6_FRATN			17	K09970	1
+tr|B3VTA7|B3VTA7_FRATN			25	K00185	1
+tr|A0Q575|A0Q575_FRATN			64	K07151	2
+tr|A0Q576|A0Q576_FRATN			220		
+tr|A0Q5L5|A0Q5L5_FRATN	K01126	E3.1.4.46; glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46]	248		
+tr|A0Q5K5|A0Q5K5_FRATN	K01183	E3.2.1.14; chitinase [EC:3.2.1.14]	260		
+tr|A0Q7K3|A0Q7K3_FRATN	K15461	mnmC; tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein [EC:2.1.1.61 1.5.-.-]	133		
+tr|A0Q7Q0|A0Q7Q0_FRATN	K15342	cas1; CRISP-associated protein Cas1	110		
+tr|A0Q6B1|A0Q6B1_FRATN			131		
+tr|A0Q747|A0Q747_FRATN	K03702	uvrB; excinuclease ABC subunit B	880		
+tr|A0Q5Z3|A0Q5Z3_FRATN	K02168	betT; choline/glycine/proline betaine transport protein	645		
+tr|A0Q5B6|A0Q5B6_FRATN	K15738	uup; ATP-binding cassette, subfamily F, uup	603		
+tr|A0Q852|A0Q852_FRATN	K08311	nudH; putative (di)nucleoside polyphosphate hydrolase [EC:3.6.1.-]	210		
+tr|A0Q4W8|A0Q4W8_FRATN			27	K07110	4
+tr|A0Q5J2|A0Q5J2_FRATN	K00876	udk; uridine kinase [EC:2.7.1.48]	222		
+tr|A0Q4B1|A0Q4B1_FRATN	K02343	DPO3G; DNA polymerase III subunit gamma/tau [EC:2.7.7.7]	433		
+tr|A0Q4U7|A0Q4U7_FRATN			21	K03466	1
+tr|A0Q5P1|A0Q5P1_FRATN			20	K08084	5
+tr|A0Q820|A0Q820_FRATN	K03834	tyrP; tyrosine-specific transport protein	265		
+tr|A0Q695|A0Q695_FRATN	K16053	mscM; miniconductance mechanosensitive channel	352		
+tr|A0Q6L1|A0Q6L1_FRATN	K02687	prmA; ribosomal protein L11 methyltransferase [EC:2.1.1.-]	216		
+tr|A0Q6L5|A0Q6L5_FRATN	K01866	YARS; tyrosyl-tRNA synthetase [EC:6.1.1.1]	549		
+tr|A0Q6U1|A0Q6U1_FRATN			500	K06867	20
+tr|A0Q603|A0Q603_FRATN			35	K02397	1
+tr|A0Q790|A0Q790_FRATN			20	K09929	9
+tr|A0Q6X9|A0Q6X9_FRATN			33	K03834	29
+tr|A0Q6C9|A0Q6C9_FRATN	K01507	ppa; inorganic pyrophosphatase [EC:3.6.1.1]	246		
+tr|A0Q7M5|A0Q7M5_FRATN			15	K04758	6
+tr|A0Q6Y3|A0Q6Y3_FRATN	K03802	cphA; cyanophycin synthetase [EC:6.3.2.29 6.3.2.30]	1156		
+tr|A0Q6H5|A0Q6H5_FRATN			101	K02671	4
+tr|A0Q5S3|A0Q5S3_FRATN			22	K01710	2
+tr|A0Q6R6|A0Q6R6_FRATN	K01733	thrC; threonine synthase [EC:4.2.3.1]	308		
+tr|A0Q7K0|A0Q7K0_FRATN	K02078	acpP; acyl carrier protein	120		
+tr|A0Q718|A0Q718_FRATN			240		
+tr|A0Q6B8|A0Q6B8_FRATN			126		
+tr|A0Q5G2|A0Q5G2_FRATN	K01091	gph; phosphoglycolate phosphatase [EC:3.1.3.18]	174		
+tr|A0Q8D6|A0Q8D6_FRATN	K07390	grxD; monothiol glutaredoxin	162		
+tr|A0Q891|A0Q891_FRATN			35	K08086	9
+tr|A0Q745|A0Q745_FRATN	K01776	murI; glutamate racemase [EC:5.1.1.3]	274		
+tr|A0Q5U0|A0Q5U0_FRATN	K04744	lptD; LPS-assembly protein	330		
+tr|A0Q6X8|A0Q6X8_FRATN	K02073	metQ; D-methionine transport system substrate-binding protein	191	K02072/K02073	90
+tr|A0Q8J6|A0Q8J6_FRATN	K00573	E2.1.1.77; protein-L-isoaspartate(D-aspartate) O-methyltransferase [EC:2.1.1.77]	108		
+tr|A0Q7N5|A0Q7N5_FRATN	K14287	ybdL; methionine aminotransferase [EC:2.6.1.-]	290		
+tr|A0Q7A8|A0Q7A8_FRATN	K03975	dedA; membrane-associated protein	217		
+tr|A0Q5R4|A0Q5R4_FRATN	K08137	galP; MFS transporter, SP family, galactose:H+ symporter	438		
+tr|A0Q6T1|A0Q6T1_FRATN			51		
+tr|A0Q7P6|A0Q7P6_FRATN			666		
+tr|A0Q650|A0Q650_FRATN			175		
+tr|A0Q6D8|A0Q6D8_FRATN	K09117	uncharacterized protein	149		
+tr|A0Q6C4|A0Q6C4_FRATN			210		
+tr|A0Q7G0|A0Q7G0_FRATN	K15396	trmJ; tRNA (cytidine32/uridine32-2'-O)-methyltransferase [EC:2.1.1.200]	187	K02533	47
+tr|A0Q7J3|A0Q7J3_FRATN	K00615	E2.2.1.1; transketolase [EC:2.2.1.1]	846		
+tr|A0Q631|A0Q631_FRATN	K01574	adc; acetoacetate decarboxylase [EC:4.1.1.4]	269		
+tr|A0Q6V7|A0Q6V7_FRATN			32	K02054	2
+tr|A0Q7N9|A0Q7N9_FRATN	K03625	nusB; N utilization substance protein B	83		
+tr|A0Q6C3|A0Q6C3_FRATN			75	K01066	71
+tr|A0Q4E1|A0Q4E1_FRATN	K02298	cyoB; cytochrome o ubiquinol oxidase subunit I [EC:1.10.3.10]	918		
+tr|A0Q675|A0Q675_FRATN	K09013	sufC; Fe-S cluster assembly ATP-binding protein	346		
+tr|A0Q834|A0Q834_FRATN			24	K03524	1
+tr|A0Q7G1|A0Q7G1_FRATN	K02806	PTS-Ntr-EIIA; PTS system, nitrogen regulatory IIA component [EC:2.7.1.-]	74		
+tr|A0Q6K2|A0Q6K2_FRATN			27	K03770	2
+tr|A0Q6Q7|A0Q6Q7_FRATN	K10773	NTH; endonuclease III [EC:4.2.99.18]	304		
+tr|A0Q721|A0Q721_FRATN	K14540	rbgA; ribosome biogenesis GTPase A	254		
+tr|A0Q4L1|A0Q4L1_FRATN			23	K01990	1
+tr|A0Q664|A0Q664_FRATN			250		
+tr|A0Q7Y7|A0Q7Y7_FRATN			323		
+tr|A0Q7E7|A0Q7E7_FRATN	K06911	uncharacterized protein	202		
+tr|A0Q7E9|A0Q7E9_FRATN	K03686	dnaJ; molecular chaperone DnaJ	445		
+tr|A0Q5T9|A0Q5T9_FRATN	K04762	hslR; ribosome-associated heat shock protein Hsp15	145		
+tr|A0Q6R2|A0Q6R2_FRATN	K00053	ilvC; ketol-acid reductoisomerase [EC:1.1.1.86]	496		
+tr|A0Q5H8|A0Q5H8_FRATN	K05539	dusA; tRNA-dihydrouridine synthase A [EC:1.-.-.-]	376		
+tr|A0Q4U5|A0Q4U5_FRATN			18	K03646	3
+tr|A0Q692|A0Q692_FRATN			388		
+tr|A0Q8K7|A0Q8K7_FRATN	K07646	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]	591		
+tr|A0Q4P7|A0Q4P7_FRATN			24	K02650	5
+tr|A0Q897|A0Q897_FRATN	K01839	deoB; phosphopentomutase [EC:5.4.2.7]	477		
+tr|A0Q5A9|A0Q5A9_FRATN	K00762	pyrE; orotate phosphoribosyltransferase [EC:2.4.2.10]	234		
+tr|A0Q8G0|A0Q8G0_FRATN	K00342	nuoM; NADH-quinone oxidoreductase subunit M [EC:1.6.5.3]	549		
+tr|A0Q5B7|A0Q5B7_FRATN	K03305	TC.POT; proton-dependent oligopeptide transporter, POT family	240		
+tr|A0Q8G8|A0Q8G8_FRATN	K00334	nuoE; NADH-quinone oxidoreductase subunit E [EC:1.6.5.3]	200		
+tr|A0Q899|A0Q899_FRATN	K02335	DPO1; DNA polymerase I [EC:2.7.7.7]	1009		
+tr|A0Q439|A0Q439_FRATN			21	K12262	17
+tr|A0Q8H4|A0Q8H4_FRATN			378		
+tr|A0Q7S5|A0Q7S5_FRATN			150		
+tr|A0Q7R7|A0Q7R7_FRATN	K07478	ycaJ; putative ATPase	367		
+tr|A0Q403|A0Q403_FRATN			239	K06141	47
+tr|A0Q7T5|A0Q7T5_FRATN	K03578	hrpA; ATP-dependent helicase HrpA [EC:3.6.4.13]	987		
+tr|A0Q5E3|A0Q5E3_FRATN	K02160	accB; acetyl-CoA carboxylase biotin carboxyl carrier protein	130		
+tr|A0Q4M5|A0Q4M5_FRATN			288		
+tr|A0Q4P2|A0Q4P2_FRATN			424		
+tr|A0Q7A2|A0Q7A2_FRATN	K18800	ubiI; 2-octaprenylphenol hydroxylase [EC:1.14.13.-]	315		
+tr|A0Q7L8|A0Q7L8_FRATN			26	K07090	2
+tr|A0Q5X9|A0Q5X9_FRATN			196		
+tr|A0Q5V6|A0Q5V6_FRATN	K01895	ACSS; acetyl-CoA synthetase [EC:6.2.1.1]	792		
+tr|A0Q597|A0Q597_FRATN	K00688	E2.4.1.1; starch phosphorylase [EC:2.4.1.1]	856		
+tr|A0Q8B8|A0Q8B8_FRATN	K07223	putative iron-dependent peroxidase	232		
+tr|A0Q7R5|A0Q7R5_FRATN	K03594	bfr; bacterioferritin [EC:1.16.3.1]	186		
+tr|A0Q520|A0Q520_FRATN	K03168	topA; DNA topoisomerase I [EC:5.99.1.2]	954		
+tr|A0Q6P8|A0Q6P8_FRATN			283		
+tr|A0Q8C7|A0Q8C7_FRATN	K00658	DLST; 2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [EC:2.3.1.61]	538		
+tr|A0Q8C9|A0Q8C9_FRATN	K00240	sdhB; succinate dehydrogenase / fumarate reductase, iron-sulfur subunit [EC:1.3.5.1 1.3.5.4]	370		
+tr|A0Q857|A0Q857_FRATN	K04763	xerD; integrase/recombinase XerD	324		
+tr|A0Q5Y7|A0Q5Y7_FRATN			507		
+tr|A0Q7G3|A0Q7G3_FRATN			22	K11720	1
+tr|A0Q8F9|A0Q8F9_FRATN	K00343	nuoN; NADH-quinone oxidoreductase subunit N [EC:1.6.5.3]	429		
+tr|A0Q7Y6|A0Q7Y6_FRATN	K02469	gyrA; DNA gyrase subunit A [EC:5.99.1.3]	1126		
+tr|A0Q7U1|A0Q7U1_FRATN	K07516	fadN; 3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35]	852		
+tr|A0Q4B4|A0Q4B4_FRATN			144		
+tr|A0Q443|A0Q443_FRATN	K03834	tyrP; tyrosine-specific transport protein	290		
+tr|A0Q470|A0Q470_FRATN	K03111	ssb; single-strand DNA-binding protein	141		
+tr|A0Q598|A0Q598_FRATN	K00705	malQ; 4-alpha-glucanotransferase [EC:2.4.1.25]	494		
+tr|A0Q7S8|A0Q7S8_FRATN	K02473	E5.1.3.7; UDP-N-acetylglucosamine 4-epimerase [EC:5.1.3.7]	453		
+tr|A0Q4E5|A0Q4E5_FRATN	K02536	lpxD; UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [EC:2.3.1.191]	356		
+tr|A0Q8D0|A0Q8D0_FRATN	K00239	sdhA; succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4]	809		
+tr|A0Q4T8|A0Q4T8_FRATN	K03774	slpA; FKBP-type peptidyl-prolyl cis-trans isomerase SlpA [EC:5.2.1.8]	143		
+tr|A0Q559|A0Q559_FRATN			313		
+tr|A0Q7T9|A0Q7T9_FRATN	K01897	ACSL; long-chain acyl-CoA synthetase [EC:6.2.1.3]	508		
+tr|A0Q8Q5|A0Q8Q5_FRATN	K13498	trpCF; indole-3-glycerol phosphate synthase / phosphoribosylanthranilate isomerase [EC:4.1.1.48 5.3.1.24]	549		
+tr|A0Q7S9|A0Q7S9_FRATN	K02474	wbpO; UDP-N-acetyl-D-galactosamine dehydrogenase [EC:1.1.1.-]	615		
+tr|A0Q7Z0|A0Q7Z0_FRATN			291		
+tr|A0Q489|A0Q489_FRATN			564		
+tr|A0Q890|A0Q890_FRATN	K03110	ftsY; fused signal recognition particle receptor	387		
+tr|A0Q8Q1|A0Q8Q1_FRATN	K05340	glcU; glucose uptake protein	362		
+tr|A0Q4A2|A0Q4A2_FRATN			23	K00764	1
+tr|A0Q4C1|A0Q4C1_FRATN			351		
+tr|A0Q507|A0Q507_FRATN	K01933	purM; phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.3.1]	364		
+tr|A0Q410|A0Q410_FRATN	K01006	ppdK; pyruvate, orthophosphate dikinase [EC:2.7.9.1]	1111		
+tr|A0Q4B9|A0Q4B9_FRATN	K03098	APOD; apolipoprotein D and lipocalin family protein	199		
+tr|A0Q8A6|A0Q8A6_FRATN			408		
+tr|A0Q7U3|A0Q7U3_FRATN			113		
+tr|A0Q7Q6|A0Q7Q6_FRATN			65	K05835	26
+tr|A0Q8M7|A0Q8M7_FRATN	K01695	trpA; tryptophan synthase alpha chain [EC:4.2.1.20]	352		
+tr|A0Q4B7|A0Q4B7_FRATN	K01915	glnA; glutamine synthetase [EC:6.3.1.2]	378		
+tr|A0Q416|A0Q416_FRATN			16	K02655	4
+tr|A0Q647|A0Q647_FRATN			187		
+tr|A0Q757|A0Q757_FRATN	K07386	pepO; putative endopeptidase [EC:3.4.24.-]	364		
+tr|A0Q4V0|A0Q4V0_FRATN			255		
+tr|A0Q5A0|A0Q5A0_FRATN	K01928	murE; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase [EC:6.3.2.13]	372		
+tr|A0Q4F4|A0Q4F4_FRATN	K07114	yfbK; Ca-activated chloride channel homolog	103		
+tr|A0Q4G9|A0Q4G9_FRATN			249		
+tr|A0Q6Z4|A0Q6Z4_FRATN			136		
+tr|A0Q699|A0Q699_FRATN	K06131	clsA_B; cardiolipin synthase A/B [EC:2.7.8.-]	325		
+tr|A0Q771|A0Q771_FRATN			75		
+tr|A0Q5Z5|A0Q5Z5_FRATN	K12267	msrAB; peptide methionine sulfoxide reductase msrA/msrB [EC:1.8.4.11 1.8.4.12]	347		
+tr|A0Q7V5|A0Q7V5_FRATN			103	K02483	101
+tr|A0Q4G3|A0Q4G3_FRATN	K10679	nfnB; nitroreductase / dihydropteridine reductase [EC:1.-.-.- 1.5.1.34]	227		
+tr|A0Q4Z9|A0Q4Z9_FRATN			150	K13283	9
+tr|A0Q7L6|A0Q7L6_FRATN	K03581	recD; exodeoxyribonuclease V alpha subunit [EC:3.1.11.5]	371		
+tr|A0Q7E4|A0Q7E4_FRATN	K01916	nadE; NAD+ synthase [EC:6.3.1.5]	243		
+tr|A0Q6N5|A0Q6N5_FRATN			185		
+tr|A0Q7C1|A0Q7C1_FRATN			189		
+tr|A0Q7G9|A0Q7G9_FRATN			167		
+tr|A0Q5Z8|A0Q5Z8_FRATN			18	K03969	1
+tr|A0Q685|A0Q685_FRATN			335		
+tr|A0Q749|A0Q749_FRATN			327		
+tr|A0Q7P7|A0Q7P7_FRATN			151		
+tr|A0Q660|A0Q660_FRATN			37	K03546	2
+tr|A0Q6S0|A0Q6S0_FRATN	K04088	hflK; membrane protease subunit HflK [EC:3.4.-.-]	296		
+tr|A0Q684|A0Q684_FRATN			291		
+tr|A0Q679|A0Q679_FRATN	K03671	trxA; thioredoxin 1	120		
+tr|A0Q708|A0Q708_FRATN	K02666	pilQ; type IV pilus assembly protein PilQ	382		
+tr|A0Q6I7|A0Q6I7_FRATN			345	K00290	74
+tr|A0Q7K5|A0Q7K5_FRATN			357		
+tr|A0Q7W7|A0Q7W7_FRATN	K03100	lepB; signal peptidase I [EC:3.4.21.89]	246		
+tr|A0Q4G5|A0Q4G5_FRATN	K01679	E4.2.1.2B; fumarate hydratase, class II [EC:4.2.1.2]	612		
+tr|A0Q5A8|A0Q5A8_FRATN	K03269	lpxH; UDP-2,3-diacylglucosamine hydrolase [EC:3.6.1.54]	198		
+tr|A0Q6G8|A0Q6G8_FRATN	K06178	rluB; 23S rRNA pseudouridine2605 synthase [EC:5.4.99.22]	308		
+tr|A0Q4S1|A0Q4S1_FRATN	K03609	minD; septum site-determining protein MinD	336		
+tr|A0Q4X1|A0Q4X1_FRATN			57	K06905	2
+tr|A0Q5B5|A0Q5B5_FRATN			195	K08151	14
+tr|A0Q5B0|A0Q5B0_FRATN	K02558	mpl; UDP-N-acetylmuramate: L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase [EC:6.3.2.45]	434		
+tr|A0Q509|A0Q509_FRATN	K11175	purN; phosphoribosylglycinamide formyltransferase 1 [EC:2.1.2.2]	186		
+tr|A0Q4D7|A0Q4D7_FRATN	K00426	cydB; cytochrome d ubiquinol oxidase subunit II [EC:1.10.3.14]	359		
+tr|A0Q4Q5|A0Q4Q5_FRATN			52	K07448	2
+tr|A0Q7T4|A0Q7T4_FRATN			606	K15912	43
+tr|A0Q6N6|A0Q6N6_FRATN	K03455	TC.KEF; monovalent cation:H+ antiporter-2, CPA2 family	279		
+tr|A0Q5X3|A0Q5X3_FRATN			456		
+tr|A0Q5G3|A0Q5G3_FRATN			238		
+tr|A0Q6N1|A0Q6N1_FRATN	K00948	PRPS; ribose-phosphate pyrophosphokinase [EC:2.7.6.1]	404		
+tr|A0Q7F6|A0Q7F6_FRATN			18	K03599	7
+tr|A0Q822|A0Q822_FRATN	K05516	cbpA; curved DNA-binding protein	271		
+tr|A0Q4L2|A0Q4L2_FRATN			548		
+tr|A0Q7Q3|A0Q7Q3_FRATN			65	K03824	30
+tr|A0Q785|A0Q785_FRATN	K01784	galE; UDP-glucose 4-epimerase [EC:5.1.3.2]	440		
+tr|A0Q8L3|A0Q8L3_FRATN	K01586	lysA; diaminopimelate decarboxylase [EC:4.1.1.20]	212		
+tr|A0Q710|A0Q710_FRATN			16	K02664	4
+tr|A0Q6I6|A0Q6I6_FRATN	K00128	E1.2.1.3; aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]	651		
+tr|A0Q7P8|A0Q7P8_FRATN			117		
+tr|A0Q8A5|A0Q8A5_FRATN	K18138	acrB; multidrug efflux pump	561	K18307	243
+tr|A0Q523|A0Q523_FRATN			175	K01951	49
+tr|A0Q3Y1|A0Q3Y1_FRATN	K01591	pyrF; orotidine-5'-phosphate decarboxylase [EC:4.1.1.23]	127		
+tr|A0Q408|A0Q408_FRATN	K01649	leuA; 2-isopropylmalate synthase [EC:2.3.3.13]	295		
+tr|A0Q8B2|A0Q8B2_FRATN	K07071	uncharacterized protein	193		
+tr|A0Q4M7|A0Q4M7_FRATN	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	210		
+tr|A0Q4Z4|A0Q4Z4_FRATN			334		
+tr|A0Q4F6|A0Q4F6_FRATN	K01304	pcp; pyroglutamyl-peptidase [EC:3.4.19.3]	234		
+tr|A0Q503|A0Q503_FRATN	K02650	pilA; type IV pilus assembly protein PilA	63	K02682	4
+tr|A0Q5V3|A0Q5V3_FRATN			129		
+tr|A0Q4G8|A0Q4G8_FRATN			513		
+tr|A0Q5S6|A0Q5S6_FRATN			375		
+tr|A0Q436|A0Q436_FRATN	K01114	plcC; phospholipase C [EC:3.1.4.3]	447	K01078	42
+tr|A0Q4V7|A0Q4V7_FRATN			236		
+tr|A0Q4F3|A0Q4F3_FRATN	K07114	yfbK; Ca-activated chloride channel homolog	199		
+tr|A0Q405|A0Q405_FRATN	K00052	leuB; 3-isopropylmalate dehydrogenase [EC:1.1.1.85]	381		
+tr|A0Q889|A0Q889_FRATN	K03657	uvrD; DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]	699		
+tr|A0Q5I0|A0Q5I0_FRATN	K02470	gyrB; DNA gyrase subunit B [EC:5.99.1.3]	1068		
+tr|A0Q6Y5|A0Q6Y5_FRATN	K01126	E3.1.4.46; glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46]	128		
+tr|A0Q8A3|A0Q8A3_FRATN	K03611	dsbB; disulfide bond formation protein DsbB	54		
+tr|A0Q8D3|A0Q8D3_FRATN	K01647	CS; citrate synthase [EC:2.3.3.1]	506		
+tr|A0Q579|A0Q579_FRATN			255		
+tr|A0Q6H1|A0Q6H1_FRATN	K02314	dnaB; replicative DNA helicase [EC:3.6.4.12]	486		
+tr|A0Q6F8|A0Q6F8_FRATN	K01953	asnB; asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]	185		
+tr|A0Q8B6|A0Q8B6_FRATN	K02669	pilT; twitching motility protein PilT	399		
+tr|A0Q5D2|A0Q5D2_FRATN	K07574	yhbY; RNA-binding protein	101		
+tr|A0Q433|A0Q433_FRATN			148		
+tr|A0Q843|A0Q843_FRATN	K02493	hemK; release factor glutamine methyltransferase [EC:2.1.1.297]	228		
+tr|A0Q8H7|A0Q8H7_FRATN	K07552	bcr; MFS transporter, DHA1 family, bicyclomycin/chloramphenicol resistance protein	91		
+tr|A0Q495|A0Q495_FRATN	K02221	yggT; YggT family protein	155		
+tr|A0Q8J4|A0Q8J4_FRATN	K06133	LYS5; 4'-phosphopantetheinyl transferase [EC:2.7.8.-]	110		
+tr|A0Q876|A0Q876_FRATN	K03442	mscS; small conductance mechanosensitive channel	107		
+tr|A0Q4M4|A0Q4M4_FRATN			24	K02469	1
+tr|A0Q8L4|A0Q8L4_FRATN	K00674	dapD; 2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase [EC:2.3.1.117]	305		
+tr|A0Q580|A0Q580_FRATN	K02337	DPO3A1; DNA polymerase III subunit alpha [EC:2.7.7.7]	1083		
+tr|A0Q7G7|A0Q7G7_FRATN	K01442	E3.5.1.24; choloylglycine hydrolase [EC:3.5.1.24]	173		
+tr|A0Q802|A0Q802_FRATN			254	K16214	7
+tr|A0Q4A0|A0Q4A0_FRATN	K02238	comEC; competence protein ComEC	226		
+tr|A0Q586|A0Q586_FRATN	K02437	gcvH; glycine cleavage system H protein	175		
+tr|A0Q8E8|A0Q8E8_FRATN	K06179	rluC; 23S rRNA pseudouridine955/2504/2580 synthase [EC:5.4.99.24]	287		
+tr|A0Q851|A0Q851_FRATN			119	K01080	37
+tr|A0Q5F9|A0Q5F9_FRATN			272		
+tr|A0Q6E8|A0Q6E8_FRATN			226		
+tr|A0Q7Z4|A0Q7Z4_FRATN	K00382	DLD; dihydrolipoamide dehydrogenase [EC:1.8.1.4]	639		
+tr|A0Q879|A0Q879_FRATN	K00111	glpA; glycerol-3-phosphate dehydrogenase [EC:1.1.5.3]	490		
+tr|A0Q815|A0Q815_FRATN			25	K07027	1
+tr|A0Q6P0|A0Q6P0_FRATN			246		
+tr|A0Q6L6|A0Q6L6_FRATN	K03800	lplA; lipoate---protein ligase [EC:6.3.1.20]	246		
+tr|A0Q5M9|A0Q5M9_FRATN	K00757	udp; uridine phosphorylase [EC:2.4.2.3]	274		
+tr|A0Q7M9|A0Q7M9_FRATN			120	K01042	4
+tr|A0Q7N4|A0Q7N4_FRATN			63	K07445	5
+tr|A0Q6W3|A0Q6W3_FRATN	K03089	SIG3.3.1; RNA polymerase sigma-32 factor	338		
+tr|A0Q5W4|A0Q5W4_FRATN	K11075	potH; putrescine transport system permease protein	303		
+tr|A0Q6A4|A0Q6A4_FRATN	K09823	zur; Fur family transcriptional regulator, zinc uptake regulator	119		
+tr|A0Q7D1|A0Q7D1_FRATN	K03796	bax; Bax protein	94		
+tr|A0Q6P5|A0Q6P5_FRATN			176		
+tr|A0Q673|A0Q673_FRATN			68	K13772	3
+tr|A0Q649|A0Q649_FRATN			419		
+tr|A0Q7B9|A0Q7B9_FRATN			74	K12989	72
+tr|A0Q8M9|A0Q8M9_FRATN	K03811	pnuC; nicotinamide mononucleotide transporter	122		
+tr|A0Q5D1|A0Q5D1_FRATN	K02341	DPO3D2; DNA polymerase III subunit delta' [EC:2.7.7.7]	125		
+tr|A0Q4M9|A0Q4M9_FRATN	K01153	hsdR; type I restriction enzyme, R subunit [EC:3.1.21.3]	192		
+tr|A0Q4U1|A0Q4U1_FRATN	K17103	CHO1; CDP-diacylglycerol---serine O-phosphatidyltransferase [EC:2.7.8.8]	200		
+tr|A0Q7J8|A0Q7J8_FRATN	K00645	fabD; [acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39]	324		
+tr|A0Q8L8|A0Q8L8_FRATN	K01259	pip; proline iminopeptidase [EC:3.4.11.5]	442		
+tr|A0Q775|A0Q775_FRATN	K13282	cphB; cyanophycinase [EC:3.4.15.6]	288		
+tr|A0Q6A0|A0Q6A0_FRATN	K06131	clsA_B; cardiolipin synthase A/B [EC:2.7.8.-]	366		
+tr|A0Q462|A0Q462_FRATN	K04103	E4.1.1.74; indolepyruvate decarboxylase [EC:4.1.1.74]	484		
+tr|A0Q591|A0Q591_FRATN	K00014	aroE; shikimate dehydrogenase [EC:1.1.1.25]	99	K13832	9
+tr|A0Q627|A0Q627_FRATN	K01920	gshB; glutathione synthase [EC:6.3.2.3]	349		
+tr|A0Q5P5|A0Q5P5_FRATN	K03798	ftsH; cell division protease FtsH [EC:3.4.24.-]	803		
+tr|A0Q755|A0Q755_FRATN			29	K03308	2
+tr|A0Q5R8|A0Q5R8_FRATN	K00942	E2.7.4.8; guanylate kinase [EC:2.7.4.8]	209		
+tr|A0Q6G6|A0Q6G6_FRATN	K03789	rimI; ribosomal-protein-alanine N-acetyltransferase [EC:2.3.1.128]	78	K14742	4
+tr|A0Q7W8|A0Q7W8_FRATN	K07666	qseB; two-component system, OmpR family, response regulator QseB	195		
+tr|A0Q4N5|A0Q4N5_FRATN	K03466	ftsK; DNA segregation ATPase FtsK/SpoIIIE, S-DNA-T family	743		
+tr|A0Q8L2|A0Q8L2_FRATN	K00812	aspB; aspartate aminotransferase [EC:2.6.1.1]	328		
+tr|A0Q7Z5|A0Q7Z5_FRATN	K00627	DLAT; pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12]	659		
+tr|A0Q4Q3|A0Q4Q3_FRATN	K07552	bcr; MFS transporter, DHA1 family, bicyclomycin/chloramphenicol resistance protein	136	K08154	15
+tr|A0Q4B3|A0Q4B3_FRATN	K04567	KARS; lysyl-tRNA synthetase, class II [EC:6.1.1.6]	664		
+tr|A0Q7Q8|A0Q7Q8_FRATN	K20534	gtrB; polyisoprenyl-phosphate glycosyltransferase [EC:2.4.-.-]	354		
+tr|A0Q485|A0Q485_FRATN			53		
+tr|A0Q8N3|A0Q8N3_FRATN			122		
+tr|A0Q5G8|A0Q5G8_FRATN					
+tr|A0Q7E8|A0Q7E8_FRATN			232		
+tr|A0Q5R3|A0Q5R3_FRATN	K00965	galT; UDPglucose--hexose-1-phosphate uridylyltransferase [EC:2.7.7.12]	426		
+tr|A0Q6D0|A0Q6D0_FRATN	K07258	dacC; D-alanyl-D-alanine carboxypeptidase (penicillin-binding protein 5/6) [EC:3.4.16.4]	314		
+tr|A0Q6E1|A0Q6E1_FRATN			240		
+tr|A0Q5F8|A0Q5F8_FRATN			249		
+tr|A0Q4X4|A0Q4X4_FRATN			16	K03181	7
+tr|A0Q4Q9|A0Q4Q9_FRATN			65	K00337	2
+tr|A0Q504|A0Q504_FRATN			183	K19302	24
+tr|A0Q5R5|A0Q5R5_FRATN	K08137	galP; MFS transporter, SP family, galactose:H+ symporter	222		
+tr|A0Q6L2|A0Q6L2_FRATN	K08325	yqhD; NADP-dependent alcohol dehydrogenase [EC:1.1.-.-]	418		
+tr|A0Q4Y7|A0Q4Y7_FRATN	K04485	radA; DNA repair protein RadA/Sms	525		
+tr|A0Q657|A0Q657_FRATN	K00383	GSR; glutathione reductase (NADPH) [EC:1.8.1.7]	490		
+tr|A0Q6F5|A0Q6F5_FRATN			96	K11085	95
+tr|A0Q6F7|A0Q6F7_FRATN			111		
+tr|A0Q6Y6|A0Q6Y6_FRATN	K02652	pilB; type IV pilus assembly protein PilB	570		
+tr|A0Q5Y1|A0Q5Y1_FRATN			139		
+tr|A0Q7M3|A0Q7M3_FRATN			105		
+tr|A0Q6R4|A0Q6R4_FRATN	K01652	E2.2.1.6L; acetolactate synthase I/II/III large subunit [EC:2.2.1.6]	668		
+tr|A0Q798|A0Q798_FRATN	K09125	uncharacterized protein	173		
+tr|A0Q546|A0Q546_FRATN	K02503	HINT1; histidine triad (HIT) family protein	149		
+tr|A0Q7N1|A0Q7N1_FRATN	K02426	sufE; cysteine desulfuration protein SufE	152		
+tr|A0Q5P3|A0Q5P3_FRATN	K03701	uvrA; excinuclease ABC subunit A	1281		
+tr|A0Q536|A0Q536_FRATN	K00075	murB; UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98]	206		
+tr|A0Q4C2|A0Q4C2_FRATN	K00602	purH; phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10]	622		
+tr|A0Q8P2|A0Q8P2_FRATN	K03564	BCP; peroxiredoxin Q/BCP [EC:1.11.1.15]	217		
+tr|A0Q4S9|A0Q4S9_FRATN			103	K03574	63
+tr|A0Q6N8|A0Q6N8_FRATN			113		
+tr|A0Q4M0|A0Q4M0_FRATN	K01919	gshA; glutamate--cysteine ligase [EC:6.3.2.2]	393		
+tr|A0Q825|A0Q825_FRATN			175		
+tr|A0Q794|A0Q794_FRATN	K00208	fabI; enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]	350		
+tr|A0Q3V0|A0Q3V0_FRATN			447		
+tr|A0Q498|A0Q498_FRATN			34	K03789	22
+tr|A0Q463|A0Q463_FRATN			151		
+tr|A0Q8R2|A0Q8R2_FRATN					
+tr|A0Q5D4|A0Q5D4_FRATN	K03216	trmL; tRNA (cytidine/uridine-2'-O-)-methyltransferase [EC:2.1.1.207]	197		
+tr|A0Q541|A0Q541_FRATN			401		
+tr|A0Q4Y6|A0Q4Y6_FRATN			28	K18138	2
+tr|A0Q750|A0Q750_FRATN			322		
+tr|A0Q5L6|A0Q5L6_FRATN	K03321	TC.SULP; sulfate permease, SulP family	582		
+tr|A0Q3X0|A0Q3X0_FRATN	K01465	URA4; dihydroorotase [EC:3.5.2.3]	562		
+tr|A0Q5R2|A0Q5R2_FRATN	K00849	galK; galactokinase [EC:2.7.1.6]	341		
+tr|A0Q5S4|A0Q5S4_FRATN			19	K03738	3
+tr|A0Q7L1|A0Q7L1_FRATN			158		
+tr|A0Q6S1|A0Q6S1_FRATN			253	K00493	78
+tr|A0Q4V4|A0Q4V4_FRATN	K03453	TC.BASS; bile acid:Na+ symporter, BASS family	204		
+tr|A0Q854|A0Q854_FRATN			161		
+tr|A0Q8G6|A0Q8G6_FRATN	K00336	nuoG; NADH-quinone oxidoreductase subunit G [EC:1.6.5.3]	636		
+tr|A0Q4X8|A0Q4X8_FRATN	K03799	htpX; heat shock protein HtpX [EC:3.4.24.-]	279		
+tr|A0Q4L5|A0Q4L5_FRATN	K01963	accD; acetyl-CoA carboxylase carboxyl transferase subunit beta [EC:6.4.1.2]	383		
+tr|A0Q7U7|A0Q7U7_FRATN	K01750	E4.3.1.12; ornithine cyclodeaminase [EC:4.3.1.12]	321		
+tr|A0Q717|A0Q717_FRATN	K00812	aspB; aspartate aminotransferase [EC:2.6.1.1]	372		
+tr|A0Q5L0|A0Q5L0_FRATN	K01129	dgt; dGTPase [EC:3.1.5.1]	332		
+tr|A0Q6B5|A0Q6B5_FRATN			201		
+tr|A0Q5H5|A0Q5H5_FRATN			253	K11016	4
+tr|A0Q8F4|A0Q8F4_FRATN	K02600	nusA; N utilization substance protein A	490		
+tr|A0Q5V5|A0Q5V5_FRATN	K00963	UGP2; UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9]	341		
+tr|A0Q8Q0|A0Q8Q0_FRATN			339		
+tr|A0Q5B9|A0Q5B9_FRATN	K01886	QARS; glutaminyl-tRNA synthetase [EC:6.1.1.18]	689		
+tr|A0Q500|A0Q500_FRATN	K03631	recN; DNA repair protein RecN (Recombination protein N)	443		
+tr|A0Q5Z6|A0Q5Z6_FRATN	K07552	bcr; MFS transporter, DHA1 family, bicyclomycin/chloramphenicol resistance protein	139		
+tr|A0Q6J0|A0Q6J0_FRATN	K07260	vanY; D-alanyl-D-alanine carboxypeptidase [EC:3.4.16.4]	161		
+tr|A0Q5Y6|A0Q5Y6_FRATN	K07464	cas4; CRISPR-associated exonuclease Cas4 [EC:3.1.12.1]	130		
+tr|A0Q5V2|A0Q5V2_FRATN	K02970	RP-S21; small subunit ribosomal protein S21	62		
+tr|A0Q6A5|A0Q6A5_FRATN	K01890	FARSB; phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]	767		
+tr|A0Q5F4|A0Q5F4_FRATN	K06949	rsgA; ribosome biogenesis GTPase [EC:3.6.1.-]	244		
+tr|A0Q6I2|A0Q6I2_FRATN	K04761	oxyR; LysR family transcriptional regulator, hydrogen peroxide-inducible genes activator	234		
+tr|A0Q6X0|A0Q6X0_FRATN	K03566	gcvA; LysR family transcriptional regulator, glycine cleavage system transcriptional activator	101		
+tr|A0Q776|A0Q776_FRATN			242	K00852	32
+tr|A0Q4X7|A0Q4X7_FRATN			156	K08084	4
+tr|A0Q571|A0Q571_FRATN	K01265	map; methionyl aminopeptidase [EC:3.4.11.18]	392		
+tr|A0Q8G3|A0Q8G3_FRATN	K00339	nuoJ; NADH-quinone oxidoreductase subunit J [EC:1.6.5.3]	121		
+tr|A0Q7D4|A0Q7D4_FRATN	K02067	mlaD; phospholipid/cholesterol/gamma-HCH transport system substrate-binding protein	106		
+tr|A0Q6A9|A0Q6A9_FRATN			332		
+tr|A0Q7F5|A0Q7F5_FRATN	K02996	RP-S9; small subunit ribosomal protein S9	166		
+tr|A0Q4F5|A0Q4F5_FRATN			330		
+tr|A0Q4B0|A0Q4B0_FRATN	K02535	lpxC; UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase [EC:3.5.1.108]	314		
+tr|A0Q574|A0Q574_FRATN	K18284	adenosylhomocysteine/aminodeoxyfutalosine nucleosidase [EC:3.2.2.9 3.2.2.30]	251		
+tr|A0Q5A6|A0Q5A6_FRATN	K00872	thrB1; homoserine kinase [EC:2.7.1.39]	223		
+tr|A0Q7Y4|A0Q7Y4_FRATN	K07277	SAM50; outer membrane protein insertion porin family	581		
+tr|A0Q8E6|A0Q8E6_FRATN			112		
+tr|A0Q506|A0Q506_FRATN	K07461	putative endonuclease	106		
+tr|A0Q7S4|A0Q7S4_FRATN	K01953	asnB; asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]	618		
+tr|A0Q441|A0Q441_FRATN			228		
+tr|A0Q5C5|A0Q5C5_FRATN	K20534	gtrB; polyisoprenyl-phosphate glycosyltransferase [EC:2.4.-.-]	222		
+tr|A0Q5E5|A0Q5E5_FRATN			122	K01754	4
+tr|A0Q7S6|A0Q7S6_FRATN			140	K13003	66
+tr|A0Q4T4|A0Q4T4_FRATN	K09758	asdA; aspartate 4-decarboxylase [EC:4.1.1.12]	564		
+tr|A0Q404|A0Q404_FRATN	K01193	E3.2.1.26; beta-fructofuranosidase [EC:3.2.1.26]	312		
+tr|A0Q5G1|A0Q5G1_FRATN			237	K06131	13
+tr|A0Q6K6|A0Q6K6_FRATN	K00526	E1.17.4.1B; ribonucleoside-diphosphate reductase beta chain [EC:1.17.4.1]	286	K00526/K03676	84
+tr|A0Q5Z9|A0Q5Z9_FRATN	K18979	queG; epoxyqueuosine reductase [EC:1.17.99.6]	327		
+tr|A0Q643|A0Q643_FRATN			15	K01633	7
+tr|A0Q7U2|A0Q7U2_FRATN	K00632	fadA; acetyl-CoA acyltransferase [EC:2.3.1.16]	322		
+tr|A0Q8P3|A0Q8P3_FRATN	K03778	ldhA; D-lactate dehydrogenase [EC:1.1.1.28]	376		
+tr|A0Q4Z7|A0Q4Z7_FRATN	K00121	frmA; S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]	545		
+tr|A0Q564|A0Q564_FRATN	K13522	nadM; bifunctional NMN adenylyltransferase/nudix hydrolase [EC:2.7.7.1 3.6.1.-]	283		
+tr|A0Q7X5|A0Q7X5_FRATN			386		
+tr|A0Q4V6|A0Q4V6_FRATN			118	K07090	8
+tr|A0Q501|A0Q501_FRATN			99	K02655	3
+tr|A0Q7T0|A0Q7T0_FRATN			183	K13004	48
+tr|A0Q4W0|A0Q4W0_FRATN			13	K19157	11
+tr|A0Q5T3|A0Q5T3_FRATN			16	K10118	2
+tr|A0Q602|A0Q602_FRATN	K03657	uvrD; DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]	237		
+tr|A0Q8H9|A0Q8H9_FRATN			422		
+tr|A0Q5S2|A0Q5S2_FRATN	K01488	add; adenosine deaminase [EC:3.5.4.4]	185		
+tr|A0Q7N0|A0Q7N0_FRATN			17	K01719	8
+tr|A0Q7P5|A0Q7P5_FRATN			295		
+tr|A0Q772|A0Q772_FRATN			314		
+tr|A0Q727|A0Q727_FRATN			295		
+tr|A0Q6N3|A0Q6N3_FRATN			376		
+tr|A0Q7H7|A0Q7H7_FRATN			57	K03657	2
+tr|A0Q5F7|A0Q5F7_FRATN	K03572	mutL; DNA mismatch repair protein MutL	577		
+tr|A0Q7H1|A0Q7H1_FRATN			318		
+tr|A0Q6Q9|A0Q6Q9_FRATN			223	K05837	5
+tr|A0Q821|A0Q821_FRATN			252		
+tr|A0Q7W9|A0Q7W9_FRATN			359		
+tr|A0Q6C1|A0Q6C1_FRATN			380		
+tr|A0Q5P4|A0Q5P4_FRATN			309		
+tr|A0Q6W7|A0Q6W7_FRATN	K03210	yajC; preprotein translocase subunit YajC	126		
+tr|A0Q698|A0Q698_FRATN			347		
+tr|A0Q4X0|A0Q4X0_FRATN			415		
+tr|A0Q8J8|A0Q8J8_FRATN					
+tr|A0Q8K3|A0Q8K3_FRATN	K03834	tyrP; tyrosine-specific transport protein	171		
+tr|A0Q8M0|A0Q8M0_FRATN	K03811	pnuC; nicotinamide mononucleotide transporter	111		
+tr|A0Q5C6|A0Q5C6_FRATN			382		
+tr|A0Q3W4|A0Q3W4_FRATN	K03837	sdaC; serine transporter	442		
+tr|A0Q7M0|A0Q7M0_FRATN			646		
+tr|A0Q5K7|A0Q5K7_FRATN	K01433	purU; formyltetrahydrofolate deformylase [EC:3.5.1.10]	346		
+tr|A0Q493|A0Q493_FRATN			116		
+tr|A0Q8K0|A0Q8K0_FRATN	K02471	yddA; putative ATP-binding cassette transporter	282		
+tr|A0Q3V3|A0Q3V3_FRATN			20	K02004	3
+tr|A0Q5B8|A0Q5B8_FRATN			346		
+tr|A0Q3V4|A0Q3V4_FRATN			221		
+tr|A0Q4A5|A0Q4A5_FRATN	K11991	tadA; tRNA(adenine34) deaminase [EC:3.5.4.33]	119		
+tr|A0Q4A8|A0Q4A8_FRATN	K03590	ftsA; cell division protein FtsA	350		
+tr|A0Q4D2|A0Q4D2_FRATN	K07058	membrane protein	222		
+tr|A0Q872|A0Q872_FRATN	K02601	nusG; transcriptional antiterminator NusG	226		
+tr|A0Q873|A0Q873_FRATN	K03073	secE; preprotein translocase subunit SecE	69		
+tr|A0Q7C3|A0Q7C3_FRATN			175		
+tr|A0Q3W3|A0Q3W3_FRATN			226		
+tr|A0Q457|A0Q457_FRATN	K00794	ribH; 6,7-dimethyl-8-ribityllumazine synthase [EC:2.5.1.78]	160		
+tr|A0Q535|A0Q535_FRATN	K00790	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase [EC:2.5.1.7]	289		
+tr|A0Q5A7|A0Q5A7_FRATN	K01733	thrC; threonine synthase [EC:4.2.3.1]	425		
+tr|A0Q5S9|A0Q5S9_FRATN	K17758	nnr; ADP-dependent NAD(P)H-hydrate dehydratase [EC:4.2.1.136]	162		
+	K17759	AIBP; NAD(P)H-hydrate epimerase [EC:5.1.99.6]			
+tr|A0Q6J1|A0Q6J1_FRATN	K02342	DPO3E; DNA polymerase III subunit epsilon [EC:2.7.7.7]	245		
+tr|A0Q6Z9|A0Q6Z9_FRATN	K13038	coaBC; phosphopantothenoylcysteine decarboxylase / phosphopantothenate--cysteine ligase [EC:4.1.1.36 6.3.2.5]	328		
+tr|A0Q4D5|A0Q4D5_FRATN			197	K08154	13
+tr|A0Q6Q3|A0Q6Q3_FRATN	K02217	ftnA; ferritin [EC:1.16.3.2]	182		
+tr|A0Q5Q5|A0Q5Q5_FRATN	K07552	bcr; MFS transporter, DHA1 family, bicyclomycin/chloramphenicol resistance protein	124		
+tr|A0Q646|A0Q646_FRATN	K01658	trpG; anthranilate synthase component II [EC:4.1.3.27]	161		
+tr|A0Q780|A0Q780_FRATN			245		
+tr|A0Q6C5|A0Q6C5_FRATN	K06861	lptB; lipopolysaccharide export system ATP-binding protein [EC:3.6.3.-]	352		
+tr|A0Q719|A0Q719_FRATN	K14742	tsaB; tRNA threonylcarbamoyladenosine biosynthesis protein TsaB	130		
+tr|A0Q728|A0Q728_FRATN	K06207	typA; GTP-binding protein	911		
+tr|A0Q7T2|A0Q7T2_FRATN			249	K15915	42
+tr|A0Q5R7|A0Q5R7_FRATN	K05592	deaD; ATP-dependent RNA helicase DeaD [EC:3.6.4.13]	566		
+tr|A0Q7N8|A0Q7N8_FRATN			247		
+tr|A0Q610|A0Q610_FRATN			24	K01874	1
+tr|A0Q5R9|A0Q5R9_FRATN	K03517	nadA; quinolinate synthase [EC:2.5.1.72]	432		
+tr|A0Q654|A0Q654_FRATN	K11927	rhlE; ATP-dependent RNA helicase RhlE [EC:3.6.4.13]	495		
+tr|A0Q4H0|A0Q4H0_FRATN	K00287	folA; dihydrofolate reductase [EC:1.5.1.3]	174		
+tr|A0Q471|A0Q471_FRATN	K00925	ackA; acetate kinase [EC:2.7.2.1]	401		
+tr|A0Q4E6|A0Q4E6_FRATN			260		
+tr|A0Q8R4|A0Q8R4_FRATN			19	K03720	4
+tr|A0Q4S2|A0Q4S2_FRATN	K03610	minC; septum site-determining protein MinC	159		
+tr|A0Q885|A0Q885_FRATN	K15583	oppD; oligopeptide transport system ATP-binding protein	396		
+tr|A0Q522|A0Q522_FRATN	K03497	parB; chromosome partitioning protein, ParB family	162		
+tr|A0Q440|A0Q440_FRATN			218		
+tr|A0Q5X1|A0Q5X1_FRATN			210		
+tr|A0Q805|A0Q805_FRATN			338	K03696	4
+tr|A0Q4A7|A0Q4A7_FRATN	K03589	ftsQ; cell division protein FtsQ	62		
+tr|A0Q5Y5|A0Q5Y5_FRATN			13	K09951	6
+tr|A0Q8P8|A0Q8P8_FRATN			292	K03762	20
+tr|A0Q7R0|A0Q7R0_FRATN	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	352		
+tr|A0Q431|A0Q431_FRATN			58	K06149	29
+tr|A0Q8N5|A0Q8N5_FRATN	K00655	plsC; 1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51]	159		
+tr|A0Q6A3|A0Q6A3_FRATN			514		
+tr|A0Q6Q4|A0Q6Q4_FRATN	K03305	TC.POT; proton-dependent oligopeptide transporter, POT family	343		
+tr|A0Q5V4|A0Q5V4_FRATN			301		
+tr|A0Q702|A0Q702_FRATN	K13821	putA; RHH-type transcriptional regulator, proline utilization regulon repressor / proline dehydrogenase / delta 1-pyrroline-5-carboxylate dehydrogenase [EC:1.5.5.2 1.2.1.88]	1205		
+tr|A0Q6P4|A0Q6P4_FRATN			113		
+tr|A0Q6J8|A0Q6J8_FRATN			214		
+tr|A0Q4B6|A0Q4B6_FRATN	K01425	glsA; glutaminase [EC:3.5.1.2]	369		
+tr|A0Q3W6|A0Q3W6_FRATN	K01955	carB; carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]	1366		
+tr|A0Q3V6|A0Q3V6_FRATN			36	K07474	3
+tr|A0Q836|A0Q836_FRATN	K20265	gadC; glutamate:GABA antiporter	290		
+tr|A0Q445|A0Q445_FRATN	K06997	yggS; PLP dependent protein	173		
+tr|A0Q8J2|A0Q8J2_FRATN	K00764	purF; amidophosphoribosyltransferase [EC:2.4.2.14]	597		
+tr|A0Q558|A0Q558_FRATN			326		
+tr|A0Q4Y3|A0Q4Y3_FRATN			40	K03892	14
+tr|A0Q7U0|A0Q7U0_FRATN	K06445	fadE; acyl-CoA dehydrogenase [EC:1.3.99.-]	554		
+tr|A0Q4F8|A0Q4F8_FRATN	K02339	DPO3C; DNA polymerase III subunit chi [EC:2.7.7.7]	52		
+tr|A0Q761|A0Q761_FRATN	K02520	infC; translation initiation factor IF-3	235		
+tr|A0Q6K8|A0Q6K8_FRATN			239		
+tr|A0Q601|A0Q601_FRATN			61	K05837	2
+tr|A0Q725|A0Q725_FRATN	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	165		
+tr|A0Q7J7|A0Q7J7_FRATN	K00648	fabH; 3-oxoacyl-[acyl-carrier-protein] synthase III [EC:2.3.1.180]	369		
+tr|A0Q8Q3|A0Q8Q3_FRATN	K01256	pepN; aminopeptidase N [EC:3.4.11.2]	932		
+tr|A0Q629|A0Q629_FRATN	K01207	nagZ; beta-N-acetylhexosaminidase [EC:3.2.1.52]	387		
+tr|A0Q6V0|A0Q6V0_FRATN			325		
+tr|A0Q7P4|A0Q7P4_FRATN	K07090	uncharacterized protein	167		
+tr|A0Q4N7|A0Q4N7_FRATN	K11733	lysP; lysine-specific permease	570		
+tr|A0Q5B2|A0Q5B2_FRATN			130	K03074	4
+tr|A0Q8D7|A0Q8D7_FRATN			593		
+tr|A0Q8Q7|A0Q8Q7_FRATN	K07304	msrA; peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]	101	K12267	70
+tr|A0Q770|A0Q770_FRATN			207	K01697	4
+tr|A0Q8I3|A0Q8I3_FRATN	K02435	gatC; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C [EC:6.3.5.6 6.3.5.7]	53		
+tr|A0Q7T7|A0Q7T7_FRATN	K00031	IDH1; isocitrate dehydrogenase [EC:1.1.1.42]	1019		
+tr|A0Q786|A0Q786_FRATN			445		
+tr|A0Q6I8|A0Q6I8_FRATN	K12941	abgB; aminobenzoyl-glutamate utilization protein B	330		
+tr|A0Q5D9|A0Q5D9_FRATN	K03771	surA; peptidyl-prolyl cis-trans isomerase SurA [EC:5.2.1.8]	194		
+tr|A0Q568|A0Q568_FRATN	K02970	RP-S21; small subunit ribosomal protein S21	75		
+tr|A0Q818|A0Q818_FRATN	K00951	relA; GTP pyrophosphokinase [EC:2.7.6.5]	572		
+tr|A0Q6M0|A0Q6M0_FRATN	K03305	TC.POT; proton-dependent oligopeptide transporter, POT family	410		
+tr|A0Q447|A0Q447_FRATN			293		
+tr|A0Q688|A0Q688_FRATN	K03574	mutT; 8-oxo-dGTP diphosphatase [EC:3.6.1.55]	106		
+tr|A0Q887|A0Q887_FRATN	K15581	oppB; oligopeptide transport system permease protein	301		
+tr|A0Q4B5|A0Q4B5_FRATN	K07052	uncharacterized protein	166		
+tr|A0Q4N2|A0Q4N2_FRATN	K03498	trkH; trk system potassium uptake protein	469		
+tr|A0Q681|A0Q681_FRATN			70		
+tr|A0Q883|A0Q883_FRATN			317		
+tr|A0Q3Y0|A0Q3Y0_FRATN			1626		
+tr|A0Q6J4|A0Q6J4_FRATN	K06193	phnA; protein PhnA	169		
+tr|A0Q8R5|A0Q8R5_FRATN	K08301	rng; ribonuclease G [EC:3.1.26.-]	499		
+tr|A0Q7L9|A0Q7L9_FRATN	K03583	recC; exodeoxyribonuclease V gamma subunit [EC:3.1.11.5]	590		
+tr|A0Q5Z4|A0Q5Z4_FRATN	K05770	TSPO; benzodiazapine receptor	151		
+tr|A0Q729|A0Q729_FRATN			210		
+tr|A0Q5F0|A0Q5F0_FRATN	K03548	perM; putative permease	308		
+tr|A0Q5U6|A0Q5U6_FRATN			20	K02274	1
+tr|A0Q686|A0Q686_FRATN			23	K12056	2
+tr|A0Q8P1|A0Q8P1_FRATN			347	K03762	30
+tr|A0Q634|A0Q634_FRATN	K03524	birA; BirA family transcriptional regulator, biotin operon repressor / biotin-[acetyl-CoA-carboxylase] ligase [EC:6.3.4.15]	166		
+tr|A0Q6L3|A0Q6L3_FRATN	K18930	dld; D-lactate dehydrogenase	766		
+tr|A0Q4R5|A0Q4R5_FRATN			15	K07122	7
+tr|A0Q6V5|A0Q6V5_FRATN			110		
+tr|A0Q7V7|A0Q7V7_FRATN			429	K06954	37
+tr|A0Q552|A0Q552_FRATN	K06190	ispZ; intracellular septation protein	184		
+tr|A0Q7Y9|A0Q7Y9_FRATN	K01156	res; type III restriction enzyme [EC:3.1.21.5]	535		
+tr|A0Q7Q9|A0Q7Q9_FRATN	K01992	ABC-2.P; ABC-2 type transport system permease protein	293		
+tr|A0Q7R4|A0Q7R4_FRATN			292	K18326	14
+tr|A0Q7K7|A0Q7K7_FRATN	K03500	rsmB; 16S rRNA (cytosine967-C5)-methyltransferase [EC:2.1.1.176]	306		
+tr|A0Q7M1|A0Q7M1_FRATN			227		
+tr|A0Q5K2|A0Q5K2_FRATN	K03837	sdaC; serine transporter	197		
+tr|A0Q435|A0Q435_FRATN			92	K06350	21
+tr|A0Q555|A0Q555_FRATN			371		
+tr|A0Q496|A0Q496_FRATN	K02049	ABC.SN.A; NitT/TauT family transport system ATP-binding protein	210		
+tr|A0Q3U8|A0Q3U8_FRATN	K02338	DPO3B; DNA polymerase III subunit beta [EC:2.7.7.7]	322		
+tr|A0Q4Z5|A0Q4Z5_FRATN			68	K11733	59
+tr|A0Q4D8|A0Q4D8_FRATN	K00425	cydA; cytochrome d ubiquinol oxidase subunit I [EC:1.10.3.14]	575		
+tr|A0Q4D6|A0Q4D6_FRATN	K01713	pheC; cyclohexadienyl dehydratase [EC:4.2.1.51 4.2.1.91]	145		
+tr|A0Q542|A0Q542_FRATN			25	K02022	1
+tr|A0Q4U4|A0Q4U4_FRATN	K03560	tolR; biopolymer transport protein TolR	153		
+tr|A0Q475|A0Q475_FRATN	K01876	DARS; aspartyl-tRNA synthetase [EC:6.1.1.12]	795		
+tr|A0Q5M8|A0Q5M8_FRATN	K01489	cdd; cytidine deaminase [EC:3.5.4.5]	135		
+tr|A0Q5C0|A0Q5C0_FRATN	K01610	E4.1.1.49; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]	378		
+tr|A0Q8A9|A0Q8A9_FRATN			226	K06914	5
+tr|A0Q4P5|A0Q4P5_FRATN			344		
+tr|A0Q4U3|A0Q4U3_FRATN	K03562	tolQ; biopolymer transport protein TolQ	217		
+tr|A0Q6I1|A0Q6I1_FRATN			255		
+tr|A0Q612|A0Q612_FRATN	K03656	rep; ATP-dependent DNA helicase Rep [EC:3.6.4.12]	626	K03657	62
+tr|A0Q8C3|A0Q8C3_FRATN	K03075	secG; preprotein translocase subunit SecG	81		
+tr|A0Q569|A0Q569_FRATN	K03704	cspA; cold shock protein (beta-ribbon, CspA family)	89		
+tr|A0Q4R7|A0Q4R7_FRATN	K02067	mlaD; phospholipid/cholesterol/gamma-HCH transport system substrate-binding protein	79		
+tr|A0Q4F1|A0Q4F1_FRATN			104		
+tr|A0Q8L7|A0Q8L7_FRATN	K00928	lysC; aspartate kinase [EC:2.7.2.4]	421		
+tr|A0Q544|A0Q544_FRATN			466	K13924	39
+tr|A0Q5H3|A0Q5H3_FRATN	K01902	sucD; succinyl-CoA synthetase alpha subunit [EC:6.2.1.5]	453		
+tr|A0Q8L1|A0Q8L1_FRATN	K00122	FDH; formate dehydrogenase [EC:1.2.1.2]	556		
+tr|A0Q5I4|A0Q5I4_FRATN	K05939	aas; acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase [EC:2.3.1.40 6.2.1.20]	337		
+tr|A0Q5T7|A0Q5T7_FRATN	K01153	hsdR; type I restriction enzyme, R subunit [EC:3.1.21.3]	724		
+tr|A0Q751|A0Q751_FRATN			118	K02548	4
+tr|A0Q637|A0Q637_FRATN	K00652	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]	264		
+tr|A0Q648|A0Q648_FRATN			419		
+tr|A0Q4Z8|A0Q4Z8_FRATN	K00812	aspB; aspartate aminotransferase [EC:2.6.1.1]	516		
+tr|A0Q5D3|A0Q5D3_FRATN	K01698	hemB; porphobilinogen synthase [EC:4.2.1.24]	401		
+tr|A0Q817|A0Q817_FRATN			111	K06942	4
+tr|A0Q7E6|A0Q7E6_FRATN			213		
+tr|A0Q7J0|A0Q7J0_FRATN	K00873	PK; pyruvate kinase [EC:2.7.1.40]	502		
+tr|A0Q6N4|A0Q6N4_FRATN			331		
+tr|A0Q6W9|A0Q6W9_FRATN			198		
+tr|A0Q811|A0Q811_FRATN			264		
+tr|A0Q519|A0Q519_FRATN			127		
+tr|A0Q499|A0Q499_FRATN			551		
+tr|A0Q6M2|A0Q6M2_FRATN	K00322	sthA; NAD(P) transhydrogenase [EC:1.6.1.1]	529		
+tr|A0Q671|A0Q671_FRATN	K20265	gadC; glutamate:GABA antiporter	365		
+tr|A0Q6I5|A0Q6I5_FRATN			307		
+tr|A0Q793|A0Q793_FRATN			255	K01130	65
+tr|A0Q6A8|A0Q6A8_FRATN	K03305	TC.POT; proton-dependent oligopeptide transporter, POT family	315		
+tr|A0Q667|A0Q667_FRATN			19	K09779	1
+tr|A0Q5P6|A0Q5P6_FRATN	K03784	deoD; purine-nucleoside phosphorylase [EC:2.4.2.1]	256		
+tr|A0Q827|A0Q827_FRATN			181		
+tr|A0Q401|A0Q401_FRATN	K14187	tyrA; chorismate mutase / prephenate dehydrogenase [EC:5.4.99.5 1.3.1.12]	234	K04517	56
+tr|A0Q5N4|A0Q5N4_FRATN	K07263	pqqL; zinc protease [EC:3.4.24.-]	343		
+tr|A0Q5R1|A0Q5R1_FRATN			138		
+tr|A0Q777|A0Q777_FRATN	K07025	putative hydrolase of the HAD superfamily	163		
+tr|A0Q774|A0Q774_FRATN	K01424	E3.5.1.1; L-asparaginase [EC:3.5.1.1]	262		
+tr|A0Q6D9|A0Q6D9_FRATN	K02970	RP-S21; small subunit ribosomal protein S21	90		
+tr|A0Q8G1|A0Q8G1_FRATN	K00341	nuoL; NADH-quinone oxidoreductase subunit L [EC:1.6.5.3]	687		
+tr|A0Q464|A0Q464_FRATN	K04773	sppA; protease IV [EC:3.4.21.-]	268		
+tr|A0Q4Y9|A0Q4Y9_FRATN			149		
+tr|A0Q4C4|A0Q4C4_FRATN	K00760	hprT; hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]	171		
+tr|A0Q6I0|A0Q6I0_FRATN			215		
+tr|A0Q8D5|A0Q8D5_FRATN	K04564	SOD2; superoxide dismutase, Fe-Mn family [EC:1.15.1.1]	293		
+tr|A0Q584|A0Q584_FRATN	K01582	E4.1.1.18; lysine decarboxylase [EC:4.1.1.18]	678		
+tr|A0Q8B1|A0Q8B1_FRATN	K07645	qseC; two-component system, OmpR family, sensor histidine kinase QseC [EC:2.7.13.3]	262		
+tr|A0Q8L6|A0Q8L6_FRATN	K00215	dapB; 4-hydroxy-tetrahydrodipicolinate reductase [EC:1.17.1.8]	141		
+tr|A0Q896|A0Q896_FRATN	K01619	deoC; deoxyribose-phosphate aldolase [EC:4.1.2.4]	217		
+tr|A0Q3Z7|A0Q3Z7_FRATN			22	K11892	2
+tr|A0Q8R3|A0Q8R3_FRATN	K01657	trpE; anthranilate synthase component I [EC:4.1.3.27]	567		
+tr|A0Q726|A0Q726_FRATN	K01153	hsdR; type I restriction enzyme, R subunit [EC:3.1.21.3]	689		
+tr|A0Q748|A0Q748_FRATN	K01141	E3.1.11.1; exodeoxyribonuclease I [EC:3.1.11.1]	317		
+tr|A0Q739|A0Q739_FRATN	K03601	xseA; exodeoxyribonuclease VII large subunit [EC:3.1.11.6]	288		
+tr|A0Q5T0|A0Q5T0_FRATN			21	K01154	3
+tr|A0Q5J8|A0Q5J8_FRATN			284		
+tr|A0Q763|A0Q763_FRATN	K03933	cpbD; chitin-binding protein	187		
+tr|A0Q7B5|A0Q7B5_FRATN	K00058	serA; D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95]	522		
+tr|A0Q6E9|A0Q6E9_FRATN	K00860	cysC; adenylylsulfate kinase [EC:2.7.1.25]	223	K00955	25
+tr|A0Q5W9|A0Q5W9_FRATN	K09799	uncharacterized protein	314		
+tr|A0Q412|A0Q412_FRATN	K04759	feoB; ferrous iron transport protein B	755		
+tr|A0Q5W5|A0Q5W5_FRATN	K11076	potG; putrescine transport system ATP-binding protein	418		
+tr|A0Q6Z2|A0Q6Z2_FRATN	K01669	phrB; deoxyribodipyrimidine photo-lyase [EC:4.1.99.3]	432		
+tr|A0Q801|A0Q801_FRATN	K03316	TC.CPA1; monovalent cation:H+ antiporter, CPA1 family	322		
+tr|A0Q5K0|A0Q5K0_FRATN	K05589	ftsB; cell division protein FtsB	53		
+tr|A0Q5L4|A0Q5L4_FRATN	K02445	glpT; MFS transporter, OPA family, glycerol-3-phosphate transporter	409		
+tr|A0Q5K9|A0Q5K9_FRATN			235	K03762	19
+tr|A0Q789|A0Q789_FRATN			233		
+tr|A0Q784|A0Q784_FRATN	K12995	wbpZ; rhamnosyl/mannosyltransferase [EC:2.4.1.-]	359		
+tr|A0Q7Y2|A0Q7Y2_FRATN	K02536	lpxD; UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [EC:2.3.1.191]	343		
+tr|A0Q886|A0Q886_FRATN	K15582	oppC; oligopeptide transport system permease protein	304		
+tr|A0Q4Y0|A0Q4Y0_FRATN			282		
+tr|A0Q4E9|A0Q4E9_FRATN	K03924	moxR; MoxR-like ATPase [EC:3.6.3.-]	422		
+tr|A0Q4G2|A0Q4G2_FRATN	K00101	E1.1.2.3; L-lactate dehydrogenase (cytochrome) [EC:1.1.2.3]	504		
+tr|A0Q438|A0Q438_FRATN	K03306	TC.PIT; inorganic phosphate transporter, PiT family	327		
+tr|A0Q7B7|A0Q7B7_FRATN	K03305	TC.POT; proton-dependent oligopeptide transporter, POT family	380		
+tr|A0Q4B8|A0Q4B8_FRATN	K02340	DPO3D1; DNA polymerase III subunit delta [EC:2.7.7.7]	167		
+tr|A0Q6A7|A0Q6A7_FRATN			227		
+tr|A0Q3W7|A0Q3W7_FRATN	K01956	carA; carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]	429		
+tr|A0Q8Q8|A0Q8Q8_FRATN			22	K07007	2
+tr|A0Q525|A0Q525_FRATN	K07023	putative hydrolases of HD superfamily	201		
+tr|A0Q8Q4|A0Q8Q4_FRATN	K13993	HSP20; HSP20 family protein	113		
+tr|A0Q4V5|A0Q4V5_FRATN			199		
+tr|A0Q5A2|A0Q5A2_FRATN	K01929	murF; UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase [EC:6.3.2.10]	317		
+tr|A0Q5K4|A0Q5K4_FRATN	K00639	kbl; glycine C-acetyltransferase [EC:2.3.1.29]	531		
+tr|A0Q8F0|A0Q8F0_FRATN			312		
+tr|A0Q630|A0Q630_FRATN	K00019	E1.1.1.30; 3-hydroxybutyrate dehydrogenase [EC:1.1.1.30]	299		
+tr|A0Q6U6|A0Q6U6_FRATN	K01262	pepP; Xaa-Pro aminopeptidase [EC:3.4.11.9]	492		
+tr|A0Q742|A0Q742_FRATN			245		
+tr|A0Q508|A0Q508_FRATN	K01945	purD; phosphoribosylamine--glycine ligase [EC:6.3.4.13]	313	K13713	83
+tr|A0Q6G0|A0Q6G0_FRATN			197		
+tr|A0Q5E7|A0Q5E7_FRATN	K04568	epmA; elongation factor P--(R)-beta-lysine ligase [EC:6.3.1.-]	263		
+tr|A0Q4Q2|A0Q4Q2_FRATN	K07320	prmB; ribosomal protein L3 glutamine methyltransferase [EC:2.1.1.298]	347		
+tr|A0Q8C2|A0Q8C2_FRATN			212		
+tr|A0Q4Z1|A0Q4Z1_FRATN			161	K02274	4
+tr|A0Q813|A0Q813_FRATN	K03733	xerC; integrase/recombinase XerC	287		
+tr|A0Q850|A0Q850_FRATN	K03806	ampD; AmpD protein	208		
+tr|A0Q578|A0Q578_FRATN			129	K09728	3
+tr|A0Q3X7|A0Q3X7_FRATN			201		
+tr|A0Q807|A0Q807_FRATN			20	K03169	1
+tr|A0Q8K1|A0Q8K1_FRATN			531		
+tr|A0Q557|A0Q557_FRATN			180		
+tr|A0Q4S6|A0Q4S6_FRATN	K03655	recG; ATP-dependent DNA helicase RecG [EC:3.6.4.12]	571		
+tr|A0Q4C6|A0Q4C6_FRATN	K02075	ABC.ZM.P; zinc/manganese transport system permease protein	199		
+tr|A0Q6K7|A0Q6K7_FRATN	K06158	ABCF3; ATP-binding cassette, subfamily F, member 3	605		
+tr|A0Q6A2|A0Q6A2_FRATN			193	K16267	7
+tr|A0Q476|A0Q476_FRATN			225		
+tr|A0Q7Z3|A0Q7Z3_FRATN	K07316	mod; adenine-specific DNA-methyltransferase [EC:2.1.1.72]	334		
+tr|A0Q4A3|A0Q4A3_FRATN	K07566	tsaC; L-threonylcarbamoyladenylate synthase [EC:2.7.7.87]	134		
+tr|A0Q4M2|A0Q4M2_FRATN			250		
+tr|A0Q7C4|A0Q7C4_FRATN	K09889	yjgA; ribosome-associated protein	133		
+tr|A0Q6W2|A0Q6W2_FRATN	K00800	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19]	325		
+tr|A0Q7P9|A0Q7P9_FRATN	K09951	cas2; CRISPR-associated protein Cas2	42		
+tr|A0Q799|A0Q799_FRATN	K07024	uncharacterized protein	141		
+tr|A0Q623|A0Q623_FRATN	K03325	TC.ACR3; arsenite transporter, ACR3 family	449		
+tr|A0Q666|A0Q666_FRATN	K03106	SRP54; signal recognition particle subunit SRP54 [EC:3.6.5.4]	591		
+tr|A0Q7D6|A0Q7D6_FRATN			217		
+tr|A0Q746|A0Q746_FRATN			131		
+tr|A0Q7S3|A0Q7S3_FRATN			44	K03328	20
+tr|A0Q709|A0Q709_FRATN	K02665	pilP; type IV pilus assembly protein PilP	52		
+tr|A0Q7D9|A0Q7D9_FRATN	K01897	ACSL; long-chain acyl-CoA synthetase [EC:6.2.1.3]	484		
+tr|A0Q8N9|A0Q8N9_FRATN			251		
+tr|A0Q7D0|A0Q7D0_FRATN	K06180	rluD; 23S rRNA pseudouridine1911/1915/1917 synthase [EC:5.4.99.23]	308		
+tr|A0Q5U5|A0Q5U5_FRATN			315		
+tr|A0Q567|A0Q567_FRATN			175		
+tr|A0Q644|A0Q644_FRATN			57	K00666	21
+tr|A0Q5N7|A0Q5N7_FRATN	K01255	CARP; leucyl aminopeptidase [EC:3.4.11.1]	407		
+tr|A0Q607|A0Q607_FRATN	K00616	E2.2.1.2; transaldolase [EC:2.2.1.2]	319		
+tr|A0Q486|A0Q486_FRATN	K02050	ABC.SN.P; NitT/TauT family transport system permease protein	566		
+tr|A0Q8D1|A0Q8D1_FRATN	K00242	sdhD; succinate dehydrogenase / fumarate reductase, membrane anchor subunit	77		
+tr|A0Q7X0|A0Q7X0_FRATN	K00286	proC; pyrroline-5-carboxylate reductase [EC:1.5.1.2]	200		
+tr|A0Q4R2|A0Q4R2_FRATN	K00568	ubiG; 2-polyprenyl-6-hydroxyphenyl methylase / 3-demethylubiquinone-9 3-methyltransferase [EC:2.1.1.222 2.1.1.64]	255		
+tr|A0Q875|A0Q875_FRATN			276	K01144	92
+tr|A0Q8H3|A0Q8H3_FRATN	K03711	fur; Fur family transcriptional regulator, ferric uptake regulator	156		
+tr|A0Q5A5|A0Q5A5_FRATN	K12524	thrA; bifunctional aspartokinase / homoserine dehydrogenase 1 [EC:2.7.2.4 1.1.1.3]	579		
+tr|A0Q7Y0|A0Q7Y0_FRATN	K00677	lpxA; UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]	275		
+tr|A0Q5E4|A0Q5E4_FRATN	K01961	accC; acetyl-CoA carboxylase, biotin carboxylase subunit [EC:6.4.1.2 6.3.4.14]	659		
+tr|A0Q442|A0Q442_FRATN			141		
+tr|A0Q7Z6|A0Q7Z6_FRATN	K00163	aceE; pyruvate dehydrogenase E1 component [EC:1.2.4.1]	1111		
+tr|A0Q5F1|A0Q5F1_FRATN	K20265	gadC; glutamate:GABA antiporter	366		
+tr|A0Q5U1|A0Q5U1_FRATN			821	K20276	110
+tr|A0Q670|A0Q670_FRATN			185		
+tr|A0Q5T1|A0Q5T1_FRATN	K03427	hsdM; type I restriction enzyme M protein [EC:2.1.1.72]	612		
+tr|A0Q6J6|A0Q6J6_FRATN	K03386	PRDX2_4; peroxiredoxin (alkyl hydroperoxide reductase subunit C) [EC:1.11.1.15]	305		
+tr|A0Q5W2|A0Q5W2_FRATN	K01879	glyS; glycyl-tRNA synthetase beta chain [EC:6.1.1.14]	646		
+tr|A0Q6B6|A0Q6B6_FRATN			103		
+tr|A0Q5X4|A0Q5X4_FRATN	K04518	pheA2; prephenate dehydratase [EC:4.2.1.51]	227		
+tr|A0Q8N7|A0Q8N7_FRATN			157		
+tr|A0Q4S7|A0Q4S7_FRATN			19	K07037	3
+tr|A0Q7X1|A0Q7X1_FRATN	K02428	rdgB; XTP/dITP diphosphohydrolase [EC:3.6.1.66]	225		
+tr|A0Q8P7|A0Q8P7_FRATN			842		
+tr|A0Q4X9|A0Q4X9_FRATN	K03744	lemA; LemA protein	184		
+tr|A0Q3V1|A0Q3V1_FRATN	K16074	zntB; zinc transporter	301		
+tr|A0Q4D4|A0Q4D4_FRATN	K04066	priA; primosomal protein N' (replication factor Y) (superfamily II helicase) [EC:3.6.4.-]	553		
+tr|A0Q545|A0Q545_FRATN			140		
+tr|A0Q421|A0Q421_FRATN	K03536	rnpA; ribonuclease P protein component [EC:3.1.26.5]	56		
+tr|A0Q6T6|A0Q6T6_FRATN	K06217	phoH; phosphate starvation-inducible protein PhoH and related proteins	360		
+tr|A0Q7X2|A0Q7X2_FRATN	K02527	kdtA; 3-deoxy-D-manno-octulosonic-acid transferase [EC:2.4.99.12 2.4.99.13 2.4.99.14 2.4.99.15]	373		
+tr|A0Q606|A0Q606_FRATN	K01255	CARP; leucyl aminopeptidase [EC:3.4.11.1]	421		
+tr|A0Q758|A0Q758_FRATN			139		
+tr|A0Q658|A0Q658_FRATN			139		
+tr|A0Q4D3|A0Q4D3_FRATN	K03811	pnuC; nicotinamide mononucleotide transporter	66		
+tr|A0Q830|A0Q830_FRATN	K01586	lysA; diaminopimelate decarboxylase [EC:4.1.1.20]	355		
+tr|A0Q7X8|A0Q7X8_FRATN			20	K04043	2
+tr|A0Q4N1|A0Q4N1_FRATN			31	K02014	1
+tr|A0Q4R9|A0Q4R9_FRATN	K02065	mlaF; phospholipid/cholesterol/gamma-HCH transport system ATP-binding protein	291		
+tr|A0Q480|A0Q480_FRATN	K06999	phospholipase/carboxylesterase	211		
+tr|A0Q6Q6|A0Q6Q6_FRATN	K03616	rnfB; electron transport complex protein RnfB	197		
+tr|A0Q674|A0Q674_FRATN	K09014	sufB; Fe-S cluster assembly protein SufB	783		
+tr|A0Q715|A0Q715_FRATN			104	K00325	3
+tr|A0Q407|A0Q407_FRATN	K01703	leuC; 3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]	543		
+tr|A0Q773|A0Q773_FRATN	K03762	proP; MFS transporter, MHS family, proline/betaine transporter	318		
+tr|A0Q5L8|A0Q5L8_FRATN	K11103	dctA; aerobic C4-dicarboxylate transport protein	470		
+tr|A0Q5Q0|A0Q5Q0_FRATN	K01246	tag; DNA-3-methyladenine glycosylase I [EC:3.2.2.20]	244		
+tr|A0Q5S0|A0Q5S0_FRATN	K00767	nadC; nicotinate-nucleotide pyrophosphorylase (carboxylating) [EC:2.4.2.19]	304		
+tr|A0Q6V8|A0Q6V8_FRATN	K01673	cynT; carbonic anhydrase [EC:4.2.1.1]	254		
+tr|A0Q4C5|A0Q4C5_FRATN			265		
+tr|A0Q4S8|A0Q4S8_FRATN	K01676	E4.2.1.2A; fumarate hydratase, class I [EC:4.2.1.2]	686		
+tr|A0Q806|A0Q806_FRATN			17	K03686	16
+tr|A0Q4Y2|A0Q4Y2_FRATN	K01534	zntA; Cd2+/Zn2+-exporting ATPase [EC:3.6.3.3 3.6.3.5]	640		
+tr|A0Q8B5|A0Q8B5_FRATN	K06955	uncharacterized protein	231		
+tr|A0Q4L8|A0Q4L8_FRATN	K07126	uncharacterized protein	108		
+tr|A0Q6F1|A0Q6F1_FRATN	K00957	cysD; sulfate adenylyltransferase subunit 2 [EC:2.7.7.4]	501		
+tr|A0Q7L5|A0Q7L5_FRATN	K03525	coaX; type III pantothenate kinase [EC:2.7.1.33]	267		
+tr|A0Q5Q8|A0Q5Q8_FRATN			198		
+tr|A0Q6W8|A0Q6W8_FRATN			219		
+tr|A0Q7J9|A0Q7J9_FRATN	K00059	fabG; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	329		
+tr|A0Q6G9|A0Q6G9_FRATN			26	K02656	16
+tr|A0Q6N7|A0Q6N7_FRATN	K03811	pnuC; nicotinamide mononucleotide transporter	170		
+tr|A0Q6B2|A0Q6B2_FRATN	K07727	putative transcriptional regulator	92		
+tr|A0Q691|A0Q691_FRATN			29	K07126	10
+tr|A0Q5M3|A0Q5M3_FRATN			219		
+tr|A0Q7A7|A0Q7A7_FRATN	K03975	dedA; membrane-associated protein	192		
+tr|A0Q5N8|A0Q5N8_FRATN	K00088	guaB; IMP dehydrogenase [EC:1.1.1.205]	690		
+tr|A0Q7D3|A0Q7D3_FRATN	K02065	mlaF; phospholipid/cholesterol/gamma-HCH transport system ATP-binding protein	233		
+tr|A0Q5G9|A0Q5G9_FRATN	K03305	TC.POT; proton-dependent oligopeptide transporter, POT family	278		
+tr|A0Q5X7|A0Q5X7_FRATN	K11717	sufS; cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]	455		
+tr|A0Q5W3|A0Q5W3_FRATN	K11074	potI; putrescine transport system permease protein	277		
+tr|A0Q853|A0Q853_FRATN			332		
+tr|A0Q4L6|A0Q4L6_FRATN	K11754	folC; dihydrofolate synthase / folylpolyglutamate synthase [EC:6.3.2.12 6.3.2.17]	221		
+tr|A0Q6L0|A0Q6L0_FRATN			400		
+tr|A0Q4U8|A0Q4U8_FRATN	K03640	pal; peptidoglycan-associated lipoprotein	129		
+tr|A0Q516|A0Q516_FRATN			22	K01868	1
+tr|A0Q8Q2|A0Q8Q2_FRATN	K00852	rbsK; ribokinase [EC:2.7.1.15]	285		
+tr|A0Q722|A0Q722_FRATN			54	K07126	19
+tr|A0Q5L9|A0Q5L9_FRATN	K16012	cydC; ATP-binding cassette, subfamily C, bacterial CydC	450		
+tr|A0Q8C1|A0Q8C1_FRATN			21	K01952	2
+tr|A0Q7X6|A0Q7X6_FRATN	K01207	nagZ; beta-N-acetylhexosaminidase [EC:3.2.1.52]	216		
+tr|A0Q5U9|A0Q5U9_FRATN	K19810	epmB; L-lysine 2,3-aminomutase [EC:5.4.3.-]	334		
+tr|A0Q553|A0Q553_FRATN			216		
+tr|A0Q7Q1|A0Q7Q1_FRATN			25	K07464	4
+tr|A0Q573|A0Q573_FRATN	K02621	parC; topoisomerase IV subunit A [EC:5.99.1.-]	797		
+tr|A0Q4L9|A0Q4L9_FRATN	K03980	murJ; putative peptidoglycan lipid II flippase	318		
+tr|A0Q7M6|A0Q7M6_FRATN			56	K03591	2
+tr|A0Q613|A0Q613_FRATN	K00243	uncharacterized protein	273		
+tr|A0Q5N1|A0Q5N1_FRATN			199		
+tr|A0Q8K9|A0Q8K9_FRATN	K01547	kdpB; K+-transporting ATPase ATPase B chain [EC:3.6.3.12]	843		
+tr|A0Q7L7|A0Q7L7_FRATN	K03582	recB; exodeoxyribonuclease V beta subunit [EC:3.1.11.5]	674		
+tr|A0Q7K8|A0Q7K8_FRATN			114	K03827	4
+tr|A0Q651|A0Q651_FRATN			21	K03407	1
+tr|A0Q7G6|A0Q7G6_FRATN			219		
+tr|A0Q4A1|A0Q4A1_FRATN			330		
+tr|A0Q497|A0Q497_FRATN	K02050	ABC.SN.P; NitT/TauT family transport system permease protein	442		
+tr|A0Q4P8|A0Q4P8_FRATN			20	K02672	9
+tr|A0Q8F7|A0Q8F7_FRATN	K07391	comM; magnesium chelatase family protein	539		
+tr|A0Q4U0|A0Q4U0_FRATN	K06208	aroH; chorismate mutase [EC:5.4.99.5]	118	K00945	12
+tr|A0Q592|A0Q592_FRATN	K01200	E3.2.1.41; pullulanase [EC:3.2.1.41]	209		
+tr|A0Q5V7|A0Q5V7_FRATN			230		
+tr|A0Q6L8|A0Q6L8_FRATN	K01419	hslV; ATP-dependent HslUV protease, peptidase subunit HslV [EC:3.4.25.2]	235		
+tr|A0Q6Q5|A0Q6Q5_FRATN	K03675	grxB; glutaredoxin 2	152		
+tr|A0Q7K1|A0Q7K1_FRATN	K09458	fabF; 3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179]	537		
+tr|A0Q847|A0Q847_FRATN	K17713	bamB; outer membrane protein assembly factor BamB	245		
+tr|A0Q566|A0Q566_FRATN	K00820	glmS; glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16]	709		
+tr|A0Q8M4|A0Q8M4_FRATN	K03281	TC.CIC; chloride channel protein, CIC family	373		
+tr|A0Q779|A0Q779_FRATN			273		
+tr|A0Q7W4|A0Q7W4_FRATN	K12573	rnr; ribonuclease R [EC:3.1.-.-]	633		
+tr|A0Q6D7|A0Q6D7_FRATN	K02316	dnaG; DNA primase [EC:2.7.7.-]	414		
+tr|A0Q642|A0Q642_FRATN	K00796	folP; dihydropteroate synthase [EC:2.5.1.15]	90	K13941	66
+tr|A0Q4V2|A0Q4V2_FRATN	K01669	phrB; deoxyribodipyrimidine photo-lyase [EC:4.1.99.3]	537		
+tr|A0Q832|A0Q832_FRATN	K00262	E1.4.1.4; glutamate dehydrogenase (NADP+) [EC:1.4.1.4]	603		
+tr|A0Q530|A0Q530_FRATN	K11753	ribF; riboflavin kinase / FMN adenylyltransferase [EC:2.7.1.26 2.7.7.2]	283		
+tr|A0Q6T2|A0Q6T2_FRATN	K00857	tdk; thymidine kinase [EC:2.7.1.21]	214		
+tr|A0Q4F7|A0Q4F7_FRATN			108		
+tr|A0Q8P0|A0Q8P0_FRATN	K12262	cybB; cytochrome b561	68		
+tr|A0Q451|A0Q451_FRATN			15	K06186	7
+tr|A0Q8N1|A0Q8N1_FRATN			27	K01183	19
+tr|A0Q894|A0Q894_FRATN	K11535	nupC; nucleoside transport protein	441		
+tr|A0Q6M1|A0Q6M1_FRATN	K10716	kch; voltage-gated potassium channel	150		
+tr|A0Q560|A0Q560_FRATN			220		
+tr|A0Q582|A0Q582_FRATN	K09808	lolC_E; lipoprotein-releasing system permease protein	409		
+tr|A0Q4D9|A0Q4D9_FRATN			454		
+tr|A0Q7R8|A0Q7R8_FRATN	K01524	ppx-gppA; exopolyphosphatase / guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase [EC:3.6.1.11 3.6.1.40]	251		
+tr|A0Q456|A0Q456_FRATN	K01462	PDF; peptide deformylase [EC:3.5.1.88]	166		
+tr|A0Q7I3|A0Q7I3_FRATN			19	K00334	2
+tr|A0Q6K4|A0Q6K4_FRATN	K00525	E1.17.4.1A; ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]	580		
+tr|A0Q7B8|A0Q7B8_FRATN	K01442	E3.5.1.24; choloylglycine hydrolase [EC:3.5.1.24]	268		
+tr|A0Q6L7|A0Q6L7_FRATN			114	K14683	4
+tr|A0Q494|A0Q494_FRATN			406		
+tr|A0Q653|A0Q653_FRATN	K01495	GCH1; GTP cyclohydrolase I [EC:3.5.4.16]	194		
+tr|A0Q474|A0Q474_FRATN			202	K03762	36
+tr|A0Q5Y2|A0Q5Y2_FRATN	K03286	TC.OOP; OmpA-OmpF porin, OOP family	58		
+tr|A0Q5L2|A0Q5L2_FRATN			267		
+tr|A0Q8G7|A0Q8G7_FRATN	K00335	nuoF; NADH-quinone oxidoreductase subunit F [EC:1.6.5.3]	615		
+tr|A0Q3X9|A0Q3X9_FRATN			19	K07133	1
+tr|A0Q5C4|A0Q5C4_FRATN			185	K03478	29
+tr|A0Q8A4|A0Q8A4_FRATN	K03585	acrA; membrane fusion protein, multidrug efflux system	289		
+tr|A0Q615|A0Q615_FRATN	K03554	rdgC; recombination associated protein RdgC	181		
+tr|A0Q7E0|A0Q7E0_FRATN			303		
+tr|A0Q554|A0Q554_FRATN			183		
+tr|A0Q551|A0Q551_FRATN			20	K07784	1
+tr|A0Q7R2|A0Q7R2_FRATN	K11312	cupin 2 domain-containing protein	80		
+tr|A0Q8Q9|A0Q8Q9_FRATN			22	K07154	1
+tr|A0Q511|A0Q511_FRATN	K01589	purK; 5-(carboxyamino)imidazole ribonucleotide synthase [EC:6.3.4.18]	333		
+tr|A0Q7R9|A0Q7R9_FRATN	K03671	trxA; thioredoxin 1	149		
+tr|A0Q459|A0Q459_FRATN	K00793	ribE; riboflavin synthase [EC:2.5.1.9]	184		
+tr|A0Q531|A0Q531_FRATN	K00027	ME2; malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]	544		
+tr|A0Q4M6|A0Q4M6_FRATN			352		
+tr|A0Q846|A0Q846_FRATN			28	K20543	4
+tr|A0Q6D5|A0Q6D5_FRATN	K03885	ndh; NADH dehydrogenase [EC:1.6.99.3]	313		
+tr|A0Q424|A0Q424_FRATN	K00014	aroE; shikimate dehydrogenase [EC:1.1.1.25]	174		
+tr|A0Q8A1|A0Q8A1_FRATN	K11085	msbA; ATP-binding cassette, subfamily B, bacterial MsbA [EC:3.6.3.-]	538		
+tr|A0Q6M3|A0Q6M3_FRATN	K02654	pilD; leader peptidase (prepilin peptidase) / N-methyltransferase [EC:3.4.23.43 2.1.1.-]	236		
+tr|A0Q840|A0Q840_FRATN			132		
+tr|A0Q4E3|A0Q4E3_FRATN	K02300	cyoD; cytochrome o ubiquinol oxidase subunit IV	84		
+tr|A0Q5X8|A0Q5X8_FRATN	K13628	iscA; iron-sulfur cluster assembly protein	109		
+tr|A0Q888|A0Q888_FRATN	K15580	oppA; oligopeptide transport system substrate-binding protein	376		
+tr|A0Q5H7|A0Q5H7_FRATN			181		
+tr|A0Q6A1|A0Q6A1_FRATN			159	K09015	4
+tr|A0Q6U5|A0Q6U5_FRATN	K01173	ENDOG; endonuclease G, mitochondrial	229		
+tr|A0Q6V6|A0Q6V6_FRATN			254	K01505	59
+tr|A0Q6J7|A0Q6J7_FRATN			155		
+tr|A0Q741|A0Q741_FRATN			525		
+tr|A0Q6M5|A0Q6M5_FRATN	K17836	penP; beta-lactamase class A [EC:3.5.2.6]	189	K18767	37
+tr|A0Q5I3|A0Q5I3_FRATN	K10563	mutM; formamidopyrimidine-DNA glycosylase [EC:3.2.2.23 4.2.99.18]	271		
+tr|A0Q581|A0Q581_FRATN	K01462	PDF; peptide deformylase [EC:3.5.1.88]	122		
+tr|A0Q5W8|A0Q5W8_FRATN	K00058	serA; D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95]	98	K01079	36
+tr|A0Q6R3|A0Q6R3_FRATN			13	K01653	3
+tr|A0Q619|A0Q619_FRATN			56	K15773	3
+tr|A0Q6R8|A0Q6R8_FRATN	K01104	E3.1.3.48; protein-tyrosine phosphatase [EC:3.1.3.48]	144		
+tr|A0Q6V1|A0Q6V1_FRATN	K00820	glmS; glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16]	280		
+tr|A0Q641|A0Q641_FRATN	K01066	aes; acetyl esterase [EC:3.1.1.-]	88		
+tr|A0Q6Y0|A0Q6Y0_FRATN			163		
+tr|A0Q4H8|A0Q4H8_FRATN	K00995	pgsA; CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase [EC:2.7.8.5]	209		
+tr|A0Q430|A0Q430_FRATN			823		
+tr|A0Q7X4|A0Q7X4_FRATN	K01004	pcs; phosphatidylcholine synthase [EC:2.7.8.24]	173		
+tr|A0Q5B4|A0Q5B4_FRATN			161		
+tr|A0Q487|A0Q487_FRATN	K02049	ABC.SN.A; NitT/TauT family transport system ATP-binding protein	498		
+tr|A0Q8B9|A0Q8B9_FRATN			80		
+tr|A0Q898|A0Q898_FRATN	K03525	coaX; type III pantothenate kinase [EC:2.7.1.33]	235		
+tr|A0Q4G1|A0Q4G1_FRATN			20	K03118	1
+tr|A0Q744|A0Q744_FRATN			336		
+tr|A0Q665|A0Q665_FRATN	K01626	E2.5.1.54; 3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54]	432		
+tr|A0Q7F2|A0Q7F2_FRATN	K08304	mltA; membrane-bound lytic murein transglycosylase A	313		
+tr|A0Q5G7|A0Q5G7_FRATN	K01129	dgt; dGTPase [EC:3.1.5.1]	303		
+tr|A0Q4E7|A0Q4E7_FRATN	K00868	pdxK; pyridoxine kinase [EC:2.7.1.35]	219		
+tr|A0Q4F2|A0Q4F2_FRATN	K07114	yfbK; Ca-activated chloride channel homolog	306		
+tr|A0Q4R0|A0Q4R0_FRATN			398		
+tr|A0Q3V2|A0Q3V2_FRATN			21	K04079	4
+tr|A0Q8B7|A0Q8B7_FRATN	K01681	ACO; aconitate hydratase [EC:4.2.1.3]	1088		
+tr|A0Q8P6|A0Q8P6_FRATN			271		
+tr|A0Q8N6|A0Q8N6_FRATN	K00655	plsC; 1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51]	160		
+tr|A0Q5Z7|A0Q5Z7_FRATN			265		
+tr|A0Q7P3|A0Q7P3_FRATN	K07394	SM-20-related protein	234		
+tr|A0Q682|A0Q682_FRATN			23	K09125	2
+tr|A0Q5B3|A0Q5B3_FRATN	K07552	bcr; MFS transporter, DHA1 family, bicyclomycin/chloramphenicol resistance protein	128		
+tr|A0Q7U5|A0Q7U5_FRATN			16	K09794	4
+tr|A0Q4D1|A0Q4D1_FRATN	K03809	wrbA; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]	240		
+tr|A0Q5C9|A0Q5C9_FRATN	K03599	sspA; RNA polymerase-associated protein	141		
+tr|A0Q4T7|A0Q4T7_FRATN			181	K03286	13
+tr|A0Q5I7|A0Q5I7_FRATN	K03587	ftsI; cell division protein FtsI (penicillin-binding protein 3)	474		
+tr|A0Q8K6|A0Q8K6_FRATN	K07667	kdpE; two-component system, OmpR family, KDP operon response regulator KdpE	178		
+tr|A0Q469|A0Q469_FRATN	K03565	recX; regulatory protein	111		
+tr|A0Q432|A0Q432_FRATN			112	K03762	58
+tr|A0Q6J9|A0Q6J9_FRATN			267		
+tr|A0Q7F3|A0Q7F3_FRATN			280		
+tr|A0Q7E1|A0Q7E1_FRATN	K03446	emrB; MFS transporter, DHA2 family, multidrug resistance protein	348		
+tr|A0Q5N0|A0Q5N0_FRATN	K06169	miaE; tRNA-(ms[2]io[6]A)-hydroxylase [EC:1.-.-.-]	232		
+tr|A0Q683|A0Q683_FRATN	K02205	rocE; arginine/ornithine permease	332	K16235	31
+tr|A0Q6R0|A0Q6R0_FRATN	K19416	yccA; modulator of FtsH protease	234		
+tr|A0Q720|A0Q720_FRATN	K01443	nagA; N-acetylglucosamine-6-phosphate deacetylase [EC:3.5.1.25]	334		
+tr|A0Q3Y6|A0Q3Y6_FRATN			343	K11891	25
+tr|A0Q7K2|A0Q7K2_FRATN			80		
+tr|A0Q6E7|A0Q6E7_FRATN			121	K06196	4
+tr|A0Q6B7|A0Q6B7_FRATN	K10804	tesA; acyl-CoA thioesterase I [EC:3.1.2.- 3.1.1.5]	57		
+tr|A0Q848|A0Q848_FRATN			143	K07552	135
+tr|A0Q3X4|A0Q3X4_FRATN			62	K10233	2
+tr|A0Q446|A0Q446_FRATN			165	K02001	4
+tr|A0Q6S5|A0Q6S5_FRATN	K03770	ppiD; peptidyl-prolyl cis-trans isomerase D [EC:5.2.1.8]	166		
+tr|A0Q6Y2|A0Q6Y2_FRATN	K03802	cphA; cyanophycin synthetase [EC:6.3.2.29 6.3.2.30]	156		
+tr|A0Q5M0|A0Q5M0_FRATN	K16013	cydD; ATP-binding cassette, subfamily C, bacterial CydD	460		
+tr|A0Q4F9|A0Q4F9_FRATN	K01873	VARS; valyl-tRNA synthetase [EC:6.1.1.9]	1206		
+tr|A0Q4B2|A0Q4B2_FRATN	K02836	prfB; peptide chain release factor 2	476		
+tr|A0Q8E4|A0Q8E4_FRATN	K02110	ATPF0C; F-type H+-transporting ATPase subunit c	103		
+tr|A0Q6Y4|A0Q6Y4_FRATN	K03742	pncC; nicotinamide-nucleotide amidase [EC:3.5.1.42]	84		
+tr|A0Q723|A0Q723_FRATN	K03427	hsdM; type I restriction enzyme M protein [EC:2.1.1.72]	550		
+tr|A0Q521|A0Q521_FRATN	K03496	parA; chromosome partitioning protein	120		
+tr|A0Q6L4|A0Q6L4_FRATN	K00101	E1.1.2.3; L-lactate dehydrogenase (cytochrome) [EC:1.1.2.3]	358		
+tr|A0Q716|A0Q716_FRATN	K03595	era; GTPase	333		
+tr|A0Q4L7|A0Q4L7_FRATN	K06925	tsaE; tRNA threonylcarbamoyladenosine biosynthesis protein TsaE	171		
+tr|A0Q6Y8|A0Q6Y8_FRATN			497		
+tr|A0Q7G2|A0Q7G2_FRATN	K05808	yhbH; putative sigma-54 modulation protein	112		
+tr|A0Q583|A0Q583_FRATN	K09810	lolD; lipoprotein-releasing system ATP-binding protein [EC:3.6.3.-]	262		
+tr|A0Q4N8|A0Q4N8_FRATN	K07018	uncharacterized protein	182		
+tr|A0Q5S8|A0Q5S8_FRATN			158		
+tr|A0Q625|A0Q625_FRATN			21	K01585	3
+tr|A0Q5F5|A0Q5F5_FRATN			21	K00294	8
+tr|A0Q7C2|A0Q7C2_FRATN			275	K02847	6
+tr|A0Q6K0|A0Q6K0_FRATN			181		
+tr|A0Q6Z6|A0Q6Z6_FRATN			336		
+tr|A0Q5E8|A0Q5E8_FRATN	K03524	birA; BirA family transcriptional regulator, biotin operon repressor / biotin-[acetyl-CoA-carboxylase] ligase [EC:6.3.4.15]	150		
+tr|A0Q6H8|A0Q6H8_FRATN	K00831	serC; phosphoserine aminotransferase [EC:2.6.1.52]	329		
+tr|A0Q734|A0Q734_FRATN			157		
+tr|A0Q6S8|A0Q6S8_FRATN	K03544	clpX; ATP-dependent Clp protease ATP-binding subunit ClpX	529		
+tr|A0Q5H1|A0Q5H1_FRATN			193		
+tr|A0Q724|A0Q724_FRATN			221		
+tr|A0Q6C6|A0Q6C6_FRATN			139	K02337	4
+tr|A0Q6I3|A0Q6I3_FRATN			289		
+tr|A0Q6T8|A0Q6T8_FRATN	K06189	corC; magnesium and cobalt transporter	242		
+tr|A0Q620|A0Q620_FRATN			137		
+tr|A0Q8E7|A0Q8E7_FRATN			339		
+tr|A0Q881|A0Q881_FRATN			324		
+tr|A0Q8I5|A0Q8I5_FRATN			442		
+tr|A0Q5A4|A0Q5A4_FRATN	K00133	asd; aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]	413		
+tr|A0Q7S7|A0Q7S7_FRATN			27	K08159	4
+tr|A0Q589|A0Q589_FRATN			1205		
+tr|A0Q826|A0Q826_FRATN			491		
+tr|A0Q4E2|A0Q4E2_FRATN	K02299	cyoC; cytochrome o ubiquinol oxidase subunit III	243		
+tr|A0Q4Z6|A0Q4Z6_FRATN	K16011	algA; mannose-1-phosphate guanylyltransferase / mannose-6-phosphate isomerase [EC:2.7.7.13 5.3.1.8]	67	K00971	36
+tr|A0Q8D2|A0Q8D2_FRATN	K00241	sdhC; succinate dehydrogenase / fumarate reductase, cytochrome b subunit	119		
+tr|A0Q4T5|A0Q4T5_FRATN			572		
+tr|A0Q5G4|A0Q5G4_FRATN	K08156	araJ; MFS transporter, DHA1 family, arabinose polymer utilization protein	340	K19577	41
+tr|A0Q458|A0Q458_FRATN	K14652	ribBA; 3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II [EC:4.1.99.12 3.5.4.25]	395		
+tr|A0Q5T6|A0Q5T6_FRATN			21	K00507	2
+tr|A0Q6C8|A0Q6C8_FRATN	K03270	kdsC; 3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (KDO 8-P phosphatase) [EC:3.1.3.45]	149		
+tr|A0Q824|A0Q824_FRATN			124		
+tr|A0Q5G0|A0Q5G0_FRATN	K00384	trxB; thioredoxin reductase (NADPH) [EC:1.8.1.9]	475		
+tr|A0Q6K5|A0Q6K5_FRATN	K03674	grxA; glutaredoxin 1	31	K03676	25
+tr|A0Q4C7|A0Q4C7_FRATN					
+tr|A0Q4W3|A0Q4W3_FRATN			210		
+tr|A0Q7W3|A0Q7W3_FRATN	K00507	SCD; stearoyl-CoA desaturase (Delta-9 desaturase) [EC:1.14.19.1]	302		
+tr|A0Q4A4|A0Q4A4_FRATN	K02945	RP-S1; small subunit ribosomal protein S1	696		
+tr|A0Q4P1|A0Q4P1_FRATN			296	K00694	8
+tr|A0Q8N0|A0Q8N0_FRATN	K03695	clpB; ATP-dependent Clp protease ATP-binding subunit ClpB	1150		
+tr|A0Q482|A0Q482_FRATN	K06199	crcB; CrcB protein	72		
+tr|A0Q6Y7|A0Q6Y7_FRATN	K02653	pilC; type IV pilus assembly protein PilC	342		
+tr|A0Q4Q7|A0Q4Q7_FRATN	K01775	alr; alanine racemase [EC:5.1.1.1]	124		
+tr|A0Q7W2|A0Q7W2_FRATN			211		
+tr|A0Q4Z3|A0Q4Z3_FRATN	K04565	SOD1; superoxide dismutase, Cu-Zn family [EC:1.15.1.1]	184		
+tr|A0Q7J2|A0Q7J2_FRATN	K00134	GAPDH; glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]	501		
+tr|A0Q6N9|A0Q6N9_FRATN			23	K19005	1
+tr|A0Q737|A0Q737_FRATN	K03762	proP; MFS transporter, MHS family, proline/betaine transporter	250		
+tr|A0Q7S1|A0Q7S1_FRATN	K01840	manB; phosphomannomutase [EC:5.4.2.8]	512		
+tr|A0Q8K8|A0Q8K8_FRATN	K01548	kdpC; K+-transporting ATPase ATPase C chain [EC:3.6.3.12]	146		
+tr|A0Q461|A0Q461_FRATN	K03316	TC.CPA1; monovalent cation:H+ antiporter, CPA1 family	264		
+tr|A0Q812|A0Q812_FRATN	K03834	tyrP; tyrosine-specific transport protein	147		
+tr|A0Q849|A0Q849_FRATN	K02622	parE; topoisomerase IV subunit B [EC:5.99.1.-]	777		
+tr|A0Q4P4|A0Q4P4_FRATN			148	K08084	5
+tr|A0Q5E9|A0Q5E9_FRATN	K07462	recJ; single-stranded-DNA-specific exonuclease [EC:3.1.-.-]	414		
+tr|A0Q5W7|A0Q5W7_FRATN	K03305	TC.POT; proton-dependent oligopeptide transporter, POT family	223		
+tr|A0Q668|A0Q668_FRATN	K07090	uncharacterized protein	193		
+tr|A0Q645|A0Q645_FRATN	K03342	pabBC; para-aminobenzoate synthetase / 4-amino-4-deoxychorismate lyase [EC:2.6.1.85 4.1.3.38]	394		
+tr|A0Q5N3|A0Q5N3_FRATN	K07263	pqqL; zinc protease [EC:3.4.24.-]	118		
+tr|A0Q655|A0Q655_FRATN	K03305	TC.POT; proton-dependent oligopeptide transporter, POT family	446		
+tr|A0Q714|A0Q714_FRATN	K18930	dld; D-lactate dehydrogenase	524		
+tr|A0Q7C9|A0Q7C9_FRATN	K05807	bamD; outer membrane protein assembly factor BamD	205		
+tr|A0Q8J1|A0Q8J1_FRATN	K01952	purL; phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	1590		
+tr|A0Q472|A0Q472_FRATN	K13788	pta; phosphate acetyltransferase [EC:2.3.1.8]	615		
+tr|A0Q6S7|A0Q6S7_FRATN	K01338	lon; ATP-dependent Lon protease [EC:3.4.21.53]	888		
+tr|A0Q732|A0Q732_FRATN	K15461	mnmC; tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein [EC:2.1.1.61 1.5.-.-]	121		
+tr|A0Q6D3|A0Q6D3_FRATN	K16210	togT; oligogalacturonide transporter	309		
+tr|A0Q548|A0Q548_FRATN			14	K03690	8
+tr|A0Q7C8|A0Q7C8_FRATN			544		
+tr|A0Q3V9|A0Q3V9_FRATN			205	K06919	20
+tr|A0Q539|A0Q539_FRATN			441		
+tr|A0Q5T4|A0Q5T4_FRATN	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	159		
+tr|A0Q7N2|A0Q7N2_FRATN			139		
+tr|A0Q652|A0Q652_FRATN			169		
+tr|A0Q7R1|A0Q7R1_FRATN	K07090	uncharacterized protein	175	K11312	28
+tr|A0Q5R6|A0Q5R6_FRATN	K03769	ppiC; peptidyl-prolyl cis-trans isomerase C [EC:5.2.1.8]	129		
+tr|A0Q6E4|A0Q6E4_FRATN			24	K03773	12
+tr|A0Q6X7|A0Q6X7_FRATN	K02071	metN; D-methionine transport system ATP-binding protein	366		
+tr|A0Q823|A0Q823_FRATN			217		
+tr|A0Q4P3|A0Q4P3_FRATN			18	K12452	5
+tr|A0Q835|A0Q835_FRATN			291		
+tr|A0Q510|A0Q510_FRATN	K01588	purE; 5-(carboxyamino)imidazole ribonucleotide mutase [EC:5.4.99.18]	228		
+tr|A0Q5B1|A0Q5B1_FRATN	K03218	rlmB; 23S rRNA (guanosine2251-2'-O)-methyltransferase [EC:2.1.1.185]	238		
+tr|A0Q7V6|A0Q7V6_FRATN			245	K02486	59
+tr|A0Q5D0|A0Q5D0_FRATN	K04774	sohB; serine protease SohB [EC:3.4.21.-]	309		
+tr|A0Q7Y3|A0Q7Y3_FRATN			17	K06142	5
+tr|A0Q856|A0Q856_FRATN			301		
+tr|A0Q7W0|A0Q7W0_FRATN			169		
+tr|A0Q6P6|A0Q6P6_FRATN	K09760	rmuC; DNA recombination protein RmuC	411		
+tr|A0Q663|A0Q663_FRATN	K03923	mdaB; modulator of drug activity B	293		
+tr|A0Q6S2|A0Q6S2_FRATN	K03665	hflX; GTPase	447		
+tr|A0Q4C9|A0Q4C9_FRATN			309		
+tr|A0Q7S0|A0Q7S0_FRATN	K03628	rho; transcription termination factor Rho	632		
+tr|A0Q4Q4|A0Q4Q4_FRATN			121		
+tr|A0Q502|A0Q502_FRATN	K02650	pilA; type IV pilus assembly protein PilA	37		
+tr|A0Q473|A0Q473_FRATN	K00135	gabD; succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2.1.79 1.2.1.20]	460		
+tr|A0Q6R1|A0Q6R1_FRATN	K03723	mfd; transcription-repair coupling factor (superfamily II helicase) [EC:3.6.4.-]	1079		
+tr|A0Q7G8|A0Q7G8_FRATN	K01697	E4.2.1.22; cystathionine beta-synthase [EC:4.2.1.22]	229		
+tr|A0Q6M9|A0Q6M9_FRATN			402		
+tr|A0Q677|A0Q677_FRATN			222		
+tr|A0Q6Q1|A0Q6Q1_FRATN			223		
+tr|A0Q6S6|A0Q6S6_FRATN	K03530	hupB; DNA-binding protein HU-beta	130		
+tr|A0Q778|A0Q778_FRATN			236		
+tr|A0Q5N9|A0Q5N9_FRATN	K00949	thiN; thiamine pyrophosphokinase [EC:2.7.6.2]	143		
+tr|A0Q884|A0Q884_FRATN	K10823	oppF; oligopeptide transport system ATP-binding protein	377		
+tr|A0Q5H0|A0Q5H0_FRATN			280		
+tr|A0Q577|A0Q577_FRATN	K08309	slt; soluble lytic murein transglycosylase [EC:3.2.1.-]	334		
+tr|A0Q6B3|A0Q6B3_FRATN	K03796	bax; Bax protein	89		
+tr|A0Q5F6|A0Q5F6_FRATN			60	K02895	2
+tr|A0Q611|A0Q611_FRATN	K06980	ygfZ; tRNA-modifying protein YgfZ	125		
+tr|A0Q783|A0Q783_FRATN			364	K06148	105
+tr|A0Q8N4|A0Q8N4_FRATN	K05524	fdxA; ferredoxin	175		
+tr|A0Q609|A0Q609_FRATN			127		
+tr|A0Q7A3|A0Q7A3_FRATN	K03185	ubiH; 2-octaprenyl-6-methoxyphenol hydroxylase [EC:1.14.13.-]	270		
+tr|A0Q797|A0Q797_FRATN	K01759	GLO1; lactoylglutathione lyase [EC:4.4.1.5]	187		
+tr|A0Q740|A0Q740_FRATN			150	K01451	95
+tr|A0Q7T6|A0Q7T6_FRATN			148		
+tr|A0Q6D6|A0Q6D6_FRATN	K03086	SIG1; RNA polymerase primary sigma factor	559		
+tr|A0Q5G6|A0Q5G6_FRATN			202		
+tr|A0Q6M7|A0Q6M7_FRATN	K06942	ychF; ribosome-binding ATPase	537		
+tr|A0Q5Q6|A0Q5Q6_FRATN	K03684	rnd; ribonuclease D [EC:3.1.13.5]	199		
+tr|A0Q7M8|A0Q7M8_FRATN			26	K10725	2
+tr|A0Q863|A0Q863_FRATN	K00507	SCD; stearoyl-CoA desaturase (Delta-9 desaturase) [EC:1.14.19.1]	355		
+tr|A0Q895|A0Q895_FRATN	K11535	nupC; nucleoside transport protein	323	K03317	74
+tr|A0Q594|A0Q594_FRATN	K01835	pgm; phosphoglucomutase [EC:5.4.2.2]	747		
+tr|A0Q4M8|A0Q4M8_FRATN			212		
+tr|A0Q5U4|A0Q5U4_FRATN			345		
+tr|A0Q4Q8|A0Q4Q8_FRATN	K20265	gadC; glutamate:GABA antiporter	188		
+tr|A0Q6P2|A0Q6P2_FRATN			201		
+tr|A0Q8B4|A0Q8B4_FRATN	K00426	cydB; cytochrome d ubiquinol oxidase subunit II [EC:1.10.3.14]	256		
+tr|A0Q4F0|A0Q4F0_FRATN			215		
+tr|A0Q829|A0Q829_FRATN	K20265	gadC; glutamate:GABA antiporter	281		
+tr|A0Q8C8|A0Q8C8_FRATN	K00164	OGDH; 2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2]	977		
+tr|A0Q466|A0Q466_FRATN			71	K01011	14
+tr|A0Q570|A0Q570_FRATN			58		
+tr|A0Q3X5|A0Q3X5_FRATN			26	K03543	24
+tr|A0Q3Y2|A0Q3Y2_FRATN					
+tr|A0Q5E6|A0Q5E6_FRATN	K16052	ynaI; MscS family membrane protein	144		
+tr|A0Q547|A0Q547_FRATN	K03688	ubiB; ubiquinone biosynthesis protein	562		
+tr|A0Q765|A0Q765_FRATN	K02437	gcvH; glycine cleavage system H protein	134		
+tr|A0Q7F8|A0Q7F8_FRATN			38	K03307	4
+tr|A0Q701|A0Q701_FRATN			411		
+tr|A0Q3U9|A0Q3U9_FRATN	K03762	proP; MFS transporter, MHS family, proline/betaine transporter	221		
+tr|A0Q3X2|A0Q3X2_FRATN			19	K03297	4
+tr|A0Q426|A0Q426_FRATN	K07056	rsmI; 16S rRNA (cytidine1402-2'-O)-methyltransferase [EC:2.1.1.198]	263		
+tr|A0Q661|A0Q661_FRATN	K01142	E3.1.11.2; exodeoxyribonuclease III [EC:3.1.11.2]	327		
+tr|A0Q460|A0Q460_FRATN	K11752	ribD; diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase [EC:3.5.4.26 1.1.1.193]	321		
+tr|A0Q8E9|A0Q8E9_FRATN	K06916	zapE; cell division protein ZapE	322		
+tr|A0Q8D4|A0Q8D4_FRATN	K08218	ampG; MFS transporter, PAT family, beta-lactamase induction signal transducer AmpG	346		
+tr|A0Q513|A0Q513_FRATN	K01414	prlC; oligopeptidase A [EC:3.4.24.70]	646		
+tr|A0Q543|A0Q543_FRATN	K13924	cheBR; two-component system, chemotaxis family, CheB/CheR fusion protein [EC:2.1.1.80 3.1.1.61]	840		
+tr|A0Q4G4|A0Q4G4_FRATN			111		
+tr|A0Q4T3|A0Q4T3_FRATN	K06901	pbuG; putative MFS transporter, AGZA family, xanthine/uracil permease	339		
+tr|A0Q7B1|A0Q7B1_FRATN	K04487	iscS; cysteine desulfurase [EC:2.8.1.7]	375		
+tr|A0Q7B2|A0Q7B2_FRATN	K08300	rne; ribonuclease E [EC:3.1.26.12]	636		
+tr|A0Q8J9|A0Q8J9_FRATN			508		
+tr|A0Q7S2|A0Q7S2_FRATN	K00971	manC; mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]	373	K16011	80
+tr|A0Q524|A0Q524_FRATN			141	K12686	22
+tr|A0Q418|A0Q418_FRATN	K02517	lpxL; Kdo2-lipid IVA lauroyltransferase [EC:2.3.1.241]	115	K12974	51
+tr|A0Q3W5|A0Q3W5_FRATN	K00609	pyrB; aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2]	301		
+tr|A0Q6I4|A0Q6I4_FRATN			86		
+tr|A0Q8H5|A0Q8H5_FRATN			226		
+tr|A0Q448|A0Q448_FRATN	K07552	bcr; MFS transporter, DHA1 family, bicyclomycin/chloramphenicol resistance protein	56		
+tr|A0Q4N0|A0Q4N0_FRATN			20	K03607	9
+tr|A0Q5V0|A0Q5V0_FRATN	K03704	cspA; cold shock protein (beta-ribbon, CspA family)	90		
+tr|A0Q5H2|A0Q5H2_FRATN			21	K03980	3
+tr|A0Q4Z2|A0Q4Z2_FRATN	K12267	msrAB; peptide methionine sulfoxide reductase msrA/msrB [EC:1.8.4.11 1.8.4.12]	165	K07305	57
+tr|A0Q7V3|A0Q7V3_FRATN			17	K17322	8
+tr|A0Q828|A0Q828_FRATN					
+tr|A0Q7U4|A0Q7U4_FRATN			73	K08137	68
+tr|A0Q4Y1|A0Q4Y1_FRATN			383		
+tr|A0Q8H6|A0Q8H6_FRATN	K01586	lysA; diaminopimelate decarboxylase [EC:4.1.1.20]	267		
+tr|A0Q8B3|A0Q8B3_FRATN	K00425	cydA; cytochrome d ubiquinol oxidase subunit I [EC:1.10.3.14]	440		
+tr|A0Q4A9|A0Q4A9_FRATN	K03531	ftsZ; cell division protein FtsZ	433		
+tr|A0Q694|A0Q694_FRATN			16	K03643	11
+tr|A0Q624|A0Q624_FRATN			42	K03892	21
+tr|A0Q672|A0Q672_FRATN	K03499	trkA; trk system potassium uptake protein	318		
+tr|A0Q5M7|A0Q5M7_FRATN			1145		
+tr|A0Q769|A0Q769_FRATN	K01139	spoT; guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase [EC:3.1.7.2]	253		
+tr|A0Q877|A0Q877_FRATN			64	K00426	2
+tr|A0Q5Y4|A0Q5Y4_FRATN	K15342	cas1; CRISP-associated protein Cas1	166		
+tr|A0Q700|A0Q700_FRATN			242		
+tr|A0Q711|A0Q711_FRATN			10	K04043	9
+tr|A0Q6T9|A0Q6T9_FRATN	K03820	lnt; apolipoprotein N-acyltransferase [EC:2.3.1.-]	321		
+tr|A0Q6V2|A0Q6V2_FRATN	K06956	uncharacterized protein	301		
+tr|A0Q5Y8|A0Q5Y8_FRATN			108		
+tr|A0Q6U4|A0Q6U4_FRATN	K17836	penP; beta-lactamase class A [EC:3.5.2.6]	132	K18768	23
+tr|A0Q5Z2|A0Q5Z2_FRATN	K03437	spoU; RNA methyltransferase, TrmH family	164		
+tr|A0Q450|A0Q450_FRATN	K03271	gmhA; D-sedoheptulose 7-phosphate isomerase [EC:5.3.1.28]	184	K12961	40
+tr|A0Q8P5|A0Q8P5_FRATN			20	K01625	1
+tr|A0Q5E1|A0Q5E1_FRATN	K01525	apaH; bis(5'-nucleosyl)-tetraphosphatase (symmetrical) [EC:3.6.1.41]	259		
+tr|A0Q4E0|A0Q4E0_FRATN	K02297	cyoA; cytochrome o ubiquinol oxidase subunit II [EC:1.10.3.10]	325		
+tr|A0Q8C0|A0Q8C0_FRATN	K02495	hemN; oxygen-independent coproporphyrinogen III oxidase [EC:1.3.99.22]	385		
+tr|A0Q8I6|A0Q8I6_FRATN	K01756	purB; adenylosuccinate lyase [EC:4.3.2.2]	386		
+tr|A0Q6H9|A0Q6H9_FRATN	K00945	cmk; cytidylate kinase [EC:2.7.4.14]	248		
+tr|A0Q5X6|A0Q5X6_FRATN	K01752	E4.3.1.17; L-serine dehydratase [EC:4.3.1.17]	486		
+tr|A0Q7D8|A0Q7D8_FRATN	K03305	TC.POT; proton-dependent oligopeptide transporter, POT family	404		
+tr|A0Q5U7|A0Q5U7_FRATN			227		
+tr|A0Q7E2|A0Q7E2_FRATN	K03543	emrA; membrane fusion protein, multidrug efflux system	264		
+tr|A0Q8J7|A0Q8J7_FRATN	K08303	putative protease [EC:3.4.-.-]	581		
+tr|A0Q5Z1|A0Q5Z1_FRATN	K01442	E3.5.1.24; choloylglycine hydrolase [EC:3.5.1.24]	185		
+tr|A0Q6Z7|A0Q6Z7_FRATN	K06197	chaB; cation transport regulator	95		
+tr|A0Q5U8|A0Q5U8_FRATN			348		
+tr|A0Q788|A0Q788_FRATN	K06041	kdsD; arabinose-5-phosphate isomerase [EC:5.3.1.13]	360		
+tr|A0Q6R9|A0Q6R9_FRATN	K04087	hflC; membrane protease subunit HflC [EC:3.4.-.-]	269		
+tr|A0Q632|A0Q632_FRATN			434		
+tr|A0Q6U3|A0Q6U3_FRATN			431	K06867	16
+tr|A0Q6W6|A0Q6W6_FRATN	K03072	secD; preprotein translocase subunit SecD	549		
+tr|A0Q752|A0Q752_FRATN			153	K07014	4
+tr|A0Q764|A0Q764_FRATN			15	K13821	8
+tr|A0Q6F3|A0Q6F3_FRATN			283		
+tr|A0Q7K4|A0Q7K4_FRATN			18	K06141	17
+tr|A0Q5S1|A0Q5S1_FRATN	K00278	nadB; L-aspartate oxidase [EC:1.4.3.16]	396		
+tr|A0Q465|A0Q465_FRATN			22	K15727	2
+tr|A0Q7N6|A0Q7N6_FRATN			423		
+tr|A0Q5Q1|A0Q5Q1_FRATN	K00865	glxK; glycerate kinase [EC:2.7.1.31]	291		
+tr|A0Q4Y8|A0Q4Y8_FRATN			31	K03466	1
+tr|A0Q483|A0Q483_FRATN			57	K01784	2
+tr|A0Q7D5|A0Q7D5_FRATN			61	K17330	2
+tr|A0Q640|A0Q640_FRATN			150		
+tr|A0Q6X5|A0Q6X5_FRATN			115		
+tr|A0Q6Z8|A0Q6Z8_FRATN	K01785	galM; aldose 1-epimerase [EC:5.1.3.3]	207		
+tr|A0Q5V1|A0Q5V1_FRATN			38	K02119	1
+tr|A0Q795|A0Q795_FRATN	K06966	uncharacterized protein	264		
+tr|A0Q608|A0Q608_FRATN			115		
+tr|A0Q6U9|A0Q6U9_FRATN			277		
+tr|A0Q7A1|A0Q7A1_FRATN			17	K02945	6
+tr|A0Q5U2|A0Q5U2_FRATN			779		
+tr|A0Q712|A0Q712_FRATN			105	K01885	4
+tr|A0Q4G0|A0Q4G0_FRATN			68		
+tr|A0Q704|A0Q704_FRATN			20	K03687	1
+tr|A0Q5U3|A0Q5U3_FRATN			310		
+tr|A0Q7H8|A0Q7H8_FRATN			198		
+tr|A0Q5C3|A0Q5C3_FRATN	K03588	ftsW; cell division protein FtsW	355		
+tr|A0Q6U7|A0Q6U7_FRATN	K05810	yfiH; laccase domain-containing protein	186		
+tr|A0Q781|A0Q781_FRATN	K07266	kpsC; capsular polysaccharide export protein	211		
+tr|A0Q5N5|A0Q5N5_FRATN	K11720	lptG; lipopolysaccharide export system permease protein	174		
+tr|A0Q6G7|A0Q6G7_FRATN			25	K01779	1
+tr|A0Q5Z0|A0Q5Z0_FRATN			162		
+tr|A0Q6G3|A0Q6G3_FRATN			15	K03665	4
+tr|A0Q7M4|A0Q7M4_FRATN			274	K10543	4
+tr|A0Q616|A0Q616_FRATN			17	K01868	2
+tr|A0Q7K9|A0Q7K9_FRATN			125		
+tr|A0Q792|A0Q792_FRATN			106		
+tr|A0Q7I0|A0Q7I0_FRATN			402	K03427	4
+tr|A0Q622|A0Q622_FRATN	K03297	emrE; small multidrug resistance pump	117		
+tr|A0Q687|A0Q687_FRATN			23	K02931	1
+tr|A0Q7E3|A0Q7E3_FRATN			96	K18139	41
+tr|A0Q733|A0Q733_FRATN	K09801	uncharacterized protein	78		
+tr|A0Q572|A0Q572_FRATN			28	K02291	1
+tr|A0Q4H6|A0Q4H6_FRATN	K00981	E2.7.7.41; phosphatidate cytidylyltransferase [EC:2.7.7.41]	196		
+tr|A0Q4T2|A0Q4T2_FRATN			18	K03555	1
+tr|A0Q4R6|A0Q4R6_FRATN			18	K07323	10
+tr|A0Q8H2|A0Q8H2_FRATN	K00330	nuoA; NADH-quinone oxidoreductase subunit A [EC:1.6.5.3]	128		
+tr|A0Q3Y8|A0Q3Y8_FRATN			15	K11901	6
+tr|A0Q490|A0Q490_FRATN			212		
+tr|A0Q527|A0Q527_FRATN			24	K06147	1
+tr|A0Q782|A0Q782_FRATN			68		
+tr|A0Q8M8|A0Q8M8_FRATN			18	K03168	1
+tr|A0Q4P6|A0Q4P6_FRATN			116	K03217	4
+tr|A0Q533|A0Q533_FRATN			277		
+tr|A0Q478|A0Q478_FRATN			350		
+tr|A0Q3Z4|A0Q3Z4_FRATN			26	K11893	2
+tr|A0Q4W7|A0Q4W7_FRATN			19	K07222	1
+tr|A0Q7Z7|A0Q7Z7_FRATN			394		
+tr|A0Q7V9|A0Q7V9_FRATN	K00574	cfa; cyclopropane-fatty-acyl-phospholipid synthase [EC:2.1.1.79]	341		
+tr|A0Q6J5|A0Q6J5_FRATN			270	K15125	4
+tr|A0Q8Q6|A0Q8Q6_FRATN			102		
+tr|A0Q7U8|A0Q7U8_FRATN			312		
+tr|A0Q7D7|A0Q7D7_FRATN	K09761	rsmE; 16S rRNA (uracil1498-N3)-methyltransferase [EC:2.1.1.193]	175		
+tr|A0Q4C0|A0Q4C0_FRATN			306	K00615	4
+tr|A0Q7T3|A0Q7T3_FRATN			505		
+tr|A0Q5W1|A0Q5W1_FRATN	K03424	tatD; TatD DNase family protein [EC:3.1.21.-]	202		
+tr|A0Q6E0|A0Q6E0_FRATN	K07259	dacB; D-alanyl-D-alanine carboxypeptidase / D-alanyl-D-alanine-endopeptidase (penicillin-binding protein 4) [EC:3.4.16.4 3.4.21.-]	245		
+tr|A0Q4Y4|A0Q4Y4_FRATN			162		
+tr|A0Q4N3|A0Q4N3_FRATN			15	K13798	1
+tr|A0Q6H7|A0Q6H7_FRATN			40	K02519	2
+tr|A0Q6U0|A0Q6U0_FRATN			54	K03427	2
+tr|A0Q4W1|A0Q4W1_FRATN			54	K03723	2
+tr|A0Q8I4|A0Q8I4_FRATN			328		
+tr|A0Q678|A0Q678_FRATN			25	K08566	1
+tr|A0Q7I1|A0Q7I1_FRATN			51	K05989	2
+tr|A0Q427|A0Q427_FRATN			154	K17836	3
+tr|A0Q4W4|A0Q4W4_FRATN			11	K00265	10
+tr|A0Q8P4|A0Q8P4_FRATN			197		
+tr|A0Q455|A0Q455_FRATN			112	K01872	4
+tr|A0Q7M2|A0Q7M2_FRATN			52	K03707	2
+tr|A0Q563|A0Q563_FRATN			25	K01627	2
+tr|A0Q8L9|A0Q8L9_FRATN	K03424	tatD; TatD DNase family protein [EC:3.1.21.-]	117		
+tr|A0Q7D2|A0Q7D2_FRATN	K02066	mlaE; phospholipid/cholesterol/gamma-HCH transport system permease protein	260		
+tr|A0Q7I6|A0Q7I6_FRATN			467		
+tr|A0Q5L3|A0Q5L3_FRATN	K07259	dacB; D-alanyl-D-alanine carboxypeptidase / D-alanyl-D-alanine-endopeptidase (penicillin-binding protein 4) [EC:3.4.16.4 3.4.21.-]	148		
+tr|A0Q6D4|A0Q6D4_FRATN	K15922	yihQ; alpha-glucosidase [EC:3.2.1.20]	802		
+tr|A0Q7T1|A0Q7T1_FRATN			174	K19429	16
+tr|A0Q4P0|A0Q4P0_FRATN	K11928	putP; sodium/proline symporter	460	K03307	46
+tr|A0Q4V1|A0Q4V1_FRATN			101		
+tr|A0Q8F8|A0Q8F8_FRATN	K09806	uncharacterized protein	47		
+tr|A0Q6B0|A0Q6B0_FRATN			98	K06985	2
+tr|A0Q5D5|A0Q5D5_FRATN	K01424	E3.5.1.1; L-asparaginase [EC:3.5.1.1]	310		
+tr|A0Q6P3|A0Q6P3_FRATN			205		
+tr|A0Q4N9|A0Q4N9_FRATN	K11532	glpX-SEBP; fructose-1,6-bisphosphatase II / sedoheptulose-1,7-bisphosphatase [EC:3.1.3.11 3.1.3.37]	338	K02446	65
+tr|A0Q6I9|A0Q6I9_FRATN			34	K09859	12
+tr|A0Q7Q4|A0Q7Q4_FRATN			25	K01874	3
+tr|A0Q6Z0|A0Q6Z0_FRATN			29	K03305	1
+tr|A0Q676|A0Q676_FRATN	K09015	sufD; Fe-S cluster assembly protein SufD	207		
+tr|A0Q7Z2|A0Q7Z2_FRATN			113		
+tr|A0Q787|A0Q787_FRATN	K01783	rpe; ribulose-phosphate 3-epimerase [EC:5.1.3.1]	306		
+tr|A0Q400|A0Q400_FRATN			108		
+tr|A0Q5A1|A0Q5A1_FRATN			122		
+tr|A0Q7A4|A0Q7A4_FRATN	K09895	uncharacterized protein	113		
+tr|A0Q6W1|A0Q6W1_FRATN			22	K01153	6
+tr|A0Q8H8|A0Q8H8_FRATN			316		
+tr|A0Q7H2|A0Q7H2_FRATN			53	K01081/K01119/K08077	2
+tr|A0Q488|A0Q488_FRATN			338	K09475	4
+tr|A0Q518|A0Q518_FRATN			35	K02073	1
+tr|A0Q7X3|A0Q7X3_FRATN	K00795	ispA; farnesyl diphosphate synthase [EC:2.5.1.1 2.5.1.10]	256		
+tr|A0Q4V3|A0Q4V3_FRATN	K06876	deoxyribodipyrimidine photolyase-related protein	674		
+tr|A0Q428|A0Q428_FRATN	K07015	uncharacterized protein	122		
+tr|A0Q417|A0Q417_FRATN	K02517	lpxL; Kdo2-lipid IVA lauroyltransferase [EC:2.3.1.241]	196	K12974	17
+tr|A0Q8I7|A0Q8I7_FRATN			101		
+tr|A0Q4D0|A0Q4D0_FRATN			14	K06077	9
+tr|A0Q5A3|A0Q5A3_FRATN			162	K01006	3
+tr|A0Q484|A0Q484_FRATN			26	K03543	1
+tr|A0Q5D6|A0Q5D6_FRATN			62	K00681	2
+tr|A0Q7P0|A0Q7P0_FRATN			123		
+tr|A0Q5F3|A0Q5F3_FRATN			186		
+tr|A0Q413|A0Q413_FRATN			128	K00790	3
+tr|A0Q4K3|A0Q4K3_FRATN	K03076	secY; preprotein translocase subunit SecY	541		
+tr|A0Q7C0|A0Q7C0_FRATN			60	K01991	2
+tr|A0Q7I9|A0Q7I9_FRATN	K01624	FBA; fructose-bisphosphate aldolase, class II [EC:4.1.2.13]	597		
+tr|A0Q7G5|A0Q7G5_FRATN			14	K09768	7
+tr|A0Q791|A0Q791_FRATN	K09930	uncharacterized protein	262		
+tr|A0Q754|A0Q754_FRATN			16	K01869	5
+tr|A0Q540|A0Q540_FRATN			214		
+tr|A0Q5K8|A0Q5K8_FRATN			21	K02033	2
+tr|A0Q6V9|A0Q6V9_FRATN	K01424	E3.5.1.1; L-asparaginase [EC:3.5.1.1]	355		
+tr|A0Q7E5|A0Q7E5_FRATN			22	K02520	1
+tr|A0Q8R0|A0Q8R0_FRATN			125	K03885	3
+tr|A0Q8M1|A0Q8M1_FRATN			22	K03553	2
+tr|A0Q8J0|A0Q8J0_FRATN			50	K01155	26
+tr|A0Q7U9|A0Q7U9_FRATN	K09859	uncharacterized protein	194		
+tr|A0Q8A7|A0Q8A7_FRATN			175		
+tr|A0Q8K5|A0Q8K5_FRATN			159	K03286	4
+tr|A0Q532|A0Q532_FRATN			336		
+tr|A0Q7Z1|A0Q7Z1_FRATN			128	K11720	4
+tr|A0Q7H0|A0Q7H0_FRATN			400	K16898	5
+tr|A0Q5H9|A0Q5H9_FRATN			180		
+tr|A0Q636|A0Q636_FRATN			19	K02169	10
+tr|A0Q5I6|A0Q5I6_FRATN			16	K03586	3
+tr|A0Q6G5|A0Q6G5_FRATN			14	K02040	2
+tr|A0Q837|A0Q837_FRATN			134	K02044	4
+tr|A0Q703|A0Q703_FRATN	K09159	cptB; antitoxin CptB	61		
+tr|A0Q3Z8|A0Q3Z8_FRATN			177	K20444	4
+tr|A0Q6Y9|A0Q6Y9_FRATN			26	K01089	1
+tr|A0Q7J4|A0Q7J4_FRATN			16	K07040	4
+tr|A0Q8G2|A0Q8G2_FRATN	K00340	nuoK; NADH-quinone oxidoreductase subunit K [EC:1.6.5.3]	109		
+tr|A0Q7T8|A0Q7T8_FRATN	K00537	ARSC1; arsenate reductase [EC:1.20.4.1]	119		
+tr|A0Q7I8|A0Q7I8_FRATN	K01194	TREH; alpha,alpha-trehalase [EC:3.2.1.28]	452		
+tr|A0Q731|A0Q731_FRATN	K04754	mlaA; phospholipid-binding lipoprotein MlaA	143		
+tr|A0Q8M2|A0Q8M2_FRATN			35	K00962	3
+tr|A0Q5L7|A0Q5L7_FRATN	K09022	ridA; 2-iminobutanoate/2-iminopropanoate deaminase [EC:3.5.99.10]	114		
+tr|A0Q5M2|A0Q5M2_FRATN			17	K03549	1
+tr|A0Q816|A0Q816_FRATN			103	K01421	3
+tr|A0Q7H4|A0Q7H4_FRATN			392	K13614	5
+tr|A0Q4S5|A0Q4S5_FRATN			41		
+tr|A0Q4W6|A0Q4W6_FRATN			215		
+tr|A0Q4C8|A0Q4C8_FRATN	K02077	ABC.ZM.S; zinc/manganese transport system substrate-binding protein	225		
+tr|A0Q411|A0Q411_FRATN			21	K11104	2
+tr|A0Q4V9|A0Q4V9_FRATN			18	K12132	1
+tr|A0Q5K1|A0Q5K1_FRATN	K00991	ispD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase [EC:2.7.7.60]	195		
+tr|A0Q5W6|A0Q5W6_FRATN			56	K01676	5
+tr|A0Q617|A0Q617_FRATN			26	K01916	1
+tr|A0Q4R4|A0Q4R4_FRATN			55		
+tr|A0Q4W5|A0Q4W5_FRATN			51	K03466	2
+tr|A0Q6U2|A0Q6U2_FRATN			429	K06867	16
+tr|A0Q7R3|A0Q7R3_FRATN	K03424	tatD; TatD DNase family protein [EC:3.1.21.-]	284		
+tr|A0Q8J5|A0Q8J5_FRATN	K12340	tolC; outer membrane protein	223		
+tr|A0Q803|A0Q803_FRATN			22	K02622	3
+tr|A0Q3Z3|A0Q3Z3_FRATN			274	K07263	5
+tr|A0Q3W2|A0Q3W2_FRATN			27	K01142	1
+tr|A0Q4U2|A0Q4U2_FRATN			19	K03832	2
+tr|A0Q8B0|A0Q8B0_FRATN			208	K00249	3
+tr|A0Q831|A0Q831_FRATN			196		
+tr|A0Q5P8|A0Q5P8_FRATN			33	K01873	1
+tr|A0Q4R1|A0Q4R1_FRATN			23	K03086	1
+tr|A0Q4R3|A0Q4R3_FRATN	K04754	mlaA; phospholipid-binding lipoprotein MlaA	184		
+tr|A0Q3Z5|A0Q3Z5_FRATN			20	K16092	1
+tr|A0Q6M8|A0Q6M8_FRATN			54	K02238	2
+tr|A0Q3V5|A0Q3V5_FRATN			23	K10932	1
+tr|A0Q3Z9|A0Q3Z9_FRATN			23	K03529	1
+tr|A0Q7I2|A0Q7I2_FRATN			34	K01834	1
+tr|A0Q5P7|A0Q5P7_FRATN			16	K17325	3
+tr|A0Q8I0|A0Q8I0_FRATN			20	K00451	5
+tr|A0Q6G4|A0Q6G4_FRATN			16	K01338	1
+tr|A0Q7Z9|A0Q7Z9_FRATN	K01867	WARS; tryptophanyl-tRNA synthetase [EC:6.1.1.2]	401		
+tr|A0Q3Z2|A0Q3Z2_FRATN			234	K03406	5
+tr|A0Q865|A0Q865_FRATN			17	K02654	4
+tr|A0Q4Q0|A0Q4Q0_FRATN			298	K01183	8
+tr|A0Q8M5|A0Q8M5_FRATN	K01299	E3.4.17.19; carboxypeptidase Taq [EC:3.4.17.19]	478		
+tr|A0Q6W5|A0Q6W5_FRATN	K03074	secF; preprotein translocase subunit SecF	317		
+tr|A0Q7F7|A0Q7F7_FRATN	K03600	sspB; stringent starvation protein B	110		
+tr|A0Q7H9|A0Q7H9_FRATN			113		
+tr|A0Q7I5|A0Q7I5_FRATN	K11901	impB; type VI secretion system protein ImpB	110		
+tr|A0Q7H6|A0Q7H6_FRATN			132	K00574	2
+tr|A0Q7K6|A0Q7K6_FRATN	K01092	E3.1.3.25; myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25]	226		
+tr|A0Q6J3|A0Q6J3_FRATN			18	K03168	1
+tr|A0Q7V4|A0Q7V4_FRATN			54	K02450	2
+tr|A0Q4M3|A0Q4M3_FRATN			31	K02025	1
+tr|A0Q7U6|A0Q7U6_FRATN	K03462	NAMPT; nicotinamide phosphoribosyltransferase [EC:2.4.2.12]	493		
+tr|A0Q6Z5|A0Q6Z5_FRATN			19	K02967	2
+tr|A0Q730|A0Q730_FRATN	K00681	ggt; gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13]	635		
+tr|A0Q6N2|A0Q6N2_FRATN	K06987	uncharacterized protein	277		
+tr|A0Q5V8|A0Q5V8_FRATN			19	K05349	1
+tr|A0Q5J4|A0Q5J4_FRATN			28	K20480	2
+tr|A0Q6Q8|A0Q6Q8_FRATN			148		
+tr|A0Q6M4|A0Q6M4_FRATN			19	K02585	7
+tr|A0Q6D1|A0Q6D1_FRATN	K09158	uncharacterized protein	79		
+tr|A0Q5M4|A0Q5M4_FRATN	K00847	E2.7.1.4; fructokinase [EC:2.7.1.4]	305		
+tr|A0Q6F9|A0Q6F9_FRATN			53	K01889	2
+tr|A0Q3V7|A0Q3V7_FRATN			18	K00835	3
+tr|A0Q514|A0Q514_FRATN			71		
+tr|A0Q3W1|A0Q3W1_FRATN			22	K07733	14
+tr|A0Q429|A0Q429_FRATN			144		
+tr|A0Q590|A0Q590_FRATN			22	K02035	1
+tr|A0Q6G1|A0Q6G1_FRATN			19	K01524	1
+tr|A0Q3Z0|A0Q3Z0_FRATN			25	K03655	2
+tr|A0Q5T8|A0Q5T8_FRATN	K07043	uncharacterized protein	191		
+tr|A0Q3Y5|A0Q3Y5_FRATN			28	K18778	1
+tr|A0Q6T4|A0Q6T4_FRATN			143	K00588	13
+tr|A0Q5M1|A0Q5M1_FRATN			23	K03406	3
+tr|A0Q4T6|A0Q4T6_FRATN	K04096	smf; DNA processing protein	268		
+tr|A0Q3X1|A0Q3X1_FRATN			142		
+tr|A0Q743|A0Q743_FRATN			583		
+tr|A0Q5Q4|A0Q5Q4_FRATN	K09966	uncharacterized protein	174		
+tr|A0Q5X0|A0Q5X0_FRATN			23	K06217	1
+tr|A0Q7I4|A0Q7I4_FRATN	K11900	impC; type VI secretion system protein ImpC	394		
+tr|A0Q5J7|A0Q5J7_FRATN	K00845	glk; glucokinase [EC:2.7.1.2]	166		
+tr|A0Q8A8|A0Q8A8_FRATN			271	K01297	28
+tr|A0Q479|A0Q479_FRATN	K01147	rnb; exoribonuclease II [EC:3.1.13.1]	449		
+tr|A0Q423|A0Q423_FRATN			24	K03781	1
+tr|A0Q6V3|A0Q6V3_FRATN			504		
+tr|A0Q5J6|A0Q5J6_FRATN	K00845	glk; glucokinase [EC:2.7.1.2]	182		
+tr|A0Q7Z8|A0Q7Z8_FRATN	K00859	coaE; dephospho-CoA kinase [EC:2.7.1.24]	141		
+tr|A0Q7C7|A0Q7C7_FRATN			216	K03546	4
+tr|A0Q5H6|A0Q5H6_FRATN			127		
+tr|A0Q437|A0Q437_FRATN	K07220	uncharacterized protein	71		
+tr|A0Q4X2|A0Q4X2_FRATN			126		
+tr|A0Q4V8|A0Q4V8_FRATN			23	K03529	1
+tr|A0Q5G5|A0Q5G5_FRATN	K06201	cutC; copper homeostasis protein	194		
+tr|A0Q7C6|A0Q7C6_FRATN			253	K00970	4
+tr|A0Q550|A0Q550_FRATN	K00845	glk; glucokinase [EC:2.7.1.2]	273		
+tr|A0Q633|A0Q633_FRATN	K00845	glk; glucokinase [EC:2.7.1.2]	268		
+tr|A0Q6W4|A0Q6W4_FRATN			22	K09996	2
+tr|A0Q7P1|A0Q7P1_FRATN			121	K01469	3
+tr|A0Q659|A0Q659_FRATN			146		
+tr|A0Q6X4|A0Q6X4_FRATN			133	K01728	4
+tr|A0Q4H5|A0Q4H5_FRATN	K00806	uppS; undecaprenyl diphosphate synthase [EC:2.5.1.31]	273		
+tr|A0Q819|A0Q819_FRATN			23	K04720	1
+tr|A0Q833|A0Q833_FRATN	K07007	uncharacterized protein	432		
+tr|A0Q7H3|A0Q7H3_FRATN			34	K00099	1
+tr|A0Q5Y9|A0Q5Y9_FRATN	K07107	ybgC; acyl-CoA thioester hydrolase [EC:3.1.2.-]	82		
+tr|A0Q3Y9|A0Q3Y9_FRATN	K11900	impC; type VI secretion system protein ImpC	426		
+tr|A0Q6E2|A0Q6E2_FRATN	K07107	ybgC; acyl-CoA thioester hydrolase [EC:3.1.2.-]	80		
+tr|A0Q537|A0Q537_FRATN			110	K03529	4
+tr|A0Q409|A0Q409_FRATN	K00826	E2.6.1.42; branched-chain amino acid aminotransferase [EC:2.6.1.42]	274		
+tr|A0Q5V9|A0Q5V9_FRATN			20	K01610	2
+tr|A0Q5F2|A0Q5F2_FRATN	K11073	potF; putrescine transport system substrate-binding protein	318		
+tr|A0Q434|A0Q434_FRATN	K07160	UPF0271 protein	168		
+tr|A0Q605|A0Q605_FRATN			42	K12340	6
+tr|A0Q6G2|A0Q6G2_FRATN			12	K04042	3
+tr|A0Q618|A0Q618_FRATN			168		
+tr|A0Q4X6|A0Q4X6_FRATN			23	K03546	1
+tr|A0Q662|A0Q662_FRATN	K06987	uncharacterized protein	227		
+tr|A0Q8I9|A0Q8I9_FRATN			235		
+tr|A0Q639|A0Q639_FRATN	K00833	bioA; adenosylmethionine---8-amino-7-oxononanoate aminotransferase [EC:2.6.1.62]	424		
+tr|A0Q7P2|A0Q7P2_FRATN	K09160	uncharacterized protein	166		
+tr|A0Q4T0|A0Q4T0_FRATN			13	K02986	9
+tr|A0Q8M3|A0Q8M3_FRATN			101		
+tr|A0Q8K4|A0Q8K4_FRATN			119	K07024	4
+tr|A0Q8I8|A0Q8I8_FRATN			160	K01119	3
+tr|A0Q8E5|A0Q8E5_FRATN	K02108	ATPF0A; F-type H+-transporting ATPase subunit a	303		
+tr|A0Q477|A0Q477_FRATN			275		
+tr|A0Q561|A0Q561_FRATN			21	K03088	2
+tr|A0Q7V2|A0Q7V2_FRATN	K07337	penicillin-binding protein activator	167		
+tr|A0Q3Z6|A0Q3Z6_FRATN			134	K00566	4
+tr|A0Q4E8|A0Q4E8_FRATN			31	K07330	1
+tr|A0Q449|A0Q449_FRATN			712		
+tr|A0Q6V4|A0Q6V4_FRATN			21	K03179	2
+tr|A0Q4G7|A0Q4G7_FRATN			207		
+tr|A0Q7V1|A0Q7V1_FRATN			192	K03406	4
+tr|A0Q7N7|A0Q7N7_FRATN			34	K09004	1
+tr|A0Q6F4|A0Q6F4_FRATN			144		
+tr|A0Q6J2|A0Q6J2_FRATN			276		
+tr|A0Q3Y7|A0Q3Y7_FRATN			42	K02438	3
+tr|A0Q6Z3|A0Q6Z3_FRATN			21	K12340	1
+tr|A0Q3W0|A0Q3W0_FRATN			32	K06919	14
+tr|A0Q5N2|A0Q5N2_FRATN	K08316	rsmD; 16S rRNA (guanine966-N2)-methyltransferase [EC:2.1.1.171]	164		
+tr|A0Q6X2|A0Q6X2_FRATN			134		
+tr|A0Q6E5|A0Q6E5_FRATN	K02523	ispB; octaprenyl-diphosphate synthase [EC:2.5.1.90]	371		
+tr|A0Q517|A0Q517_FRATN			105	K18682	4
+tr|A0Q800|A0Q800_FRATN			130	K02470	4
+tr|A0Q4T1|A0Q4T1_FRATN			20	K02005	1
+tr|A0Q4P9|A0Q4P9_FRATN			343		
+tr|A0Q7A6|A0Q7A6_FRATN			10	K08303	8
+tr|A0Q8P9|A0Q8P9_FRATN			19	K01950	1
+tr|A0Q796|A0Q796_FRATN			26	K00805	1
+tr|A0Q3X8|A0Q3X8_FRATN			214		
+tr|A0Q738|A0Q738_FRATN			15	K03602	2
+tr|A0Q8J3|A0Q8J3_FRATN	K01580	E4.1.1.15; glutamate decarboxylase [EC:4.1.1.15]	630		
+tr|A0Q6F2|A0Q6F2_FRATN			146		
+tr|A0Q5N6|A0Q5N6_FRATN	K07091	lptF; lipopolysaccharide export system permease protein	134	K11720	6
+tr|A0Q5S5|A0Q5S5_FRATN	K00432	gpx; glutathione peroxidase [EC:1.11.1.9]	198		
+tr|A0Q4W2|A0Q4W2_FRATN	K07733	alpA; prophage regulatory protein	17		
+tr|A0Q538|A0Q538_FRATN	K02169	bioC; malonyl-CoA O-methyltransferase [EC:2.1.1.197]	81		
+tr|A0Q5T5|A0Q5T5_FRATN			102		
+tr|A0Q5X5|A0Q5X5_FRATN	K07043	uncharacterized protein	124		
+tr|A0Q600|A0Q600_FRATN	K09710	ybeB; ribosome-associated protein	115		
+tr|A0Q705|A0Q705_FRATN			20	K06915	2
+tr|A0Q3X3|A0Q3X3_FRATN	K09941	uncharacterized protein	209		
+tr|A0Q6E6|A0Q6E6_FRATN			20	K08068	1
+tr|A0Q6T3|A0Q6T3_FRATN			176	K01078	10
+tr|A0Q5T2|A0Q5T2_FRATN			196		
+tr|A0Q7H5|A0Q7H5_FRATN			25	K06959	1
+tr|A0Q4Q6|A0Q4Q6_FRATN			162		
+tr|A0Q3Y4|A0Q3Y4_FRATN			19	K11904	2
+tr|A0Q7A5|A0Q7A5_FRATN	K01934	MTHFS; 5-formyltetrahydrofolate cyclo-ligase [EC:6.3.3.2]	123		
+tr|A0Q4R8|A0Q4R8_FRATN	K02066	mlaE; phospholipid/cholesterol/gamma-HCH transport system permease protein	266		
+tr|A0Q515|A0Q515_FRATN			32	K03559	2
+tr|A0Q855|A0Q855_FRATN			110	K01078	39
+tr|A0Q680|A0Q680_FRATN			103		
+tr|A0Q5C8|A0Q5C8_FRATN	K11179	tusE; tRNA 2-thiouridine synthesizing protein E [EC:2.8.1.-]	123		
+tr|A0Q3Z1|A0Q3Z1_FRATN			121	K02342	4
+tr|A0Q882|A0Q882_FRATN			24	K01962	3
+tr|A0Q4W9|A0Q4W9_FRATN			190		
+tr|A0Q6F6|A0Q6F6_FRATN			59		
+tr|A0Q7B0|A0Q7B0_FRATN			17	K01921	1
+tr|A0Q3V8|A0Q3V8_FRATN			18	K01571	2
+tr|A0Q7V0|A0Q7V0_FRATN			141	K07062	7
+tr|A0Q3X6|A0Q3X6_FRATN			24	K01996	1
+tr|A0Q7W1|A0Q7W1_FRATN			178		
+tr|A0Q6C7|A0Q6C7_FRATN			19	K11719	5
+tr|A0Q3Y3|A0Q3Y3_FRATN			19	K02297	1
+tr|A0Q878|A0Q878_FRATN	K02440	GLPF; glycerol uptake facilitator protein	304		
+tr|A0Q7X7|A0Q7X7_FRATN			134		
+tr|A0Q3W8|A0Q3W8_FRATN			24	K01078	3
+tr|A0Q7V8|A0Q7V8_FRATN	K09701	uncharacterized protein	183		
+tr|A0Q6X3|A0Q6X3_FRATN			19	K01919	4
+tr|A0Q6P1|A0Q6P1_FRATN	K01590	hdc; histidine decarboxylase [EC:4.1.1.22]	253		
+tr|A0Q697|A0Q697_FRATN	K03593	mrp; ATP-binding protein involved in chromosome partitioning	329		
+Contaminant_TRYP_PIG			153	K01312	19
+Contaminant_Trypa1					
+Contaminant_Trypa2					
+Contaminant_Trypa3					
+Contaminant_Trypa4					
+Contaminant_Trypa5			17	K03701	1
+Contaminant_Trypa6					
+Contaminant_TRYP_BOVIN			153	K01312	19
+Contaminant_CTRA_BOVIN			135	K01312	16
+Contaminant_CTRB_BOVIN			131	K01312	15
+Contaminant_ALBU_HUMAN			20	K03685	1
+Contaminant_ALBU_BOVIN			16	K01494	2
+Contaminant_K2C1_HUMAN			38	K03546	5
+Contaminant_K22E_HUMAN			24	K03529	2
+Contaminant_K1C9_HUMAN			25	K03529	2
+Contaminant_K1C10_HUMAN			24	K03529	4

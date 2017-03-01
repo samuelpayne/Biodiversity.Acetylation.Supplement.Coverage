@@ -1,0 +1,2228 @@
+sp|C5C8D9|ACKA_MICLC	K00925	ackA; acetate kinase [EC:2.7.2.1]	431		
+sp|C5CC21|ACPS_MICLC	K00997	acpS; holo-[acyl-carrier protein] synthase [EC:2.7.8.7]	129		
+sp|C5CAR8|ACP_MICLC	K02078	acpP; acyl carrier protein	131		
+sp|C5CCM4|AMPA_MICLC	K01255	CARP; leucyl aminopeptidase [EC:3.4.11.1]	506		
+sp|C5CBU4|ARC_MICLC	K13527	mpa; proteasome-associated ATPase	548		
+sp|C5CAN3|ARGC_MICLC	K00145	argC; N-acetyl-gamma-glutamyl-phosphate reductase [EC:1.2.1.38]	503		
+sp|C5CCG1|AROC_MICLC	K01736	aroC; chorismate synthase [EC:4.2.3.5]	585		
+sp|C5CAM5|ASSY_MICLC	K01940	argG; argininosuccinate synthase [EC:6.3.4.5]	651		
+sp|P80286|ATPE_MICLC	K02114	ATPF1E; F-type H+-transporting ATPase subunit epsilon	107		
+sp|P80285|ATPF_MICLC	K02109	ATPF0B; F-type H+-transporting ATPase subunit b	180		
+sp|C5CA77|ATPG_MICLC	K02115	ATPF1G; F-type H+-transporting ATPase subunit gamma	388		
+sp|C5CA73|ATPL_MICLC	K02110	ATPF0C; F-type H+-transporting ATPase subunit c	111		
+sp|C5CCF1|CARB_MICLC	K01955	carB; carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]	1717		
+sp|C5CC02|CH10_MICLC	K04078	groES; chaperonin GroES	171		
+sp|C5CAX2|CLPX_MICLC	K03544	clpX; ATP-dependent Clp protease ATP-binding subunit ClpX	611		
+sp|C5CAE0|COAD_MICLC	K00954	E2.7.7.3A; pantetheine-phosphate adenylyltransferase [EC:2.7.7.3]	210		
+sp|O30875|CSPA_MICLC	K03704	cspA; cold shock protein (beta-ribbon, CspA family)	109		
+sp|C5CBB6|DAPD_MICLC	K00674	dapD; 2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase [EC:2.3.1.117]	424		
+sp|C5C6P4|DCD_MICLC	K01494	dcd; dCTP deaminase [EC:3.5.4.13]	333		
+sp|C5C9E5|DEOC_MICLC	K01619	deoC; deoxyribose-phosphate aldolase [EC:4.1.2.4]	253		
+sp|C5C7X4|DNAA_MICLC	K02313	dnaA; chromosomal replication initiator protein	636		
+sp|C5CCH1|DTD_MICLC	K07560	dtd; D-tyrosyl-tRNA(Tyr) deacylase [EC:3.1.-.-]	177		
+sp|C5CC67|EFG_MICLC	K02355	fusA; elongation factor G	1210		
+sp|C5C9Q5|EFTS_MICLC	K02357	tsf; elongation factor Ts	404		
+sp|C5CC66|EFTU_MICLC	K02358	tuf; elongation factor Tu	720		
+sp|C5C987|ENO_MICLC	K01689	ENO; enolase [EC:4.2.1.11]	651		
+sp|C5C958|FOLD_MICLC	K01491	folD; methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9]	422		
+sp|C5C9I3|GATC_MICLC	K02435	gatC; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C [EC:6.3.5.6 6.3.5.7]	121		
+sp|C5CC09|GCS2_MICLC	K06048	ybdK; carboxylate-amine ligase [EC:6.3.-.-]	423		
+sp|C5CAI7|GCSH_MICLC	K02437	gcvH; glycine cleavage system H protein	171		
+sp|C5C9D1|GLMU_MICLC	K04042	glmU; bifunctional UDP-N-acetylglucosamine pyrophosphorylase / Glucosamine-1-phosphate N-acetyltransferase [EC:2.7.7.23 2.3.1.157]	618		
+sp|C5CBZ4|GUAA_MICLC	K01951	guaA; GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]	787		
+sp|C5CB93|HEM1_MICLC	K02492	hemA; glutamyl-tRNA reductase [EC:1.2.1.70]	410		
+sp|C5CB88|HEM3_MICLC	K01749	hemC; hydroxymethylbilane synthase [EC:2.5.1.61]	337		
+sp|C5CBK0|HIS1_MICLC	K00765	hisG; ATP phosphoribosyltransferase [EC:2.4.2.17]	390		
+sp|C5CBJ9|HIS2_MICLC	K01523	hisE; phosphoribosyl-ATP pyrophosphohydrolase [EC:3.6.1.31]	122		
+sp|C5CBK2|HIS3_MICLC	K01496	hisI; phosphoribosyl-AMP cyclohydrolase [EC:3.5.4.19]	157		
+sp|C5CBK1|HIS6_MICLC	K02500	hisF; cyclase [EC:4.1.3.-]	395		
+sp|C5C8I6|HUTI_MICLC	K01468	hutI; imidazolonepropionase [EC:3.5.2.7]	500		
+sp|C5C9T1|IF2_MICLC	K02519	infB; translation initiation factor IF-2	1034		
+sp|C5CC42|KAD_MICLC	K00939	adk; adenylate kinase [EC:2.7.4.3]	253		
+sp|C5CCD4|LEPA_MICLC	K03596	lepA; GTP-binding protein LepA	1001		
+sp|C5CAC9|LEUD_MICLC	K01704	leuD; 3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]	319		
+sp|C5CCN0|LIPA_MICLC	K03644	lipA; lipoyl synthase [EC:2.8.1.8]	533		
+sp|C5CB51|MNMA_MICLC	K00566	mnmA; tRNA-specific 2-thiouridylase [EC:2.8.1.-]	532		
+sp|C5CBV8|MPUS_MICLC	K00721	DPM1; dolichol-phosphate mannosyltransferase [EC:2.4.1.83]	344		
+sp|C5CAA3|MQO_MICLC	K00116	mqo; malate dehydrogenase (quinone) [EC:1.1.5.4]	637		
+sp|C5CA33|MRAY_MICLC	K01000	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase [EC:2.7.8.13]	488		
+sp|C5CA39|MRAZ_MICLC	K03925	mraZ; MraZ protein	237		
+sp|C5CBT9|MSHC_MICLC	K15526	mshC; L-cysteine:1D-myo-inositol 2-amino-2-deoxy-alpha-D-glucopyranoside ligase [EC:6.3.1.13]	514		
+sp|C5CC88|MSHD_MICLC	K15520	mshD; mycothiol synthase [EC:2.3.1.189]	265		
+sp|C5CA18|NRDR_MICLC	K07738	nrdR; transcriptional repressor NrdR	236		
+sp|C5CA81|NUCS_MICLC	K07503	nucS; endonuclease [EC:3.1.-.-]	375		
+sp|C5CBV0|PAFA_MICLC	K13571	pafA; proteasome accessory factor A [EC:6.3.1.19]	515		
+sp|C5C713|PAND_MICLC	K01579	panD; aspartate 1-decarboxylase [EC:4.1.1.11]	219		
+sp|C5CBP5|PGK_MICLC	K00927	PGK; phosphoglycerate kinase [EC:2.7.2.3]	551		
+sp|C5C9U0|PNP_MICLC	K00962	pnp; polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]	1171		
+sp|C5C8H9|PURA_MICLC	K01939	purA; adenylosuccinate synthase [EC:6.3.4.4]	729		
+sp|C5CCF5|PYRB_MICLC	K00609	pyrB; aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2]	458		
+sp|C5C9T2|RBFA_MICLC	K02834	rbfA; ribosome-binding factor A	180		
+sp|C5C7X6|RECF_MICLC	K03629	recF; DNA replication and repair protein RecF	381		
+sp|C5CBJ8|RISB_MICLC	K00794	ribH; 6,7-dimethyl-8-ribityllumazine synthase [EC:2.5.1.78]	187		
+sp|C5CC73|RL10_MICLC	K02864	RP-L10; large subunit ribosomal protein L10	222		
+sp|C5CC75|RL11_MICLC	K02867	RP-L11; large subunit ribosomal protein L11	253		
+sp|C5CC33|RL13_MICLC	K02871	RP-L13; large subunit ribosomal protein L13	262		
+sp|C5CC52|RL14_MICLC	K02874	RP-L14; large subunit ribosomal protein L14	206		
+sp|C5CC44|RL15_MICLC	K02876	RP-L15; large subunit ribosomal protein L15	228		
+sp|C5CC55|RL16_MICLC	K02878	RP-L16; large subunit ribosomal protein L16	265		
+sp|C5CAH1|RL19_MICLC	K02884	RP-L19; large subunit ribosomal protein L19	191		
+sp|C5CC74|RL1_MICLC	K02863	RP-L1; large subunit ribosomal protein L1	361		
+sp|C5CAP8|RL20_MICLC	K02887	RP-L20; large subunit ribosomal protein L20	209		
+sp|C5CAZ3|RL21_MICLC	K02888	RP-L21; large subunit ribosomal protein L21	132		
+sp|C5CC57|RL22_MICLC	K02890	RP-L22; large subunit ribosomal protein L22	188		
+sp|C5CC60|RL23_MICLC	K02892	RP-L23; large subunit ribosomal protein L23	170		
+sp|C5CC51|RL24_MICLC	K02895	RP-L24; large subunit ribosomal protein L24	166		
+sp|C5C9D7|RL25_MICLC	K02897	RP-L25; large subunit ribosomal protein L25	181		
+sp|C5CAZ4|RL27_MICLC	K02899	RP-L27; large subunit ribosomal protein L27	142		
+sp|C5C6R3|RL28_MICLC	K02902	RP-L28; large subunit ribosomal protein L28	144		
+sp|C5CC59|RL2_MICLC	K02886	RP-L2; large subunit ribosomal protein L2	524		
+sp|C5CC45|RL30_MICLC	K02907	RP-L30; large subunit ribosomal protein L30	82		
+sp|C5CBS3|RL31B_MICLC	K02909	RP-L31; large subunit ribosomal protein L31	147		
+sp|C5CAE3|RL32_MICLC	K02911	RP-L32; large subunit ribosomal protein L32	117		
+sp|C5C6R2|RL33_MICLC	K02913	RP-L33; large subunit ribosomal protein L33	107		
+sp|C5C7X3|RL34_MICLC	K02914	RP-L34; large subunit ribosomal protein L34	69		
+sp|C5CAP9|RL35_MICLC	K02916	RP-L35; large subunit ribosomal protein L35	108		
+sp|C5CC39|RL36_MICLC	K02919	RP-L36; large subunit ribosomal protein L36	72		
+sp|C5CC50|RL5_MICLC	K02931	RP-L5; large subunit ribosomal protein L5	321		
+sp|C5CC48|RL6_MICLC	K02933	RP-L6; large subunit ribosomal protein L6	277		
+sp|C5CC72|RL7_MICLC	K02935	RP-L7; large subunit ribosomal protein L7/L12	165		
+sp|C5C7U8|RL9_MICLC	K02939	RP-L9; large subunit ribosomal protein L9	204		
+sp|C5C7X2|RNPA_MICLC	K03536	rnpA; ribonuclease P protein component [EC:3.1.26.5]	76		
+sp|C5CC70|RPOC_MICLC	K03046	rpoC; DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]	2066		
+sp|C5C9Q7|RRF_MICLC	K02838	frr; ribosome recycling factor	272		
+sp|C5CC63|RS10_MICLC	K02946	RP-S10; small subunit ribosomal protein S10	204		
+sp|C5CC37|RS11_MICLC	K02948	RP-S11; small subunit ribosomal protein S11	223		
+sp|C5CC69|RS12_MICLC	K02950	RP-S12; small subunit ribosomal protein S12	233		
+sp|C5CC38|RS13_MICLC	K02952	RP-S13; small subunit ribosomal protein S13	193		
+sp|C5C9T9|RS15_MICLC	K02956	RP-S15; small subunit ribosomal protein S15	144		
+sp|C5CAG7|RS16_MICLC	K02959	RP-S16; small subunit ribosomal protein S16	190		
+sp|C5CC53|RS17_MICLC	K02961	RP-S17; small subunit ribosomal protein S17	139		
+sp|C5C7U9|RS18_MICLC	K02963	RP-S18; small subunit ribosomal protein S18	144		
+sp|C5CC58|RS19_MICLC	K02965	RP-S19; small subunit ribosomal protein S19	185		
+sp|C5CCD6|RS20_MICLC	K02968	RP-S20; small subunit ribosomal protein S20	110		
+sp|C5C9Q4|RS2_MICLC	K02967	RP-S2; small subunit ribosomal protein S2	427		
+sp|C5CC56|RS3_MICLC	K02982	RP-S3; small subunit ribosomal protein S3	399		
+sp|C5CCG8|RS4_MICLC	K02986	RP-S4; small subunit ribosomal protein S4	334		
+sp|C5C7V1|RS6_MICLC	K02990	RP-S6; small subunit ribosomal protein S6	153		
+sp|C5CC68|RS7_MICLC	K02992	RP-S7; small subunit ribosomal protein S7	291		
+sp|C5CC49|RS8_MICLC	K02994	RP-S8; small subunit ribosomal protein S8	233		
+sp|C5CA38|RSMH_MICLC	K03438	mraW; 16S rRNA (cytosine1402-N4)-methyltransferase [EC:2.1.1.199]	396		
+sp|C5CCI2|RUVA_MICLC	K03550	ruvA; holliday junction DNA helicase RuvA [EC:3.6.4.12]	218		
+sp|C5CAR1|SECA_MICLC	K03070	secA; preprotein translocase subunit SecA	1266		
+sp|C5CA24|SEPF_MICLC	K09772	sepF; cell division inhibitor SepF	189		
+sp|C5C916|SUCC_MICLC	K01903	sucC; succinyl-CoA synthetase beta subunit [EC:6.2.1.5]	602		
+sp|C5C8X5|SYC_MICLC	K01883	CARS; cysteinyl-tRNA synthetase [EC:6.1.1.16]	651		
+sp|C5CCH2|SYDND_MICLC	K01876	DARS; aspartyl-tRNA synthetase [EC:6.1.1.12]	974		
+sp|C5CCH4|SYH_MICLC	K01892	HARS; histidyl-tRNA synthetase [EC:6.1.1.21]	655		
+sp|C5C9S6|SYP_MICLC	K01881	PARS; prolyl-tRNA synthetase [EC:6.1.1.15]	844		
+sp|C5CA60|SYR_MICLC	K01887	RARS; arginyl-tRNA synthetase [EC:6.1.1.19]	768		
+sp|C5C878|SYS_MICLC	K01875	SARS; seryl-tRNA synthetase [EC:6.1.1.11]	621		
+sp|C5CBI2|SYT_MICLC	K01868	TARS; threonyl-tRNA synthetase [EC:6.1.1.3]	1067		
+sp|C5CBV4|TATA_MICLC	K03116	tatA; sec-independent protein translocase protein TatA	62		
+sp|C5CAH0|TRMD_MICLC	K00554	trmD; tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228]	341		
+sp|C5CBK6|TRPC_MICLC	K01609	trpC; indole-3-glycerol phosphate synthase [EC:4.1.1.48]	240	K01696	28
+sp|C5CBT8|UPPP_MICLC	K06153	bacA; undecaprenyl-diphosphatase [EC:3.6.1.27]	383		
+sp|C5C8U3|URE1_MICLC	K01428	ureC; urease subunit alpha [EC:3.5.1.5]	894		
+sp|C5C8U2|URE2_MICLC	K01429	ureB; urease subunit beta [EC:3.5.1.5]	145	K14048	14
+sp|C5C8U1|URE3_MICLC	K01430	ureA; urease subunit gamma [EC:3.5.1.5]	165		
+sp|C5C8U4|UREE_MICLC	K03187	ureE; urease accessory protein	192		
+sp|C5C8U6|UREG_MICLC	K03189	ureG; urease accessory protein	342		
+sp|P46303|UVEN_MICLC	K10773	NTH; endonuclease III [EC:4.2.99.18]	319		
+sp|P10125|UVRB_MICLC	K03702	uvrB; excinuclease ABC subunit B	1123		
+sp|C5CBP2|WHIA_MICLC	K09762	uncharacterized protein	456		
+sp|C5CCI4|Y1291_MICLC			361		
+sp|C5CB68|Y1499_MICLC	K09118	uncharacterized protein	1129		
+sp|C5CC85|Y1740_MICLC			261		
+sp|C5CCC6|YBEY_MICLC	K07042	ybeY; probable rRNA maturation factor	185		
+tr|V6B465|V6B465_MICLC					
+tr|C5C722|C5C722_MICLC			736		
+tr|C5C777|C5C777_MICLC			180		
+tr|C5CB23|C5CB23_MICLC			544		
+tr|C5C736|C5C736_MICLC			692		
+tr|C5C7T7|C5C7T7_MICLC			141		
+tr|C5C7G0|C5C7G0_MICLC			141		
+tr|C5CAG3|C5CAG3_MICLC			734		
+tr|C5C6V8|C5C6V8_MICLC			343		
+tr|C5C7T8|C5C7T8_MICLC			156		
+tr|C5C775|C5C775_MICLC			749		
+tr|C5C800|C5C800_MICLC			693		
+tr|C5C743|C5C743_MICLC			692		
+tr|C5C815|C5C815_MICLC			543	K07485	57
+tr|C5C8N0|C5C8N0_MICLC	K07058	membrane protein	245		
+tr|C5C7G6|C5C7G6_MICLC			184		
+tr|C5C711|C5C711_MICLC			137		
+tr|C5C8A5|C5C8A5_MICLC			107		
+tr|C5C7Q4|C5C7Q4_MICLC			142		
+tr|C5C7V7|C5C7V7_MICLC			265		
+tr|C5C7V8|C5C7V8_MICLC			125		
+tr|C5C7W7|C5C7W7_MICLC	K03496	parA; chromosome partitioning protein	372		
+tr|C5C8X8|C5C8X8_MICLC	K05832	ABC.X4.P; putative ABC transport system permease protein	363		
+tr|C5C8B1|C5C8B1_MICLC			63	K06075	3
+tr|C5C8Y8|C5C8Y8_MICLC			204		
+tr|C5C781|C5C781_MICLC			171		
+tr|C5C7Y8|C5C7Y8_MICLC			567		
+tr|C5C8R1|C5C8R1_MICLC	K00252	GCDH; glutaryl-CoA dehydrogenase [EC:1.3.8.6]	426		
+tr|C5C802|C5C802_MICLC			347		
+tr|C5C739|C5C739_MICLC			18	K02038	3
+tr|C5C850|C5C850_MICLC	K01644	citE; citrate lyase subunit beta / citryl-CoA lyase [EC:4.1.3.34]	352		
+tr|C5C6S7|C5C6S7_MICLC			189	K02414	5
+tr|C5C9J5|C5C9J5_MICLC			231		
+tr|C5C973|C5C973_MICLC	K00242	sdhD; succinate dehydrogenase / fumarate reductase, membrane anchor subunit	214		
+tr|C5C6P3|C5C6P3_MICLC	K06902	UMF1; MFS transporter, UMF1 family	382		
+tr|C5C7R3|C5C7R3_MICLC			178		
+tr|C5C8Y7|C5C8Y7_MICLC			155	K16164	47
+tr|C5C925|C5C925_MICLC	K01652	E2.2.1.6L; acetolactate synthase I/II/III large subunit [EC:2.2.1.6]	738		
+tr|C5C8X4|C5C8X4_MICLC	K12506	ispDF; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase / 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:2.7.7.60 4.6.1.12]	331		
+tr|C5C7E8|C5C7E8_MICLC	K01069	E3.1.2.6; hydroxyacylglutathione hydrolase [EC:3.1.2.6]	632		
+tr|C5C6V3|C5C6V3_MICLC			532		
+tr|C5C703|C5C703_MICLC	K02611	paaC; ring-1,2-phenylacetyl-CoA epoxidase subunit PaaC [EC:1.14.13.149]	333		
+tr|C5C708|C5C708_MICLC			478	K00626	59
+tr|C5C910|C5C910_MICLC			220		
+tr|C5C9J3|C5C9J3_MICLC	K14761	ybcJ; ribosome-associated protein	62		
+tr|C5C9M5|C5C9M5_MICLC			33	K05966	1
+tr|C5C8M0|C5C8M0_MICLC			224		
+tr|C5C6W9|C5C6W9_MICLC			21	K07322	1
+tr|C5C6W1|C5C6W1_MICLC			29	K02342	4
+tr|C5C8M9|C5C8M9_MICLC	K01174	nuc; micrococcal nuclease [EC:3.1.31.1]	79		
+tr|C5C7W0|C5C7W0_MICLC			260		
+tr|C5C725|C5C725_MICLC	K01756	purB; adenylosuccinate lyase [EC:4.3.2.2]	684		
+tr|C5C768|C5C768_MICLC			156		
+tr|C5C892|C5C892_MICLC			119		
+tr|C5C991|C5C991_MICLC			277		
+tr|C5C8A0|C5C8A0_MICLC	K00020	mmsB; 3-hydroxyisobutyrate dehydrogenase [EC:1.1.1.31]	322		
+tr|C5C874|C5C874_MICLC	K01426	E3.5.1.4; amidase [EC:3.5.1.4]	303		
+tr|C5C9W1|C5C9W1_MICLC	K03722	dinG; ATP-dependent DNA helicase DinG [EC:3.6.4.12]	774		
+tr|C5CCA5|C5CCA5_MICLC	K02276	coxC; cytochrome c oxidase subunit III [EC:1.9.3.1]	318		
+tr|C5CCE4|C5CCE4_MICLC	K04066	priA; primosomal protein N' (replication factor Y) (superfamily II helicase) [EC:3.6.4.-]	547		
+tr|C5CCF0|C5CCF0_MICLC	K01591	pyrF; orotidine-5'-phosphate decarboxylase [EC:4.1.1.23]	296		
+tr|C5CCB1|C5CCB1_MICLC			575		
+tr|C5CC92|C5CC92_MICLC	K00287	folA; dihydrofolate reductase [EC:1.5.1.3]	196		
+tr|C5CCA2|C5CCA2_MICLC			73		
+tr|C5CC78|C5CC78_MICLC			620		
+tr|C5C9U6|C5C9U6_MICLC	K12574	rnj; ribonuclease J [EC:3.1.-.-]	867		
+tr|C5CCH0|C5CCH0_MICLC			76		
+tr|C5CCG4|C5CCG4_MICLC	K07447	ruvX; putative holliday junction resolvase [EC:3.1.-.-]	145		
+tr|C5CCB5|C5CCB5_MICLC	K02275	coxB; cytochrome c oxidase subunit II [EC:1.9.3.1]	333		
+tr|C5C6W2|C5C6W2_MICLC			271		
+tr|C5C8L9|C5C8L9_MICLC			267	K01990	25
+tr|C5CD07|C5CD07_MICLC	K03439	trmB; tRNA (guanine-N7-)-methyltransferase [EC:2.1.1.33]	306		
+tr|C5CAP2|C5CAP2_MICLC	K01304	pcp; pyroglutamyl-peptidase [EC:3.4.19.3]	184		
+tr|C5CAE1|C5CAE1_MICLC	K00963	UGP2; UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9]	411		
+tr|C5C922|C5C922_MICLC	K03307	TC.SSS; solute:Na+ symporter, SSS family	548		
+tr|C5CAV3|C5CAV3_MICLC	K13288	orn; oligoribonuclease [EC:3.1.-.-]	255		
+tr|C5CCA3|C5CCA3_MICLC			120		
+tr|C5CCE2|C5CCE2_MICLC			385		
+tr|C5CC41|C5CC41_MICLC	K01265	map; methionyl aminopeptidase [EC:3.4.11.18]	377		
+tr|C5CCA4|C5CCA4_MICLC	K00766	trpD; anthranilate phosphoribosyltransferase [EC:2.4.2.18]	399		
+tr|C5CCR8|C5CCR8_MICLC	K00036	G6PD; glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49 1.1.1.363]	450		
+tr|C5CC62|C5CC62_MICLC	K02906	RP-L3; large subunit ribosomal protein L3	367		
+tr|C5CCG7|C5CCG7_MICLC			486		
+tr|C5C9U7|C5C9U7_MICLC	K03466	ftsK; DNA segregation ATPase FtsK/SpoIIIE, S-DNA-T family	973		
+tr|C5C9V6|C5C9V6_MICLC	K00791	miaA; tRNA dimethylallyltransferase [EC:2.5.1.75]	345		
+tr|C5C9Y4|C5C9Y4_MICLC			59	K03650	2
+tr|C5CCE1|C5CCE1_MICLC	K01869	LARS; leucyl-tRNA synthetase [EC:6.1.1.4]	1222		
+tr|C5C9Y0|C5C9Y0_MICLC	K02283	cpaF; pilus assembly protein CpaF	540		
+tr|C5CA16|C5CA16_MICLC	K01265	map; methionyl aminopeptidase [EC:3.4.11.18]	435		
+tr|C5C9X7|C5C9X7_MICLC			395		
+tr|C5CCC1|C5CCC1_MICLC	K00806	uppS; undecaprenyl diphosphate synthase [EC:2.5.1.31]	390		
+tr|C5CCE8|C5CCE8_MICLC	K00942	E2.7.4.8; guanylate kinase [EC:2.7.4.8]	270		
+tr|C5C7H0|C5C7H0_MICLC			280		
+tr|C5C7I6|C5C7I6_MICLC	K02483	two-component system	183		
+tr|C5C7J5|C5C7J5_MICLC	K01425	glsA; glutaminase [EC:3.5.1.2]	392		
+tr|C5C7M8|C5C7M8_MICLC			176		
+tr|C5C6R5|C5C6R5_MICLC			545		
+tr|C5CD22|C5CD22_MICLC			19	K03306	2
+tr|C5CD23|C5CD23_MICLC	K05571	mnhG; multicomponent Na+:H+ antiporter subunit G	130		
+tr|C5C7Q2|C5C7Q2_MICLC			19	K07250	2
+tr|C5C8V2|C5C8V2_MICLC	K03654	recQ; ATP-dependent DNA helicase RecQ [EC:3.6.4.12]	918		
+tr|C5C8Z9|C5C8Z9_MICLC	K04077	groEL; chaperonin GroEL	861		
+tr|C5C985|C5C985_MICLC	K01488	add; adenosine deaminase [EC:3.5.4.4]	476		
+tr|C5C8L3|C5C8L3_MICLC			23	K06890	1
+tr|C5C8L4|C5C8L4_MICLC			136		
+tr|C5C8P2|C5C8P2_MICLC			294		
+tr|C5C8T7|C5C8T7_MICLC	K08296	sixA; phosphohistidine phosphatase [EC:3.1.3.-]	198		
+tr|C5C8T9|C5C8T9_MICLC			690		
+tr|C5C9C3|C5C9C3_MICLC	K07056	rsmI; 16S rRNA (cytidine1402-2'-O)-methyltransferase [EC:2.1.1.198]	314		
+tr|C5C9I7|C5C9I7_MICLC			245	K07052	25
+tr|C5C9K1|C5C9K1_MICLC			250	K03406	5
+tr|C5CAP6|C5CAP6_MICLC			86		
+tr|C5CAZ7|C5CAZ7_MICLC	K00147	proA; glutamate-5-semialdehyde dehydrogenase [EC:1.2.1.41]	527		
+tr|C5C9U1|C5C9U1_MICLC			523		
+tr|C5C853|C5C853_MICLC	K01061	E3.1.1.45; carboxymethylenebutenolidase [EC:3.1.1.45]	254		
+tr|C5C7F9|C5C7F9_MICLC			159		
+tr|C5C7Q5|C5C7Q5_MICLC	K07112	uncharacterized protein	397		
+tr|C5C7R9|C5C7R9_MICLC			181		
+tr|C5C7T1|C5C7T1_MICLC	K00864	glpK; glycerol kinase [EC:2.7.1.30]	794		
+tr|C5C8T4|C5C8T4_MICLC	K11991	tadA; tRNA(adenine34) deaminase [EC:3.5.4.33]	158		
+tr|C5C9K0|C5C9K0_MICLC	K00520	merA; mercuric reductase [EC:1.16.1.1]	720		
+tr|C5C7I2|C5C7I2_MICLC	K05596	iciA; LysR family transcriptional regulator, chromosome initiation inhibitor	264		
+tr|C5C9M7|C5C9M7_MICLC			21	K01537	2
+tr|C5C911|C5C911_MICLC			623	K06148	149
+tr|C5C7V6|C5C7V6_MICLC			146		
+tr|C5C8N3|C5C8N3_MICLC	K03521	fixA; electron transfer flavoprotein beta subunit	251		
+tr|C5C9J2|C5C9J2_MICLC	K06999	phospholipase/carboxylesterase	203		
+tr|C5C8U5|C5C8U5_MICLC	K03188	ureF; urease accessory protein	249		
+tr|C5C9H6|C5C9H6_MICLC			25	K10197	1
+tr|C5CCS3|C5CCS3_MICLC			20	K03296	1
+tr|C5CD01|C5CD01_MICLC	K02030	ABC.PA.S; polar amino acid transport system substrate-binding protein	239		
+tr|C5C7Y0|C5C7Y0_MICLC			152		
+tr|C5C869|C5C869_MICLC	K01835	pgm; phosphoglucomutase [EC:5.4.2.2]	803		
+tr|C5C8F1|C5C8F1_MICLC	K01187	malZ; alpha-glucosidase [EC:3.2.1.20]	711		
+tr|C5C7E5|C5C7E5_MICLC			117		
+tr|C5C7Q0|C5C7Q0_MICLC			149		
+tr|C5C801|C5C801_MICLC			378		
+tr|C5C701|C5C701_MICLC	K02609	paaA; ring-1,2-phenylacetyl-CoA epoxidase subunit PaaA [EC:1.14.13.149]	514		
+tr|C5C895|C5C895_MICLC			350		
+tr|C5C940|C5C940_MICLC	K06213	mgtE; magnesium transporter	413		
+tr|C5C8A1|C5C8A1_MICLC	K00140	mmsA; malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.18 1.2.1.27]	642		
+tr|C5C8P4|C5C8P4_MICLC	K01895	ACSS; acetyl-CoA synthetase [EC:6.2.1.1]	765		
+tr|C5C8U9|C5C8U9_MICLC	K08717	utp; urea transporter	143		
+tr|C5CA31|C5CA31_MICLC	K03588	ftsW; cell division protein FtsW	330		
+tr|C5CAM7|C5CAM7_MICLC			174		
+tr|C5C8S7|C5C8S7_MICLC			121		
+tr|C5CCB4|C5CCB4_MICLC	K02274	coxA; cytochrome c oxidase subunit I [EC:1.9.3.1]	982		
+tr|C5CAZ9|C5CAZ9_MICLC	K00969	nadD; nicotinate-nucleotide adenylyltransferase [EC:2.7.7.18]	322		
+tr|C5CC16|C5CC16_MICLC	K03789	rimI; ribosomal-protein-alanine N-acetyltransferase [EC:2.3.1.128]	150		
+tr|C5CBV1|C5CBV1_MICLC	K01802	E5.2.1.8; peptidylprolyl isomerase [EC:5.2.1.8]	72		
+tr|C5CAB3|C5CAB3_MICLC	K00058	serA; D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95]	687		
+tr|C5CAG8|C5CAG8_MICLC	K06960	uncharacterized protein	116		
+tr|C5C7D1|C5C7D1_MICLC	K00016	LDH; L-lactate dehydrogenase [EC:1.1.1.27]	334	K00024	33
+tr|C5CBM7|C5CBM7_MICLC	K00859	coaE; dephospho-CoA kinase [EC:2.7.1.24]	200		
+tr|C5CCM1|C5CCM1_MICLC	K03086	SIG1; RNA polymerase primary sigma factor	590		
+tr|C5CAD0|C5CAD0_MICLC	K00790	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase [EC:2.5.1.7]	701		
+tr|C5CAF2|C5CAF2_MICLC			632		
+tr|C5CBY4|C5CBY4_MICLC			25	K06147	2
+tr|C5CAE2|C5CAE2_MICLC	K07040	uncharacterized protein	196		
+tr|C5CCU4|C5CCU4_MICLC			141		
+tr|C5C9N6|C5C9N6_MICLC			125		
+tr|C5CAK5|C5CAK5_MICLC	K11103	dctA; aerobic C4-dicarboxylate transport protein	597		
+tr|C5CBW5|C5CBW5_MICLC			167		
+tr|C5CBC5|C5CBC5_MICLC	K02033	ABC.PE.P; peptide/nickel transport system permease protein	523		
+tr|C5CBD4|C5CBD4_MICLC	K09781	uncharacterized protein	265		
+tr|C5C9M1|C5C9M1_MICLC			28	K03320	2
+tr|C5C9R2|C5C9R2_MICLC	K00627	DLAT; pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12]	501		
+tr|C5CBS9|C5CBS9_MICLC	K00232	E1.3.3.6; acyl-CoA oxidase [EC:1.3.3.6]	877		
+tr|C5CAG0|C5CAG0_MICLC	K09692	tagG; teichoic acid transport system permease protein	261		
+tr|C5CBC2|C5CBC2_MICLC	K06207	typA; GTP-binding protein	1032		
+tr|C5C9R6|C5C9R6_MICLC	K11263	bccA; acetyl-CoA/propionyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein [EC:6.4.1.2 6.4.1.3 6.3.4.14]	646		
+tr|C5CAN4|C5CAN4_MICLC	K00344	qor; NADPH2:quinone reductase [EC:1.6.5.5]	327		
+tr|C5C9R8|C5C9R8_MICLC			212		
+tr|C5CAX9|C5CAX9_MICLC	K00390	cysH; phosphoadenosine phosphosulfate reductase [EC:1.8.4.8 1.8.4.10]	356		
+tr|C5CCS6|C5CCS6_MICLC	K07399	resB; cytochrome c biogenesis protein	591		
+tr|C5CCP6|C5CCP6_MICLC	K09767	yajQ; cyclic-di-GMP-binding protein	261		
+tr|C5CCV5|C5CCV5_MICLC			102	K07979	10
+tr|C5C9Q0|C5C9Q0_MICLC	K08744	CRLS; cardiolipin synthase (CMP-forming) [EC:2.7.8.41]	150		
+tr|C5CCL2|C5CCL2_MICLC	K02469	gyrA; DNA gyrase subunit A [EC:5.99.1.3]	1065		
+tr|C5CAX5|C5CAX5_MICLC	K01873	VARS; valyl-tRNA synthetase [EC:6.1.1.9]	1332		
+tr|C5CBG3|C5CBG3_MICLC			826		
+tr|C5CCS4|C5CCS4_MICLC			26	K02078	1
+tr|C5CBL0|C5CBL0_MICLC	K00265	gltB; glutamate synthase (NADPH/NADH) large chain [EC:1.4.1.13 1.4.1.14]	2139		
+tr|C5CC25|C5CC25_MICLC	K00867	coaA; type I pantothenate kinase [EC:2.7.1.33]	458		
+tr|C5CAU2|C5CAU2_MICLC	K01420	fnr; CRP/FNR family transcriptional regulator, anaerobic regulatory protein	130		
+tr|C5CB56|C5CB56_MICLC			436		
+tr|C5C706|C5C706_MICLC			365		
+tr|C5CA46|C5CA46_MICLC	K01626	E2.5.1.54; 3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54]	692		
+tr|C5CB13|C5CB13_MICLC	K00135	gabD; succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2.1.79 1.2.1.20]	550		
+tr|C5CBL5|C5CBL5_MICLC	K05567	mnhC; multicomponent Na+:H+ antiporter subunit C	64	K05560	3
+tr|C5C9Z9|C5C9Z9_MICLC	K03088	SIG3.2; RNA polymerase sigma-70 factor, ECF subfamily	325		
+tr|C5CCX7|C5CCX7_MICLC			582		
+tr|C5C7G3|C5C7G3_MICLC			17	K08981	12
+tr|C5CAA0|C5CAA0_MICLC	K03547	sbcD; exonuclease SbcD	378		
+tr|C5CAB2|C5CAB2_MICLC	K00053	ilvC; ketol-acid reductoisomerase [EC:1.1.1.86]	552		
+tr|C5CCN2|C5CCN2_MICLC			130		
+tr|C5CBS6|C5CBS6_MICLC	K01256	pepN; aminopeptidase N [EC:3.4.11.2]	849		
+tr|C5CBU1|C5CBU1_MICLC			214		
+tr|C5CBR2|C5CBR2_MICLC	K07054	uncharacterized protein	288		
+tr|C5C9Q2|C5C9Q2_MICLC			88	K19224	17
+tr|C5CAG1|C5CAG1_MICLC	K01791	wecB; UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	484		
+tr|C5CBE0|C5CBE0_MICLC	K05845	opuC; osmoprotectant transport system substrate-binding protein	323		
+tr|C5CCR0|C5CCR0_MICLC	K00627	DLAT; pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12]	473		
+tr|C5C9S1|C5C9S1_MICLC	K14393	actP; cation/acetate symporter	728		
+tr|C5CD05|C5CD05_MICLC			239		
+tr|C5C6P2|C5C6P2_MICLC	K05565	mnhA; multicomponent Na+:H+ antiporter subunit A	922		
+tr|C5C6R9|C5C6R9_MICLC			513		
+tr|C5C8B3|C5C8B3_MICLC			183	K00015	68
+tr|C5C8G2|C5C8G2_MICLC			339		
+tr|C5C746|C5C746_MICLC	K18701	arsC; arsenate-mycothiol transferase [EC:2.8.4.2]	187		
+tr|C5C8B4|C5C8B4_MICLC	K04567	KARS; lysyl-tRNA synthetase, class II [EC:6.1.1.6]	767		
+tr|C5C7U0|C5C7U0_MICLC	K02314	dnaB; replicative DNA helicase [EC:3.6.4.12]	707		
+tr|C5CD13|C5CD13_MICLC	K04047	dps; starvation-inducible DNA-binding protein	240		
+tr|C5C936|C5C936_MICLC			21	K03307	1
+tr|C5C8L7|C5C8L7_MICLC			796		
+tr|C5C8V0|C5C8V0_MICLC	K05916	hmp; nitric oxide dioxygenase [EC:1.14.12.17]	467		
+tr|C5C9F4|C5C9F4_MICLC	K06287	maf; septum formation protein	185		
+tr|C5C731|C5C731_MICLC	K07454	putative restriction endonuclease	82		
+tr|C5C788|C5C788_MICLC			218		
+tr|C5CA03|C5CA03_MICLC	K00088	guaB; IMP dehydrogenase [EC:1.1.1.205]	626		
+tr|C5CC95|C5CC95_MICLC	K00075	murB; UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98]	391		
+tr|C5C7E9|C5C7E9_MICLC	K06131	clsA_B; cardiolipin synthase A/B [EC:2.7.8.-]	377		
+tr|C5C784|C5C784_MICLC			170		
+tr|C5C9L1|C5C9L1_MICLC	K02011	afuB; iron(III) transport system permease protein	408		
+tr|C5CC61|C5CC61_MICLC	K02926	RP-L4; large subunit ribosomal protein L4	312		
+tr|C5C9W9|C5C9W9_MICLC	K01814	hisA; phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase [EC:5.3.1.16]	299	K01814	49
+	K01817	trpF; phosphoribosylanthranilate isomerase [EC:5.3.1.24]			
+tr|C5CD18|C5CD18_MICLC			103		
+tr|C5C8J4|C5C8J4_MICLC	K07095	uncharacterized protein	219		
+tr|C5C8Z5|C5C8Z5_MICLC			387		
+tr|C5CCM8|C5CCM8_MICLC			195		
+tr|C5CBX7|C5CBX7_MICLC	K03527	ispH; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase [EC:1.17.7.4]	520		
+tr|C5CAL5|C5CAL5_MICLC	K01515	nudF; ADP-ribose pyrophosphatase [EC:3.6.1.13]	236		
+tr|C5C7C9|C5C7C9_MICLC			104		
+tr|C5C8L8|C5C8L8_MICLC	K00928	lysC; aspartate kinase [EC:2.7.2.4]	612		
+tr|C5CA98|C5CA98_MICLC	K02342	DPO3E; DNA polymerase III subunit epsilon [EC:2.7.7.7]	301		
+tr|C5CBR6|C5CBR6_MICLC			60		
+tr|C5CBS2|C5CBS2_MICLC			300		
+tr|C5C9P2|C5C9P2_MICLC			422		
+tr|C5CBJ7|C5CBJ7_MICLC	K14652	ribBA; 3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II [EC:4.1.99.12 3.5.4.25]	475		
+tr|C5CAB0|C5CAB0_MICLC	K01652	E2.2.1.6L; acetolactate synthase I/II/III large subunit [EC:2.2.1.6]	938		
+tr|C5CA75|C5CA75_MICLC	K02113	ATPF1D; F-type H+-transporting ATPase subunit delta	196		
+tr|C5CB58|C5CB58_MICLC			205		
+tr|C5CCQ6|C5CCQ6_MICLC	K07093	uncharacterized protein	848		
+tr|C5C9R3|C5C9R3_MICLC			124		
+tr|C5CA83|C5CA83_MICLC			285		
+tr|C5CBN1|C5CBN1_MICLC	K05794	terC; tellurite resistance protein TerC	244		
+tr|C5CBJ5|C5CBJ5_MICLC	K11752	ribD; diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase [EC:3.5.4.26 1.1.1.193]	322		
+tr|C5CCV4|C5CCV4_MICLC	K01895	ACSS; acetyl-CoA synthetase [EC:6.2.1.1]	983		
+tr|C5C8N1|C5C8N1_MICLC	K01752	E4.3.1.17; L-serine dehydratase [EC:4.3.1.17]	616		
+tr|C5CBW1|C5CBW1_MICLC			73	K03499	2
+tr|C5C8L5|C5C8L5_MICLC			382		
+tr|C5CAR7|C5CAR7_MICLC	K09458	fabF; 3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179]	589		
+tr|C5C7R8|C5C7R8_MICLC			300		
+tr|C5C9I5|C5C9I5_MICLC	K02434	gatB; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]	734		
+tr|C5C848|C5C848_MICLC	K07794	tctB; putative tricarboxylic transport membrane protein	134		
+tr|C5C7U6|C5C7U6_MICLC			277		
+tr|C5C876|C5C876_MICLC	K04518	pheA2; prephenate dehydratase [EC:4.2.1.51]	357		
+tr|C5C6Y7|C5C6Y7_MICLC			686		
+tr|C5C947|C5C947_MICLC	K02027	ABC.MS.S; multiple sugar transport system substrate-binding protein	509		
+tr|C5C7P3|C5C7P3_MICLC			435		
+tr|C5C939|C5C939_MICLC	K00602	purH; phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10]	771		
+tr|C5C9H4|C5C9H4_MICLC	K01966	PCCB; propionyl-CoA carboxylase beta chain [EC:6.4.1.3]	803		
+tr|C5C787|C5C787_MICLC			178		
+tr|C5CAX6|C5CAX6_MICLC			325		
+tr|C5CBL3|C5CBL3_MICLC	K07183	nasT; response regulator NasT	258		
+tr|C5C9S0|C5C9S0_MICLC			133		
+tr|C5C7A3|C5C7A3_MICLC			273		
+tr|C5CAA1|C5CAA1_MICLC	K03546	sbcC; exonuclease SbcC	466		
+tr|C5C9N0|C5C9N0_MICLC			399		
+tr|C5C7H7|C5C7H7_MICLC	K03453	TC.BASS; bile acid:Na+ symporter, BASS family	314		
+tr|C5C951|C5C951_MICLC			300		
+tr|C5C8G8|C5C8G8_MICLC	K01638	aceB; malate synthase [EC:2.3.3.9]	702		
+tr|C5CD20|C5CD20_MICLC	K06994	putative drug exporter of the RND superfamily	751		
+tr|C5C889|C5C889_MICLC	K00796	folP; dihydropteroate synthase [EC:2.5.1.15]	291		
+tr|C5CBA5|C5CBA5_MICLC	K03117	tatB; sec-independent protein translocase protein TatB	133		
+tr|C5C7V0|C5C7V0_MICLC	K03111	ssb; single-strand DNA-binding protein	220		
+tr|C5CCG5|C5CCG5_MICLC	K01872	AARS; alanyl-tRNA synthetase [EC:6.1.1.7]	1185		
+tr|C5CAU9|C5CAU9_MICLC			52	K04564	2
+tr|C5C8T3|C5C8T3_MICLC			193		
+tr|C5C857|C5C857_MICLC	K00847	E2.7.1.4; fructokinase [EC:2.7.1.4]	288		
+tr|C5C803|C5C803_MICLC			398		
+tr|C5C8Z1|C5C8Z1_MICLC	K01236	treZ; maltooligosyltrehalose trehalohydrolase [EC:3.2.1.141]	600		
+tr|C5C6X9|C5C6X9_MICLC	K06215	pdxS; pyridoxal 5'-phosphate synthase pdxS subunit [EC:4.3.3.6]	498		
+tr|C5C9V8|C5C9V8_MICLC			251		
+tr|C5C9T3|C5C9T3_MICLC	K03177	truB; tRNA pseudouridine55 synthase [EC:5.4.99.25]	359		
+tr|C5C9Y9|C5C9Y9_MICLC	K00004	BDH; (R,R)-butanediol dehydrogenase / meso-butanediol dehydrogenase / diacetyl reductase [EC:1.1.1.4 1.1.1.- 1.1.1.303]	484		
+tr|C5CB19|C5CB19_MICLC			27	K18929	1
+tr|C5CAC7|C5CAC7_MICLC			368		
+tr|C5CA47|C5CA47_MICLC	K00655	plsC; 1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51]	302		
+tr|C5CBJ4|C5CBJ4_MICLC	K03811	pnuC; nicotinamide mononucleotide transporter	319		
+tr|C5CAM3|C5CAM3_MICLC			840		
+tr|C5CAI1|C5CAI1_MICLC	K17883	mtr; mycothione reductase [EC:1.8.1.15]	488		
+tr|C5CBB5|C5CBB5_MICLC	K01439	dapE; succinyl-diaminopimelate desuccinylase [EC:3.5.1.18]	449		
+tr|C5C8B5|C5C8B5_MICLC			18	K02275	2
+tr|C5CBC9|C5CBC9_MICLC			244		
+tr|C5CB21|C5CB21_MICLC			28	K00374	2
+tr|C5CC29|C5CC29_MICLC	K03431	glmM; phosphoglucosamine mutase [EC:5.4.2.10]	618		
+tr|C5CBS8|C5CBS8_MICLC	K16148	glgA; starch synthase [EC:2.4.1.21]	567		
+tr|C5CAL8|C5CAL8_MICLC	K06442	tlyA; 23S rRNA (cytidine1920-2'-O)/16S rRNA (cytidine1409-2'-O)-methyltransferase [EC:2.1.1.226 2.1.1.227]	246		
+tr|C5C8C0|C5C8C0_MICLC	K03575	mutY; A/G-specific adenine glycosylase [EC:3.2.2.-]	333		
+tr|C5CA78|C5CA78_MICLC	K02112	ATPF1B; F-type H+-transporting ATPase subunit beta [EC:3.6.3.14]	806		
+tr|C5CCN1|C5CCN1_MICLC			270		
+tr|C5CBN0|C5CBN0_MICLC			102		
+tr|C5CCU2|C5CCU2_MICLC	K07146	UPF0176 protein	380		
+tr|C5C8I2|C5C8I2_MICLC			16	K01998	4
+tr|C5CB39|C5CB39_MICLC			256		
+tr|C5CBM4|C5CBM4_MICLC	K00564	rsmC; 16S rRNA (guanine1207-N2)-methyltransferase [EC:2.1.1.172]	288		
+tr|C5CAW7|C5CAW7_MICLC			24	K08218	3
+tr|C5CCE0|C5CCE0_MICLC			248		
+tr|C5CBL9|C5CBL9_MICLC	K05571	mnhG; multicomponent Na+:H+ antiporter subunit G	65		
+tr|C5C7R1|C5C7R1_MICLC	K01424	E3.5.1.1; L-asparaginase [EC:3.5.1.1]	263		
+tr|C5C866|C5C866_MICLC	K03719	lrp; Lrp/AsnC family transcriptional regulator, leucine-responsive regulatory protein	188		
+tr|C5C957|C5C957_MICLC	K00600	glyA; glycine hydroxymethyltransferase [EC:2.1.2.1]	676		
+tr|C5C813|C5C813_MICLC			503		
+tr|C5C9C5|C5C9C5_MICLC	K03424	tatD; TatD DNase family protein [EC:3.1.21.-]	369		
+tr|C5C8I0|C5C8I0_MICLC	K03781	katE; catalase [EC:1.11.1.6]	1017		
+tr|C5C8J7|C5C8J7_MICLC			268		
+tr|C5CCI7|C5CCI7_MICLC	K07305	msrB; peptide-methionine (R)-S-oxide reductase [EC:1.8.4.12]	219		
+tr|C5C6V5|C5C6V5_MICLC	K09384	uncharacterized protein	498		
+tr|C5CCU8|C5CCU8_MICLC			52		
+tr|C5CAP1|C5CAP1_MICLC			116		
+tr|C5CCX0|C5CCX0_MICLC	K01533	copB; Cu2+-exporting ATPase [EC:3.6.3.4]	980		
+tr|C5C6U4|C5C6U4_MICLC	K03310	TC.AGCS; alanine or glycine:cation symporter, AGCS family	493		
+tr|C5C785|C5C785_MICLC			183		
+tr|C5C7M3|C5C7M3_MICLC	K15771	ganP; arabinogalactan oligomer / maltooligosaccharide transport system permease protein	565		
+tr|C5C8F4|C5C8F4_MICLC	K01142	E3.1.11.2; exodeoxyribonuclease III [EC:3.1.11.2]	412		
+tr|C5CD02|C5CD02_MICLC	K02029	ABC.PA.P; polar amino acid transport system permease protein	326		
+tr|C5C844|C5C844_MICLC			169		
+tr|C5C9L8|C5C9L8_MICLC			26	K07466	2
+tr|C5C8W1|C5C8W1_MICLC			313	K00344	30
+tr|C5C8G5|C5C8G5_MICLC	K01624	FBA; fructose-bisphosphate aldolase, class II [EC:4.1.2.13]	540		
+tr|C5C9X4|C5C9X4_MICLC	K00299	ssuE; FMN reductase [EC:1.5.1.38]	206		
+tr|C5CA01|C5CA01_MICLC			270		
+tr|C5CC79|C5CC79_MICLC			251		
+tr|C5C6Y1|C5C6Y1_MICLC	K01644	citE; citrate lyase subunit beta / citryl-CoA lyase [EC:4.1.3.34]	336		
+tr|C5CC94|C5CC94_MICLC	K00133	asd; aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]	566		
+tr|C5CCC2|C5CCC2_MICLC	K03584	recO; DNA repair protein RecO (recombination protein O)	278		
+tr|C5CB36|C5CB36_MICLC			277	K01069	29
+tr|C5CCC3|C5CCC3_MICLC	K01649	leuA; 2-isopropylmalate synthase [EC:2.3.3.13]	893		
+tr|C5CBS4|C5CBS4_MICLC	K03800	lplA; lipoate---protein ligase [EC:6.3.1.20]	468		
+tr|C5CCV2|C5CCV2_MICLC			306	K07222	31
+tr|C5CBE6|C5CBE6_MICLC	K02335	DPO1; DNA polymerase I [EC:2.7.7.7]	530		
+tr|C5C6Q2|C5C6Q2_MICLC	K00230	hemG; menaquinone-dependent protoporphyrinogen oxidase [EC:1.3.5.3]	71		
+tr|C5CB55|C5CB55_MICLC	K03499	trkA; trk system potassium uptake protein	213		
+tr|C5CC13|C5CC13_MICLC			371		
+tr|C5C9R9|C5C9R9_MICLC	K01644	citE; citrate lyase subunit beta / citryl-CoA lyase [EC:4.1.3.34]	238		
+tr|C5CAJ1|C5CAJ1_MICLC	K16264	czcD; cobalt-zinc-cadmium efflux system protein	341		
+tr|C5C790|C5C790_MICLC			138		
+tr|C5CCQ5|C5CCQ5_MICLC	K02551	menD; 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [EC:2.2.1.9]	462		
+tr|C5CAW6|C5CAW6_MICLC	K05522	nei; endonuclease VIII [EC:3.2.2.- 4.2.99.18]	141	K10563	42
+tr|C5CB45|C5CB45_MICLC	K14162	dnaE2; error-prone DNA polymerase [EC:2.7.7.7]	1240		
+tr|C5CCR2|C5CCR2_MICLC	K00161	PDHA; pyruvate dehydrogenase E1 component alpha subunit [EC:1.2.4.1]	497		
+tr|C5CBG7|C5CBG7_MICLC			24	K00121	3
+tr|C5CB26|C5CB26_MICLC	K06191	nrdH; glutaredoxin-like protein NrdH	122		
+tr|C5C795|C5C795_MICLC			942		
+tr|C5C9X8|C5C9X8_MICLC			173		
+tr|C5CA00|C5CA00_MICLC			66		
+tr|C5CCF7|C5CCF7_MICLC	K03625	nusB; N utilization substance protein B	179		
+tr|C5CCG2|C5CCG2_MICLC	K00014	aroE; shikimate dehydrogenase [EC:1.1.1.25]	173		
+tr|C5C986|C5C986_MICLC	K02428	rdgB; XTP/dITP diphosphohydrolase [EC:3.6.1.66]	112	K04765	17
+tr|C5C8W4|C5C8W4_MICLC	K02341	DPO3D2; DNA polymerase III subunit delta' [EC:2.7.7.7]	376		
+tr|C5C7I4|C5C7I4_MICLC	K02484	two-component system	185		
+tr|C5C9E4|C5C9E4_MICLC			19	K00794	3
+tr|C5CCP0|C5CCP0_MICLC			527		
+tr|C5C7D4|C5C7D4_MICLC			446		
+tr|C5C6P9|C5C6P9_MICLC	K07088	uncharacterized protein	268		
+tr|C5CD17|C5CD17_MICLC	K06994	putative drug exporter of the RND superfamily	618		
+tr|C5C927|C5C927_MICLC			162		
+tr|C5C7J3|C5C7J3_MICLC			235		
+tr|C5CAH8|C5CAH8_MICLC	K04096	smf; DNA processing protein	330		
+tr|C5C7H1|C5C7H1_MICLC			18	K03466	1
+tr|C5CBX6|C5CBX6_MICLC	K14445	SLC13A2_3_5; solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2/3/5	547		
+tr|C5CCV0|C5CCV0_MICLC	K02283	cpaF; pilus assembly protein CpaF	333		
+tr|C5C8Z2|C5C8Z2_MICLC			499		
+tr|C5C8D3|C5C8D3_MICLC			395		
+tr|C5C7H5|C5C7H5_MICLC	K02004	ABC.CD.P; putative ABC transport system permease protein	368		
+tr|C5C9V4|C5C9V4_MICLC	K03565	recX; regulatory protein	178		
+tr|C5C9G4|C5C9G4_MICLC			22	K02194	13
+tr|C5C856|C5C856_MICLC			490		
+tr|C5C8E1|C5C8E1_MICLC			536		
+tr|C5C6Z7|C5C6Z7_MICLC			226		
+tr|C5C8T5|C5C8T5_MICLC	K00761	upp; uracil phosphoribosyltransferase [EC:2.4.2.9]	323		
+tr|C5CC96|C5CC96_MICLC			185		
+tr|C5C7H2|C5C7H2_MICLC			120		
+tr|C5C727|C5C727_MICLC			202		
+tr|C5C752|C5C752_MICLC			391		
+tr|C5C9C8|C5C9C8_MICLC	K00919	ispE; 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase [EC:2.7.1.148]	262		
+tr|C5C8E6|C5C8E6_MICLC			149		
+tr|C5C974|C5C974_MICLC	K00241	sdhC; succinate dehydrogenase / fumarate reductase, cytochrome b subunit	191		
+tr|C5C8Y4|C5C8Y4_MICLC			155		
+tr|C5C6V4|C5C6V4_MICLC			116		
+tr|C5C830|C5C830_MICLC			158		
+tr|C5C8F8|C5C8F8_MICLC			129		
+tr|C5C988|C5C988_MICLC			117		
+tr|C5CAV6|C5CAV6_MICLC			394		
+tr|C5CCB8|C5CCB8_MICLC			190		
+tr|C5CAT3|C5CAT3_MICLC	K07304	msrA; peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]	235		
+tr|C5C7A2|C5C7A2_MICLC			572		
+tr|C5CAS2|C5CAS2_MICLC	K00163	aceE; pyruvate dehydrogenase E1 component [EC:1.2.4.1]	1406		
+tr|C5CA36|C5CA36_MICLC	K03587	ftsI; cell division protein FtsI (penicillin-binding protein 3)	504		
+tr|C5CB48|C5CB48_MICLC	K07670	mtrA; two-component system, OmpR family, response regulator MtrA	345		
+tr|C5CA93|C5CA93_MICLC			134		
+tr|C5CAF7|C5CAF7_MICLC			330		
+tr|C5CBN8|C5CBN8_MICLC	K00655	plsC; 1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51]	259		
+tr|C5C9Z7|C5C9Z7_MICLC	K06949	rsgA; ribosome biogenesis GTPase [EC:3.6.1.-]	427		
+tr|C5CAY3|C5CAY3_MICLC	K02050	ABC.SN.P; NitT/TauT family transport system permease protein	276		
+tr|C5CAA5|C5CAA5_MICLC	K03564	BCP; peroxiredoxin Q/BCP [EC:1.11.1.15]	234		
+tr|C5CCP3|C5CCP3_MICLC			252		
+tr|C5CAC6|C5CAC6_MICLC	K00012	UGDH; UDPglucose 6-dehydrogenase [EC:1.1.1.22]	565		
+tr|C5CB07|C5CB07_MICLC			351		
+tr|C5CC93|C5CC93_MICLC			17	K03589	2
+tr|C5CCA6|C5CCA6_MICLC	K03889	qcrC; ubiquinol-cytochrome c reductase cytochrome c subunit	323		
+tr|C5CAU4|C5CAU4_MICLC	K01534	zntA; Cd2+/Zn2+-exporting ATPase [EC:3.6.3.3 3.6.3.5]	719		
+tr|C5C9U5|C5C9U5_MICLC	K01714	dapA; 4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7]	335		
+tr|C5CA70|C5CA70_MICLC	K02851	wecA; UDP-GlcNAc:undecaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33]	277		
+tr|C5CCQ9|C5CCQ9_MICLC			126		
+tr|C5CBA4|C5CBA4_MICLC	K03593	mrp; ATP-binding protein involved in chromosome partitioning	414		
+tr|C5C9Q8|C5C9Q8_MICLC	K00981	E2.7.7.41; phosphatidate cytidylyltransferase [EC:2.7.7.41]	195		
+tr|C5CB91|C5CB91_MICLC	K00231	PPOX; oxygen-dependent protoporphyrinogen oxidase [EC:1.3.3.4]	348		
+tr|C5CB71|C5CB71_MICLC	K07177	Lon-like protease	272		
+tr|C5CBU0|C5CBU0_MICLC			304		
+tr|C5CBH9|C5CBH9_MICLC			27	K01006	1
+tr|C5CA64|C5CA64_MICLC	K00872	thrB1; homoserine kinase [EC:2.7.1.39]	146		
+tr|C5CBI4|C5CBI4_MICLC	K00995	pgsA; CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase [EC:2.7.8.5]	206		
+tr|C5CA89|C5CA89_MICLC			153		
+tr|C5CBY0|C5CBY0_MICLC	K03602	xseB; exodeoxyribonuclease VII small subunit [EC:3.1.11.6]	91		
+tr|C5CCP9|C5CCP9_MICLC	K00528	fpr; ferredoxin--NADP+ reductase [EC:1.18.1.2]	678		
+tr|C5C7A4|C5C7A4_MICLC	K13789	GGPS; geranylgeranyl diphosphate synthase, type II [EC:2.5.1.1 2.5.1.10 2.5.1.29]	223		
+tr|C5CCS9|C5CCS9_MICLC			242		
+tr|C5CAC2|C5CAC2_MICLC	K07025	putative hydrolase of the HAD superfamily	139		
+tr|C5CB57|C5CB57_MICLC	K00796	folP; dihydropteroate synthase [EC:2.5.1.15]	316		
+tr|C5C7K9|C5C7K9_MICLC			115		
+tr|C5CBH5|C5CBH5_MICLC			654		
+tr|C5C9P9|C5C9P9_MICLC			107	K01998	4
+tr|C5CA44|C5CA44_MICLC			276		
+tr|C5CCE7|C5CCE7_MICLC	K03060	rpoZ; DNA-directed RNA polymerase subunit omega [EC:2.7.7.6]	142		
+tr|C5C6Q0|C5C6Q0_MICLC	K03340	dapdh; diaminopimelate dehydrogenase [EC:1.4.1.16]	268		
+tr|C5C7P2|C5C7P2_MICLC			172		
+tr|C5C9L3|C5C9L3_MICLC	K12410	npdA; NAD-dependent deacetylase [EC:3.5.1.-]	271		
+tr|C5C877|C5C877_MICLC			310		
+tr|C5C8S6|C5C8S6_MICLC			30	K08884	1
+tr|C5C9A8|C5C9A8_MICLC	K02446	glpX; fructose-1,6-bisphosphatase II [EC:3.1.3.11]	496		
+tr|C5C7Q3|C5C7Q3_MICLC			214		
+tr|C5C9B3|C5C9B3_MICLC			217		
+tr|C5C7P8|C5C7P8_MICLC	K18230	tylC; macrolide transport system ATP-binding/permease protein	558		
+tr|C5C7Q7|C5C7Q7_MICLC			471		
+tr|C5C805|C5C805_MICLC			146		
+tr|C5C828|C5C828_MICLC			130		
+tr|C5C8L1|C5C8L1_MICLC			18	K03294	4
+tr|C5CD09|C5CD09_MICLC	K13640	hspR; MerR family transcriptional regulator, heat shock protein HspR	144		
+tr|C5C6Q8|C5C6Q8_MICLC			18	K07156	14
+tr|C5C9C0|C5C9C0_MICLC			246		
+tr|C5C8E5|C5C8E5_MICLC			297		
+tr|C5C6X1|C5C6X1_MICLC	K18929	lldF; L-lactate dehydrogenase complex protein LldF	652		
+tr|C5C9J6|C5C9J6_MICLC			187		
+tr|C5C8P6|C5C8P6_MICLC			140		
+tr|C5C906|C5C906_MICLC	K03704	cspA; cold shock protein (beta-ribbon, CspA family)	163		
+tr|C5C944|C5C944_MICLC	K07071	uncharacterized protein	383		
+tr|C5C9J9|C5C9J9_MICLC			206		
+tr|C5C8M2|C5C8M2_MICLC	K02343	DPO3G; DNA polymerase III subunit gamma/tau [EC:2.7.7.7]	740		
+tr|C5C9X0|C5C9X0_MICLC			115		
+tr|C5CA08|C5CA08_MICLC	K11710	troB; manganese/zinc/iron transport system ATP- binding protein	61	K11603	27
+tr|C5C9V9|C5C9V9_MICLC			376		
+tr|C5CCE5|C5CCE5_MICLC	K00789	metK; S-adenosylmethionine synthetase [EC:2.5.1.6]	572		
+tr|C5CBZ0|C5CBZ0_MICLC	K01934	MTHFS; 5-formyltetrahydrofolate cyclo-ligase [EC:6.3.3.2]	135		
+tr|C5CA54|C5CA54_MICLC	K00941	thiD; hydroxymethylpyrimidine/phosphomethylpyrimidine kinase [EC:2.7.1.49 2.7.4.7]	220	K14153	49
+tr|C5CBP6|C5CBP6_MICLC	K01803	TPI; triosephosphate isomerase (TIM) [EC:5.3.1.1]	366		
+tr|C5CAQ2|C5CAQ2_MICLC			23	K07215	2
+tr|C5CAK9|C5CAK9_MICLC			197		
+tr|C5C762|C5C762_MICLC	K00549	metE; 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:2.1.1.14]	538		
+tr|C5CC87|C5CC87_MICLC			24	K01998	2
+tr|C5CAE4|C5CAE4_MICLC	K03685	rnc; ribonuclease III [EC:3.1.26.3]	233		
+tr|C5CCT7|C5CCT7_MICLC			334		
+tr|C5CA32|C5CA32_MICLC	K01925	murD; UDP-N-acetylmuramoylalanine--D-glutamate ligase [EC:6.3.2.9]	582		
+tr|C5CAA7|C5CAA7_MICLC	K01687	ilvD; dihydroxy-acid dehydratase [EC:4.2.1.9]	919		
+tr|C5CBX3|C5CBX3_MICLC			247		
+tr|C5CAQ6|C5CAQ6_MICLC			158		
+tr|C5C794|C5C794_MICLC			423		
+tr|C5C9A3|C5C9A3_MICLC	K07175	phoH2; PhoH-like ATPase	622		
+tr|C5CB16|C5CB16_MICLC			213		
+tr|C5CAM6|C5CAM6_MICLC			480	K07485	51
+tr|C5CD11|C5CD11_MICLC	K03687	GRPE; molecular chaperone GrpE	187		
+tr|C5CCY4|C5CCY4_MICLC			229		
+tr|C5C835|C5C835_MICLC	K03767	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]	275		
+tr|C5C7E0|C5C7E0_MICLC	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	97	K09810	46
+tr|C5C7K1|C5C7K1_MICLC			164		
+tr|C5CCE6|C5CCE6_MICLC	K13038	coaBC; phosphopantothenoylcysteine decarboxylase / phosphopantothenate--cysteine ligase [EC:4.1.1.36 6.3.2.5]	469		
+tr|C5C7S4|C5C7S4_MICLC			384		
+tr|C5C931|C5C931_MICLC	K07107	ybgC; acyl-CoA thioester hydrolase [EC:3.1.2.-]	134		
+tr|C5C764|C5C764_MICLC	K01739	metB; cystathionine gamma-synthase [EC:2.5.1.48]	523		
+tr|C5CA14|C5CA14_MICLC	K00135	gabD; succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2.1.79 1.2.1.20]	528		
+tr|C5CBF6|C5CBF6_MICLC	K18118	aarC; succinyl-CoA:acetate CoA-transferase [EC:2.8.3.18]	693		
+tr|C5CBF9|C5CBF9_MICLC			143		
+tr|C5CC05|C5CC05_MICLC	K02015	ABC.FEV.P; iron complex transport system permease protein	345		
+tr|C5C7P4|C5C7P4_MICLC			125		
+tr|C5C8W8|C5C8W8_MICLC	K01834	PGAM; 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11]	383		
+tr|C5C7S9|C5C7S9_MICLC	K00111	glpA; glycerol-3-phosphate dehydrogenase [EC:1.1.5.3]	657		
+tr|C5C6W5|C5C6W5_MICLC			306		
+tr|C5C8N8|C5C8N8_MICLC	K01692	paaF; enoyl-CoA hydratase [EC:4.2.1.17]	303		
+tr|C5CCW6|C5CCW6_MICLC			293		
+tr|C5C728|C5C728_MICLC			205		
+tr|C5C7J2|C5C7J2_MICLC			187	K02013	13
+tr|C5C7N1|C5C7N1_MICLC			110		
+tr|C5CCY5|C5CCY5_MICLC			277		
+tr|C5C7W9|C5C7W9_MICLC	K06346	jag; spoIIIJ-associated protein	211		
+tr|C5C965|C5C965_MICLC	K01867	WARS; tryptophanyl-tRNA synthetase [EC:6.1.1.2]	474		
+tr|C5C984|C5C984_MICLC			159		
+tr|C5C7L5|C5C7L5_MICLC			127		
+tr|C5CCC5|C5CCC5_MICLC			329		
+tr|C5C9U9|C5C9U9_MICLC	K03743	pncC; nicotinamide-nucleotide amidase [EC:3.5.1.42]	142		
+tr|C5CCD2|C5CCD2_MICLC	K09940	uncharacterized protein	114		
+tr|C5CCB9|C5CCB9_MICLC	K00254	DHODH; dihydroorotate dehydrogenase [EC:1.3.5.2]	449		
+tr|C5CBH7|C5CBH7_MICLC			288		
+tr|C5CBV2|C5CBV2_MICLC	K01802	E5.2.1.8; peptidylprolyl isomerase [EC:5.2.1.8]	81		
+tr|C5CBC8|C5CBC8_MICLC	K07238	TC.ZIP; zinc transporter, ZIP family	192		
+tr|C5C6X3|C5C6X3_MICLC	K03303	lctP; lactate permease	699		
+tr|C5C707|C5C707_MICLC			551		
+tr|C5C9K5|C5C9K5_MICLC			539		
+tr|C5CCC0|C5CCC0_MICLC			309		
+tr|C5C8H8|C5C8H8_MICLC			21	K13292	2
+tr|C5C8Z3|C5C8Z3_MICLC			213		
+tr|C5CC31|C5CC31_MICLC			457		
+tr|C5CBH6|C5CBH6_MICLC			645		
+tr|C5CA26|C5CA26_MICLC	K05810	yfiH; laccase domain-containing protein	216		
+tr|C5CCT9|C5CCT9_MICLC	K03168	topA; DNA topoisomerase I [EC:5.99.1.2]	1229		
+tr|C5CBQ0|C5CBQ0_MICLC	K01810	GPI; glucose-6-phosphate isomerase [EC:5.3.1.9]	611		
+tr|C5CAV7|C5CAV7_MICLC			279		
+tr|C5CBR0|C5CBR0_MICLC	K09013	sufC; Fe-S cluster assembly ATP-binding protein	414		
+tr|C5CBJ1|C5CBJ1_MICLC	K00604	MTFMT; methionyl-tRNA formyltransferase [EC:2.1.2.9]	314		
+tr|C5CAT7|C5CAT7_MICLC	K09861	uncharacterized protein	213		
+tr|C5CAM8|C5CAM8_MICLC	K03402	argR; transcriptional regulator of arginine metabolism	164		
+tr|C5CA02|C5CA02_MICLC	K00164	OGDH; 2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2]	1723		
+tr|C5C9V5|C5C9V5_MICLC	K06168	miaB; tRNA-2-methylthio-N6-dimethylallyladenosine synthase [EC:2.8.4.3]	767		
+tr|C5C912|C5C912_MICLC			107	K00990	4
+tr|C5CBP1|C5CBP1_MICLC			352		
+tr|C5CA86|C5CA86_MICLC	K01992	ABC-2.P; ABC-2 type transport system permease protein	319		
+tr|C5CAQ0|C5CAQ0_MICLC	K02520	infC; translation initiation factor IF-3	316		
+tr|C5CC12|C5CC12_MICLC			146		
+tr|C5C9M3|C5C9M3_MICLC	K03088	SIG3.2; RNA polymerase sigma-70 factor, ECF subfamily	75		
+tr|C5CAL6|C5CAL6_MICLC	K03631	recN; DNA repair protein RecN (Recombination protein N)	491		
+tr|C5CBZ9|C5CBZ9_MICLC			579		
+tr|C5CA90|C5CA90_MICLC	K08281	pncA; nicotinamidase/pyrazinamidase [EC:3.5.1.19 3.5.1.-]	204		
+tr|C5C9L7|C5C9L7_MICLC	K02316	dnaG; DNA primase [EC:2.7.7.-]	772		
+tr|C5CBZ1|C5CBZ1_MICLC			91		
+tr|C5CAD6|C5CAD6_MICLC	K07030	uncharacterized protein	197		
+tr|C5C771|C5C771_MICLC			27	K01299	2
+tr|C5CC90|C5CC90_MICLC	K06975	uncharacterized protein	68		
+tr|C5C8C7|C5C8C7_MICLC	K02036	pstB; phosphate transport system ATP-binding protein [EC:3.6.3.27]	423		
+tr|C5CCQ0|C5CCQ0_MICLC	K05786	rarD; chloramphenicol-sensitive protein RarD	295		
+tr|C5C930|C5C930_MICLC			410		
+tr|C5C6Z5|C5C6Z5_MICLC			139		
+tr|C5C744|C5C744_MICLC	K03892	arsR; ArsR family transcriptional regulator	56		
+tr|C5CAS5|C5CAS5_MICLC			222		
+tr|C5C9J7|C5C9J7_MICLC			184		
+tr|C5C9A1|C5C9A1_MICLC	K12503	E2.5.1.68; short-chain Z-isoprenyl diphosphate synthase [EC:2.5.1.68]	340		
+tr|C5CAD7|C5CAD7_MICLC	K03655	recG; ATP-dependent DNA helicase RecG [EC:3.6.4.12]	652		
+tr|C5CBK5|C5CBK5_MICLC			21	K08227	4
+tr|C5C9Y6|C5C9Y6_MICLC			31	K08344	1
+tr|C5C9T4|C5C9T4_MICLC			140		
+tr|C5C6X8|C5C6X8_MICLC	K08681	pdxT; 5'-phosphate synthase pdxT subunit [EC:4.3.3.6]	208		
+tr|C5C9G0|C5C9G0_MICLC			141		
+tr|C5C8Y0|C5C8Y0_MICLC	K16147	glgE; starch synthase (maltosyl-transferring) [EC:2.4.99.16]	864		
+tr|C5C7I0|C5C7I0_MICLC			111		
+tr|C5C902|C5C902_MICLC	K02484	two-component system	450		
+tr|C5C9B8|C5C9B8_MICLC			414		
+tr|C5C992|C5C992_MICLC	K01785	galM; aldose 1-epimerase [EC:5.1.3.3]	299		
+tr|C5C9F9|C5C9F9_MICLC			171	K20444	10
+tr|C5C807|C5C807_MICLC			1671		
+tr|C5C8Z4|C5C8Z4_MICLC	K14645	serine protease [EC:3.4.21.-]	536		
+tr|C5CCL6|C5CCL6_MICLC	K00648	fabH; 3-oxoacyl-[acyl-carrier-protein] synthase III [EC:2.3.1.180]	404		
+tr|C5CC32|C5CC32_MICLC	K02996	RP-S9; small subunit ribosomal protein S9	231		
+tr|C5C9Z3|C5C9Z3_MICLC	K03664	smpB; SsrA-binding protein	228		
+tr|C5CCF6|C5CCF6_MICLC	K02825	pyrR; pyrimidine operon attenuation protein / uracil phosphoribosyltransferase [EC:2.4.2.9]	225		
+tr|C5C999|C5C999_MICLC			20	K03688	1
+tr|C5C7H4|C5C7H4_MICLC			18	K02232	5
+tr|C5CCW4|C5CCW4_MICLC			256	K07497	15
+tr|C5C7S0|C5C7S0_MICLC			222		
+tr|C5C8V7|C5C8V7_MICLC			209		
+tr|C5C8S4|C5C8S4_MICLC			370		
+tr|C5C8U0|C5C8U0_MICLC			372		
+tr|C5C7Z0|C5C7Z0_MICLC			226		
+tr|C5C9W3|C5C9W3_MICLC	K01356	lexA; repressor LexA [EC:3.4.21.88]	314		
+tr|C5CBM2|C5CBM2_MICLC			238		
+tr|C5CC00|C5CC00_MICLC			731		
+tr|C5CAU0|C5CAU0_MICLC	K01714	dapA; 4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7]	252		
+tr|C5CAJ8|C5CAJ8_MICLC			229	K07497	29
+tr|C5C9N5|C5C9N5_MICLC			160		
+tr|C5CA91|C5CA91_MICLC	K00763	pncB; nicotinate phosphoribosyltransferase [EC:6.3.4.21]	573		
+tr|C5CAT1|C5CAT1_MICLC	K00640	cysE; serine O-acetyltransferase [EC:2.3.1.30]	288		
+tr|C5CAI8|C5CAI8_MICLC	K00759	APRT; adenine phosphoribosyltransferase [EC:2.4.2.7]	174		
+tr|C5CBR7|C5CBR7_MICLC	K00059	fabG; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	349		
+tr|C5CAH7|C5CAH7_MICLC	K07391	comM; magnesium chelatase family protein	491		
+tr|C5CAJ6|C5CAJ6_MICLC			85	K07497	5
+tr|C5CBK7|C5CBK7_MICLC	K01696	trpB; tryptophan synthase beta chain [EC:4.2.1.20]	624		
+tr|C5CAB5|C5CAB5_MICLC	K01874	MARS; methionyl-tRNA synthetase [EC:6.1.1.10]	716		
+tr|C5CB41|C5CB41_MICLC			14	K01673	2
+tr|C5CCH8|C5CCH8_MICLC	K03074	secF; preprotein translocase subunit SecF	375		
+tr|C5CCP2|C5CCP2_MICLC	K01697	E4.2.1.22; cystathionine beta-synthase [EC:4.2.1.22]	542		
+tr|C5CBY1|C5CBY1_MICLC	K05520	pfpI; protease I [EC:3.2.-.-]	255		
+tr|C5CCT6|C5CCT6_MICLC	K00286	proC; pyrroline-5-carboxylate reductase [EC:1.5.1.2]	237		
+tr|C5CAM4|C5CAM4_MICLC	K01755	argH; argininosuccinate lyase [EC:4.3.2.1]	741		
+tr|C5CAR3|C5CAR3_MICLC			128		
+tr|C5C7N0|C5C7N0_MICLC			127		
+tr|C5C798|C5C798_MICLC			53	K06147	2
+tr|C5CA61|C5CA61_MICLC	K01586	lysA; diaminopimelate decarboxylase [EC:4.1.1.20]	555		
+tr|C5C855|C5C855_MICLC	K15372	toa; taurine---2-oxoglutarate transaminase [EC:2.6.1.55]	586		
+tr|C5CBU3|C5CBU3_MICLC	K07442	TRM61; tRNA (adenine57-N1/adenine58-N1)-methyltransferase [EC:2.1.1.219 2.1.1.220]	452		
+tr|C5C6V0|C5C6V0_MICLC	K15866	paaG; 2-(1,2-epoxy-1,2-dihydrophenyl)acetyl-CoA isomerase [EC:5.3.3.18]	45		
+tr|C5C702|C5C702_MICLC	K02610	paaB; ring-1,2-phenylacetyl-CoA epoxidase subunit PaaB	173		
+tr|C5C710|C5C710_MICLC	K00074	paaH; 3-hydroxybutyryl-CoA dehydrogenase [EC:1.1.1.157]	364		
+tr|C5C7S8|C5C7S8_MICLC			20	K02004	1
+tr|C5C9J1|C5C9J1_MICLC			358		
+tr|C5C779|C5C779_MICLC	K02348	elaA; ElaA protein	143		
+tr|C5C737|C5C737_MICLC			213		
+tr|C5C9R0|C5C9R0_MICLC	K00161	PDHA; pyruvate dehydrogenase E1 component alpha subunit [EC:1.2.4.1]	391		
+tr|C5C6Y8|C5C6Y8_MICLC	K02509	hpaH; 2-oxo-hept-3-ene-1,7-dioate hydratase [EC:4.2.1.-]	350		
+tr|C5C7G8|C5C7G8_MICLC	K00459	ncd2; nitronate monooxygenase [EC:1.13.12.16]	126		
+tr|C5C786|C5C786_MICLC	K02351	putative membrane protein	170		
+tr|C5C9E9|C5C9E9_MICLC	K13015	wbpA; UDP-N-acetyl-D-glucosamine dehydrogenase [EC:1.1.1.136]	239		
+tr|C5C6Y5|C5C6Y5_MICLC			262		
+tr|C5C952|C5C952_MICLC			226		
+tr|C5C734|C5C734_MICLC			198		
+tr|C5C928|C5C928_MICLC	K01092	E3.1.3.25; myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25]	221		
+tr|C5C8C2|C5C8C2_MICLC	K04485	radA; DNA repair protein RadA/Sms	614		
+tr|C5C9C4|C5C9C4_MICLC	K00135	gabD; succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2.1.79 1.2.1.20]	683		
+tr|C5CBI8|C5CBI8_MICLC	K06916	zapE; cell division protein ZapE	320		
+tr|C5C822|C5C822_MICLC	K04043	dnaK; molecular chaperone DnaK	905		
+tr|C5C852|C5C852_MICLC			226		
+tr|C5CAF0|C5CAF0_MICLC	K02472	wecC; UDP-N-acetyl-D-mannosaminuronic acid dehydrogenase [EC:1.1.1.336]	513		
+tr|C5CAW0|C5CAW0_MICLC	K10805	tesB; acyl-CoA thioesterase II [EC:3.1.2.-]	359		
+tr|C5CCU7|C5CCU7_MICLC			15	K00989	9
+tr|C5C994|C5C994_MICLC	K01754	E4.3.1.19; threonine dehydratase [EC:4.3.1.19]	517		
+tr|C5C7E7|C5C7E7_MICLC			180		
+tr|C5C6X7|C5C6X7_MICLC	K00259	ald; alanine dehydrogenase [EC:1.4.1.1]	448		
+tr|C5C901|C5C901_MICLC			35	K03529	2
+tr|C5C8T8|C5C8T8_MICLC	K01596	E4.1.1.32; phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32]	940		
+tr|C5C9K8|C5C9K8_MICLC			599		
+tr|C5C9A7|C5C9A7_MICLC			25	K03466	1
+tr|C5CA04|C5CA04_MICLC			585		
+tr|C5CAV2|C5CAV2_MICLC			218		
+tr|C5C9X9|C5C9X9_MICLC	K03466	ftsK; DNA segregation ATPase FtsK/SpoIIIE, S-DNA-T family	333		
+tr|C5C8G6|C5C8G6_MICLC			576		
+tr|C5C7V2|C5C7V2_MICLC	K01267	DNPEP; aspartyl aminopeptidase [EC:3.4.11.21]	533		
+tr|C5C7G4|C5C7G4_MICLC			35	K07160	1
+tr|C5C8P1|C5C8P1_MICLC	K00140	mmsA; malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.18 1.2.1.27]	767		
+tr|C5CD10|C5CD10_MICLC	K03686	dnaJ; molecular chaperone DnaJ	348		
+tr|C5C8D1|C5C8D1_MICLC	K06999	phospholipase/carboxylesterase	181		
+tr|C5C6R0|C5C6R0_MICLC	K03530	hupB; DNA-binding protein HU-beta	137		
+tr|C5C7R0|C5C7R0_MICLC			507		
+tr|C5CAY6|C5CAY6_MICLC			197		
+tr|C5CB76|C5CB76_MICLC	K03426	E3.6.1.22; NAD+ diphosphatase [EC:3.6.1.22]	280		
+tr|C5C7K6|C5C7K6_MICLC			121		
+tr|C5CB01|C5CB01_MICLC	K15634	gpmB; probable phosphoglycerate mutase [EC:5.4.2.12]	118		
+tr|C5CB20|C5CB20_MICLC			15	K06975	10
+tr|C5CBD7|C5CBD7_MICLC	K03517	nadA; quinolinate synthase [EC:2.5.1.72]	666		
+tr|C5CBE7|C5CBE7_MICLC			443		
+tr|C5CA35|C5CA35_MICLC	K01928	murE; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase [EC:6.3.2.13]	431		
+tr|C5CBS1|C5CBS1_MICLC	K07090	uncharacterized protein	286		
+tr|C5CCE3|C5CCE3_MICLC			200		
+tr|C5C9S5|C5C9S5_MICLC	K06976	uncharacterized protein	218		
+tr|C5CAH4|C5CAH4_MICLC	K03470	rnhB; ribonuclease HII [EC:3.1.26.4]	189		
+tr|C5CBQ9|C5CBQ9_MICLC	K09015	sufD; Fe-S cluster assembly protein SufD	457		
+tr|C5CCT4|C5CCT4_MICLC			460		
+tr|C5CA65|C5CA65_MICLC	K00872	thrB1; homoserine kinase [EC:2.7.1.39]	131		
+tr|C5CCK6|C5CCK6_MICLC			168		
+tr|C5CAM9|C5CAM9_MICLC	K00611	OTC; ornithine carbamoyltransferase [EC:2.1.3.3]	464		
+tr|C5CA63|C5CA63_MICLC	K01733	thrC; threonine synthase [EC:4.2.3.1]	577		
+tr|C5CCJ8|C5CCJ8_MICLC			442		
+tr|C5CC01|C5CC01_MICLC	K04077	groEL; chaperonin GroEL	804		
+tr|C5CB31|C5CB31_MICLC	K02072	metI; D-methionine transport system permease protein	224		
+tr|C5CCJ3|C5CCJ3_MICLC			23	K01998	2
+tr|C5C730|C5C730_MICLC	K00558	DNMT1; DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]	212		
+tr|C5C7X7|C5C7X7_MICLC			169		
+tr|C5C716|C5C716_MICLC	K00074	paaH; 3-hydroxybutyryl-CoA dehydrogenase [EC:1.1.1.157]	273		
+tr|C5C7I3|C5C7I3_MICLC			19	K01990	1
+tr|C5C938|C5C938_MICLC	K08369	ydjE; MFS transporter, putative metabolite:H+ symporter	362		
+tr|C5CCZ1|C5CCZ1_MICLC	K00764	purF; amidophosphoribosyltransferase [EC:2.4.2.14]	791		
+tr|C5C942|C5C942_MICLC	K00031	IDH1; isocitrate dehydrogenase [EC:1.1.1.42]	1079		
+tr|C5CCY7|C5CCY7_MICLC	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	255		
+tr|C5C9K6|C5C9K6_MICLC			118		
+tr|C5C7P5|C5C7P5_MICLC			312		
+tr|C5CBN9|C5CBN9_MICLC	K03703	uvrC; excinuclease ABC subunit C	858		
+tr|C5CBU9|C5CBU9_MICLC	K13570	pup; prokaryotic ubiquitin-like protein Pup	66		
+tr|C5C8W0|C5C8W0_MICLC	K01081	E3.1.3.5; 5'-nucleotidase [EC:3.1.3.5]	122		
+tr|C5C7Y2|C5C7Y2_MICLC			177		
+tr|C5C8N7|C5C8N7_MICLC			542		
+tr|C5C9M2|C5C9M2_MICLC			61	K01420	2
+tr|C5C7X9|C5C7X9_MICLC	K02469	gyrA; DNA gyrase subunit A [EC:5.99.1.3]	1317		
+tr|C5C721|C5C721_MICLC			979		
+tr|C5C7N8|C5C7N8_MICLC	K13953	adhP; alcohol dehydrogenase, propanol-preferring [EC:1.1.1.1]	188		
+tr|C5C6S5|C5C6S5_MICLC	K04762	hslR; ribosome-associated heat shock protein Hsp15	130		
+tr|C5C7R4|C5C7R4_MICLC			226		
+tr|C5CCZ0|C5CCZ0_MICLC			20	K06168	1
+tr|C5C824|C5C824_MICLC	K05516	cbpA; curved DNA-binding protein	282		
+tr|C5C9K3|C5C9K3_MICLC			586		
+tr|C5C841|C5C841_MICLC	K05364	E2.4.1.129; peptidoglycan glycosyltransferase [EC:2.4.1.129]	178		
+tr|C5C960|C5C960_MICLC	K09695	nodI; lipooligosaccharide transport system ATP-binding protein	432		
+tr|C5C963|C5C963_MICLC			137		
+tr|C5CBZ7|C5CBZ7_MICLC	K00088	guaB; IMP dehydrogenase [EC:1.1.1.205]	556		
+tr|C5C9S2|C5C9S2_MICLC	K00099	dxr; 1-deoxy-D-xylulose-5-phosphate reductoisomerase [EC:1.1.1.267]	463		
+tr|C5CAU8|C5CAU8_MICLC			400		
+tr|C5C968|C5C968_MICLC			106		
+tr|C5C998|C5C998_MICLC	K18455	mca; mycothiol S-conjugate amidase [EC:3.5.1.115]	350		
+tr|C5C9D5|C5C9D5_MICLC	K03100	lepB; signal peptidase I [EC:3.4.21.89]	194		
+tr|C5C773|C5C773_MICLC			86		
+tr|C5CBL4|C5CBL4_MICLC	K05565	mnhA; multicomponent Na+:H+ antiporter subunit A	740		
+tr|C5C9U3|C5C9U3_MICLC			135		
+tr|C5CA49|C5CA49_MICLC	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	166		
+tr|C5CBF2|C5CBF2_MICLC			338		
+tr|C5CCR3|C5CCR3_MICLC			196		
+tr|C5C7R7|C5C7R7_MICLC			792		
+tr|C5C796|C5C796_MICLC			543		
+tr|C5CBT2|C5CBT2_MICLC	K00059	fabG; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	491		
+tr|C5CCJ0|C5CCJ0_MICLC			717		
+tr|C5CBX5|C5CBX5_MICLC	K09760	rmuC; DNA recombination protein RmuC	320		
+tr|C5CBQ5|C5CBQ5_MICLC	K01992	ABC-2.P; ABC-2 type transport system permease protein	212		
+tr|C5CAK6|C5CAK6_MICLC			287		
+tr|C5CAH2|C5CAH2_MICLC	K03100	lepB; signal peptidase I [EC:3.4.21.89]	184		
+tr|C5CBM1|C5CBM1_MICLC	K02335	DPO1; DNA polymerase I [EC:2.7.7.7]	981		
+tr|C5CCT5|C5CCT5_MICLC	K03499	trkA; trk system potassium uptake protein	341		
+tr|C5CB08|C5CB08_MICLC			407		
+tr|C5CCU3|C5CCU3_MICLC			605		
+tr|C5CBF3|C5CBF3_MICLC			307		
+tr|C5CAA9|C5CAA9_MICLC	K01443	nagA; N-acetylglucosamine-6-phosphate deacetylase [EC:3.5.1.25]	311		
+tr|C5CCH3|C5CCH3_MICLC	K03294	TC.APA; basic amino acid/polyamine antiporter, APA family	305		
+tr|C5CA80|C5CA80_MICLC			22	K00982	1
+tr|C5CBW7|C5CBW7_MICLC	K06942	ychF; ribosome-binding ATPase	516		
+tr|C5C733|C5C733_MICLC			244		
+tr|C5CCN9|C5CCN9_MICLC			34	K15670	1
+tr|C5CAE9|C5CAE9_MICLC			502		
+tr|C5CAE5|C5CAE5_MICLC	K10563	mutM; formamidopyrimidine-DNA glycosylase [EC:3.2.2.23 4.2.99.18]	339		
+tr|C5CA68|C5CA68_MICLC	K02493	hemK; release factor glutamine methyltransferase [EC:2.1.1.297]	239		
+tr|C5CB10|C5CB10_MICLC			177		
+tr|C5CA27|C5CA27_MICLC	K03531	ftsZ; cell division protein FtsZ	577		
+tr|C5CCL8|C5CCL8_MICLC			399		
+tr|C5CB75|C5CB75_MICLC	K03657	uvrD; DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]	841		
+tr|C5C9C1|C5C9C1_MICLC	K01897	ACSL; long-chain acyl-CoA synthetase [EC:6.2.1.3]	444		
+tr|C5CA94|C5CA94_MICLC	K01776	murI; glutamate racemase [EC:5.1.1.3]	400		
+tr|C5CCF4|C5CCF4_MICLC	K01465	URA4; dihydroorotase [EC:3.5.2.3]	612		
+tr|C5C749|C5C749_MICLC			319		
+tr|C5C7P6|C5C7P6_MICLC	K07047	uncharacterized protein	508		
+tr|C5C7U4|C5C7U4_MICLC			173		
+tr|C5C7M2|C5C7M2_MICLC	K15772	ganQ; arabinogalactan oligomer / maltooligosaccharide transport system permease protein	386		
+tr|C5C8A3|C5C8A3_MICLC	K01126	E3.1.4.46; glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46]	392		
+tr|C5C921|C5C921_MICLC	K00148	fdhA; glutathione-independent formaldehyde dehydrogenase [EC:1.2.1.46]	490		
+tr|C5C766|C5C766_MICLC			203		
+tr|C5C6Y6|C5C6Y6_MICLC	K00151	hpaE; 5-carboxymethyl-2-hydroxymuconic-semialdehyde dehydrogenase [EC:1.2.1.60]	852		
+tr|C5CAT8|C5CAT8_MICLC			20	K13598	3
+tr|C5C7D5|C5C7D5_MICLC	K07052	uncharacterized protein	148		
+tr|C5C839|C5C839_MICLC	K12132	prkC; eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]	431		
+tr|C5C7W4|C5C7W4_MICLC	K03671	trxA; thioredoxin 1	140		
+tr|C5C900|C5C900_MICLC			303		
+tr|C5C9H5|C5C9H5_MICLC	K03524	birA; BirA family transcriptional regulator, biotin operon repressor / biotin-[acetyl-CoA-carboxylase] ligase [EC:6.3.4.15]	167		
+tr|C5C9E1|C5C9E1_MICLC			112		
+tr|C5C8H6|C5C8H6_MICLC			21	K06147	2
+tr|C5C6U7|C5C6U7_MICLC	K00626	E2.3.1.9; acetyl-CoA C-acetyltransferase [EC:2.3.1.9]	549		
+tr|C5CCW7|C5CCW7_MICLC			316		
+tr|C5C7W1|C5C7W1_MICLC	K03980	murJ; putative peptidoglycan lipid II flippase	448		
+tr|C5C829|C5C829_MICLC	K00384	trxB; thioredoxin reductase (NADPH) [EC:1.8.1.9]	505		
+tr|C5C7V4|C5C7V4_MICLC			407		
+tr|C5CAV9|C5CAV9_MICLC			971		
+tr|C5CBJ6|C5CBJ6_MICLC	K00793	ribE; riboflavin synthase [EC:2.5.1.9]	162	K02858	22
+tr|C5CBA6|C5CBA6_MICLC			58	K12132	2
+tr|C5CBK4|C5CBK4_MICLC			30	K03153	1
+tr|C5CA95|C5CA95_MICLC			354		
+tr|C5C9V7|C5C9V7_MICLC	K01778	dapF; diaminopimelate epimerase [EC:5.1.1.7]	374		
+tr|C5CA06|C5CA06_MICLC	K02077	ABC.ZM.S; zinc/manganese transport system substrate-binding protein	171		
+tr|C5CC99|C5CC99_MICLC			52		
+tr|C5C9V1|C5C9V1_MICLC			135		
+tr|C5C7Q1|C5C7Q1_MICLC			233		
+tr|C5CBD8|C5CBD8_MICLC	K00767	nadC; nicotinate-nucleotide pyrophosphorylase (carboxylating) [EC:2.4.2.19]	343		
+tr|C5CBM5|C5CBM5_MICLC			246		
+tr|C5CA92|C5CA92_MICLC	K06891	clpS; ATP-dependent Clp protease adaptor protein ClpS	128		
+tr|C5CAF3|C5CAF3_MICLC			266		
+tr|C5CBR9|C5CBR9_MICLC	K01079	serB; phosphoserine phosphatase [EC:3.1.3.3]	239		
+tr|C5CCL1|C5CCL1_MICLC			936		
+tr|C5CB42|C5CB42_MICLC			129		
+tr|C5CAL3|C5CAL3_MICLC	K01937	pyrG; CTP synthase [EC:6.3.4.2]	871		
+tr|C5CAY5|C5CAY5_MICLC	K00528	fpr; ferredoxin--NADP+ reductase [EC:1.18.1.2]	682		
+tr|C5C6Q7|C5C6Q7_MICLC	K09796	pccA; periplasmic copper chaperone A	153		
+tr|C5C8B2|C5C8B2_MICLC			602		
+tr|C5C729|C5C729_MICLC			732		
+tr|C5C7H6|C5C7H6_MICLC	K06996	uncharacterized protein	232		
+tr|C5C6V9|C5C6V9_MICLC	K01113	phoD; alkaline phosphatase D [EC:3.1.3.1]	579		
+tr|C5CB90|C5CB90_MICLC	K09162	cld; chlorite dismutase [EC:1.13.11.49]	268		
+tr|C5CC18|C5CC18_MICLC	K06925	tsaE; tRNA threonylcarbamoyladenosine biosynthesis protein TsaE	166	K01775	15
+tr|C5CCN8|C5CCN8_MICLC	K05592	deaD; ATP-dependent RNA helicase DeaD [EC:3.6.4.13]	698		
+tr|C5CB38|C5CB38_MICLC			18	K00788	2
+tr|C5CBS0|C5CBS0_MICLC	K02013	ABC.FEV.A; iron complex transport system ATP-binding protein [EC:3.6.3.34]	355		
+tr|C5CBM6|C5CBM6_MICLC			746		
+tr|C5C9W6|C5C9W6_MICLC	K01693	hisB; imidazoleglycerol-phosphate dehydratase [EC:4.2.1.19]	336		
+tr|C5CAV8|C5CAV8_MICLC	K03111	ssb; single-strand DNA-binding protein	142		
+tr|C5CCG3|C5CCG3_MICLC	K07082	UPF0755 protein	313		
+tr|C5C7D3|C5C7D3_MICLC			35	K06213	1
+tr|C5C7Z8|C5C7Z8_MICLC			362		
+tr|C5C8I1|C5C8I1_MICLC			267		
+tr|C5CA19|C5CA19_MICLC	K02337	DPO3A1; DNA polymerase III subunit alpha [EC:2.7.7.7]	1805		
+tr|C5C909|C5C909_MICLC	K03709	troR; DtxR family transcriptional regulator, Mn-dependent transcriptional regulator	250		
+tr|C5CCY2|C5CCY2_MICLC	K01945	purD; phosphoribosylamine--glycine ligase [EC:6.3.4.13]	552		
+tr|C5C8S9|C5C8S9_MICLC	K00975	glgC; glucose-1-phosphate adenylyltransferase [EC:2.7.7.27]	319		
+tr|C5C8Z8|C5C8Z8_MICLC			20	K01955	4
+tr|C5C9A0|C5C9A0_MICLC	K11068	hlyIII; hemolysin III	253		
+tr|C5C969|C5C969_MICLC			23	K02057	2
+tr|C5C7F3|C5C7F3_MICLC			33	K19302	2
+tr|C5C8Q6|C5C8Q6_MICLC	K00868	pdxK; pyridoxine kinase [EC:2.7.1.35]	362		
+tr|C5C8K3|C5C8K3_MICLC			608	K07485	66
+tr|C5C924|C5C924_MICLC	K01480	speB; agmatinase [EC:3.5.3.11]	515		
+tr|C5C9E7|C5C9E7_MICLC	K03783	punA; purine-nucleoside phosphorylase [EC:2.4.2.1]	356		
+tr|C5C7U2|C5C7U2_MICLC	K00252	GCDH; glutaryl-CoA dehydrogenase [EC:1.3.8.6]	551		
+tr|C5C9E6|C5C9E6_MICLC	K01840	manB; phosphomannomutase [EC:5.4.2.8]	541		
+tr|C5CA05|C5CA05_MICLC			393		
+tr|C5CC40|C5CC40_MICLC	K02518	infA; translation initiation factor IF-1	134		
+tr|C5C7U3|C5C7U3_MICLC	K05844	rimK; ribosomal protein S6--L-glutamate ligase [EC:6.3.2.-]	583		
+tr|C5C755|C5C755_MICLC			154		
+tr|C5C6Q1|C5C6Q1_MICLC			25	K02015	1
+tr|C5C996|C5C996_MICLC	K03624	greA; transcription elongation factor GreA	212		
+tr|C5C6R6|C5C6R6_MICLC			377		
+tr|C5C8E2|C5C8E2_MICLC			144		
+tr|C5C7D7|C5C7D7_MICLC	K03321	TC.SULP; sulfate permease, SulP family	600		
+tr|C5C7J4|C5C7J4_MICLC			138		
+tr|C5C6Q3|C5C6Q3_MICLC			869		
+tr|C5C8B9|C5C8B9_MICLC	K00619	argA; amino-acid N-acetyltransferase [EC:2.3.1.1]	241		
+tr|C5C8I7|C5C8I7_MICLC	K01745	hutH; histidine ammonia-lyase [EC:4.3.1.3]	698		
+tr|C5CCK2|C5CCK2_MICLC			184		
+tr|C5C8Q8|C5C8Q8_MICLC			128		
+tr|C5C982|C5C982_MICLC	K01489	cdd; cytidine deaminase [EC:3.5.4.5]	183		
+tr|C5C908|C5C908_MICLC	K00831	serC; phosphoserine aminotransferase [EC:2.6.1.52]	535		
+tr|C5C6U9|C5C6U9_MICLC	K00252	GCDH; glutaryl-CoA dehydrogenase [EC:1.3.8.6]	451		
+tr|C5C6Z8|C5C6Z8_MICLC	K03380	E1.14.13.7; phenol 2-monooxygenase [EC:1.14.13.7]	821		
+tr|C5CCP5|C5CCP5_MICLC	K00666	fatty-acyl-CoA synthase [EC:6.2.1.-]	692		
+tr|C5CAY7|C5CAY7_MICLC	K01870	IARS; isoleucyl-tRNA synthetase [EC:6.1.1.5]	1440		
+tr|C5CB67|C5CB67_MICLC	K03312	gltS; glutamate:Na+ symporter, ESS family	311		
+tr|C5CAN2|C5CAN2_MICLC	K00620	argJ; glutamate N-acetyltransferase / amino-acid N-acetyltransferase [EC:2.3.1.35 2.3.1.1]	491		
+tr|C5CAY0|C5CAY0_MICLC	K00957	cysD; sulfate adenylyltransferase subunit 2 [EC:2.7.7.4]	507		
+tr|C5C827|C5C827_MICLC	K03672	trxC; thioredoxin 2 [EC:1.8.1.8]	206		
+tr|C5C9I8|C5C9I8_MICLC			288		
+tr|C5C6S3|C5C6S3_MICLC			103		
+tr|C5C8W9|C5C8W9_MICLC	K02039	phoU; phosphate transport system protein	240		
+tr|C5C864|C5C864_MICLC			183		
+tr|C5C8B7|C5C8B7_MICLC	K03696	clpC; ATP-dependent Clp protease ATP-binding subunit ClpC	1296		
+tr|C5C961|C5C961_MICLC	K09694	nodJ; lipooligosaccharide transport system permease protein	415		
+tr|C5C8H7|C5C8H7_MICLC	K01012	bioB; biotin synthase [EC:2.8.1.6]	493		
+tr|C5CBR3|C5CBR3_MICLC			793		
+tr|C5C7J6|C5C7J6_MICLC			121		
+tr|C5C8J0|C5C8J0_MICLC	K01479	hutG; formiminoglutamase [EC:3.5.3.8]	328		
+tr|C5C953|C5C953_MICLC	K01433	purU; formyltetrahydrofolate deformylase [EC:3.5.1.10]	378		
+tr|C5C6Y4|C5C6Y4_MICLC			663		
+tr|C5CCU1|C5CCU1_MICLC			434		
+tr|C5CCK5|C5CCK5_MICLC	K01520	dut; dUTP pyrophosphatase [EC:3.6.1.23]	212		
+tr|C5CC11|C5CC11_MICLC			360		
+tr|C5C9P6|C5C9P6_MICLC			407		
+tr|C5CCQ7|C5CCQ7_MICLC	K02549	menC; O-succinylbenzoate synthase [EC:4.2.1.113]	332		
+tr|C5CAZ0|C5CAZ0_MICLC	K00940	ndk; nucleoside-diphosphate kinase [EC:2.7.4.6]	216		
+tr|C5C7D0|C5C7D0_MICLC			415		
+tr|C5C9W5|C5C9W5_MICLC	K00817	hisC; histidinol-phosphate aminotransferase [EC:2.6.1.9]	474		
+tr|C5CBA3|C5CBA3_MICLC			238		
+tr|C5CD21|C5CD21_MICLC	K02619	pabC; 4-amino-4-deoxychorismate lyase [EC:4.1.3.38]	258		
+tr|C5C997|C5C997_MICLC			17	K01963	5
+tr|C5C7X5|C5C7X5_MICLC	K02338	DPO3B; DNA polymerase III subunit beta [EC:2.7.7.7]	484		
+tr|C5C7F5|C5C7F5_MICLC			551		
+tr|C5C983|C5C983_MICLC	K00758	deoA; thymidine phosphorylase [EC:2.4.2.4]	612		
+tr|C5C8N2|C5C8N2_MICLC			193		
+tr|C5CAP0|C5CAP0_MICLC			146		
+tr|C5CAW2|C5CAW2_MICLC	K06886	glbN; hemoglobin	165		
+tr|C5CBJ2|C5CBJ2_MICLC	K03500	rsmB; 16S rRNA (cytosine967-C5)-methyltransferase [EC:2.1.1.176]	488		
+tr|C5CAY4|C5CAY4_MICLC	K02302	cysG; uroporphyrin-III C-methyltransferase / precorrin-2 dehydrogenase / sirohydrochlorin ferrochelatase [EC:2.1.1.107 1.3.1.76 4.99.1.4]	497		
+tr|C5CAK4|C5CAK4_MICLC	K03496	parA; chromosome partitioning protein	456		
+tr|C5C9S3|C5C9S3_MICLC			463		
+tr|C5CCS7|C5CCS7_MICLC	K06196	ccdA; cytochrome c-type biogenesis protein	234		
+tr|C5CB37|C5CB37_MICLC	K00153	E1.1.1.306; S-(hydroxymethyl)mycothiol dehydrogenase [EC:1.1.1.306]	519		
+tr|C5CAB6|C5CAB6_MICLC	K00052	leuB; 3-isopropylmalate dehydrogenase [EC:1.1.1.85]	485		
+tr|C5CBK9|C5CBK9_MICLC			358		
+tr|C5CC19|C5CC19_MICLC	K01775	alr; alanine racemase [EC:5.1.1.1]	371		
+tr|C5CAJ7|C5CAJ7_MICLC			654		
+tr|C5C9Y1|C5C9Y1_MICLC	K12510	tadB; tight adherence protein B	301		
+tr|C5CCC4|C5CCC4_MICLC	K03595	era; GTPase	437		
+tr|C5C8B0|C5C8B0_MICLC	K07386	pepO; putative endopeptidase [EC:3.4.24.-]	721		
+tr|C5CCX2|C5CCX2_MICLC	K00150	gap2; glyceraldehyde-3-phosphate dehydrogenase (NAD(P)) [EC:1.2.1.59]	490		
+tr|C5C7K0|C5C7K0_MICLC	K07816	E2.7.6.5X; putative GTP pyrophosphokinase [EC:2.7.6.5]	251		
+tr|C5C753|C5C753_MICLC			383		
+tr|C5C8E7|C5C8E7_MICLC			155		
+tr|C5C757|C5C757_MICLC			227		
+tr|C5C962|C5C962_MICLC			307		
+tr|C5CBY3|C5CBY3_MICLC	K14260	alaA; alanine-synthesizing transaminase [EC:2.6.1.66 2.6.1.2]	612		
+tr|C5CAK3|C5CAK3_MICLC	K06178	rluB; 23S rRNA pseudouridine2605 synthase [EC:5.4.99.22]	333	K06183	35
+tr|C5CAD1|C5CAD1_MICLC			223	K00655	24
+tr|C5CAW5|C5CAW5_MICLC	K01808	rpiB; ribose 5-phosphate isomerase B [EC:5.3.1.6]	259		
+tr|C5C7M6|C5C7M6_MICLC	K10112	msmX; multiple sugar transport system ATP-binding protein	518		
+tr|C5C7C7|C5C7C7_MICLC			127		
+tr|C5C8W3|C5C8W3_MICLC			182		
+tr|C5C6S0|C5C6S0_MICLC	K07160	UPF0271 protein	324		
+tr|C5C7Q6|C5C7Q6_MICLC			104	K07112	11
+tr|C5C990|C5C990_MICLC	K03885	ndh; NADH dehydrogenase [EC:1.6.99.3]	536		
+tr|C5C9F1|C5C9F1_MICLC			184		
+tr|C5C8V4|C5C8V4_MICLC			315		
+tr|C5C964|C5C964_MICLC	K01142	E3.1.11.2; exodeoxyribonuclease III [EC:3.1.11.2]	374		
+tr|C5C9I9|C5C9I9_MICLC	K01740	metY; O-acetylhomoserine (thiol)-lyase [EC:2.5.1.49]	603		
+tr|C5C7Z4|C5C7Z4_MICLC	K03497	parB; chromosome partitioning protein, ParB family	223		
+tr|C5CA13|C5CA13_MICLC	K11928	putP; sodium/proline symporter	589		
+tr|C5CCJ2|C5CCJ2_MICLC			80	K16937	4
+tr|C5C7C2|C5C7C2_MICLC			282		
+tr|C5CCT8|C5CCT8_MICLC	K01524	ppx-gppA; exopolyphosphatase / guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase [EC:3.6.1.11 3.6.1.40]	405		
+tr|C5C9V3|C5C9V3_MICLC	K03553	recA; recombination protein RecA	585		
+tr|C5C8V3|C5C8V3_MICLC	K01840	manB; phosphomannomutase [EC:5.4.2.8]	682		
+tr|C5C704|C5C704_MICLC	K02612	paaD; ring-1,2-phenylacetyl-CoA epoxidase subunit PaaD	221		
+tr|C5C6U0|C5C6U0_MICLC	K02063	thiP; thiamine transport system permease protein	471		
+tr|C5C8C5|C5C8C5_MICLC	K02037	pstC; phosphate transport system permease protein	388		
+tr|C5C7G9|C5C7G9_MICLC			291		
+tr|C5C6U6|C5C6U6_MICLC			15	K15778	9
+tr|C5C8C8|C5C8C8_MICLC	K03306	TC.PIT; inorganic phosphate transporter, PiT family	215		
+tr|C5C881|C5C881_MICLC	K01507	ppa; inorganic pyrophosphatase [EC:3.6.1.1]	263		
+tr|C5C6Z4|C5C6Z4_MICLC			295		
+tr|C5C9G3|C5C9G3_MICLC			324		
+tr|C5CBQ7|C5CBQ7_MICLC			196		
+tr|C5CCK9|C5CCK9_MICLC			407		
+tr|C5CAG9|C5CAG9_MICLC	K02860	rimM; 16S rRNA processing protein RimM	167		
+tr|C5CA56|C5CA56_MICLC	K03153	thiO; glycine oxidase [EC:1.4.3.19]	284		
+tr|C5CBF8|C5CBF8_MICLC			211		
+tr|C5CAK0|C5CAK0_MICLC	K03977	engA; GTPase	694		
+tr|C5CC86|C5CC86_MICLC			14	K02066	2
+tr|C5C950|C5C950_MICLC	K10112	msmX; multiple sugar transport system ATP-binding protein	539		
+tr|C5CB59|C5CB59_MICLC			209		
+tr|C5CB83|C5CB83_MICLC	K01698	hemB; porphobilinogen synthase [EC:4.2.1.24]	486		
+tr|C5C6U1|C5C6U1_MICLC	K02062	thiQ; thiamine transport system ATP-binding protein	239		
+tr|C5CAC3|C5CAC3_MICLC			573		
+tr|C5C9U2|C5C9U2_MICLC	K00215	dapB; 4-hydroxy-tetrahydrodipicolinate reductase [EC:1.17.1.8]	299		
+tr|C5CCG0|C5CCG0_MICLC	K00891	E2.7.1.71; shikimate kinase [EC:2.7.1.71]	99		
+tr|C5CC91|C5CC91_MICLC	K00560	thyA; thymidylate synthase [EC:2.1.1.45]	452		
+tr|C5CCC9|C5CCC9_MICLC	K03686	dnaJ; molecular chaperone DnaJ	411		
+tr|C5CCZ8|C5CCZ8_MICLC	K07058	membrane protein	119		
+tr|C5C6Q6|C5C6Q6_MICLC	K15733	E1.11.1.19; dye decolorizing peroxidase [EC:1.11.1.19]	465		
+tr|C5C926|C5C926_MICLC			327		
+tr|C5C868|C5C868_MICLC	K00128	E1.2.1.3; aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]	426		
+tr|C5CCX5|C5CCX5_MICLC			244		
+tr|C5C897|C5C897_MICLC			21	K02030	1
+tr|C5C8U7|C5C8U7_MICLC	K03190	ureD; urease accessory protein	282		
+tr|C5C8K7|C5C8K7_MICLC	K01952	purL; phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	1234		
+tr|C5CC47|C5CC47_MICLC	K02881	RP-L18; large subunit ribosomal protein L18	187		
+tr|C5CD03|C5CD03_MICLC	K02028	ABC.PA.A; polar amino acid transport system ATP-binding protein [EC:3.6.3.21]	357		
+tr|C5C7F8|C5C7F8_MICLC			31	K02004	1
+tr|C5CBN3|C5CBN3_MICLC			382	K01259	37
+tr|C5CBA2|C5CBA2_MICLC			571		
+tr|C5CC27|C5CC27_MICLC	K03282	mscL; large conductance mechanosensitive channel	155		
+tr|C5CB17|C5CB17_MICLC			24	K01621	1
+tr|C5CA67|C5CA67_MICLC	K02835	prfA; peptide chain release factor 1	456		
+tr|C5CCR5|C5CCR5_MICLC	K06901	pbuG; putative MFS transporter, AGZA family, xanthine/uracil permease	614		
+tr|C5CBX2|C5CBX2_MICLC	K07693	desR; two-component system, NarL family, response regulator DesR	225		
+tr|C5C6Y0|C5C6Y0_MICLC			130		
+tr|C5CA17|C5CA17_MICLC	K00886	ppgK; polyphosphate glucokinase [EC:2.7.1.63]	312		
+tr|C5CB24|C5CB24_MICLC			187		
+tr|C5CC34|C5CC34_MICLC	K06173	truA; tRNA pseudouridine38-40 synthase [EC:5.4.99.12]	320		
+tr|C5CC76|C5CC76_MICLC	K02601	nusG; transcriptional antiterminator NusG	311		
+tr|C5C887|C5C887_MICLC	K03798	ftsH; cell division protease FtsH [EC:3.4.24.-]	921		
+tr|C5CCY3|C5CCY3_MICLC			17	K07089	2
+tr|C5C8Z0|C5C8Z0_MICLC	K06044	treY; (1->4)-alpha-D-glucan 1-alpha-D-glucosylmutase [EC:5.4.99.15]	789		
+tr|C5C8S0|C5C8S0_MICLC			397		
+tr|C5C7V5|C5C7V5_MICLC	K01858	INO1; myo-inositol-1-phosphate synthase [EC:5.5.1.4]	616		
+tr|C5C6R8|C5C6R8_MICLC	K11263	bccA; acetyl-CoA/propionyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein [EC:6.4.1.2 6.4.1.3 6.3.4.14]	700		
+tr|C5CBL6|C5CBL6_MICLC	K05568	mnhD; multicomponent Na+:H+ antiporter subunit D	443		
+tr|C5CCD3|C5CCD3_MICLC	K02495	hemN; oxygen-independent coproporphyrinogen III oxidase [EC:1.3.99.22]	515		
+tr|C5CCF9|C5CCF9_MICLC	K01735	aroB; 3-dehydroquinate synthase [EC:4.2.3.4]	539		
+tr|C5C6Z3|C5C6Z3_MICLC			47	K05710	26
+tr|C5C6Z2|C5C6Z2_MICLC			225	K00529	74
+tr|C5C9H7|C5C9H7_MICLC	K01768	E4.6.1.1; adenylate cyclase [EC:4.6.1.1]	103		
+tr|C5C767|C5C767_MICLC			138		
+tr|C5C7U5|C5C7U5_MICLC	K06987	uncharacterized protein	379		
+tr|C5CAW9|C5CAW9_MICLC	K03545	tig; trigger factor	567		
+tr|C5CCC7|C5CCC7_MICLC	K06217	phoH; phosphate starvation-inducible protein PhoH and related proteins	402		
+tr|C5C9X1|C5C9X1_MICLC			152		
+tr|C5CAW4|C5CAW4_MICLC	K01256	pepN; aminopeptidase N [EC:3.4.11.2]	994		
+tr|C5C789|C5C789_MICLC			78		
+tr|C5C7B6|C5C7B6_MICLC			86		
+tr|C5CCJ4|C5CCJ4_MICLC			446		
+tr|C5CCL9|C5CCL9_MICLC	K02470	gyrB; DNA gyrase subunit B [EC:5.99.1.3]	1085		
+tr|C5C799|C5C799_MICLC			71		
+tr|C5CAG5|C5CAG5_MICLC	K03320	amt; ammonium transporter, Amt family	476		
+tr|C5CCD8|C5CCD8_MICLC	K02238	comEC; competence protein ComEC	357		
+tr|C5CBW9|C5CBW9_MICLC	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	306		
+tr|C5CC26|C5CC26_MICLC	K07260	vanY; D-alanyl-D-alanine carboxypeptidase [EC:3.4.16.4]	183		
+tr|C5CAB8|C5CAB8_MICLC	K06200	cstA; carbon starvation protein	1073		
+tr|C5CCI3|C5CCI3_MICLC	K01159	ruvC; crossover junction endodeoxyribonuclease RuvC [EC:3.1.22.4]	172		
+tr|C5CAY2|C5CAY2_MICLC	K02049	ABC.SN.A; NitT/TauT family transport system ATP-binding protein	302		
+tr|C5CAW8|C5CAW8_MICLC			117	K15734	32
+tr|C5CC15|C5CC15_MICLC	K01409	KAE1; N6-L-threonylcarbamoyladenine synthase [EC:2.3.1.234]	483		
+tr|C5CBC3|C5CBC3_MICLC	K02031	ABC.PE.A; peptide/nickel transport system ATP-binding protein	440		
+	K02032	ABC.PE.A1; peptide/nickel transport system ATP-binding protein			
+tr|C5CBX9|C5CBX9_MICLC	K03601	xseA; exodeoxyribonuclease VII large subunit [EC:3.1.11.6]	447		
+tr|C5CCK1|C5CCK1_MICLC	K03499	trkA; trk system potassium uptake protein	242		
+tr|C5CBI3|C5CBI3_MICLC	K19710	E2.7.7.53; ATP adenylyltransferase [EC:2.7.7.53]	256		
+tr|C5CCH9|C5CCH9_MICLC	K03072	secD; preprotein translocase subunit SecD	603		
+tr|C5CAL2|C5CAL2_MICLC	K01647	CS; citrate synthase [EC:2.3.3.1]	217	K01659	106
+tr|C5C7N7|C5C7N7_MICLC	K03449	MFS.CP; MFS transporter, CP family, cyanate transporter	286		
+tr|C5C7F6|C5C7F6_MICLC			16	K11071	1
+tr|C5C9P8|C5C9P8_MICLC	K06221	dkgA; 2,5-diketo-D-gluconate reductase A [EC:1.1.1.346]	363		
+tr|C5C9N1|C5C9N1_MICLC			492		
+tr|C5C875|C5C875_MICLC			145		
+tr|C5C7E6|C5C7E6_MICLC	K07090	uncharacterized protein	183		
+tr|C5C8P5|C5C8P5_MICLC	K00252	GCDH; glutaryl-CoA dehydrogenase [EC:1.3.8.6]	435		
+tr|C5CAT2|C5CAT2_MICLC	K01738	cysK; cysteine synthase A [EC:2.5.1.47]	458		
+tr|C5C9G1|C5C9G1_MICLC			368		
+tr|C5C7N5|C5C7N5_MICLC	K01724	PCBD; 4a-hydroxytetrahydrobiopterin dehydratase [EC:4.2.1.96]	205		
+tr|C5C980|C5C980_MICLC	K02057	ABC.SS.P; simple sugar transport system permease protein	385		
+tr|C5C8Y3|C5C8Y3_MICLC	K06975	uncharacterized protein	102		
+tr|C5C8N5|C5C8N5_MICLC			366		
+tr|C5C7T0|C5C7T0_MICLC	K02440	GLPF; glycerol uptake facilitator protein	297		
+tr|C5C903|C5C903_MICLC	K02483	two-component system	297		
+tr|C5C885|C5C885_MICLC	K00760	hprT; hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]	291		
+tr|C5CBE5|C5CBE5_MICLC			624		
+tr|C5C8D7|C5C8D7_MICLC	K02034	ABC.PE.P1; peptide/nickel transport system permease protein	353		
+tr|C5C705|C5C705_MICLC	K02613	paaE; ring-1,2-phenylacetyl-CoA epoxidase subunit PaaE	516		
+tr|C5C831|C5C831_MICLC	K09125	uncharacterized protein	217		
+tr|C5C8Q9|C5C8Q9_MICLC			36	K03824	12
+tr|C5C8V1|C5C8V1_MICLC	K13771	nsrR; Rrf2 family transcriptional regulator, nitric oxide-sensitive transcriptional repressor	123		
+tr|C5C8P3|C5C8P3_MICLC			227		
+tr|C5C8T0|C5C8T0_MICLC	K05522	nei; endonuclease VIII [EC:3.2.2.- 4.2.99.18]	260		
+tr|C5C8Q0|C5C8Q0_MICLC			24	K00766	1
+tr|C5CBC4|C5CBC4_MICLC	K02034	ABC.PE.P1; peptide/nickel transport system permease protein	433		
+tr|C5C7I8|C5C7I8_MICLC	K02016	ABC.FEV.S; iron complex transport system substrate-binding protein	308		
+tr|C5C6R1|C5C6R1_MICLC	K02954	RP-S14; small subunit ribosomal protein S14	182		
+tr|C5C7S5|C5C7S5_MICLC			54		
+tr|C5C9T5|C5C9T5_MICLC			146		
+tr|C5C9W7|C5C9W7_MICLC	K02501	hisH; glutamine amidotransferase [EC:2.4.2.-]	319		
+tr|C5C9Y3|C5C9Y3_MICLC			59		
+tr|C5C8C6|C5C8C6_MICLC	K02038	pstA; phosphate transport system permease protein	396		
+tr|C5C7M9|C5C7M9_MICLC			164		
+tr|C5C7Y9|C5C7Y9_MICLC			171		
+tr|C5C934|C5C934_MICLC	K12583	mgtA; phosphatidylinositol alpha 1,6-mannosyltransferase [EC:2.4.1.-]	473		
+tr|C5C9H1|C5C9H1_MICLC			398		
+tr|C5C8P8|C5C8P8_MICLC	K00281	GLDC; glycine dehydrogenase [EC:1.4.4.2]	1274		
+tr|C5CA10|C5CA10_MICLC	K01011	TST; thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]	317		
+tr|C5CCS2|C5CCS2_MICLC	K02548	menA; 1,4-dihydroxy-2-naphthoate octaprenyltransferase [EC:2.5.1.74 2.5.1.-]	306		
+tr|C5CB97|C5CB97_MICLC			688		
+tr|C5CCU9|C5CCU9_MICLC			81	K12510	18
+tr|C5C7B4|C5C7B4_MICLC			160	K03741	14
+tr|C5CAK8|C5CAK8_MICLC	K01908	prpE; propionyl-CoA synthetase [EC:6.2.1.17]	901		
+tr|C5CAG2|C5CAG2_MICLC			407		
+tr|C5CBU2|C5CBU2_MICLC			224		
+tr|C5CCU5|C5CCU5_MICLC	K06877	DEAD/DEAH box helicase domain-containing protein	946		
+tr|C5CBL1|C5CBL1_MICLC	K00266	gltD; glutamate synthase (NADPH/NADH) small chain [EC:1.4.1.13 1.4.1.14]	676		
+tr|C5CCV1|C5CCV1_MICLC			216		
+tr|C5CA40|C5CA40_MICLC			76		
+tr|C5CCT3|C5CCT3_MICLC	K04768	acuC; acetoin utilization protein AcuC	520		
+tr|C5CBM0|C5CBM0_MICLC			182		
+tr|C5CCM7|C5CCM7_MICLC			119		
+tr|C5CAL7|C5CAL7_MICLC	K00858	ppnK; NAD+ kinase [EC:2.7.1.23]	399		
+tr|C5CBQ1|C5CBQ1_MICLC	K00616	E2.2.1.2; transaldolase [EC:2.2.1.2]	462		
+tr|C5CAN8|C5CAN8_MICLC	K01890	FARSB; phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]	1033		
+tr|C5C797|C5C797_MICLC			203		
+tr|C5CBC1|C5CBC1_MICLC			21	K03449	1
+tr|C5CA30|C5CA30_MICLC	K02563	murG; UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227]	406		
+tr|C5CB28|C5CB28_MICLC	K00525	E1.17.4.1A; ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]	1228		
+tr|C5C9K7|C5C9K7_MICLC	K06867	uncharacterized protein	141		
+tr|C5C966|C5C966_MICLC	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	257		
+tr|C5CCW3|C5CCW3_MICLC	K07483	transposase	42		
+tr|C5C7K3|C5C7K3_MICLC			143		
+tr|C5C9D4|C5C9D4_MICLC	K00948	PRPS; ribose-phosphate pyrophosphokinase [EC:2.7.6.1]	535		
+tr|C5CB22|C5CB22_MICLC			655		
+tr|C5C8P9|C5C8P9_MICLC	K00605	gcvT; aminomethyltransferase [EC:2.1.2.10]	390		
+tr|C5C7I7|C5C7I7_MICLC	K03183	ubiE; demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201]	210		
+tr|C5CB47|C5CB47_MICLC	K07654	mtrB; two-component system, OmpR family, sensor histidine kinase MtrB [EC:2.7.13.3]	482		
+tr|C5CAZ2|C5CAZ2_MICLC	K08300	rne; ribonuclease E [EC:3.1.26.12]	871		
+tr|C5CBZ8|C5CBZ8_MICLC	K00088	guaB; IMP dehydrogenase [EC:1.1.1.205]	762		
+tr|C5CCS0|C5CCS0_MICLC	K07085	putative transport protein	361		
+tr|C5C9R5|C5C9R5_MICLC	K01969	E6.4.1.4B; 3-methylcrotonyl-CoA carboxylase beta subunit [EC:6.4.1.4]	773		
+tr|C5CB84|C5CB84_MICLC	K03311	TC.LIVCS; branched-chain amino acid:cation transporter, LIVCS family	417		
+tr|C5CCL5|C5CCL5_MICLC	K00425	cydA; cytochrome d ubiquinol oxidase subunit I [EC:1.10.3.14]	712		
+tr|C5C7J0|C5C7J0_MICLC	K02015	ABC.FEV.P; iron complex transport system permease protein	192		
+tr|C5C7N4|C5C7N4_MICLC			200		
+tr|C5C981|C5C981_MICLC	K02057	ABC.SS.P; simple sugar transport system permease protein	454		
+tr|C5C8J5|C5C8J5_MICLC			70		
+tr|C5C9H9|C5C9H9_MICLC	K01972	E6.5.1.2; DNA ligase (NAD+) [EC:6.5.1.2]	962		
+tr|C5C937|C5C937_MICLC	K11175	purN; phosphoribosylglycinamide formyltransferase 1 [EC:2.1.2.2]	221		
+tr|C5C840|C5C840_MICLC	K12132	prkC; eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]	527		
+tr|C5C9F7|C5C9F7_MICLC			165		
+tr|C5C851|C5C851_MICLC	K00261	GLUD1_2; glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3]	576		
+tr|C5C719|C5C719_MICLC	K01912	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]	627		
+tr|C5CCH7|C5CCH7_MICLC	K00951	relA; GTP pyrophosphokinase [EC:2.7.6.5]	1010		
+tr|C5CC35|C5CC35_MICLC	K02879	RP-L17; large subunit ribosomal protein L17	258		
+tr|C5C9T7|C5C9T7_MICLC			249		
+tr|C5C9S9|C5C9S9_MICLC	K02600	nusA; N utilization substance protein A	481		
+tr|C5C7F7|C5C7F7_MICLC	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	243		
+tr|C5C7I5|C5C7I5_MICLC			19	K02033	1
+tr|C5C9F2|C5C9F2_MICLC			602		
+tr|C5C9T8|C5C9T8_MICLC			157	K07052	12
+tr|C5CC82|C5CC82_MICLC	K00850	pfkA; 6-phosphofructokinase 1 [EC:2.7.1.11]	494		
+tr|C5CBR4|C5CBR4_MICLC			271		
+tr|C5CCQ2|C5CCQ2_MICLC	K02503	HINT1; histidine triad (HIT) family protein	147		
+tr|C5CC07|C5CC07_MICLC	K02016	ABC.FEV.S; iron complex transport system substrate-binding protein	303		
+tr|C5CCR9|C5CCR9_MICLC	K01661	menB; naphthoate synthase [EC:4.1.3.36]	551		
+tr|C5C9F3|C5C9F3_MICLC	K11263	bccA; acetyl-CoA/propionyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein [EC:6.4.1.2 6.4.1.3 6.3.4.14]	838		
+tr|C5CBS7|C5CBS7_MICLC	K00975	glgC; glucose-1-phosphate adenylyltransferase [EC:2.7.7.27]	586		
+tr|C5CBW8|C5CBW8_MICLC	K13993	HSP20; HSP20 family protein	173		
+tr|C5CCL4|C5CCL4_MICLC	K00426	cydB; cytochrome d ubiquinol oxidase subunit II [EC:1.10.3.14]	379		
+tr|C5CC17|C5CC17_MICLC			194	K14742	16
+tr|C5CB11|C5CB11_MICLC	K03343	puo; putrescine oxidase [EC:1.4.3.10]	604		
+tr|C5CB87|C5CB87_MICLC	K01719	hemD; uroporphyrinogen-III synthase [EC:4.2.1.75]	101	K13542	16
+tr|C5CAX3|C5CAX3_MICLC			248		
+tr|C5CAL1|C5CAL1_MICLC	K03417	prpB; methylisocitrate lyase [EC:4.1.3.30]	461		
+tr|C5CBI5|C5CBI5_MICLC	K03976	ybaK; Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase [EC:3.1.1.-]	170		
+tr|C5C9Q6|C5C9Q6_MICLC	K09903	pyrH; uridylate kinase [EC:2.7.4.22]	392		
+tr|C5CAN6|C5CAN6_MICLC			421		
+tr|C5CBF7|C5CBF7_MICLC			147		
+tr|C5CBN2|C5CBN2_MICLC	K05794	terC; tellurite resistance protein TerC	460		
+tr|C5CAD9|C5CAD9_MICLC	K14267	dapC; N-succinyldiaminopimelate aminotransferase [EC:2.6.1.17]	407		
+tr|C5C735|C5C735_MICLC	K12952	ctpE; cation-transporting ATPase E [EC:3.6.3.-]	748		
+tr|C5C899|C5C899_MICLC			251		
+tr|C5C945|C5C945_MICLC	K01425	glsA; glutaminase [EC:3.5.1.2]	302		
+tr|C5CCQ4|C5CCQ4_MICLC			401		
+tr|C5CBD2|C5CBD2_MICLC			139		
+tr|C5CA28|C5CA28_MICLC	K03589	ftsQ; cell division protein FtsQ	120		
+tr|C5CA62|C5CA62_MICLC	K00003	E1.1.1.3; homoserine dehydrogenase [EC:1.1.1.3]	494		
+tr|C5CAZ6|C5CAZ6_MICLC	K00931	proB; glutamate 5-kinase [EC:2.7.2.11]	424		
+tr|C5CBE9|C5CBE9_MICLC			398		
+tr|C5CAA4|C5CAA4_MICLC	K02035	ABC.PE.S; peptide/nickel transport system substrate-binding protein	234		
+tr|C5C8E3|C5C8E3_MICLC			116		
+tr|C5C9A5|C5C9A5_MICLC	K01679	E4.2.1.2B; fumarate hydratase, class II [EC:4.2.1.2]	732		
+tr|C5C9B9|C5C9B9_MICLC	K01251	E3.3.1.1; adenosylhomocysteinase [EC:3.3.1.1]	798		
+tr|C5C9N9|C5C9N9_MICLC			382		
+tr|C5CAX0|C5CAX0_MICLC	K01358	clpP; ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]	327		
+tr|C5CBA1|C5CBA1_MICLC			148		
+tr|C5CBG4|C5CBG4_MICLC	K07001	NTE family protein	201		
+tr|C5CB82|C5CB82_MICLC	K01845	hemL; glutamate-1-semialdehyde 2,1-aminomutase [EC:5.4.3.8]	601		
+tr|C5CAT0|C5CAT0_MICLC	K00033	PGD; 6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343]	678		
+tr|C5CAI6|C5CAI6_MICLC			165		
+tr|C5CA09|C5CA09_MICLC	K03711	fur; Fur family transcriptional regulator, ferric uptake regulator	162		
+tr|C5CCB3|C5CCB3_MICLC			152		
+tr|C5CAP4|C5CAP4_MICLC	K03574	mutT; 8-oxo-dGTP diphosphatase [EC:3.6.1.55]	128		
+tr|C5CBF4|C5CBF4_MICLC	K03688	ubiB; ubiquinone biosynthesis protein	434		
+tr|C5CBG9|C5CBG9_MICLC			325		
+tr|C5CBY5|C5CBY5_MICLC			108	K03574	22
+tr|C5CBL8|C5CBL8_MICLC			15	K05570	8
+tr|C5CBG5|C5CBG5_MICLC			221		
+tr|C5CBE4|C5CBE4_MICLC			436		
+tr|C5CB00|C5CB00_MICLC	K09710	ybeB; ribosome-associated protein	153		
+tr|C5CAS6|C5CAS6_MICLC			66		
+tr|C5CAX1|C5CAX1_MICLC	K01358	clpP; ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]	322		
+tr|C5CC24|C5CC24_MICLC	K00820	glmS; glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16]	907		
+tr|C5CCN6|C5CCN6_MICLC	K01915	glnA; glutamine synthetase [EC:6.3.1.2]	680		
+tr|C5CAE6|C5CAE6_MICLC			266		
+tr|C5CAI2|C5CAI2_MICLC	K01958	PC; pyruvate carboxylase [EC:6.4.1.1]	1676		
+tr|C5CAZ5|C5CAZ5_MICLC	K03979	obgE; GTPase [EC:3.6.5.-]	657		
+tr|C5C6S1|C5C6S1_MICLC	K07393	ECM4; putative glutathione S-transferase	558		
+tr|C5C989|C5C989_MICLC	K01524	ppx-gppA; exopolyphosphatase / guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase [EC:3.6.1.11 3.6.1.40]	387		
+tr|C5C8S1|C5C8S1_MICLC			63	K01491	2
+tr|C5C9A9|C5C9A9_MICLC	K01809	manA; mannose-6-phosphate isomerase [EC:5.3.1.8]	360		
+tr|C5C6S2|C5C6S2_MICLC			241		
+tr|C5C8A2|C5C8A2_MICLC			463		
+tr|C5C843|C5C843_MICLC	K20074	prpC; PPM family protein phosphatase [EC:3.1.3.16]	359		
+tr|C5C740|C5C740_MICLC			25	K16783	17
+tr|C5C6T4|C5C6T4_MICLC			738		
+tr|C5C7N6|C5C7N6_MICLC			59		
+tr|C5C9B1|C5C9B1_MICLC	K01588	purE; 5-(carboxyamino)imidazole ribonucleotide mutase [EC:5.4.99.18]	213		
+tr|C5C955|C5C955_MICLC	K03781	katE; catalase [EC:1.11.1.6]	746		
+tr|C5CA37|C5CA37_MICLC			116		
+tr|C5CBB8|C5CBB8_MICLC	K01647	CS; citrate synthase [EC:2.3.3.1]	648		
+tr|C5C894|C5C894_MICLC	K08981	putative membrane protein	353		
+tr|C5C8G1|C5C8G1_MICLC			131		
+tr|C5C7J7|C5C7J7_MICLC			260		
+tr|C5C6T9|C5C6T9_MICLC	K02064	thiB; thiamine transport system substrate-binding protein	348		
+tr|C5C8Y1|C5C8Y1_MICLC	K00700	glgB; 1,4-alpha-glucan branching enzyme [EC:2.4.1.18]	1011		
+tr|C5C9I1|C5C9I1_MICLC			56	K07052	2
+tr|C5C7E3|C5C7E3_MICLC	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	765		
+tr|C5C8F7|C5C8F7_MICLC	K00762	pyrE; orotate phosphoribosyltransferase [EC:2.4.2.10]	275		
+tr|C5C8F0|C5C8F0_MICLC	K16234	hutT; histidine transporter	431	K03293	93
+tr|C5C975|C5C975_MICLC	K00971	manC; mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]	516		
+tr|C5CBC6|C5CBC6_MICLC	K02035	ABC.PE.S; peptide/nickel transport system substrate-binding protein	563		
+tr|C5CAQ4|C5CAQ4_MICLC			430		
+tr|C5CBJ3|C5CBJ3_MICLC	K01783	rpe; ribulose-phosphate 3-epimerase [EC:5.1.3.1]	317		
+tr|C5CAY9|C5CAY9_MICLC			113		
+tr|C5CBB0|C5CBB0_MICLC	K06966	uncharacterized protein	310		
+tr|C5C9Q1|C5C9Q1_MICLC			478		
+tr|C5CAQ5|C5CAQ5_MICLC			292		
+tr|C5CAR9|C5CAR9_MICLC	K00648	fabH; 3-oxoacyl-[acyl-carrier-protein] synthase III [EC:2.3.1.180]	483		
+tr|C5C9V0|C5C9V0_MICLC			252		
+tr|C5CBK8|C5CBK8_MICLC	K01695	trpA; tryptophan synthase alpha chain [EC:4.2.1.20]	336		
+tr|C5C9S4|C5C9S4_MICLC	K03526	gcpE; (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase [EC:1.17.7.1 1.17.7.3]	646		
+tr|C5CCR7|C5CCR7_MICLC			674		
+tr|C5C888|C5C888_MICLC	K01495	GCH1; GTP cyclohydrolase I [EC:3.5.4.16]	320		
+tr|C5C891|C5C891_MICLC	K00950	folK; 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase [EC:2.7.6.3]	90	K13940	31
+tr|C5C7M1|C5C7M1_MICLC	K00508	E1.14.19.3; linoleoyl-CoA desaturase [EC:1.14.19.3]	571		
+tr|C5C8D8|C5C8D8_MICLC	K02031	ABC.PE.A; peptide/nickel transport system ATP-binding protein	490		
+	K02032	ABC.PE.A1; peptide/nickel transport system ATP-binding protein			
+tr|C5CCW5|C5CCW5_MICLC			607		
+tr|C5CAF5|C5CAF5_MICLC			327		
+tr|C5CA66|C5CA66_MICLC	K03628	rho; transcription termination factor Rho	653		
+tr|C5CCV7|C5CCV7_MICLC	K03308	TC.NSS; neurotransmitter:Na+ symporter, NSS family	640		
+tr|C5CAH3|C5CAH3_MICLC	K03100	lepB; signal peptidase I [EC:3.4.21.89]	175		
+tr|C5CBT3|C5CBT3_MICLC			237		
+tr|C5CB74|C5CB74_MICLC			21	K02994	4
+tr|C5C7C1|C5C7C1_MICLC	K02614	paaI; acyl-CoA thioesterase [EC:3.1.2.-]	118		
+tr|C5C7A0|C5C7A0_MICLC			54	K01782	5
+tr|C5CBR8|C5CBR8_MICLC			315		
+tr|C5C7F2|C5C7F2_MICLC	K03212	rumB; 23S rRNA (uracil747-C5)-methyltransferase [EC:2.1.1.189]	355		
+tr|C5C7D2|C5C7D2_MICLC			64	K03500	2
+tr|C5C6P7|C5C6P7_MICLC	K03455	TC.KEF; monovalent cation:H+ antiporter-2, CPA2 family	395		
+tr|C5CAZ8|C5CAZ8_MICLC			16	K11690	1
+tr|C5CAT9|C5CAT9_MICLC	K00134	GAPDH; glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]	641		
+tr|C5C836|C5C836_MICLC			221		
+tr|C5CA69|C5CA69_MICLC			249		
+tr|C5CAK7|C5CAK7_MICLC			214		
+tr|C5CAB4|C5CAB4_MICLC			54	K09811	2
+tr|C5C9M6|C5C9M6_MICLC			20	K03980	1
+tr|C5C7B5|C5C7B5_MICLC			123		
+tr|C5C7G2|C5C7G2_MICLC			15	K09167	6
+tr|C5C6T1|C5C6T1_MICLC			152		
+tr|C5C845|C5C845_MICLC			201		
+tr|C5C9J8|C5C9J8_MICLC			244		
+tr|C5CAU3|C5CAU3_MICLC			103		
+tr|C5C745|C5C745_MICLC	K03325	TC.ACR3; arsenite transporter, ACR3 family	507		
+tr|C5C7Z2|C5C7Z2_MICLC			832		
+tr|C5CBI6|C5CBI6_MICLC	K02426	sufE; cysteine desulfuration protein SufE	186		
+tr|C5C6P1|C5C6P1_MICLC	K05567	mnhC; multicomponent Na+:H+ antiporter subunit C	168		
+tr|C5C9Z2|C5C9Z2_MICLC	K01029	E2.8.3.5B; 3-oxoacid CoA-transferase subunit B [EC:2.8.3.5]	323		
+tr|C5C847|C5C847_MICLC	K07795	tctC; putative tricarboxylic transport membrane protein	313		
+tr|C5C6X2|C5C6X2_MICLC	K18928	lldE; L-lactate dehydrogenase complex protein LldE	368		
+tr|C5C8Y5|C5C8Y5_MICLC			292		
+tr|C5C867|C5C867_MICLC	K01126	E3.1.4.46; glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46]	233		
+tr|C5C759|C5C759_MICLC	K06895	lysE; L-lysine exporter family protein LysE/ArgO	221		
+tr|C5C838|C5C838_MICLC	K01664	pabA; para-aminobenzoate synthetase component II [EC:2.6.1.85]	302		
+tr|C5C7L6|C5C7L6_MICLC			209		
+tr|C5C933|C5C933_MICLC	K00262	E1.4.1.4; glutamate dehydrogenase (NADP+) [EC:1.4.1.4]	713		
+tr|C5C8X0|C5C8X0_MICLC	K07768	senX3; two-component system, OmpR family, sensor histidine kinase SenX3 [EC:2.7.13.3]	467		
+tr|C5C6P0|C5C6P0_MICLC	K05568	mnhD; multicomponent Na+:H+ antiporter subunit D	616		
+tr|C5C954|C5C954_MICLC			65	K08300	4
+tr|C5C972|C5C972_MICLC	K00239	sdhA; succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4]	992		
+tr|C5C9K9|C5C9K9_MICLC	K01129	dgt; dGTPase [EC:3.1.5.1]	580		
+tr|C5C9Y8|C5C9Y8_MICLC	K02836	prfB; peptide chain release factor 2	538		
+tr|C5C6P6|C5C6P6_MICLC	K07228	TrkA domain protein	171		
+tr|C5CBC7|C5CBC7_MICLC			537		
+tr|C5CBD0|C5CBD0_MICLC	K11065	tpx; thiol peroxidase, atypical 2-Cys peroxiredoxin [EC:1.11.1.15]	206		
+tr|C5CCB6|C5CCB6_MICLC			216		
+tr|C5C9M4|C5C9M4_MICLC			19	K04485	2
+tr|C5CCW1|C5CCW1_MICLC			214		
+tr|C5CAD8|C5CAD8_MICLC	K08316	rsmD; 16S rRNA (guanine966-N2)-methyltransferase [EC:2.1.1.171]	175		
+tr|C5C8I4|C5C8I4_MICLC	K01712	hutU; urocanate hydratase [EC:4.2.1.49]	917		
+tr|C5C9W0|C5C9W0_MICLC	K03665	hflX; GTPase	707		
+tr|C5C754|C5C754_MICLC			234		
+tr|C5C8C3|C5C8C3_MICLC			336		
+tr|C5C8J1|C5C8J1_MICLC	K06929	uncharacterized protein	241		
+tr|C5C917|C5C917_MICLC	K01902	sucD; succinyl-CoA synthetase alpha subunit [EC:6.2.1.5]	496		
+tr|C5C9J0|C5C9J0_MICLC	K00641	metX; homoserine O-acetyltransferase [EC:2.3.1.31]	436		
+tr|C5C750|C5C750_MICLC	K07217	Mn-containing catalase	439		
+tr|C5C6U8|C5C6U8_MICLC	K00666	fatty-acyl-CoA synthase [EC:6.2.1.-]	619		
+tr|C5C7V9|C5C7V9_MICLC	K00970	pcnB; poly(A) polymerase [EC:2.7.7.19]	682		
+tr|C5C8T2|C5C8T2_MICLC	K00783	rlmH; 23S rRNA (pseudouridine1915-N3)-methyltransferase [EC:2.1.1.177]	159		
+tr|C5C941|C5C941_MICLC			23	K15461	1
+tr|C5CC46|C5CC46_MICLC	K02988	RP-S5; small subunit ribosomal protein S5	280		
+tr|C5C9T0|C5C9T0_MICLC	K07742	ylxR; uncharacterized protein	71		
+tr|C5CCZ4|C5CCZ4_MICLC			344		
+tr|C5C6Q9|C5C6Q9_MICLC			22	K01703	3
+tr|C5C8F9|C5C8F9_MICLC			159		
+tr|C5C9M9|C5C9M9_MICLC			654		
+tr|C5CA25|C5CA25_MICLC	K06997	yggS; PLP dependent protein	223		
+tr|C5CCB2|C5CCB2_MICLC			396		
+tr|C5CCZ2|C5CCZ2_MICLC	K01933	purM; phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.3.1]	528		
+tr|C5C741|C5C741_MICLC	K16784	bioM; biotin transport system ATP-binding protein [EC:3.6.3.-]	208		
+tr|C5C7L9|C5C7L9_MICLC			328		
+tr|C5CA52|C5CA52_MICLC	K03147	thiC; phosphomethylpyrimidine synthase [EC:4.1.99.17]	990		
+tr|C5C8Q3|C5C8Q3_MICLC			186		
+tr|C5CBN7|C5CBN7_MICLC	K03701	uvrA; excinuclease ABC subunit A	1513		
+tr|C5CBU6|C5CBU6_MICLC			25	K13990	2
+tr|C5CC89|C5CC89_MICLC	K03574	mutT; 8-oxo-dGTP diphosphatase [EC:3.6.1.55]	333		
+tr|C5CAB1|C5CAB1_MICLC	K01653	E2.2.1.6S; acetolactate synthase I/III small subunit [EC:2.2.1.6]	249		
+tr|C5CBD3|C5CBD3_MICLC	K02217	ftnA; ferritin [EC:1.16.3.2]	224		
+tr|C5CA23|C5CA23_MICLC	K02221	yggT; YggT family protein	73		
+tr|C5C9P5|C5C9P5_MICLC			250		
+tr|C5CAL0|C5CAL0_MICLC	K01720	prpD; 2-methylcitrate dehydratase [EC:4.2.1.79]	844		
+tr|C5C7C5|C5C7C5_MICLC			325		
+tr|C5C7C8|C5C7C8_MICLC	K01652	E2.2.1.6L; acetolactate synthase I/II/III large subunit [EC:2.2.1.6]	679		
+tr|C5CBY7|C5CBY7_MICLC			134	K07028	10
+tr|C5C967|C5C967_MICLC	K02004	ABC.CD.P; putative ABC transport system permease protein	246		
+tr|C5CBW2|C5CBW2_MICLC	K00219	fadH; 2,4-dienoyl-CoA reductase (NADPH2) [EC:1.3.1.34]	608		
+tr|C5C9Q3|C5C9Q3_MICLC			390		
+tr|C5CCY6|C5CCY6_MICLC	K02004	ABC.CD.P; putative ABC transport system permease protein	288		
+tr|C5C915|C5C915_MICLC	K03657	uvrD; DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]	1040		
+tr|C5CCX9|C5CCX9_MICLC	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	592		
+tr|C5C8M6|C5C8M6_MICLC	K00156	poxB; pyruvate dehydrogenase (quinone) [EC:1.2.5.1]	749		
+tr|C5C9F6|C5C9F6_MICLC			23	K10804	2
+tr|C5C896|C5C896_MICLC	K01104	E3.1.3.48; protein-tyrosine phosphatase [EC:3.1.3.48]	129		
+tr|C5CCX8|C5CCX8_MICLC			285	K07098	28
+tr|C5C6W8|C5C6W8_MICLC			17	K02033	3
+tr|C5C8Z6|C5C8Z6_MICLC	K03648	UNG; uracil-DNA glycosylase [EC:3.2.2.27]	299		
+tr|C5C7X8|C5C7X8_MICLC	K02470	gyrB; DNA gyrase subunit B [EC:5.99.1.3]	1059		
+tr|C5C9G5|C5C9G5_MICLC			191		
+tr|C5C9C7|C5C9C7_MICLC	K02528	ksgA; 16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase [EC:2.1.1.182]	353		
+tr|C5C9R7|C5C9R7_MICLC			586		
+tr|C5C7D6|C5C7D6_MICLC	K07032	uncharacterized protein	102		
+tr|C5C8F5|C5C8F5_MICLC	K01916	nadE; NAD+ synthase [EC:6.3.1.5]	364		
+tr|C5C8S8|C5C8S8_MICLC	K06177	rluA; tRNA pseudouridine32 synthase / 23S rRNA pseudouridine746 synthase [EC:5.4.99.28 5.4.99.29]	343		
+tr|C5CD16|C5CD16_MICLC			23	K01835	2
+tr|C5C6X4|C5C6X4_MICLC			247		
+tr|C5CC64|C5CC64_MICLC			129		
+tr|C5CD24|C5CD24_MICLC	K05570	mnhF; multicomponent Na+:H+ antiporter subunit F	70		
+tr|C5C7L2|C5C7L2_MICLC			305		
+tr|C5C946|C5C946_MICLC	K03579	hrpB; ATP-dependent helicase HrpB [EC:3.6.4.13]	689		
+tr|C5C715|C5C715_MICLC	K02618	paaZ; oxepin-CoA hydrolase / 3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase [EC:3.3.2.12 1.2.1.91]	930		
+tr|C5C7S6|C5C7S6_MICLC			241	K00663	19
+tr|C5C7W2|C5C7W2_MICLC			176		
+tr|C5C8X3|C5C8X3_MICLC	K07736	carD; CarD family transcriptional regulator	271		
+tr|C5C8M3|C5C8M3_MICLC	K09019	rutE; 3-hydroxypropanoate dehydrogenase [EC:1.1.1.-]	186		
+tr|C5C9L5|C5C9L5_MICLC			208		
+tr|C5C7F4|C5C7F4_MICLC			1056		
+tr|C5CAG4|C5CAG4_MICLC	K03110	ftsY; fused signal recognition particle receptor	475		
+tr|C5CB27|C5CB27_MICLC	K03647	nrdI; protein involved in ribonucleotide reduction	181		
+tr|C5CA58|C5CA58_MICLC	K03149	thiG; thiazole synthase [EC:2.8.1.10]	328		
+tr|C5CAL9|C5CAL9_MICLC			284		
+tr|C5CAS1|C5CAS1_MICLC			446		
+tr|C5CBX0|C5CBX0_MICLC	K01992	ABC-2.P; ABC-2 type transport system permease protein	222		
+tr|C5C724|C5C724_MICLC			191		
+tr|C5CC80|C5CC80_MICLC			232		
+tr|C5CCZ7|C5CCZ7_MICLC	K03695	clpB; ATP-dependent Clp protease ATP-binding subunit ClpB	1309		
+tr|C5C7N2|C5C7N2_MICLC			235		
+tr|C5CCX4|C5CCX4_MICLC			208		
+tr|C5C7W3|C5C7W3_MICLC	K00384	trxB; thioredoxin reductase (NADPH) [EC:1.8.1.9]	442		
+tr|C5C978|C5C978_MICLC	K07335	bmpA; basic membrane protein A and related proteins	383		
+tr|C5C9F8|C5C9F8_MICLC	K01784	galE; UDP-glucose 4-epimerase [EC:5.1.3.2]	432		
+tr|C5C8E9|C5C8E9_MICLC	K02168	betT; choline/glycine/proline betaine transport protein	590		
+tr|C5C8C4|C5C8C4_MICLC	K02040	pstS; phosphate transport system substrate-binding protein	392		
+tr|C5C8X1|C5C8X1_MICLC	K07776	regX3; two-component system, OmpR family, response regulator RegX3	372		
+tr|C5CCD7|C5CCD7_MICLC	K02340	DPO3D1; DNA polymerase III subunit delta [EC:2.7.7.7]	300		
+tr|C5CAU5|C5CAU5_MICLC			152		
+tr|C5C9A4|C5C9A4_MICLC	K02654	pilD; leader peptidase (prepilin peptidase) / N-methyltransferase [EC:3.4.23.43 2.1.1.-]	62		
+tr|C5C6R4|C5C6R4_MICLC			196		
+tr|C5C7Y7|C5C7Y7_MICLC			824		
+tr|C5C8W5|C5C8W5_MICLC	K00943	tmk; dTMP kinase [EC:2.7.4.9]	199		
+tr|C5CA41|C5CA41_MICLC	K02346	DPO4; DNA polymerase IV [EC:2.7.7.7]	363		
+tr|C5CCR4|C5CCR4_MICLC			276		
+tr|C5CCS8|C5CCS8_MICLC			235		
+tr|C5CAJ2|C5CAJ2_MICLC			133		
+tr|C5CBN6|C5CBN6_MICLC			263		
+tr|C5C993|C5C993_MICLC			333		
+tr|C5CAY1|C5CAY1_MICLC	K00956	cysN; sulfate adenylyltransferase subunit 1 [EC:2.7.7.4]	575		
+tr|C5CAC1|C5CAC1_MICLC	K01885	EARS; glutamyl-tRNA synthetase [EC:6.1.1.17]	757		
+tr|C5CBQ2|C5CBQ2_MICLC	K00615	E2.2.1.1; transketolase [EC:2.2.1.1]	944		
+tr|C5CBG2|C5CBG2_MICLC			312		
+tr|C5CBQ4|C5CBQ4_MICLC	K02259	COX15; cytochrome c oxidase assembly protein subunit 15	266		
+tr|C5C7A1|C5C7A1_MICLC			301		
+tr|C5C7A6|C5C7A6_MICLC	K01823	idi; isopentenyl-diphosphate Delta-isomerase [EC:5.3.3.2]	214		
+tr|C5C9Z8|C5C9Z8_MICLC	K00800	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19]	397		
+tr|C5CCA9|C5CCA9_MICLC			553		
+tr|C5C898|C5C898_MICLC			854		
+tr|C5CAV0|C5CAV0_MICLC			22	K07161	4
+tr|C5CAN7|C5CAN7_MICLC	K06133	LYS5; 4'-phosphopantetheinyl transferase [EC:2.7.8.-]	59		
+tr|C5CBV3|C5CBV3_MICLC	K13572	pafB; proteasome accessory factor B	57	K13573	49
+tr|C5C7L3|C5C7L3_MICLC			129		
+tr|C5C858|C5C858_MICLC	K00024	mdh; malate dehydrogenase [EC:1.1.1.37]	425		
+tr|C5CCY0|C5CCY0_MICLC	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	688		
+tr|C5C863|C5C863_MICLC	K01620	ltaE; threonine aldolase [EC:4.1.2.48]	541		
+tr|C5C782|C5C782_MICLC			30	K00341	3
+tr|C5C8M5|C5C8M5_MICLC	K03310	TC.AGCS; alanine or glycine:cation symporter, AGCS family	578		
+tr|C5C758|C5C758_MICLC	K05596	iciA; LysR family transcriptional regulator, chromosome initiation inhibitor	276		
+tr|C5C714|C5C714_MICLC			178		
+tr|C5CD12|C5CD12_MICLC	K04043	dnaK; molecular chaperone DnaK	971		
+tr|C5C849|C5C849_MICLC	K07793	tctA; putative tricarboxylic transport membrane protein	715		
+tr|C5C8N9|C5C8N9_MICLC	K01692	paaF; enoyl-CoA hydratase [EC:4.2.1.17]	267		
+tr|C5C935|C5C935_MICLC			297		
+tr|C5C949|C5C949_MICLC	K02026	ABC.MS.P1; multiple sugar transport system permease protein	393		
+tr|C5C748|C5C748_MICLC			203		
+tr|C5CD19|C5CD19_MICLC			118	K13950	24
+tr|C5C8I5|C5C8I5_MICLC			530		
+tr|C5C9G9|C5C9G9_MICLC			274		
+tr|C5C9X5|C5C9X5_MICLC			590		
+tr|C5CAX7|C5CAX7_MICLC			179		
+tr|C5CA29|C5CA29_MICLC	K01924	murC; UDP-N-acetylmuramate--alanine ligase [EC:6.3.2.8]	426		
+tr|C5CA59|C5CA59_MICLC	K11996	MOCS3; adenylyltransferase and sulfurtransferase [EC:2.7.7.80]	224		
+tr|C5CA85|C5CA85_MICLC	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	357		
+tr|C5CCN4|C5CCN4_MICLC			403		
+tr|C5CCQ3|C5CCQ3_MICLC	K00805	hepST; heptaprenyl diphosphate synthase [EC:2.5.1.30]	355		
+tr|C5CBC0|C5CBC0_MICLC			195	K05524	22
+tr|C5C7C3|C5C7C3_MICLC	K13953	adhP; alcohol dehydrogenase, propanol-preferring [EC:1.1.1.1]	534		
+tr|C5C7C4|C5C7C4_MICLC	K00138	aldB; aldehyde dehydrogenase [EC:1.2.1.-]	849		
+tr|C5CCR6|C5CCR6_MICLC	K01354	ptrB; oligopeptidase B [EC:3.4.21.83]	815		
+tr|C5CBB2|C5CBB2_MICLC	K10005	gluB; glutamate transport system substrate-binding protein	342		
+tr|C5CCI6|C5CCI6_MICLC			426		
+tr|C5C9U8|C5C9U8_MICLC	K00995	pgsA; CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase [EC:2.7.8.5]	207	K08744	22
+tr|C5CC81|C5CC81_MICLC			116		
+tr|C5C9P1|C5C9P1_MICLC			320		
+tr|C5CA72|C5CA72_MICLC	K02108	ATPF0A; F-type H+-transporting ATPase subunit a	330		
+tr|C5CB92|C5CB92_MICLC	K01599	hemE; uroporphyrinogen decarboxylase [EC:4.1.1.37]	511		
+tr|C5C765|C5C765_MICLC	K01740	metY; O-acetylhomoserine (thiol)-lyase [EC:2.5.1.49]	397		
+tr|C5CA96|C5CA96_MICLC	K00989	rph; ribonuclease PH [EC:2.7.7.56]	391		
+tr|C5CBP4|C5CBP4_MICLC	K00134	GAPDH; glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]	433		
+tr|C5CAT6|C5CAT6_MICLC	K15634	gpmB; probable phosphoglycerate mutase [EC:5.4.2.12]	231		
+tr|C5C862|C5C862_MICLC	K11733	lysP; lysine-specific permease	693		
+tr|C5C742|C5C742_MICLC	K03523	bioY; biotin transport system substrate-specific component	148		
+tr|C5C6X0|C5C6X0_MICLC	K00782	lldG; L-lactate dehydrogenase complex protein LldG	225		
+tr|C5C8H1|C5C8H1_MICLC	K00857	tdk; thymidine kinase [EC:2.7.1.21]	298		
+tr|C5CAK2|C5CAK2_MICLC	K04517	tyrA2; prephenate dehydrogenase [EC:1.3.1.12]	415		
+tr|C5C7P7|C5C7P7_MICLC	K01758	CTH; cystathionine gamma-lyase [EC:4.4.1.1]	345		
+tr|C5C7X0|C5C7X0_MICLC	K03217	yidC; YidC/Oxa1 family membrane protein insertase	361		
+tr|C5C890|C5C890_MICLC	K01633	folB; dihydroneopterin aldolase / 7,8-dihydroneopterin epimerase [EC:4.1.2.25 5.1.99.8]	119	K13940	28
+tr|C5C8M8|C5C8M8_MICLC			213		
+tr|C5C970|C5C970_MICLC			20	K05365	2
+tr|C5C783|C5C783_MICLC			219		
+tr|C5CBD1|C5CBD1_MICLC			333		
+tr|C5CCY8|C5CCY8_MICLC			329		
+tr|C5C7K8|C5C7K8_MICLC	K01421	yhgE; putative membrane protein	469		
+tr|C5C8J9|C5C8J9_MICLC	K01451	hipO; hippurate hydrolase [EC:3.5.1.32]	420		
+tr|C5C914|C5C914_MICLC			59	K09154	2
+tr|C5CBV6|C5CBV6_MICLC	K03727	helY; ATP-dependent RNA helicase HelY [EC:3.6.4.-]	1050		
+tr|C5C9I2|C5C9I2_MICLC			153		
+tr|C5CB80|C5CB80_MICLC			85		
+tr|C5CAV5|C5CAV5_MICLC			360		
+tr|C5C9A2|C5C9A2_MICLC			126		
+tr|C5C9E2|C5C9E2_MICLC	K03723	mfd; transcription-repair coupling factor (superfamily II helicase) [EC:3.6.4.-]	1540		
+tr|C5C9A6|C5C9A6_MICLC	K01673	cynT; carbonic anhydrase [EC:4.2.1.1]	261		
+tr|C5C9F5|C5C9F5_MICLC			702		
+tr|C5CAM0|C5CAM0_MICLC			420		
+tr|C5CC43|C5CC43_MICLC	K03076	secY; preprotein translocase subunit SecY	594		
+tr|C5CC54|C5CC54_MICLC	K02904	RP-L29; large subunit ribosomal protein L29	117		
+tr|C5CBB1|C5CBB1_MICLC	K10008	gluA; glutamate transport system ATP-binding protein [EC:3.6.3.-]	384		
+tr|C5CC06|C5CC06_MICLC	K02015	ABC.FEV.P; iron complex transport system permease protein	430		
+tr|C5CB12|C5CB12_MICLC			691		
+tr|C5CA50|C5CA50_MICLC			59	K03555	2
+tr|C5CBH2|C5CBH2_MICLC	K03649	MUG; TDG/mug DNA glycosylase family protein [EC:3.2.2.-]	180		
+tr|C5CAC8|C5CAC8_MICLC	K01703	leuC; 3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]	806		
+tr|C5CAU1|C5CAU1_MICLC	K01462	PDF; peptide deformylase [EC:3.5.1.88]	228		
+tr|C5CBM3|C5CBM3_MICLC	K02945	RP-S1; small subunit ribosomal protein S1	808		
+tr|C5CAS4|C5CAS4_MICLC			105		
+tr|C5C9R4|C5C9R4_MICLC			167		
+tr|C5CBZ5|C5CBZ5_MICLC			178		
+tr|C5CAX8|C5CAX8_MICLC	K00392	sir; sulfite reductase (ferredoxin) [EC:1.8.7.1]	870		
+tr|C5CCI5|C5CCI5_MICLC	K01284	dcp; peptidyl-dipeptidase Dcp [EC:3.4.15.5]	640		
+tr|C5CAI4|C5CAI4_MICLC	K08999	uncharacterized protein	134		
+tr|C5CBW4|C5CBW4_MICLC			444		
+tr|C5CBY8|C5CBY8_MICLC			54	K04057	2
+tr|C5CCN5|C5CCN5_MICLC	K00982	glnE; glutamate-ammonia-ligase adenylyltransferase [EC:2.7.7.42]	1065		
+tr|C5CA71|C5CA71_MICLC			18	K03100	2
+tr|C5CB77|C5CB77_MICLC			307		
+tr|C5CA34|C5CA34_MICLC	K01929	murF; UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase [EC:6.3.2.10]	525		
+tr|C5CBP7|C5CBP7_MICLC	K03075	secG; preprotein translocase subunit SecG	71		
+tr|C5CCI9|C5CCI9_MICLC	K03684	rnd; ribonuclease D [EC:3.1.13.5]	471		
+tr|C5CBD6|C5CBD6_MICLC			211		
+tr|C5CCN3|C5CCN3_MICLC	K01915	glnA; glutamine synthetase [EC:6.3.1.2]	793		
+tr|C5C793|C5C793_MICLC			400		
+tr|C5CBY2|C5CBY2_MICLC			336		
+tr|C5CCV9|C5CCV9_MICLC			231	K01420	66
+tr|C5C9P7|C5C9P7_MICLC			327	K01239	30
+tr|C5CBD5|C5CBD5_MICLC			285		
+tr|C5CBH8|C5CBH8_MICLC			327		
+tr|C5CAI0|C5CAI0_MICLC	K01897	ACSL; long-chain acyl-CoA synthetase [EC:6.2.1.3]	687		
+tr|C5CAM2|C5CAM2_MICLC	K01866	YARS; tyrosyl-tRNA synthetase [EC:6.1.1.1]	601		
+tr|C5C7B7|C5C7B7_MICLC	K17686	copA; Cu+-exporting ATPase [EC:3.6.3.54]	792		
+tr|C5CCM6|C5CCM6_MICLC	K00658	DLST; 2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [EC:2.3.1.61]	646		
+tr|C5CB89|C5CB89_MICLC	K01772	hemH; ferrochelatase [EC:4.99.1.1]	472		
+tr|C5CBH3|C5CBH3_MICLC	K19158	yoeB; toxin YoeB [EC:3.1.-.-]	130		
+tr|C5C826|C5C826_MICLC	K03695	clpB; ATP-dependent Clp protease ATP-binding subunit ClpB	1242		
+tr|C5CC36|C5CC36_MICLC	K03040	rpoA; DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]	541		
+tr|C5C879|C5C879_MICLC			332		
+tr|C5C971|C5C971_MICLC	K00240	sdhB; succinate dehydrogenase / fumarate reductase, iron-sulfur subunit [EC:1.3.5.1 1.3.5.4]	444		
+tr|C5C6U3|C5C6U3_MICLC	K03469	rnhA; ribonuclease HI [EC:3.1.26.4]	21		
+tr|C5CCN7|C5CCN7_MICLC	K00606	panB; 3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11]	341		
+tr|C5CAS0|C5CAS0_MICLC	K00645	fabD; [acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39]	336		
+tr|C5CA55|C5CA55_MICLC	K00788	thiE; thiamine-phosphate pyrophosphorylase [EC:2.5.1.3]	233		
+tr|C5CBQ6|C5CBQ6_MICLC	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	263		
+tr|C5CBQ8|C5CBQ8_MICLC	K09014	sufB; Fe-S cluster assembly protein SufB	848		
+tr|C5CCJ7|C5CCJ7_MICLC	K01681	ACO; aconitate hydratase [EC:4.2.1.3]	1443		
+tr|C5CBB3|C5CBB3_MICLC	K10006	gluC; glutamate transport system permease protein	289		
+tr|C5C859|C5C859_MICLC	K07024	uncharacterized protein	228		
+tr|C5CB52|C5CB52_MICLC	K04487	iscS; cysteine desulfurase [EC:2.8.1.7]	382		
+tr|C5C7X1|C5C7X1_MICLC	K08998	uncharacterized protein	143		
+tr|C5C9S7|C5C9S7_MICLC	K07090	uncharacterized protein	247		
+tr|C5C7H3|C5C7H3_MICLC	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	349		
+tr|C5C861|C5C861_MICLC			105		
+tr|C5C8A8|C5C8A8_MICLC	K03652	MPG; DNA-3-methyladenine glycosylase [EC:3.2.2.21]	166		
+tr|C5C7Z1|C5C7Z1_MICLC			113		
+tr|C5C8E4|C5C8E4_MICLC			196	K00797	19
+tr|C5C6R7|C5C6R7_MICLC			161		
+tr|C5C6Y9|C5C6Y9_MICLC	K02510	hpaI; 4-hydroxy-2-oxoheptanedioate aldolase [EC:4.1.2.52]	274		
+tr|C5C833|C5C833_MICLC			203		
+tr|C5C873|C5C873_MICLC			80		
+tr|C5C6W7|C5C6W7_MICLC			267		
+tr|C5C9G6|C5C9G6_MICLC			376		
+tr|C5C8Q1|C5C8Q1_MICLC			214		
+tr|C5C9B0|C5C9B0_MICLC			451		
+tr|C5CBW0|C5CBW0_MICLC			441		
+tr|C5C6X6|C5C6X6_MICLC			179		
+tr|C5C7K7|C5C7K7_MICLC			75	K00554	15
+tr|C5C804|C5C804_MICLC			242		
+tr|C5C8R3|C5C8R3_MICLC	K00773	tgt; queuine tRNA-ribosyltransferase [EC:2.4.2.29]	651		
+tr|C5C6T8|C5C6T8_MICLC			355		
+tr|C5CD25|C5CD25_MICLC	K05569	mnhE; multicomponent Na+:H+ antiporter subunit E	160		
+tr|C5C7Q8|C5C7Q8_MICLC	K01897	ACSL; long-chain acyl-CoA synthetase [EC:6.2.1.3]	560		
+tr|C5C860|C5C860_MICLC			223		
+tr|C5C772|C5C772_MICLC			16	K12369	4
+tr|C5C8K9|C5C8K9_MICLC	K01952	purL; phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	135		
+tr|C5C8L2|C5C8L2_MICLC	K07729	putative transcriptional regulator	85		
+tr|C5C8Y9|C5C8Y9_MICLC			20	K01637	1
+tr|C5CCD9|C5CCD9_MICLC	K02237	comEA; competence protein ComEA	164		
+tr|C5CCF8|C5CCF8_MICLC	K02356	efp; elongation factor P	322		
+tr|C5CBX8|C5CBX8_MICLC			26	K01633	1
+tr|C5CAD2|C5CAD2_MICLC	K00057	gpsA; glycerol-3-phosphate dehydrogenase (NAD(P)+) [EC:1.1.1.94]	367		
+tr|C5CBA0|C5CBA0_MICLC	K00873	PK; pyruvate kinase [EC:2.7.1.40]	524		
+tr|C5CAR2|C5CAR2_MICLC			149		
+tr|C5CA48|C5CA48_MICLC	K01246	tag; DNA-3-methyladenine glycosylase I [EC:3.2.2.20]	273		
+tr|C5CBK3|C5CBK3_MICLC	K01657	trpE; anthranilate synthase component I [EC:4.1.3.27]	576		
+tr|C5C7B0|C5C7B0_MICLC	K06941	rlmN; 23S rRNA (adenine2503-C2)-methyltransferase [EC:2.1.1.192]	627		
+tr|C5CAI3|C5CAI3_MICLC			281		
+tr|C5C8Y6|C5C8Y6_MICLC			20	K06988	6
+tr|C5C8K2|C5C8K2_MICLC	K15554	ssuC; sulfonate transport system permease protein	280		
+tr|C5CCG9|C5CCG9_MICLC	K07478	ycaJ; putative ATPase	605		
+tr|C5CAZ1|C5CAZ1_MICLC			221		
+tr|C5CBT0|C5CBT0_MICLC			171		
+tr|C5CCS5|C5CCS5_MICLC			407		
+tr|C5CBI7|C5CBI7_MICLC	K01011	TST; thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]	445		
+tr|C5C884|C5C884_MICLC	K04075	tilS; tRNA(Ile)-lysidine synthase [EC:6.3.4.19]	213		
+tr|C5CB18|C5CB18_MICLC			104		
+tr|C5CC20|C5CC20_MICLC			307		
+tr|C5C7E4|C5C7E4_MICLC	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	697		
+tr|C5C718|C5C718_MICLC			200		
+tr|C5CBF0|C5CBF0_MICLC			154		
+tr|C5C8K0|C5C8K0_MICLC	K01895	ACSS; acetyl-CoA synthetase [EC:6.2.1.1]	890		
+tr|C5C8G0|C5C8G0_MICLC	K03284	corA; magnesium transporter	379		
+tr|C5C7M0|C5C7M0_MICLC			457		
+tr|C5C7F0|C5C7F0_MICLC			193	K01075	18
+tr|C5C7D9|C5C7D9_MICLC			20	K02004	13
+tr|C5C9I6|C5C9I6_MICLC			158		
+tr|C5CB02|C5CB02_MICLC			385		
+tr|C5C9H8|C5C9H8_MICLC	K20074	prpC; PPM family protein phosphatase [EC:3.1.3.16]	206		
+tr|C5C9J4|C5C9J4_MICLC	K01880	GARS; glycyl-tRNA synthetase [EC:6.1.1.14]	760		
+tr|C5C709|C5C709_MICLC			305	K01715	31
+tr|C5CA21|C5CA21_MICLC	K03101	lspA; signal peptidase II [EC:3.4.23.36]	162		
+tr|C5C8V8|C5C8V8_MICLC			500		
+tr|C5C7P1|C5C7P1_MICLC			556		
+tr|C5C919|C5C919_MICLC	K00389	yidH; putative membrane protein	78		
+tr|C5C9X3|C5C9X3_MICLC			142		
+tr|C5C979|C5C979_MICLC	K02056	ABC.SS.A; simple sugar transport system ATP-binding protein [EC:3.6.3.17]	693		
+tr|C5C6Y3|C5C6Y3_MICLC			444		
+tr|C5C9D2|C5C9D2_MICLC			103		
+tr|C5C8U8|C5C8U8_MICLC	K07241	nixA; high-affinity nickel-transport protein	268		
+tr|C5C8A7|C5C8A7_MICLC	K01918	panC; pantoate--beta-alanine ligase [EC:6.3.2.1]	283		
+tr|C5CD14|C5CD14_MICLC	K06994	putative drug exporter of the RND superfamily	85		
+tr|C5C9C9|C5C9C9_MICLC			744		
+tr|C5C846|C5C846_MICLC			82		
+tr|C5C8D4|C5C8D4_MICLC	K01126	E3.1.4.46; glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46]	247		
+tr|C5C8J6|C5C8J6_MICLC	K11939	rhtA; inner membrane transporter RhtA	194		
+tr|C5C9D8|C5C9D8_MICLC	K01056	PTH1; peptidyl-tRNA hydrolase, PTH1 family [EC:3.1.1.29]	259		
+tr|C5CAN5|C5CAN5_MICLC			1581		
+tr|C5CCA8|C5CCA8_MICLC	K03891	qcrB; ubiquinol-cytochrome c reductase cytochrome b subunit	791		
+tr|C5C8K8|C5C8K8_MICLC	K01952	purL; phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	387		
+tr|C5C7S2|C5C7S2_MICLC			144		
+tr|C5C8M1|C5C8M1_MICLC	K06187	recR; recombination protein RecR	315		
+tr|C5C8G3|C5C8G3_MICLC			337		
+tr|C5C823|C5C823_MICLC	K03687	GRPE; molecular chaperone GrpE	144		
+tr|C5C8D5|C5C8D5_MICLC	K02035	ABC.PE.S; peptide/nickel transport system substrate-binding protein	640		
+tr|C5C9I4|C5C9I4_MICLC	K02433	gatA; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A [EC:6.3.5.6 6.3.5.7]	664		
+tr|C5C904|C5C904_MICLC			17	K06200	2
+tr|C5C8R9|C5C8R9_MICLC	K01951	guaA; GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]	252		
+tr|C5CA53|C5CA53_MICLC			204		
+tr|C5CBG0|C5CBG0_MICLC			295		
+tr|C5C7C6|C5C7C6_MICLC	K09959	uncharacterized protein	191		
+tr|C5CB29|C5CB29_MICLC	K00526	E1.17.4.1B; ribonucleoside-diphosphate reductase beta chain [EC:1.17.4.1]	552		
+tr|C5CB60|C5CB60_MICLC	K03216	trmL; tRNA (cytidine/uridine-2'-O-)-methyltransferase [EC:2.1.1.207]	220		
+tr|C5CAB7|C5CAB7_MICLC	K00826	E2.6.1.42; branched-chain amino acid aminotransferase [EC:2.6.1.42]	484		
+tr|C5C9P4|C5C9P4_MICLC			349		
+tr|C5CC04|C5CC04_MICLC	K02013	ABC.FEV.A; iron complex transport system ATP-binding protein [EC:3.6.3.34]	363		
+tr|C5CCT0|C5CCT0_MICLC			59	K02519	2
+tr|C5CC10|C5CC10_MICLC			528		
+tr|C5CBY9|C5CBY9_MICLC	K03790	rimJ; ribosomal-protein-alanine N-acetyltransferase [EC:2.3.1.128]	243		
+tr|C5CB32|C5CB32_MICLC	K02073	metQ; D-methionine transport system substrate-binding protein	280		
+tr|C5CBE3|C5CBE3_MICLC	K05846	opuBD; osmoprotectant transport system permease protein	218		
+tr|C5C9T6|C5C9T6_MICLC	K11753	ribF; riboflavin kinase / FMN adenylyltransferase [EC:2.7.1.26 2.7.7.2]	345		
+tr|C5CA51|C5CA51_MICLC			51	K03669	2
+tr|C5CBP0|C5CBP0_MICLC	K06958	rapZ; RNase adapter protein RapZ	407		
+tr|C5CA88|C5CA88_MICLC			858		
+tr|C5C7A8|C5C7A8_MICLC	K03786	aroQ; 3-dehydroquinate dehydratase II [EC:4.2.1.10]	185		
+tr|C5CCJ6|C5CCJ6_MICLC	K01662	dxs; 1-deoxy-D-xylulose-5-phosphate synthase [EC:2.2.1.7]	939		
+tr|C5CCM9|C5CCM9_MICLC	K03801	lipB; lipoyl(octanoyl) transferase [EC:2.3.1.181]	263		
+tr|C5CAN1|C5CAN1_MICLC	K00930	argB; acetylglutamate kinase [EC:2.7.2.8]	428		
+tr|C5CAF4|C5CAF4_MICLC			446		
+tr|C5C9R1|C5C9R1_MICLC	K00162	PDHB; pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1]	431		
+tr|C5CB99|C5CB99_MICLC	K01262	pepP; Xaa-Pro aminopeptidase [EC:3.4.11.9]	701		
+tr|C5CCI1|C5CCI1_MICLC	K03551	ruvB; holliday junction DNA helicase RuvB [EC:3.6.4.12]	514		
+tr|C5CB30|C5CB30_MICLC	K02071	metN; D-methionine transport system ATP-binding protein	317		
+tr|C5CBB4|C5CBB4_MICLC	K10007	gluD; glutamate transport system permease protein	301		
+tr|C5CAQ9|C5CAQ9_MICLC			109		
+tr|C5CAR5|C5CAR5_MICLC	K03733	xerC; integrase/recombinase XerC	302		
+tr|C5CAD3|C5CAD3_MICLC	K01921	ddl; D-alanine-D-alanine ligase [EC:6.3.2.4]	447		
+tr|C5C9G2|C5C9G2_MICLC	K03818	wcaF; putative colanic acid biosynthesis acetyltransferase WcaF [EC:2.3.1.-]	222		
+tr|C5C8X7|C5C8X7_MICLC	K01989	ABC.X4.S; putative ABC transport system substrate-binding protein	341		
+tr|C5C7Y3|C5C7Y3_MICLC			921		
+tr|C5C9G7|C5C9G7_MICLC			201		
+tr|C5C9L0|C5C9L0_MICLC	K02010	afuC; iron(III) transport system ATP-binding protein [EC:3.6.3.30]	319		
+tr|C5C9F0|C5C9F0_MICLC	K00382	DLD; dihydrolipoamide dehydrogenase [EC:1.8.1.4]	590		
+tr|C5C9W8|C5C9W8_MICLC			20	K02015	2
+tr|C5C7W5|C5C7W5_MICLC	K03497	parB; chromosome partitioning protein, ParB family	358		
+tr|C5C8Q4|C5C8Q4_MICLC			19	K09971	4
+tr|C5CA12|C5CA12_MICLC	K03578	hrpA; ATP-dependent helicase HrpA [EC:3.6.4.13]	1563		
+tr|C5C6Z1|C5C6Z1_MICLC			589		
+tr|C5C7K5|C5C7K5_MICLC			353		
+tr|C5CCB7|C5CCB7_MICLC			574		
+tr|C5CC98|C5CC98_MICLC			20	K02440	1
+tr|C5C7W8|C5C7W8_MICLC	K03501	gidB; 16S rRNA (guanine527-N7)-methyltransferase [EC:2.1.1.170]	260		
+tr|C5C882|C5C882_MICLC	K07259	dacB; D-alanyl-D-alanine carboxypeptidase / D-alanyl-D-alanine-endopeptidase (penicillin-binding protein 4) [EC:3.4.16.4 3.4.21.-]	240		
+tr|C5CCP8|C5CCP8_MICLC			224	K08225	54
+tr|C5CAK1|C5CAK1_MICLC	K00945	cmk; cytidylate kinase [EC:2.7.4.14]	209		
+tr|C5CBX1|C5CBX1_MICLC	K07778	desK; two-component system, NarL family, sensor histidine kinase DesK [EC:2.7.13.3]	193		
+tr|C5CAS9|C5CAS9_MICLC			499		
+tr|C5C7A7|C5C7A7_MICLC	K03671	trxA; thioredoxin 1	171		
+tr|C5C9U4|C5C9U4_MICLC			191		
+tr|C5CC71|C5CC71_MICLC	K03043	rpoB; DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]	1935		
+tr|C5C8W6|C5C8W6_MICLC			22	K00963	1
+tr|C5C720|C5C720_MICLC	K02614	paaI; acyl-CoA thioesterase [EC:3.1.2.-]	141		
+tr|C5CCY1|C5CCY1_MICLC	K01923	purC; phosphoribosylaminoimidazole-succinocarboxamide synthase [EC:6.3.2.6]	437		
+tr|C5C9C2|C5C9C2_MICLC			539		
+tr|C5C8N4|C5C8N4_MICLC	K03522	fixB; electron transfer flavoprotein alpha subunit	286		
+tr|C5CBZ6|C5CBZ6_MICLC			216		
+tr|C5CA76|C5CA76_MICLC	K02111	ATPF1A; F-type H+-transporting ATPase subunit alpha [EC:3.6.3.14]	899		
+tr|C5CCK0|C5CCK0_MICLC	K03499	trkA; trk system potassium uptake protein	253		
+tr|C5CAF1|C5CAF1_MICLC			419		
+tr|C5CB65|C5CB65_MICLC			468		
+tr|C5CBG6|C5CBG6_MICLC	K06188	aqpZ; aquaporin Z	280		
+tr|C5CCT2|C5CCT2_MICLC			33		
+tr|C5C7C0|C5C7C0_MICLC			76		
+tr|C5CCS1|C5CCS1_MICLC	K01911	menE; O-succinylbenzoic acid--CoA ligase [EC:6.2.1.26]	259		
+tr|C5CCM5|C5CCM5_MICLC	K00382	DLD; dihydrolipoamide dehydrogenase [EC:1.8.1.4]	677		
+tr|C5CAP7|C5CAP7_MICLC	K03437	spoU; RNA methyltransferase, TrmH family	266		
+tr|C5CBQ3|C5CBQ3_MICLC	K02301	cyoE; protoheme IX farnesyltransferase [EC:2.5.1.-]	434		
+tr|C5CAN9|C5CAN9_MICLC	K01889	FARSA; phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]	535		
+tr|C5C7B3|C5C7B3_MICLC	K02552	menF; menaquinone-specific isochorismate synthase [EC:5.4.4.2]	265		
+tr|C5CB94|C5CB94_MICLC			179		
+tr|C5CBT4|C5CBT4_MICLC	K00705	malQ; 4-alpha-glucanotransferase [EC:2.4.1.25]	524		
+tr|C5CBB9|C5CBB9_MICLC			465		
+tr|C5CC23|C5CC23_MICLC	K02438	treX; glycogen operon protein [EC:3.2.1.-]	928		
+tr|C5C7N9|C5C7N9_MICLC			279		
+tr|C5C8X9|C5C8X9_MICLC	K05833	ABC.X4.A; putative ABC transport system ATP-binding protein	365		
+tr|C5C6Z6|C5C6Z6_MICLC	K00817	hisC; histidinol-phosphate aminotransferase [EC:2.6.1.9]	421		
+tr|C5C8I9|C5C8I9_MICLC			227		
+tr|C5CAP3|C5CAP3_MICLC			420		
+tr|C5C7M5|C5C7M5_MICLC			315		
+tr|C5CCZ6|C5CCZ6_MICLC			33	K19701	3
+tr|C5C7J9|C5C7J9_MICLC	K07107	ybgC; acyl-CoA thioester hydrolase [EC:3.1.2.-]	101		
+tr|C5C9E3|C5C9E3_MICLC			171		
+tr|C5C9L4|C5C9L4_MICLC	K13950	pabAB; para-aminobenzoate synthetase [EC:2.6.1.85]	310		
+tr|C5C870|C5C870_MICLC	K03711	fur; Fur family transcriptional regulator, ferric uptake regulator	197		
+tr|C5C8F6|C5C8F6_MICLC			56	K06919	2
+tr|C5C9B2|C5C9B2_MICLC	K01589	purK; 5-(carboxyamino)imidazole ribonucleotide synthase [EC:6.3.4.18]	408		
+tr|C5C723|C5C723_MICLC	K01895	ACSS; acetyl-CoA synthetase [EC:6.2.1.1]	489		
+tr|C5CCC8|C5CCC8_MICLC	K09761	rsmE; 16S rRNA (uracil1498-N3)-methyltransferase [EC:2.1.1.193]	226		
+tr|C5CBT1|C5CBT1_MICLC	K00626	E2.3.1.9; acetyl-CoA C-acetyltransferase [EC:2.3.1.9]	615		
+tr|C5CCF2|C5CCF2_MICLC	K01956	carA; carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]	550		
+tr|C5CA07|C5CA07_MICLC	K09819	ABC.MN.P; manganese/iron transport system permease protein	73		
+tr|C5C9S8|C5C9S8_MICLC	K09748	rimP; ribosome maturation factor RimP	114		
+tr|C5C9Y7|C5C9Y7_MICLC			62	K09023	3
+tr|C5C6S6|C5C6S6_MICLC	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	110		
+tr|C5C7H9|C5C7H9_MICLC	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	471		
+tr|C5C6T3|C5C6T3_MICLC			245		
+tr|C5C9M8|C5C9M8_MICLC			33	K02495	2
+tr|C5C6V7|C5C6V7_MICLC			51	K05922	2
+tr|C5C923|C5C923_MICLC			225		
+tr|C5C6X5|C5C6X5_MICLC	K09793	uncharacterized protein	146		
+tr|C5C9L2|C5C9L2_MICLC	K02012	afuA; iron(III) transport system substrate-binding protein	355		
+tr|C5C943|C5C943_MICLC	K10778	ada; AraC family transcriptional regulator, regulatory protein of adaptative response / methylated-DNA-[protein]-cysteine methyltransferase [EC:2.1.1.63]	54	K00567	16
+tr|C5C8F2|C5C8F2_MICLC			187		
+tr|C5CB98|C5CB98_MICLC	K07053	E3.1.3.97; 3',5'-nucleoside bisphosphate phosphatase [EC:3.1.3.97]	347		
+tr|C5C9W4|C5C9W4_MICLC			72		
+tr|C5CC84|C5CC84_MICLC	K06980	ygfZ; tRNA-modifying protein YgfZ	376		
+tr|C5C9Z1|C5C9Z1_MICLC	K01028	E2.8.3.5A; 3-oxoacid CoA-transferase subunit A [EC:2.8.3.5]	352		
+tr|C5C9W2|C5C9W2_MICLC			598		
+tr|C5CAV4|C5CAV4_MICLC			502		
+tr|C5C8X6|C5C8X6_MICLC	K03218	rlmB; 23S rRNA (guanosine2251-2'-O)-methyltransferase [EC:2.1.1.185]	397		
+tr|C5CAG6|C5CAG6_MICLC	K03106	SRP54; signal recognition particle subunit SRP54 [EC:3.6.5.4]	721		
+tr|C5CBE8|C5CBE8_MICLC	K15034	yaeJ; ribosome-associated protein	123		
+tr|C5CB50|C5CB50_MICLC	K04092	tyrA1; chorismate mutase [EC:5.4.99.5]	157		
+tr|C5CAF9|C5CAF9_MICLC	K09693	tagH; teichoic acid transport system ATP-binding protein [EC:3.6.3.40]	266		
+tr|C5CCL7|C5CCL7_MICLC			843		
+tr|C5C7G5|C5C7G5_MICLC			219		
+tr|C5CB78|C5CB78_MICLC	K03657	uvrD; DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]	920		
+tr|C5C769|C5C769_MICLC			190		
+tr|C5CB81|C5CB81_MICLC	K02342	DPO3E; DNA polymerase III subunit epsilon [EC:2.7.7.7]	260		
+tr|C5C7B1|C5C7B1_MICLC			217		
+tr|C5CA97|C5CA97_MICLC	K02428	rdgB; XTP/dITP diphosphohydrolase [EC:3.6.1.66]	282		
+tr|C5CBY6|C5CBY6_MICLC			147	K03579	5
+tr|C5CCV8|C5CCV8_MICLC			250		
+tr|C5CB15|C5CB15_MICLC	K07250	gabT; 4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase [EC:2.6.1.19 2.6.1.22]	578		
+tr|C5CAC4|C5CAC4_MICLC			458		
+tr|C5C8T1|C5C8T1_MICLC			132		
+tr|C5CAC0|C5CAC0_MICLC			362		
+tr|C5CBG1|C5CBG1_MICLC	K07119	uncharacterized protein	468		
+tr|C5CA11|C5CA11_MICLC			156	K02503	16
+tr|C5C8E0|C5C8E0_MICLC	K13788	pta; phosphate acetyltransferase [EC:2.3.1.8]	782		
+tr|C5CCF3|C5CCF3_MICLC			127		
+tr|C5C9Y5|C5C9Y5_MICLC			67		
+tr|C5CC77|C5CC77_MICLC	K03073	secE; preprotein translocase subunit SecE	79		
+tr|C5CCW9|C5CCW9_MICLC			106		
+tr|C5C872|C5C872_MICLC			387		
+tr|C5C8Q7|C5C8Q7_MICLC			27	K16018	1
+tr|C5C976|C5C976_MICLC	K01436	amidohydrolase [EC:3.5.1.-]	387		
+tr|C5C8M4|C5C8M4_MICLC	K01885	EARS; glutamyl-tRNA synthetase [EC:6.1.1.17]	326		
+tr|C5C8R8|C5C8R8_MICLC	K01750	E4.3.1.12; ornithine cyclodeaminase [EC:4.3.1.12]	217		
+tr|C5CCW8|C5CCW8_MICLC			430		
+tr|C5C8T6|C5C8T6_MICLC			313		
+tr|C5CB85|C5CB85_MICLC			224		
+tr|C5CCL3|C5CCL3_MICLC	K16014	cydCD; ATP-binding cassette, subfamily C, bacterial CydCD	631		
+tr|C5C9Y2|C5C9Y2_MICLC	K12511	tadC; tight adherence protein C	271		
+tr|C5CC30|C5CC30_MICLC			206		
+tr|C5CCR1|C5CCR1_MICLC	K00162	PDHB; pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1]	465		
+tr|C5C7L1|C5C7L1_MICLC	K07090	uncharacterized protein	142		
+tr|C5CBD9|C5CBD9_MICLC	K04487	iscS; cysteine desulfurase [EC:2.8.1.7]	360		
+tr|C5CB79|C5CB79_MICLC			827		
+tr|C5CBF5|C5CBF5_MICLC			488		
+tr|C5CCI0|C5CCI0_MICLC	K03210	yajC; preprotein translocase subunit YajC	72		
+tr|C5CAL4|C5CAL4_MICLC	K04763	xerD; integrase/recombinase XerD	400		
+tr|C5C918|C5C918_MICLC			445		
+tr|C5CCD0|C5CCD0_MICLC	K03705	hrcA; heat-inducible transcriptional repressor	367		
+tr|C5CBV5|C5CBV5_MICLC	K03118	tatC; sec-independent protein translocase protein TatC	284		
+tr|C5CAD5|C5CAD5_MICLC			270		
+tr|C5CBL2|C5CBL2_MICLC	K00873	PK; pyruvate kinase [EC:2.7.1.40]	678		
+tr|C5C9X6|C5C9X6_MICLC			58	K09800	2
+tr|C5C8V9|C5C8V9_MICLC					
+tr|C5C948|C5C948_MICLC	K02025	ABC.MS.P; multiple sugar transport system permease protein	378		
+tr|C5C780|C5C780_MICLC			33	K03811	1
+tr|C5C8H5|C5C8H5_MICLC			159		
+tr|C5CAA2|C5CAA2_MICLC	K03296	TC.HAE1; hydrophobic/amphiphilic exporter-1 (mainly G- bacteria), HAE1 family	326		
+tr|C5CBE2|C5CBE2_MICLC	K05847	opuA; osmoprotectant transport system ATP-binding protein	381		
+tr|C5CAP5|C5CAP5_MICLC	K19577	ydhP; MFS transporter, DHA1 family, inner membrane transport protein	330		
+tr|C5CBR1|C5CBR1_MICLC			180		
+tr|C5CAC5|C5CAC5_MICLC	K00946	thiL; thiamine-monophosphate kinase [EC:2.7.4.16]	213		
+tr|C5CBN5|C5CBN5_MICLC	K00598	tam; trans-aconitate 2-methyltransferase [EC:2.1.1.144]	274		
+tr|C5CA20|C5CA20_MICLC	K06180	rluD; 23S rRNA pseudouridine1911/1915/1917 synthase [EC:5.4.99.23]	419		
+tr|C5CCA7|C5CCA7_MICLC	K03890	qcrA; ubiquinol-cytochrome c reductase iron-sulfur subunit	464		
+tr|C5C8D6|C5C8D6_MICLC	K02033	ABC.PE.P; peptide/nickel transport system permease protein	452		
+tr|C5CBP3|C5CBP3_MICLC	K04564	SOD2; superoxide dismutase, Fe-Mn family [EC:1.15.1.1]	354		
+tr|C5CBJ0|C5CBJ0_MICLC	K01462	PDF; peptide deformylase [EC:3.5.1.88]	184		
+tr|C5CCX3|C5CCX3_MICLC	K01623	ALDO; fructose-bisphosphate aldolase, class I [EC:4.1.2.13]	363		
+tr|C5C8K1|C5C8K1_MICLC			284		
+tr|C5CA45|C5CA45_MICLC	K12132	prkC; eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]	426		
+tr|C5CAY8|C5CAY8_MICLC	K11754	folC; dihydrofolate synthase / folylpolyglutamate synthase [EC:6.3.2.12 6.3.2.17]	539		
+tr|C5CAH9|C5CAH9_MICLC	K03928	yvaK; carboxylesterase [EC:3.1.1.1]	189		
+tr|C5CB96|C5CB96_MICLC			414		
+tr|C5CBP9|C5CBP9_MICLC	K00036	G6PD; glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49 1.1.1.363]	780		
+tr|C5CCP1|C5CCP1_MICLC	K01739	metB; cystathionine gamma-synthase [EC:2.5.1.48]	513		
+tr|C5C820|C5C820_MICLC			57	K07483	12
+tr|C5C8R0|C5C8R0_MICLC			108		
+tr|C5C9Z6|C5C9Z6_MICLC	K05602	hisN; histidinol-phosphatase [EC:3.1.3.15]	370		
+tr|C5C7L0|C5C7L0_MICLC			120		
+tr|C5C7Z7|C5C7Z7_MICLC			202		
+tr|C5C6Q5|C5C6Q5_MICLC	K02351	putative membrane protein	703		
+	K07245	pcoD; copper resistance protein D			
+tr|C5C7J8|C5C7J8_MICLC	K00104	glcD; glycolate oxidase [EC:1.1.3.15]	413		
+tr|C5C6S4|C5C6S4_MICLC	K00013	hisD; histidinol dehydrogenase [EC:1.1.1.23]	495		
+tr|C5C6U2|C5C6U2_MICLC			104		
+tr|C5CCX6|C5CCX6_MICLC			654		
+tr|C5C6T6|C5C6T6_MICLC	K13821	putA; RHH-type transcriptional regulator, proline utilization regulon repressor / proline dehydrogenase / delta 1-pyrroline-5-carboxylate dehydrogenase [EC:1.5.5.2 1.2.1.88]	1288		
+tr|C5C893|C5C893_MICLC	K09167	uncharacterized protein	150		
+tr|C5C920|C5C920_MICLC			64		
+tr|C5C8I3|C5C8I3_MICLC			190	K01712	20
+tr|C5C7J1|C5C7J1_MICLC	K02013	ABC.FEV.A; iron complex transport system ATP-binding protein [EC:3.6.3.34]	294		
+tr|C5C6P8|C5C6P8_MICLC			72		
+tr|C5CCX1|C5CCX1_MICLC			232		
+tr|C5C959|C5C959_MICLC	K10254	ohyA; oleate hydratase [EC:4.2.1.53]	822		
+tr|C5C8P0|C5C8P0_MICLC	K00020	mmsB; 3-hydroxyisobutyrate dehydrogenase [EC:1.1.1.31]	362		
+tr|C5CAI5|C5CAI5_MICLC			241		
+tr|C5C9Z0|C5C9Z0_MICLC	K00626	E2.3.1.9; acetyl-CoA C-acetyltransferase [EC:2.3.1.9]	542		
+tr|C5CBT5|C5CBT5_MICLC			572		
+tr|C5CBE1|C5CBE1_MICLC	K05846	opuBD; osmoprotectant transport system permease protein	254		
+tr|C5CBN4|C5CBN4_MICLC			1065		
+tr|C5C7M7|C5C7M7_MICLC			205		
+tr|C5C7R5|C5C7R5_MICLC			403		
+tr|C5C9H0|C5C9H0_MICLC			138		
+tr|C5C8B6|C5C8B6_MICLC			112		
+tr|C5C8X2|C5C8X2_MICLC			105		
+tr|C5C6P5|C5C6P5_MICLC			45	K01953	24
+tr|C5C8S3|C5C8S3_MICLC			281		
+tr|C5C756|C5C756_MICLC			20	K01885	2
+tr|C5C9L9|C5C9L9_MICLC			12	K19577	2
+tr|C5CD00|C5CD00_MICLC			16	K01998	1
+tr|C5CCA0|C5CCA0_MICLC			58	K03088	2
+tr|C5C7L8|C5C7L8_MICLC			117		
+tr|C5C9B5|C5C9B5_MICLC	K18955	whiB1_2_3_4; WhiB family transcriptional regulator, redox-sensing transcriptional regulator	158		
+tr|C5C809|C5C809_MICLC			23	K07114	1
+tr|C5C747|C5C747_MICLC			573		
+tr|C5C7V3|C5C7V3_MICLC			36	K07000	1
+tr|C5CCU0|C5CCU0_MICLC			22	K19689	1
+tr|C5C808|C5C808_MICLC			154		
+tr|C5C6W0|C5C6W0_MICLC			238		
+tr|C5C7P0|C5C7P0_MICLC			22	K15553	1
+tr|C5C825|C5C825_MICLC			21	K03110	2
+tr|C5CBI0|C5CBI0_MICLC			18	K03790	3
+tr|C5C9Q9|C5C9Q9_MICLC			121		
+tr|C5CCP7|C5CCP7_MICLC			21	K02519	1
+tr|C5CBA9|C5CBA9_MICLC			22	K07141	1
+tr|C5CAS7|C5CAS7_MICLC			22	K09990	1
+tr|C5CCM0|C5CCM0_MICLC			83		
+tr|C5C7B2|C5C7B2_MICLC			19	K10012	2
+tr|C5CBR5|C5CBR5_MICLC			108		
+tr|C5C792|C5C792_MICLC			20	K06910	2
+tr|C5CCL0|C5CCL0_MICLC			211		
+tr|C5CBM9|C5CBM9_MICLC			128		
+tr|C5CA84|C5CA84_MICLC	K05838	ybbN; putative thioredoxin	224		
+tr|C5CBG8|C5CBG8_MICLC			19	K00768	2
+tr|C5C834|C5C834_MICLC			119		
+tr|C5C814|C5C814_MICLC			160	K02115	4
+tr|C5C6T0|C5C6T0_MICLC			32	K19231	1
+tr|C5C842|C5C842_MICLC			444		
+tr|C5C9B4|C5C9B4_MICLC			108		
+tr|C5C8A9|C5C8A9_MICLC			195		
+tr|C5C8Q2|C5C8Q2_MICLC			16	K00620	3
+tr|C5C8G4|C5C8G4_MICLC			346	K01046	32
+tr|C5CB62|C5CB62_MICLC			254		
+tr|C5C8R6|C5C8R6_MICLC			23	K01092	2
+tr|C5CAV1|C5CAV1_MICLC			18	K07052	1
+tr|C5CAJ9|C5CAJ9_MICLC			22	K03631	2
+tr|C5CCZ9|C5CCZ9_MICLC			22	K00766	5
+tr|C5CBT7|C5CBT7_MICLC			63		
+tr|C5C7I1|C5C7I1_MICLC	K06895	lysE; L-lysine exporter family protein LysE/ArgO	110		
+tr|C5C8A6|C5C8A6_MICLC			189		
+tr|C5C817|C5C817_MICLC			17	K01531	3
+tr|C5C6V6|C5C6V6_MICLC			25	K00162	1
+tr|C5C6U5|C5C6U5_MICLC			18	K02015	1
+tr|C5CC28|C5CC28_MICLC			19	K02029	1
+tr|C5CB04|C5CB04_MICLC			162		
+tr|C5CAJ3|C5CAJ3_MICLC			56	K09684	2
+tr|C5C7S1|C5C7S1_MICLC			25	K06518	7
+tr|C5CB44|C5CB44_MICLC			107		
+tr|C5C7R6|C5C7R6_MICLC			196		
+tr|C5C816|C5C816_MICLC			58	K01207	2
+tr|C5CB34|C5CB34_MICLC			237		
+tr|C5C8G9|C5C8G9_MICLC			56	K03561	2
+tr|C5C7S3|C5C7S3_MICLC			31	K00663	1
+tr|C5CAU6|C5CAU6_MICLC			22	K13482	1
+tr|C5CA42|C5CA42_MICLC	K13787	idsA; geranylgeranyl diphosphate synthase, type I [EC:2.5.1.1 2.5.1.10 2.5.1.29]	303		
+tr|C5CCM2|C5CCM2_MICLC			108		
+tr|C5C7Y1|C5C7Y1_MICLC			275		
+tr|C5CCJ5|C5CCJ5_MICLC			18	K10003	1
+tr|C5CA43|C5CA43_MICLC			149		
+tr|C5CCZ3|C5CCZ3_MICLC			205		
+tr|C5C7N3|C5C7N3_MICLC			19	K00525	1
+tr|C5C6W3|C5C6W3_MICLC			18	K18691	2
+tr|C5C9M0|C5C9M0_MICLC			26	K03205	2
+tr|C5CAN0|C5CAN0_MICLC	K00818	E2.6.1.11; acetylornithine aminotransferase [EC:2.6.1.11]	473		
+tr|C5CC65|C5CC65_MICLC			15	K01998	1
+tr|C5C6W6|C5C6W6_MICLC			174		
+tr|C5C8R2|C5C8R2_MICLC			177		
+tr|C5CBA7|C5CBA7_MICLC			216		
+tr|C5CB05|C5CB05_MICLC			69		
+tr|C5CCE9|C5CCE9_MICLC			61		
+tr|C5CCH5|C5CCH5_MICLC			495		
+tr|C5C6T7|C5C6T7_MICLC	K10536	aguA; agmatine deiminase [EC:3.5.3.12]	147		
+tr|C5C778|C5C778_MICLC			19	K07025	1
+tr|C5C8B8|C5C8B8_MICLC			14	K00016	4
+tr|C5CCU6|C5CCU6_MICLC			17	K01579	2
+tr|C5CCY9|C5CCY9_MICLC			149		
+tr|C5CD04|C5CD04_MICLC			158		
+tr|C5CCQ1|C5CCQ1_MICLC			146		
+tr|C5CBX4|C5CBX4_MICLC			20	K10680	1
+tr|C5CCK7|C5CCK7_MICLC			148		
+tr|C5C9L6|C5C9L6_MICLC			20	K02230	2
+tr|C5C774|C5C774_MICLC			52	K07483	20
+tr|C5C8L6|C5C8L6_MICLC			321		
+tr|C5CAD4|C5CAD4_MICLC			153		
+tr|C5C8M7|C5C8M7_MICLC			245		
+tr|C5C810|C5C810_MICLC			60	K03565	2
+tr|C5CA99|C5CA99_MICLC			234		
+tr|C5C9P3|C5C9P3_MICLC			51	K01869	2
+tr|C5CAW3|C5CAW3_MICLC			21	K01945	2
+tr|C5C760|C5C760_MICLC			183		
+tr|C5C700|C5C700_MICLC			17	K16899	1
+tr|C5CBI9|C5CBI9_MICLC			356		
+tr|C5C6S9|C5C6S9_MICLC			17	K02027	1
+tr|C5CCD1|C5CCD1_MICLC			375		
+tr|C5C9B6|C5C9B6_MICLC			22	K01591	2
+tr|C5C8P7|C5C8P7_MICLC	K06720	ectC; L-ectoine synthase [EC:4.2.1.108]	150		
+tr|C5CCI8|C5CCI8_MICLC			212		
+tr|C5CBH4|C5CBH4_MICLC			16	K19159	5
+tr|C5C7Q9|C5C7Q9_MICLC			17	K01265	3
+tr|C5C880|C5C880_MICLC			168		
+tr|C5C907|C5C907_MICLC			125		
+tr|C5C9N4|C5C9N4_MICLC			20	K06978	2
+tr|C5C9G8|C5C9G8_MICLC			27	K01190	1
+tr|C5C6V1|C5C6V1_MICLC			103		
+tr|C5C8J8|C5C8J8_MICLC			25	K03189	1
+tr|C5C9N3|C5C9N3_MICLC			121		
+tr|C5C6S8|C5C6S8_MICLC			20	K01890	2
+tr|C5C9V2|C5C9V2_MICLC			74		
+tr|C5CAQ1|C5CAQ1_MICLC			182		
+tr|C5CC97|C5CC97_MICLC			197		
+tr|C5CAA8|C5CAA8_MICLC			13	K02564	10
+tr|C5CCZ5|C5CCZ5_MICLC			62		
+tr|C5C7G1|C5C7G1_MICLC			19	K00615	3
+tr|C5C8E8|C5C8E8_MICLC			28	K03072	1
+tr|C5C9D3|C5C9D3_MICLC			150		
+tr|C5C883|C5C883_MICLC			367		
+tr|C5C7R2|C5C7R2_MICLC			27	K15256	1
+tr|C5C770|C5C770_MICLC			26	K01426	1
+tr|C5CBP8|C5CBP8_MICLC			341		
+tr|C5CBW3|C5CBW3_MICLC			126		
+tr|C5CB40|C5CB40_MICLC			22	K00946	3
+tr|C5CCW0|C5CCW0_MICLC			178		
+tr|C5CAB9|C5CAB9_MICLC			71		
+tr|C5CBU5|C5CBU5_MICLC	K13571	pafA; proteasome accessory factor A [EC:6.3.1.19]	514		
+tr|C5CBZ3|C5CBZ3_MICLC			909		
+tr|C5CB09|C5CB09_MICLC			103		
+tr|C5CBB7|C5CBB7_MICLC			210		
+tr|C5CBZ2|C5CBZ2_MICLC			32	K16899	1
+tr|C5CB14|C5CB14_MICLC			22	K01890	2
+tr|C5C6Z0|C5C6Z0_MICLC			194		
+tr|C5CD15|C5CD15_MICLC			21	K06916	1
+tr|C5C763|C5C763_MICLC			447		
+tr|C5C886|C5C886_MICLC			172		
+tr|C5CCQ8|C5CCQ8_MICLC			42	K01011	2
+tr|C5C8L0|C5C8L0_MICLC	K09858	SEC-C motif domain protein	131		
+tr|C5C7K4|C5C7K4_MICLC			251		
+tr|C5C8J3|C5C8J3_MICLC			193		
+tr|C5CC14|C5CC14_MICLC			22	K01873	1
+tr|C5C7B8|C5C7B8_MICLC			59		
+tr|C5C7L4|C5C7L4_MICLC			32	K01537	1
+tr|C5C6Y2|C5C6Y2_MICLC			59	K08300	2
+tr|C5C7G7|C5C7G7_MICLC	K03303	lctP; lactate permease	154		
+tr|C5CAT5|C5CAT5_MICLC	K07164	uncharacterized protein	114		
+tr|C5C9E8|C5C9E8_MICLC			34	K02558	1
+tr|C5CCW2|C5CCW2_MICLC			95		
+tr|C5C7U7|C5C7U7_MICLC			56	K00140	2
+tr|C5C9K2|C5C9K2_MICLC			158	K07338	4
+tr|C5C932|C5C932_MICLC			166		
+tr|C5C8F3|C5C8F3_MICLC			171		
+tr|C5CB95|C5CB95_MICLC			77		
+tr|C5C9Z5|C5C9Z5_MICLC	K06199	crcB; CrcB protein	54		
+tr|C5CD08|C5CD08_MICLC			109		
+tr|C5C8W7|C5C8W7_MICLC			311		
+tr|C5C7U1|C5C7U1_MICLC			420	K07749	39
+tr|C5CBS5|C5CBS5_MICLC			107		
+tr|C5CB06|C5CB06_MICLC			683		
+tr|C5CA57|C5CA57_MICLC	K03154	thiS; sulfur carrier protein	56		
+tr|C5C8K4|C5C8K4_MICLC			22	K18459	1
+tr|C5C7W6|C5C7W6_MICLC			21	K20276	1
+tr|C5C8K5|C5C8K5_MICLC			51	K01733	2
+tr|C5CBV7|C5CBV7_MICLC	K07047	uncharacterized protein	143		
+tr|C5CAH5|C5CAH5_MICLC			151		
+tr|C5CB33|C5CB33_MICLC			280		
+tr|C5C7H8|C5C7H8_MICLC			178		
+tr|C5C7P9|C5C7P9_MICLC			114		
+tr|C5C8K6|C5C8K6_MICLC			21	K02836	4
+tr|C5C854|C5C854_MICLC			107		
+tr|C5CCK8|C5CCK8_MICLC			234		
+tr|C5CAQ3|C5CAQ3_MICLC	K18955	whiB1_2_3_4; WhiB family transcriptional regulator, redox-sensing transcriptional regulator	137		
+tr|C5CAJ4|C5CAJ4_MICLC			15	K00832	2
+tr|C5CC22|C5CC22_MICLC			58	K07716	2
+tr|C5CB49|C5CB49_MICLC			236		
+tr|C5C7E1|C5C7E1_MICLC			164		
+tr|C5C9H3|C5C9H3_MICLC			27	K19128	1
+tr|C5C7Y6|C5C7Y6_MICLC			285		
+tr|C5C8V6|C5C8V6_MICLC			56	K03075	2
+tr|C5C761|C5C761_MICLC			25	K06999	2
+tr|C5C8A4|C5C8A4_MICLC			156		
+tr|C5C7T3|C5C7T3_MICLC			72		
+tr|C5C9Z4|C5C9Z4_MICLC			15	K06199	2
+tr|C5CB66|C5CB66_MICLC	K03969	pspA; phage shock protein A	346		
+tr|C5CAE8|C5CAE8_MICLC			23	K02510	1
+tr|C5CAF8|C5CAF8_MICLC			297		
+tr|C5C7T4|C5C7T4_MICLC			122	K00283	4
+tr|C5C7T2|C5C7T2_MICLC			133		
+tr|C5C7S7|C5C7S7_MICLC			31	K01470	2
+tr|C5CD06|C5CD06_MICLC			56	K03687	2
+tr|C5C8J2|C5C8J2_MICLC	K01740	metY; O-acetylhomoserine (thiol)-lyase [EC:2.5.1.49]	685		
+tr|C5C7E2|C5C7E2_MICLC			26	K06915	1
+tr|C5C6W4|C5C6W4_MICLC			56	K03578	2
+tr|C5C865|C5C865_MICLC			680		
+tr|C5CA82|C5CA82_MICLC			87		
+tr|C5CA87|C5CA87_MICLC			151		
+tr|C5CAF6|C5CAF6_MICLC			34	K01952	1
+tr|C5C6T5|C5C6T5_MICLC			212		
+tr|C5CAQ7|C5CAQ7_MICLC			82		
+tr|C5CAW1|C5CAW1_MICLC			153		
+tr|C5CA15|C5CA15_MICLC			21	K00123	3
+tr|C5CB43|C5CB43_MICLC			107		
+tr|C5CCV6|C5CCV6_MICLC			42		
+tr|C5CAT4|C5CAT4_MICLC			322		
+tr|C5C913|C5C913_MICLC			20	K03750/K07219	2
+tr|C5C9C6|C5C9C6_MICLC			13	K00845	4
+tr|C5CBW6|C5CBW6_MICLC			108		
+tr|C5C8S5|C5C8S5_MICLC			21	K02005	2
+tr|C5C7Z6|C5C7Z6_MICLC			125		
+tr|C5CCD5|C5CCD5_MICLC			166		
+tr|C5C8C1|C5C8C1_MICLC			56	K09118	3
+tr|C5C776|C5C776_MICLC			166		
+tr|C5C8H3|C5C8H3_MICLC			129		
+tr|C5C9B7|C5C9B7_MICLC			108		
+tr|C5CB73|C5CB73_MICLC	K07043	uncharacterized protein	180		
+tr|C5CCT1|C5CCT1_MICLC			74		
+tr|C5CAR6|C5CAR6_MICLC			253		
+tr|C5CB35|C5CB35_MICLC	K00876	udk; uridine kinase [EC:2.7.1.48]	162		
+tr|C5CBF1|C5CBF1_MICLC			118		
+tr|C5C837|C5C837_MICLC			84		
+tr|C5C7T6|C5C7T6_MICLC	K06016	pydC; beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase [EC:3.5.1.6 3.5.1.87]	16		
+tr|C5C7Z3|C5C7Z3_MICLC			290		
+tr|C5C8R4|C5C8R4_MICLC			24	K01643	1
+tr|C5C8C9|C5C8C9_MICLC	K07220	uncharacterized protein	127		
+tr|C5C8V5|C5C8V5_MICLC			331		
+tr|C5C7Z5|C5C7Z5_MICLC			393		
+tr|C5C9D9|C5C9D9_MICLC					
+tr|C5C738|C5C738_MICLC			64		
+tr|C5CAU7|C5CAU7_MICLC			186		
+tr|C5CCK3|C5CCK3_MICLC			62		
+tr|C5CA22|C5CA22_MICLC			157		
+tr|C5C9H2|C5C9H2_MICLC			27	K08309	1
+tr|C5C7Z9|C5C7Z9_MICLC			133		
+tr|C5CAH6|C5CAH6_MICLC	K07460	yraN; putative endonuclease	122		
+tr|C5C929|C5C929_MICLC			21	K01736	1
+tr|C5C7Y5|C5C7Y5_MICLC			822		
+tr|C5C8D0|C5C8D0_MICLC			182		
+tr|C5C7K2|C5C7K2_MICLC			72		
+tr|C5C9X2|C5C9X2_MICLC			62	K20276	5
+tr|C5C9P0|C5C9P0_MICLC			146		
+tr|C5C8H2|C5C8H2_MICLC			18	K01491	2
+tr|C5C7T5|C5C7T5_MICLC			145		
+tr|C5C7L7|C5C7L7_MICLC			16	K10670	2
+tr|C5C726|C5C726_MICLC			252		
+tr|C5C7Y4|C5C7Y4_MICLC			194		
+tr|C5C712|C5C712_MICLC			34	K16260	1
+tr|C5CCH6|C5CCH6_MICLC			24	K01817	2
+tr|C5CBA8|C5CBA8_MICLC			90		
+tr|C5CBU8|C5CBU8_MICLC			184		
+tr|C5C8N6|C5C8N6_MICLC			63	K02343	3
+tr|C5CAI9|C5CAI9_MICLC			144		
+tr|C5CAQ8|C5CAQ8_MICLC			118		
+tr|C5C7I9|C5C7I9_MICLC	K02015	ABC.FEV.P; iron complex transport system permease protein	128		
+tr|C5C7M4|C5C7M4_MICLC	K15770	cycB; arabinogalactan oligomer / maltooligosaccharide transport system substrate-binding protein	455		
+tr|C5C751|C5C751_MICLC			52	K19337	2
+tr|C5C8D2|C5C8D2_MICLC			221		
+tr|C5CAX4|C5CAX4_MICLC			122		
+tr|C5C7T9|C5C7T9_MICLC			329		
+tr|C5C8S2|C5C8S2_MICLC			25	K01885	3
+tr|C5C9D6|C5C9D6_MICLC			213		
+tr|C5CCM3|C5CCM3_MICLC			271		
+tr|C5C818|C5C818_MICLC			23	K03088	2
+tr|C5C7A9|C5C7A9_MICLC			125		
+tr|C5CBH1|C5CBH1_MICLC			367		
+tr|C5C7F1|C5C7F1_MICLC			25	K03750	3
+tr|C5C9E0|C5C9E0_MICLC			139		
+tr|C5C8Z7|C5C8Z7_MICLC			80		
+tr|C5CC03|C5CC03_MICLC			189		
+tr|C5C6V2|C5C6V2_MICLC			118	K03086	4
+tr|C5CAA6|C5CAA6_MICLC			32	K00796	2
+tr|C5CB86|C5CB86_MICLC			19	K02016	1
+tr|C5CCP4|C5CCP4_MICLC			20	K03124	6
+tr|C5C8G7|C5C8G7_MICLC	K01637	E4.1.3.1; isocitrate lyase [EC:4.1.3.1]	735		
+tr|C5C832|C5C832_MICLC			17	K00031	1
+tr|C5C806|C5C806_MICLC			289		
+tr|C5C717|C5C717_MICLC			24	K03550	1
+tr|C5C995|C5C995_MICLC			25	K05592	1
+tr|C5C8Y2|C5C8Y2_MICLC			19	K02556	1
+tr|C5CAJ5|C5CAJ5_MICLC			177		
+tr|C5CCJ9|C5CCJ9_MICLC			471		
+tr|C5CCJ1|C5CCJ1_MICLC			26	K00768	1
+tr|C5CBH0|C5CBH0_MICLC			249		
+tr|C5CC08|C5CC08_MICLC			392		
+tr|C5CB72|C5CB72_MICLC			431		
+tr|C5CAE7|C5CAE7_MICLC			255		
+tr|C5C6Z9|C5C6Z9_MICLC			171		
+tr|C5C9K4|C5C9K4_MICLC			105		
+tr|C5CC83|C5CC83_MICLC			26	K02551	2
+tr|C5CAS8|C5CAS8_MICLC			30	K03105	3
+tr|C5CBT6|C5CBT6_MICLC			69		
+tr|C5CB61|C5CB61_MICLC			149	K03088	7
+tr|C5C791|C5C791_MICLC			26	K01695	3
+tr|C5C6Q4|C5C6Q4_MICLC			32	K12255	2
+tr|C5C9N2|C5C9N2_MICLC			19	K12529	1
+tr|C5C871|C5C871_MICLC			270		
+tr|C5C7D8|C5C7D8_MICLC			23	K01786	2
+tr|C5CBL7|C5CBL7_MICLC	K05569	mnhE; multicomponent Na+:H+ antiporter subunit E	69	K01470	2
+tr|C5C8W2|C5C8W2_MICLC			117		
+tr|C5C8Q5|C5C8Q5_MICLC			57	K00620/K00930	2
+tr|C5CBV9|C5CBV9_MICLC			156		
+tr|C5C9I0|C5C9I0_MICLC	K01092	E3.1.3.25; myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25]	242		
+tr|C5C8H0|C5C8H0_MICLC			179		
+tr|C5CAS3|C5CAS3_MICLC			143		
+tr|C5C7A5|C5C7A5_MICLC			18	K03412	3
+tr|C5CAR0|C5CAR0_MICLC			30	K18682	1
+tr|C5C7B9|C5C7B9_MICLC			159		
+tr|C5C905|C5C905_MICLC			26	K01892	2
+tr|C5CCK4|C5CCK4_MICLC			194		
+tr|C5C8I8|C5C8I8_MICLC			108		
+tr|C5CCG6|C5CCG6_MICLC			19	K06199	1
+Contaminant_TRYP_PIG			153	K01312	19
+Contaminant_Trypa1					
+Contaminant_Trypa2					
+Contaminant_Trypa3					
+Contaminant_Trypa4					
+Contaminant_Trypa5			17	K03701	1
+Contaminant_Trypa6					
+Contaminant_TRYP_BOVIN			153	K01312	19
+Contaminant_CTRA_BOVIN			135	K01312	16
+Contaminant_CTRB_BOVIN			131	K01312	15
+Contaminant_ALBU_HUMAN			20	K03685	1
+Contaminant_ALBU_BOVIN			16	K01494	2
+Contaminant_K2C1_HUMAN			38	K03546	5
+Contaminant_K22E_HUMAN			24	K03529	2
+Contaminant_K1C9_HUMAN			25	K03529	2
+Contaminant_K1C10_HUMAN			24	K03529	4

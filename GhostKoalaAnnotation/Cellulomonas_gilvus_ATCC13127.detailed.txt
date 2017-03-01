@@ -1,0 +1,3174 @@
+tr|V6BIB0|V6BIB0_CELGA					
+tr|F8A4S7|F8A4S7_CELGA			423		
+tr|F8A3J5|F8A3J5_CELGA			423		
+tr|F8A2T8|F8A2T8_CELGA			149		
+tr|F8A2X6|F8A2X6_CELGA			422		
+tr|F7ZZB2|F7ZZB2_CELGA			124		
+tr|F7ZZ12|F7ZZ12_CELGA			32	K06338	1
+tr|F7ZZB1|F7ZZB1_CELGA			303	K07497	33
+tr|F8A407|F8A407_CELGA			222		
+tr|F8A426|F8A426_CELGA			156		
+tr|F8A4Y1|F8A4Y1_CELGA	K08256	pimA; phosphatidylinositol alpha-mannosyltransferase [EC:2.4.1.57]	503		
+tr|F7ZYY6|F7ZYY6_CELGA			567		
+tr|F7ZZE9|F7ZZE9_CELGA	K08998	uncharacterized protein	89		
+tr|F8A5V6|F8A5V6_CELGA			23	K02004	1
+tr|F7ZZJ5|F7ZZJ5_CELGA	K02982	RP-S3; small subunit ribosomal protein S3	409		
+tr|F8A0E5|F8A0E5_CELGA			164		
+tr|F8A0I1|F8A0I1_CELGA			173		
+tr|F8A712|F8A712_CELGA			405		
+tr|F8A602|F8A602_CELGA	K00012	UGDH; UDPglucose 6-dehydrogenase [EC:1.1.1.22]	582		
+tr|F8A133|F8A133_CELGA			802		
+tr|F8A1G3|F8A1G3_CELGA	K00800	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19]	537		
+tr|F8A1H6|F8A1H6_CELGA	K05847	opuA; osmoprotectant transport system ATP-binding protein	351		
+tr|F8A263|F8A263_CELGA	K03406	mcp; methyl-accepting chemotaxis protein	280		
+tr|F8A1S0|F8A1S0_CELGA	K03709	troR; DtxR family transcriptional regulator, Mn-dependent transcriptional regulator	252		
+tr|F8A288|F8A288_CELGA	K01104	E3.1.3.48; protein-tyrosine phosphatase [EC:3.1.3.48]	181		
+tr|F8A6Y7|F8A6Y7_CELGA	K13571	pafA; proteasome accessory factor A [EC:6.3.1.19]	731		
+tr|F8A231|F8A231_CELGA	K10947	padR; PadR family transcriptional regulator, regulatory protein PadR	129		
+tr|F8A4F5|F8A4F5_CELGA			264		
+tr|F8A4J0|F8A4J0_CELGA	K10764	metZ; O-succinylhomoserine sulfhydrylase [EC:2.5.1.-]	528		
+tr|F7ZYY0|F7ZYY0_CELGA	K01661	menB; naphthoate synthase [EC:4.1.3.36]	523		
+tr|F7ZZS3|F7ZZS3_CELGA			146		
+tr|F7ZZA9|F7ZZA9_CELGA			21	K00681	1
+tr|F8A0J1|F8A0J1_CELGA			21	K03832	2
+tr|F8A030|F8A030_CELGA			23	K08357	1
+tr|F8A6E1|F8A6E1_CELGA	K13640	hspR; MerR family transcriptional regulator, heat shock protein HspR	142		
+tr|F7ZZA2|F7ZZA2_CELGA	K00058	serA; D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95]	542		
+tr|F8A6Y3|F8A6Y3_CELGA			578		
+tr|F8A085|F8A085_CELGA	K02015	ABC.FEV.P; iron complex transport system permease protein	314		
+tr|F8A786|F8A786_CELGA			51		
+tr|F8A6P8|F8A6P8_CELGA			306		
+tr|F8A1Z1|F8A1Z1_CELGA	K15770	cycB; arabinogalactan oligomer / maltooligosaccharide transport system substrate-binding protein	443		
+tr|F8A1K6|F8A1K6_CELGA	K01687	ilvD; dihydroxy-acid dehydratase [EC:4.2.1.9]	984		
+tr|F8A7P2|F8A7P2_CELGA			216		
+tr|F8A1M7|F8A1M7_CELGA	K09694	nodJ; lipooligosaccharide transport system permease protein	243		
+tr|F8A457|F8A457_CELGA	K04485	radA; DNA repair protein RadA/Sms	572		
+tr|F8A1Y0|F8A1Y0_CELGA			70	K16146	70
+tr|F8A5R3|F8A5R3_CELGA			58	K03719	16
+tr|F7ZZV9|F7ZZV9_CELGA	K01462	PDF; peptide deformylase [EC:3.5.1.88]	195		
+tr|F8A4A0|F8A4A0_CELGA			192		
+tr|F7ZZI8|F7ZZI8_CELGA	K02946	RP-S10; small subunit ribosomal protein S10	203		
+tr|F8A673|F8A673_CELGA			240		
+tr|F8A5L3|F8A5L3_CELGA	K06178	rluB; 23S rRNA pseudouridine2605 synthase [EC:5.4.99.22]	328		
+tr|F8A1F8|F8A1F8_CELGA	K02669	pilT; twitching motility protein PilT	453		
+tr|F8A0D1|F8A0D1_CELGA			143		
+tr|F8A2A6|F8A2A6_CELGA			1432		
+tr|F8A2X0|F8A2X0_CELGA			420	K08225	39
+tr|F8A7V1|F8A7V1_CELGA			120		
+tr|F8A308|F8A308_CELGA			60	K05991	2
+tr|F8A187|F8A187_CELGA	K18955	whiB1_2_3_4; WhiB family transcriptional regulator, redox-sensing transcriptional regulator	134		
+tr|F8A328|F8A328_CELGA	K01739	metB; cystathionine gamma-synthase [EC:2.5.1.48]	496		
+tr|F8A3H5|F8A3H5_CELGA	K07729	putative transcriptional regulator	109		
+tr|F8A1S7|F8A1S7_CELGA	K02340	DPO3D1; DNA polymerase III subunit delta [EC:2.7.7.7]	308		
+tr|F8A3X3|F8A3X3_CELGA			135	K02768/K08483/K11183	4
+tr|F8A2Z0|F8A2Z0_CELGA			19	K03406	3
+tr|F8A7Q5|F8A7Q5_CELGA			23	K03722	1
+tr|F8A3H6|F8A3H6_CELGA			155		
+tr|F8A7W2|F8A7W2_CELGA			158		
+tr|F8A571|F8A571_CELGA	K07020	uncharacterized protein	161		
+tr|F8A5C2|F8A5C2_CELGA	K13280	SEC11; signal peptidase, endoplasmic reticulum-type [EC:3.4.-.-]	59		
+tr|F8A5P1|F8A5P1_CELGA	K00116	mqo; malate dehydrogenase (quinone) [EC:1.1.5.4]	607		
+tr|F7ZZK9|F7ZZK9_CELGA	K03076	secY; preprotein translocase subunit SecY	632		
+tr|F8A644|F8A644_CELGA			139		
+tr|F8A4D8|F8A4D8_CELGA			34	K03529	2
+tr|F7ZYW0|F7ZYW0_CELGA	K02031	ABC.PE.A; peptide/nickel transport system ATP-binding protein	348		
+	K02032	ABC.PE.A1; peptide/nickel transport system ATP-binding protein			
+tr|F8A7R3|F8A7R3_CELGA					
+tr|F8A694|F8A694_CELGA			217		
+tr|F8A125|F8A125_CELGA			585		
+tr|F8A4H2|F8A4H2_CELGA			167		
+tr|F8A6W3|F8A6W3_CELGA			65		
+tr|F8A611|F8A611_CELGA			358		
+tr|F8A7N1|F8A7N1_CELGA	K01515	nudF; ADP-ribose pyrophosphatase [EC:3.6.1.13]	212		
+tr|F8A211|F8A211_CELGA	K03116	tatA; sec-independent protein translocase protein TatA	62		
+tr|F8A6E3|F8A6E3_CELGA	K03687	GRPE; molecular chaperone GrpE	164		
+tr|F8A5X2|F8A5X2_CELGA	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	270		
+tr|F8A2E4|F8A2E4_CELGA			36	K16393	1
+tr|F8A454|F8A454_CELGA			78	K06218	5
+tr|F8A232|F8A232_CELGA			193		
+tr|F8A5J6|F8A5J6_CELGA	K09762	uncharacterized protein	485		
+tr|F8A430|F8A430_CELGA	K06196	ccdA; cytochrome c-type biogenesis protein	258		
+tr|F8A624|F8A624_CELGA			21	K03380	2
+tr|F8A500|F8A500_CELGA	K01892	HARS; histidyl-tRNA synthetase [EC:6.1.1.21]	629		
+tr|F8A6E0|F8A6E0_CELGA					
+tr|F7ZZP9|F7ZZP9_CELGA	K10006	gluC; glutamate transport system permease protein	287		
+tr|F8A025|F8A025_CELGA			179		
+tr|F8A184|F8A184_CELGA			209	K06381	12
+tr|F8A155|F8A155_CELGA	K10548	ABC.GGU.A; putative multiple sugar transport system ATP-binding protein [EC:3.6.3.17]	730		
+tr|F8A6U6|F8A6U6_CELGA			164		
+tr|F8A276|F8A276_CELGA			127		
+tr|F8A7W6|F8A7W6_CELGA			137		
+tr|F8A136|F8A136_CELGA			396		
+tr|F8A321|F8A321_CELGA	K00645	fabD; [acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39]	293		
+tr|F8A6R0|F8A6R0_CELGA			361		
+tr|F8A1Z5|F8A1Z5_CELGA			206		
+tr|F8A3K0|F8A3K0_CELGA			291	K02351	62
+tr|F8A581|F8A581_CELGA			85		
+tr|F8A2Z6|F8A2Z6_CELGA			37	K01865	1
+tr|F8A5D6|F8A5D6_CELGA	K02483	two-component system	362		
+tr|F8A2A3|F8A2A3_CELGA			46	K03556	9
+tr|F8A5I3|F8A5I3_CELGA	K03702	uvrB; excinuclease ABC subunit B	1135		
+tr|F8A7D4|F8A7D4_CELGA			83		
+tr|F8A7I0|F8A7I0_CELGA			186		
+tr|F8A7L6|F8A7L6_CELGA			33	K03824	31
+tr|F8A6M1|F8A6M1_CELGA			108		
+tr|F8A300|F8A300_CELGA			17	K03694	4
+tr|F8A061|F8A061_CELGA	K05881	dhaM; PTS hybrid protein	190		
+tr|F8A494|F8A494_CELGA	K04069	pflA; pyruvate formate lyase activating enzyme [EC:1.97.1.4]	355		
+tr|F8A2L3|F8A2L3_CELGA			234		
+tr|F8A2N0|F8A2N0_CELGA	K00239	sdhA; succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4]	971		
+tr|F8A3S6|F8A3S6_CELGA			238		
+tr|F8A2P2|F8A2P2_CELGA	K01255	CARP; leucyl aminopeptidase [EC:3.4.11.1]	384		
+tr|F8A3N4|F8A3N4_CELGA	K02274	coxA; cytochrome c oxidase subunit I [EC:1.9.3.1]	965		
+tr|F8A3V1|F8A3V1_CELGA			264		
+tr|F7ZZE4|F7ZZE4_CELGA	K03501	gidB; 16S rRNA (guanine527-N7)-methyltransferase [EC:2.1.1.170]	189		
+tr|F8A1N4|F8A1N4_CELGA	K16012	cydC; ATP-binding cassette, subfamily C, bacterial CydC	350		
+tr|F8A4V7|F8A4V7_CELGA			21	K01662	2
+tr|F8A2T7|F8A2T7_CELGA			152		
+tr|F8A651|F8A651_CELGA			17	K02536	11
+tr|F8A6Q8|F8A6Q8_CELGA	K02897	RP-L25; large subunit ribosomal protein L25	227		
+tr|F8A6H5|F8A6H5_CELGA			230		
+tr|F8A0Y3|F8A0Y3_CELGA			143		
+tr|F8A1K0|F8A1K0_CELGA			117	K01992	9
+tr|F8A497|F8A497_CELGA	K00632	fadA; acetyl-CoA acyltransferase [EC:2.3.1.16]	262		
+tr|F8A4M4|F8A4M4_CELGA	K03216	trmL; tRNA (cytidine/uridine-2'-O-)-methyltransferase [EC:2.1.1.207]	219		
+tr|F8A4A4|F8A4A4_CELGA			154		
+tr|F8A514|F8A514_CELGA	K07082	UPF0755 protein	204		
+tr|F7ZZ10|F7ZZ10_CELGA			29	K03223	1
+tr|F7ZYZ5|F7ZYZ5_CELGA	K00338	nuoI; NADH-quinone oxidoreductase subunit I [EC:1.6.5.3]	283		
+tr|F8A5J5|F8A5J5_CELGA			412		
+tr|F8A506|F8A506_CELGA			23	K04561	1
+tr|F7ZZ14|F7ZZ14_CELGA			224		
+tr|F8A7D1|F8A7D1_CELGA	K11068	hlyIII; hemolysin III	303		
+tr|F8A5I8|F8A5I8_CELGA			480		
+tr|F8A5H6|F8A5H6_CELGA			17	K02415	12
+tr|F8A4L6|F8A4L6_CELGA	K03654	recQ; ATP-dependent DNA helicase RecQ [EC:3.6.4.12]	884		
+tr|F8A5B9|F8A5B9_CELGA			152		
+tr|F8A5R8|F8A5R8_CELGA			53	K00285	2
+tr|F7ZZJ3|F7ZZJ3_CELGA	K02965	RP-S19; small subunit ribosomal protein S19	187		
+tr|F8A4V5|F8A4V5_CELGA			401	K00103	43
+tr|F8A5Q7|F8A5Q7_CELGA	K06929	uncharacterized protein	150		
+tr|F7ZZM1|F7ZZM1_CELGA			25	K00259	2
+tr|F7ZZG2|F7ZZG2_CELGA	K02867	RP-L11; large subunit ribosomal protein L11	245		
+tr|F8A5T4|F8A5T4_CELGA	K05522	nei; endonuclease VIII [EC:3.2.2.- 4.2.99.18]	193	K10563	36
+tr|F7ZZY0|F7ZZY0_CELGA			481		
+tr|F8A6B9|F8A6B9_CELGA	K11752	ribD; diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase [EC:3.5.4.26 1.1.1.193]	373		
+tr|F8A6K3|F8A6K3_CELGA			30	K01897	1
+tr|F7ZZC2|F7ZZC2_CELGA	K02314	dnaB; replicative DNA helicase [EC:3.6.4.12]	857		
+tr|F8A6E7|F8A6E7_CELGA	K00558	DNMT1; DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]	340		
+tr|F7ZZK7|F7ZZK7_CELGA	K02907	RP-L30; large subunit ribosomal protein L30	102		
+tr|F8A0D7|F8A0D7_CELGA			562		
+tr|F8A6R8|F8A6R8_CELGA			279		
+tr|F8A100|F8A100_CELGA			270	K00226	4
+tr|F8A105|F8A105_CELGA	K03212	rumB; 23S rRNA (uracil747-C5)-methyltransferase [EC:2.1.1.189]	400		
+tr|F8A6L0|F8A6L0_CELGA	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	194		
+tr|F8A708|F8A708_CELGA	K00024	mdh; malate dehydrogenase [EC:1.1.1.37]	119	K00016	17
+tr|F8A608|F8A608_CELGA	K03709	troR; DtxR family transcriptional regulator, Mn-dependent transcriptional regulator	307		
+tr|F8A0M5|F8A0M5_CELGA			332		
+tr|F8A110|F8A110_CELGA			308	K08372	27
+tr|F8A1A2|F8A1A2_CELGA			127		
+tr|F8A6T7|F8A6T7_CELGA			602		
+tr|F8A120|F8A120_CELGA			127		
+tr|F8A194|F8A194_CELGA	K09791	uncharacterized protein	18		
+tr|F7ZZP3|F7ZZP3_CELGA			186		
+tr|F8A6X7|F8A6X7_CELGA			105		
+tr|F8A1K9|F8A1K9_CELGA			163		
+tr|F8A0N7|F8A0N7_CELGA			18	K09709	2
+tr|F8A1Q7|F8A1Q7_CELGA	K01595	ppc; phosphoenolpyruvate carboxylase [EC:4.1.1.31]	1084		
+tr|F8A4K3|F8A4K3_CELGA			214		
+tr|F8A7S8|F8A7S8_CELGA	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	334		
+tr|F8A1S5|F8A1S5_CELGA	K02237	comEA; competence protein ComEA	118		
+tr|F8A1Q8|F8A1Q8_CELGA			151		
+tr|F8A248|F8A248_CELGA			331		
+tr|F8A2B5|F8A2B5_CELGA	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	245		
+tr|F8A7E6|F8A7E6_CELGA	K10112	msmX; multiple sugar transport system ATP-binding protein	569		
+tr|F8A2P0|F8A2P0_CELGA	K03088	SIG3.2; RNA polymerase sigma-70 factor, ECF subfamily	270		
+tr|F8A2R7|F8A2R7_CELGA	K03546	sbcC; exonuclease SbcC	469		
+tr|F8A7S7|F8A7S7_CELGA	K01992	ABC-2.P; ABC-2 type transport system permease protein	233		
+tr|F8A2Z7|F8A2Z7_CELGA			20	K07391	1
+tr|F8A2Z3|F8A2Z3_CELGA	K03497	parB; chromosome partitioning protein, ParB family	84		
+tr|F8A2C5|F8A2C5_CELGA	K01176	E3.2.1.1; alpha-amylase [EC:3.2.1.1]	336		
+tr|F8A1Q5|F8A1Q5_CELGA			31	K10112	1
+tr|F8A316|F8A316_CELGA	K02073	metQ; D-methionine transport system substrate-binding protein	240		
+tr|F8A374|F8A374_CELGA			72		
+tr|F8A2J9|F8A2J9_CELGA	K01768	E4.6.1.1; adenylate cyclase [EC:4.6.1.1]	85		
+tr|F8A236|F8A236_CELGA			248		
+tr|F8A2S6|F8A2S6_CELGA	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	342		
+tr|F8A3M0|F8A3M0_CELGA			30	K03497	1
+tr|F8A3H7|F8A3H7_CELGA			1164		
+tr|F8A149|F8A149_CELGA			288		
+tr|F8A3I1|F8A3I1_CELGA	K02020	modA; molybdate transport system substrate-binding protein	236		
+tr|F8A392|F8A392_CELGA			796		
+tr|F8A326|F8A326_CELGA			199		
+tr|F8A3B6|F8A3B6_CELGA			126	K03088	30
+tr|F8A377|F8A377_CELGA			750		
+tr|F8A7D3|F8A7D3_CELGA	K07175	phoH2; PhoH-like ATPase	682		
+tr|F8A2G6|F8A2G6_CELGA			18	K01692	2
+tr|F8A0L6|F8A0L6_CELGA	K00705	malQ; 4-alpha-glucanotransferase [EC:2.4.1.25]	854		
+tr|F8A5Z8|F8A5Z8_CELGA			103	K03409	7
+tr|F7ZZZ6|F7ZZZ6_CELGA					
+tr|F8A4D2|F8A4D2_CELGA			200		
+tr|F7ZZF8|F7ZZF8_CELGA	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	358		
+tr|F8A731|F8A731_CELGA	K00876	udk; uridine kinase [EC:2.7.1.48]	199		
+tr|F7ZZW6|F7ZZW6_CELGA			478		
+tr|F8A7B2|F8A7B2_CELGA	K09799	uncharacterized protein	460		
+tr|F8A1N7|F8A1N7_CELGA	K00425	cydA; cytochrome d ubiquinol oxidase subunit I [EC:1.10.3.14]	651		
+tr|F8A790|F8A790_CELGA			25	K02487/K06596	1
+tr|F8A273|F8A273_CELGA			617		
+tr|F8A724|F8A724_CELGA	K16264	czcD; cobalt-zinc-cadmium efflux system protein	299		
+tr|F7ZZD1|F7ZZD1_CELGA			202		
+tr|F8A130|F8A130_CELGA			135		
+tr|F8A3G6|F8A3G6_CELGA			427		
+tr|F8A023|F8A023_CELGA	K01903	sucC; succinyl-CoA synthetase beta subunit [EC:6.2.1.5]	603		
+tr|F8A553|F8A553_CELGA			254		
+tr|F8A594|F8A594_CELGA			169		
+tr|F8A0A6|F8A0A6_CELGA	K01358	clpP; ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]	341		
+tr|F8A4M3|F8A4M3_CELGA	K19265	gpr; L-glyceraldehyde 3-phosphate reductase [EC:1.1.1.-]	468		
+tr|F7ZZI2|F7ZZI2_CELGA			384		
+tr|F8A5H9|F8A5H9_CELGA			17	K02418	4
+tr|F8A559|F8A559_CELGA			186		
+tr|F8A5Q9|F8A5Q9_CELGA			224		
+tr|F7ZZN3|F7ZZN3_CELGA	K03665	hflX; GTPase	682		
+tr|F8A0X9|F8A0X9_CELGA			207		
+tr|F8A075|F8A075_CELGA	K15372	toa; taurine---2-oxoglutarate transaminase [EC:2.6.1.55]	618		
+tr|F8A1W9|F8A1W9_CELGA	K00566	mnmA; tRNA-specific 2-thiouridylase [EC:2.8.1.-]	467		
+tr|F8A1E3|F8A1E3_CELGA			436		
+tr|F8A341|F8A341_CELGA			184		
+tr|F8A3Q8|F8A3Q8_CELGA			240		
+tr|F8A2W0|F8A2W0_CELGA			18	K03583	1
+tr|F8A721|F8A721_CELGA			283		
+tr|F8A7V9|F8A7V9_CELGA			378		
+tr|F8A5I6|F8A5I6_CELGA	K09780	uncharacterized protein	51		
+tr|F8A7A5|F8A7A5_CELGA			94	K01992	26
+tr|F8A678|F8A678_CELGA	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	310		
+tr|F8A5P0|F8A5P0_CELGA			28	K07047	1
+tr|F8A4K1|F8A4K1_CELGA	K01945	purD; phosphoribosylamine--glycine ligase [EC:6.3.4.13]	520		
+tr|F7ZZX3|F7ZZX3_CELGA	K09019	rutE; 3-hydroxypropanoate dehydrogenase [EC:1.1.1.-]	165		
+tr|F8A691|F8A691_CELGA			185		
+tr|F7ZZL0|F7ZZL0_CELGA	K00939	adk; adenylate kinase [EC:2.7.4.3]	253		
+tr|F8A6K2|F8A6K2_CELGA			173		
+tr|F8A6Q2|F8A6Q2_CELGA			116	K02168	4
+tr|F8A582|F8A582_CELGA			121		
+tr|F8A0K8|F8A0K8_CELGA	K07386	pepO; putative endopeptidase [EC:3.4.24.-]	714	K01389	158
+tr|F8A1W6|F8A1W6_CELGA	K01972	E6.5.1.2; DNA ligase (NAD+) [EC:6.5.1.2]	838		
+tr|F8A463|F8A463_CELGA	K02035	ABC.PE.S; peptide/nickel transport system substrate-binding protein	461		
+tr|F8A3C3|F8A3C3_CELGA	K06877	DEAD/DEAH box helicase domain-containing protein	901		
+tr|F7ZZ89|F7ZZ89_CELGA	K03924	moxR; MoxR-like ATPase [EC:3.6.3.-]	414		
+tr|F8A0J5|F8A0J5_CELGA			25	K02343	1
+tr|F8A437|F8A437_CELGA			365		
+tr|F8A2U2|F8A2U2_CELGA	K17686	copA; Cu+-exporting ATPase [EC:3.6.3.54]	794		
+tr|F8A6R5|F8A6R5_CELGA			293		
+tr|F8A7F7|F8A7F7_CELGA			19	K05896	1
+tr|F8A3C6|F8A3C6_CELGA			135		
+tr|F8A6Q7|F8A6Q7_CELGA	K00948	PRPS; ribose-phosphate pyrophosphokinase [EC:2.7.6.1]	507		
+tr|F8A464|F8A464_CELGA	K02032	ABC.PE.A1; peptide/nickel transport system ATP-binding protein	121		
+tr|F8A4R4|F8A4R4_CELGA			13	K05564	2
+tr|F7ZZ51|F7ZZ51_CELGA	K02916	RP-L35; large subunit ribosomal protein L35	106		
+tr|F7ZZC3|F7ZZC3_CELGA			435		
+tr|F8A4L7|F8A4L7_CELGA			251		
+tr|F7ZZS7|F7ZZS7_CELGA			337		
+tr|F8A6B8|F8A6B8_CELGA	K00793	ribE; riboflavin synthase [EC:2.5.1.9]	242		
+tr|F8A473|F8A473_CELGA	K02341	DPO3D2; DNA polymerase III subunit delta' [EC:2.7.7.7]	464		
+tr|F8A6K9|F8A6K9_CELGA			184		
+tr|F7ZZF0|F7ZZF0_CELGA	K03536	rnpA; ribonuclease P protein component [EC:3.1.26.5]	104		
+tr|F8A0B9|F8A0B9_CELGA			173		
+tr|F8A799|F8A799_CELGA	K03885	ndh; NADH dehydrogenase [EC:1.6.99.3]	587		
+tr|F8A7B7|F8A7B7_CELGA			58	K16648	2
+tr|F8A6P3|F8A6P3_CELGA			275		
+tr|F8A1I5|F8A1I5_CELGA			170		
+tr|F8A1G1|F8A1G1_CELGA			111		
+tr|F7ZZZ2|F7ZZZ2_CELGA	K02016	ABC.FEV.S; iron complex transport system substrate-binding protein	325		
+tr|F8A0T9|F8A0T9_CELGA	K00230	hemG; menaquinone-dependent protoporphyrinogen oxidase [EC:1.3.5.3]	120		
+tr|F8A1R0|F8A1R0_CELGA	K02033	ABC.PE.P; peptide/nickel transport system permease protein	470		
+tr|F8A2F9|F8A2F9_CELGA			18	K08698	1
+tr|F8A3M8|F8A3M8_CELGA			213		
+tr|F8A703|F8A703_CELGA			400		
+tr|F8A7F2|F8A7F2_CELGA	K09760	rmuC; DNA recombination protein RmuC	394		
+tr|F8A6P4|F8A6P4_CELGA	K02528	ksgA; 16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase [EC:2.1.1.182]	339		
+tr|F8A3R6|F8A3R6_CELGA			814		
+tr|F8A7N3|F8A7N3_CELGA	K03980	murJ; putative peptidoglycan lipid II flippase	289		
+tr|F8A3X2|F8A3X2_CELGA			439		
+tr|F8A440|F8A440_CELGA	K03695	clpB; ATP-dependent Clp protease ATP-binding subunit ClpB	1255		
+tr|F8A585|F8A585_CELGA			328		
+tr|F7ZZ50|F7ZZ50_CELGA	K02887	RP-L20; large subunit ribosomal protein L20	207		
+tr|F7ZZ59|F7ZZ59_CELGA			219		
+tr|F8A6B7|F8A6B7_CELGA	K14652	ribBA; 3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II [EC:4.1.99.12 3.5.4.25]	480		
+tr|F8A063|F8A063_CELGA	K05878	dhaK; dihydroxyacetone kinase, N-terminal domain [EC:2.7.1.-]	480		
+tr|F8A6M6|F8A6M6_CELGA	K00963	UGP2; UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9]	397		
+tr|F8A076|F8A076_CELGA	K02051	ABC.SN.S; NitT/TauT family transport system substrate-binding protein	400		
+tr|F8A0G4|F8A0G4_CELGA	K02074	ABC.ZM.A; zinc/manganese transport system ATP-binding protein	295		
+tr|F8A4S9|F8A4S9_CELGA			72	K03088	8
+tr|F8A6U0|F8A6U0_CELGA	K14645	serine protease [EC:3.4.21.-]	318		
+tr|F8A0C1|F8A0C1_CELGA	K15269	pecM; probable blue pigment (indigoidine) exporter	244		
+tr|F8A0M2|F8A0M2_CELGA	K06886	glbN; hemoglobin	215		
+tr|F8A7J5|F8A7J5_CELGA			126		
+tr|F8A1G0|F8A1G0_CELGA	K03088	SIG3.2; RNA polymerase sigma-70 factor, ECF subfamily	322		
+tr|F8A3W7|F8A3W7_CELGA			341		
+tr|F8A2Y7|F8A2Y7_CELGA			18	K02654	1
+tr|F8A2P6|F8A2P6_CELGA	K06966	uncharacterized protein	354		
+tr|F8A400|F8A400_CELGA			41	K03892	19
+tr|F8A456|F8A456_CELGA	K07067	disA; diadenylate cyclase [EC:2.7.7.85]	510		
+tr|F8A5N1|F8A5N1_CELGA			20	K01968	1
+tr|F8A5K6|F8A5K6_CELGA	K00616	E2.2.1.2; transaldolase [EC:2.2.1.2]	453		
+tr|F8A026|F8A026_CELGA			24	K05802	1
+tr|F8A0C4|F8A0C4_CELGA	K00600	glyA; glycine hydroxymethyltransferase [EC:2.1.2.1]	649		
+tr|F7ZZS5|F7ZZS5_CELGA	K00215	dapB; 4-hydroxy-tetrahydrodipicolinate reductase [EC:1.17.1.8]	302		
+tr|F8A154|F8A154_CELGA	K10547	ABC.GGU.P; putative multiple sugar transport system permease protein	449		
+tr|F8A1G5|F8A1G5_CELGA	K05602	hisN; histidinol-phosphatase [EC:3.1.3.15]	396		
+tr|F8A3V3|F8A3V3_CELGA			63	K06075	6
+tr|F8A0K4|F8A0K4_CELGA			459		
+tr|F8A3W3|F8A3W3_CELGA			21	K03727	2
+tr|F8A7E9|F8A7E9_CELGA	K03601	xseA; exodeoxyribonuclease VII large subunit [EC:3.1.11.6]	444		
+tr|F8A2S1|F8A2S1_CELGA	K02440	GLPF; glycerol uptake facilitator protein	256		
+tr|F7ZYW1|F7ZYW1_CELGA	K02035	ABC.PE.S; peptide/nickel transport system substrate-binding protein	167		
+tr|F8A299|F8A299_CELGA			134		
+tr|F8A1P0|F8A1P0_CELGA	K02899	RP-L27; large subunit ribosomal protein L27	155		
+tr|F8A4R1|F8A4R1_CELGA	K03798	ftsH; cell division protease FtsH [EC:3.4.24.-]	934		
+tr|F8A4T4|F8A4T4_CELGA	K01805	xylA; xylose isomerase [EC:5.3.1.5]	608		
+tr|F7ZZ63|F7ZZ63_CELGA			25	K10536	1
+tr|F8A614|F8A614_CELGA	K00819	rocD; ornithine--oxo-acid transaminase [EC:2.6.1.13]	495		
+tr|F8A531|F8A531_CELGA	K00850	pfkA; 6-phosphofructokinase 1 [EC:2.7.1.11]	414		
+tr|F8A0A9|F8A0A9_CELGA			311		
+tr|F8A725|F8A725_CELGA	K02575	NRT; MFS transporter, NNP family, nitrate/nitrite transporter	417		
+tr|F8A0T5|F8A0T5_CELGA			116		
+tr|F8A112|F8A112_CELGA			111		
+tr|F8A129|F8A129_CELGA			17	K02050	1
+tr|F8A7C5|F8A7C5_CELGA	K01754	E4.3.1.19; threonine dehydratase [EC:4.3.1.19]	454		
+tr|F8A7W0|F8A7W0_CELGA			153		
+tr|F8A1S3|F8A1S3_CELGA	K01869	LARS; leucyl-tRNA synthetase [EC:6.1.1.4]	1340		
+tr|F8A2U7|F8A2U7_CELGA	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	157		
+tr|F8A2H9|F8A2H9_CELGA			21	K00029	3
+tr|F8A358|F8A358_CELGA	K06113	abnA; arabinan endo-1,5-alpha-L-arabinosidase [EC:3.2.1.99]	318		
+tr|F8A3R8|F8A3R8_CELGA			394		
+tr|F8A354|F8A354_CELGA			265		
+tr|F8A4T7|F8A4T7_CELGA			23	K03466	1
+tr|F8A0S6|F8A0S6_CELGA	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	356		
+tr|F7ZZI4|F7ZZI4_CELGA	K02026	ABC.MS.P1; multiple sugar transport system permease protein	402		
+tr|F8A545|F8A545_CELGA			14	K13583	5
+tr|F8A4Y5|F8A4Y5_CELGA	K00812	aspB; aspartate aminotransferase [EC:2.6.1.1]	223		
+tr|F8A021|F8A021_CELGA			20	K14682	1
+tr|F8A072|F8A072_CELGA	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	640		
+tr|F8A0R1|F8A0R1_CELGA			385		
+tr|F8A032|F8A032_CELGA	K00031	IDH1; isocitrate dehydrogenase [EC:1.1.1.42]	719		
+tr|F8A6T0|F8A6T0_CELGA			130	K01990	34
+tr|F7ZZT4|F7ZZT4_CELGA			159		
+tr|F8A2N8|F8A2N8_CELGA	K08372	pepD; putative serine protease PepD [EC:3.4.21.-]	328		
+tr|F8A0Z8|F8A0Z8_CELGA			15	K05595	2
+tr|F8A386|F8A386_CELGA	K09955	uncharacterized protein	665		
+tr|F8A191|F8A191_CELGA			174		
+tr|F8A3U2|F8A3U2_CELGA			60		
+tr|F8A3Y3|F8A3Y3_CELGA			60		
+tr|F8A363|F8A363_CELGA	K02026	ABC.MS.P1; multiple sugar transport system permease protein	261	K05815	22
+tr|F8A1M2|F8A1M2_CELGA			17	K02112	1
+tr|F8A495|F8A495_CELGA			119		
+tr|F8A7D5|F8A7D5_CELGA	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	266		
+tr|F8A2L9|F8A2L9_CELGA			17	K03723	3
+tr|F8A778|F8A778_CELGA	K00138	aldB; aldehyde dehydrogenase [EC:1.2.1.-]	834		
+tr|F8A4P3|F8A4P3_CELGA			12	K17722	2
+tr|F8A586|F8A586_CELGA	K10773	NTH; endonuclease III [EC:4.2.99.18]	309		
+tr|F8A7P0|F8A7P0_CELGA			19	K00134	3
+tr|F8A7E8|F8A7E8_CELGA	K03602	xseB; exodeoxyribonuclease VII small subunit [EC:3.1.11.6]	72		
+tr|F8A4G6|F8A4G6_CELGA			71		
+tr|F8A1M6|F8A1M6_CELGA	K09695	nodI; lipooligosaccharide transport system ATP-binding protein	474		
+tr|F8A088|F8A088_CELGA	K14941	cofC; 2-phospho-L-lactate guanylyltransferase [EC:2.7.7.68]	115		
+tr|F8A365|F8A365_CELGA			20	K01011	4
+tr|F8A5E3|F8A5E3_CELGA			18	K00099	3
+tr|F8A717|F8A717_CELGA	K06199	crcB; CrcB protein	91		
+tr|F8A7T9|F8A7T9_CELGA			332	K00344	41
+tr|F8A7W1|F8A7W1_CELGA			159		
+tr|F8A3K3|F8A3K3_CELGA	K07399	resB; cytochrome c biogenesis protein	403		
+tr|F8A4J9|F8A4J9_CELGA	K01923	purC; phosphoribosylaminoimidazole-succinocarboxamide synthase [EC:6.3.2.6]	430		
+tr|F8A6S5|F8A6S5_CELGA			36	K01802	1
+tr|F7ZZR2|F7ZZR2_CELGA	K00995	pgsA; CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase [EC:2.7.8.5]	195		
+tr|F8A3B2|F8A3B2_CELGA			225		
+tr|F7ZZS0|F7ZZS0_CELGA	K00135	gabD; succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2.1.79 1.2.1.20]	549		
+tr|F8A254|F8A254_CELGA			219	K20276	9
+tr|F8A3Q5|F8A3Q5_CELGA			135		
+tr|F8A7R2|F8A7R2_CELGA	K01749	hemC; hydroxymethylbilane synthase [EC:2.5.1.61]	304		
+tr|F8A2R4|F8A2R4_CELGA			192		
+tr|F8A414|F8A414_CELGA			205		
+tr|F8A459|F8A459_CELGA	K01992	ABC-2.P; ABC-2 type transport system permease protein	273		
+tr|F7ZYY2|F7ZYY2_CELGA	K02551	menD; 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [EC:2.2.1.9]	469		
+tr|F7ZZ26|F7ZZ26_CELGA			182		
+tr|F7ZZI0|F7ZZI0_CELGA			18	K01056	2
+tr|F7ZZV0|F7ZZV0_CELGA	K06941	rlmN; 23S rRNA (adenine2503-C2)-methyltransferase [EC:2.1.1.192]	554		
+tr|F8A1Y1|F8A1Y1_CELGA			439		
+tr|F8A5Z9|F8A5Z9_CELGA	K03413	cheY; two-component system, chemotaxis family, response regulator CheY	139		
+tr|F8A4D0|F8A4D0_CELGA	K01823	idi; isopentenyl-diphosphate Delta-isomerase [EC:5.3.3.2]	186		
+tr|F8A403|F8A403_CELGA			92	K03741	11
+tr|F7ZZS4|F7ZZS4_CELGA			121		
+tr|F8A483|F8A483_CELGA	K07007	uncharacterized protein	446		
+tr|F8A0V4|F8A0V4_CELGA			644		
+tr|F8A147|F8A147_CELGA			486		
+tr|F8A4E7|F8A4E7_CELGA			501	K07493	46
+tr|F8A1Q4|F8A1Q4_CELGA			136		
+tr|F7ZZ52|F7ZZ52_CELGA	K03711	fur; Fur family transcriptional regulator, ferric uptake regulator	193		
+tr|F8A5M2|F8A5M2_CELGA			25	K03750	2
+tr|F8A696|F8A696_CELGA			26	K02001	2
+tr|F7ZZL4|F7ZZL4_CELGA	K02952	RP-S13; small subunit ribosomal protein S13	226		
+tr|F8A6J9|F8A6J9_CELGA	K00278	nadB; L-aspartate oxidase [EC:1.4.3.16]	20		
+tr|F8A5F0|F8A5F0_CELGA			16	K13626	7
+tr|F8A7A0|F8A7A0_CELGA			164		
+tr|F8A5M0|F8A5M0_CELGA			18	K03654	1
+tr|F7ZYY3|F7ZYY3_CELGA	K08372	pepD; putative serine protease PepD [EC:3.4.21.-]	342		
+tr|F8A556|F8A556_CELGA			435		
+tr|F8A597|F8A597_CELGA	K00928	lysC; aspartate kinase [EC:2.7.2.4]	619		
+tr|F8A0Y6|F8A0Y6_CELGA	K01082	cysQ; 3'(2'), 5'-bisphosphate nucleotidase [EC:3.1.3.7]	290		
+tr|F8A7C2|F8A7C2_CELGA			367		
+tr|F8A2V9|F8A2V9_CELGA			23	K18299	2
+tr|F8A1D0|F8A1D0_CELGA	K02902	RP-L28; large subunit ribosomal protein L28	118		
+tr|F7ZZ68|F7ZZ68_CELGA	K14761	ybcJ; ribosome-associated protein	27		
+tr|F8A774|F8A774_CELGA			28	K13529	5
+tr|F8A2V5|F8A2V5_CELGA			149		
+tr|F8A7A7|F8A7A7_CELGA			255		
+tr|F8A1Z0|F8A1Z0_CELGA	K15771	ganP; arabinogalactan oligomer / maltooligosaccharide transport system permease protein	574		
+tr|F8A1N5|F8A1N5_CELGA	K16013	cydD; ATP-binding cassette, subfamily C, bacterial CydD	490		
+tr|F8A2T3|F8A2T3_CELGA			333		
+tr|F8A3F6|F8A3F6_CELGA			24	K00820	1
+tr|F8A682|F8A682_CELGA			180		
+tr|F8A6B1|F8A6B1_CELGA			424		
+tr|F8A305|F8A305_CELGA			24	K00123	1
+tr|F8A535|F8A535_CELGA	K03696	clpC; ATP-dependent Clp protease ATP-binding subunit ClpC	1430		
+tr|F8A639|F8A639_CELGA			29	K00341	2
+tr|F7ZZ44|F7ZZ44_CELGA	K06001	trpB; tryptophan synthase beta chain [EC:4.2.1.20]	615		
+tr|F8A3D2|F8A3D2_CELGA			60		
+tr|F8A7I3|F8A7I3_CELGA			192		
+tr|F8A1P9|F8A1P9_CELGA			129		
+tr|F8A0P7|F8A0P7_CELGA			238		
+tr|F7ZYY4|F7ZYY4_CELGA	K02552	menF; menaquinone-specific isochorismate synthase [EC:5.4.4.2]	488		
+tr|F7ZZW2|F7ZZW2_CELGA	K00820	glmS; glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16]	956		
+tr|F8A3Y9|F8A3Y9_CELGA			28	K01756	3
+tr|F8A7H7|F8A7H7_CELGA			213		
+tr|F8A6J4|F8A6J4_CELGA			255		
+tr|F8A5A6|F8A5A6_CELGA			194		
+tr|F8A5C3|F8A5C3_CELGA			33	K01775	1
+tr|F7ZZY3|F7ZZY3_CELGA			169		
+tr|F8A048|F8A048_CELGA	K02959	RP-S16; small subunit ribosomal protein S16	180		
+tr|F8A067|F8A067_CELGA	K01091	gph; phosphoglycolate phosphatase [EC:3.1.3.18]	166		
+tr|F8A6D9|F8A6D9_CELGA			624		
+tr|F8A0Q7|F8A0Q7_CELGA			220		
+tr|F8A785|F8A785_CELGA	K00510	HMOX; heme oxygenase (biliverdin-producing) [EC:1.14.14.18]	192		
+tr|F8A7B9|F8A7B9_CELGA			638		
+tr|F8A2S0|F8A2S0_CELGA			206		
+tr|F8A2X2|F8A2X2_CELGA			223		
+tr|F8A3E5|F8A3E5_CELGA	K10232	aglE; alpha-glucoside transport system substrate-binding protein	504		
+tr|F8A111|F8A111_CELGA	K01179	E3.2.1.4; endoglucanase [EC:3.2.1.4]	212		
+tr|F8A060|F8A060_CELGA			159		
+tr|F8A0J4|F8A0J4_CELGA			180		
+tr|F8A7F3|F8A7F3_CELGA	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	380		
+tr|F8A0M9|F8A0M9_CELGA			958		
+tr|F8A7N7|F8A7N7_CELGA	K03631	recN; DNA repair protein RecN (Recombination protein N)	530		
+tr|F8A6X4|F8A6X4_CELGA	K01609	trpC; indole-3-glycerol phosphate synthase [EC:4.1.1.48]	389		
+tr|F8A7R4|F8A7R4_CELGA	K01698	hemB; porphobilinogen synthase [EC:4.2.1.24]	428		
+tr|F8A1R5|F8A1R5_CELGA			239		
+tr|F8A1Z7|F8A1Z7_CELGA			134		
+tr|F8A235|F8A235_CELGA	K03767	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]	250		
+tr|F8A1V8|F8A1V8_CELGA	K01181	E3.2.1.8; endo-1,4-beta-xylanase [EC:3.2.1.8]	665		
+tr|F8A2F1|F8A2F1_CELGA			35	K01181	1
+tr|F8A275|F8A275_CELGA	K03313	nhaA; Na+:H+ antiporter, NhaA family	469		
+tr|F8A2Q4|F8A2Q4_CELGA			226		
+tr|F8A2K9|F8A2K9_CELGA	K07243	FTR; high-affinity iron transporter	337		
+tr|F8A3P6|F8A3P6_CELGA			22	K10773	2
+tr|F8A257|F8A257_CELGA			153		
+tr|F8A5G3|F8A5G3_CELGA	K02410	fliG; flagellar motor switch protein FliG	367		
+tr|F7ZZD6|F7ZZD6_CELGA	K03980	murJ; putative peptidoglycan lipid II flippase	292		
+tr|F8A362|F8A362_CELGA	K02025	ABC.MS.P; multiple sugar transport system permease protein	274	K05814	24
+tr|F8A3B4|F8A3B4_CELGA			59	K00845	2
+tr|F8A4R5|F8A4R5_CELGA	K06996	uncharacterized protein	66		
+tr|F8A4C8|F8A4C8_CELGA			237		
+tr|F8A4C1|F8A4C1_CELGA			477		
+tr|F7ZYX6|F7ZYX6_CELGA	K02548	menA; 1,4-dihydroxy-2-naphthoate octaprenyltransferase [EC:2.5.1.74 2.5.1.-]	254		
+tr|F7ZZ32|F7ZZ32_CELGA			169		
+tr|F7ZZG3|F7ZZG3_CELGA	K02863	RP-L1; large subunit ribosomal protein L1	378		
+tr|F8A690|F8A690_CELGA			351		
+tr|F8A692|F8A692_CELGA			68	K00950	3
+tr|F8A6B2|F8A6B2_CELGA			110		
+tr|F8A071|F8A071_CELGA			275		
+tr|F8A043|F8A043_CELGA	K03100	lepB; signal peptidase I [EC:3.4.21.89]	264		
+tr|F8A0R2|F8A0R2_CELGA			189		
+tr|F8A7G1|F8A7G1_CELGA			174		
+tr|F8A7K2|F8A7K2_CELGA	K08296	sixA; phosphohistidine phosphatase [EC:3.1.3.-]	141		
+tr|F8A7T3|F8A7T3_CELGA	K00064	E1.1.1.122; D-threo-aldose 1-dehydrogenase [EC:1.1.1.122]	120		
+tr|F8A684|F8A684_CELGA			17	K04656	1
+tr|F8A6E8|F8A6E8_CELGA			458		
+tr|F8A1M0|F8A1M0_CELGA	K02469	gyrA; DNA gyrase subunit A [EC:5.99.1.3]	1298		
+tr|F8A2J7|F8A2J7_CELGA	K07552	bcr; MFS transporter, DHA1 family, bicyclomycin/chloramphenicol resistance protein	325		
+tr|F8A6S0|F8A6S0_CELGA			195		
+tr|F8A3G1|F8A3G1_CELGA			442		
+tr|F8A3R4|F8A3R4_CELGA			120		
+tr|F8A3Y0|F8A3Y0_CELGA			120	K07721	14
+tr|F8A7T4|F8A7T4_CELGA			527		
+tr|F8A616|F8A616_CELGA			21	K03782	4
+tr|F8A431|F8A431_CELGA			273		
+tr|F8A590|F8A590_CELGA			86		
+tr|F8A5Y0|F8A5Y0_CELGA	K03647	nrdI; protein involved in ribonucleotide reduction	205		
+tr|F8A0V7|F8A0V7_CELGA	K02004	ABC.CD.P; putative ABC transport system permease protein	453		
+tr|F8A2I1|F8A2I1_CELGA	K13668	pimB; phosphatidylinositol alpha-1,6-mannosyltransferase [EC:2.4.1.-]	398		
+tr|F7ZZM0|F7ZZM0_CELGA			114	K06158	4
+tr|F7ZYW8|F7ZYW8_CELGA			212		
+tr|F8A782|F8A782_CELGA			238		
+tr|F7ZZC6|F7ZZC6_CELGA	K03111	ssb; single-strand DNA-binding protein	225		
+tr|F8A4X9|F8A4X9_CELGA	K00995	pgsA; CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase [EC:2.7.8.5]	206		
+tr|F8A561|F8A561_CELGA			280		
+tr|F8A5S7|F8A5S7_CELGA			65		
+tr|F8A4Z8|F8A4Z8_CELGA	K03768	PPIB; peptidyl-prolyl cis-trans isomerase B (cyclophilin B) [EC:5.2.1.8]	224		
+tr|F8A5A2|F8A5A2_CELGA			599		
+tr|F7ZZE0|F7ZZE0_CELGA			631		
+tr|F8A655|F8A655_CELGA	K02954	RP-S14; small subunit ribosomal protein S14	107		
+tr|F7ZZR0|F7ZZR0_CELGA			174		
+tr|F8A548|F8A548_CELGA			402		
+tr|F8A714|F8A714_CELGA			447		
+tr|F8A116|F8A116_CELGA			372		
+tr|F8A003|F8A003_CELGA			234		
+tr|F8A138|F8A138_CELGA			304		
+tr|F8A1R8|F8A1R8_CELGA			457		
+tr|F8A0B0|F8A0B0_CELGA			303	K07497	33
+tr|F8A0T0|F8A0T0_CELGA	K02302	cysG; uroporphyrin-III C-methyltransferase / precorrin-2 dehydrogenase / sirohydrochlorin ferrochelatase [EC:2.1.1.107 1.3.1.76 4.99.1.4]	337		
+tr|F8A741|F8A741_CELGA			21	K05786	5
+tr|F8A121|F8A121_CELGA			576		
+tr|F8A0A0|F8A0A0_CELGA	K01873	VARS; valyl-tRNA synthetase [EC:6.1.1.9]	1294		
+tr|F8A2E1|F8A2E1_CELGA			102		
+tr|F7ZZW3|F7ZZW3_CELGA			79		
+tr|F8A134|F8A134_CELGA			26	K03185	1
+tr|F7ZYX7|F7ZYX7_CELGA	K01911	menE; O-succinylbenzoic acid--CoA ligase [EC:6.2.1.26]	283		
+tr|F8A0H0|F8A0H0_CELGA			19	K00088	1
+tr|F8A1B6|F8A1B6_CELGA			146		
+tr|F8A355|F8A355_CELGA	K03644	lipA; lipoyl synthase [EC:2.8.1.8]	574		
+tr|F8A4I9|F8A4I9_CELGA			164		
+tr|F7ZZR4|F7ZZR4_CELGA			479		
+tr|F7ZZH1|F7ZZH1_CELGA	K03046	rpoC; DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]	2159		
+tr|F8A4J2|F8A4J2_CELGA			1288		
+tr|F8A736|F8A736_CELGA	K03088	SIG3.2; RNA polymerase sigma-70 factor, ECF subfamily	288		
+tr|F8A6H4|F8A6H4_CELGA			316		
+tr|F8A0R7|F8A0R7_CELGA			186		
+tr|F8A2H8|F8A2H8_CELGA			197		
+tr|F8A7K1|F8A7K1_CELGA	K00975	glgC; glucose-1-phosphate adenylyltransferase [EC:2.7.7.27]	655		
+tr|F8A4Z3|F8A4Z3_CELGA	K03074	secF; preprotein translocase subunit SecF	394		
+tr|F8A3U7|F8A3U7_CELGA	K00937	ppk; polyphosphate kinase [EC:2.7.4.1]	1047		
+tr|F8A5F1|F8A5F1_CELGA	K02397	flgL; flagellar hook-associated protein 3 FlgL	256		
+tr|F8A3E1|F8A3E1_CELGA			373		
+tr|F8A6F6|F8A6F6_CELGA			141		
+tr|F8A1A9|F8A1A9_CELGA	K09927	uncharacterized protein	379		
+tr|F8A2C4|F8A2C4_CELGA			216		
+tr|F8A2F5|F8A2F5_CELGA			27	K02034	1
+tr|F8A6Y6|F8A6Y6_CELGA	K01802	E5.2.1.8; peptidylprolyl isomerase [EC:5.2.1.8]	175		
+tr|F8A237|F8A237_CELGA			81		
+tr|F8A1C3|F8A1C3_CELGA			298		
+tr|F7ZZQ0|F7ZZQ0_CELGA	K10007	gluD; glutamate transport system permease protein	279		
+tr|F8A2W8|F8A2W8_CELGA	K09955	uncharacterized protein	438		
+tr|F8A781|F8A781_CELGA			244		
+tr|F8A492|F8A492_CELGA	K01662	dxs; 1-deoxy-D-xylulose-5-phosphate synthase [EC:2.2.1.7]	903		
+tr|F8A4B9|F8A4B9_CELGA	K00694	bcsA; cellulose synthase (UDP-forming) [EC:2.4.1.12]	430		
+tr|F8A4M2|F8A4M2_CELGA			232		
+tr|F8A4S1|F8A4S1_CELGA			309		
+tr|F8A4Y7|F8A4Y7_CELGA			418		
+tr|F8A4P7|F8A4P7_CELGA			152		
+tr|F8A4G2|F8A4G2_CELGA			28	K01992	2
+tr|F8A543|F8A543_CELGA			25	K00627	2
+tr|F8A4G3|F8A4G3_CELGA			66		
+tr|F7ZYW6|F7ZYW6_CELGA			637		
+tr|F7ZZS6|F7ZZS6_CELGA			104		
+tr|F8A693|F8A693_CELGA			116		
+tr|F8A0D5|F8A0D5_CELGA	K03593	mrp; ATP-binding protein involved in chromosome partitioning	499		
+tr|F7ZZR7|F7ZZR7_CELGA	K01714	dapA; 4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7]	328		
+tr|F8A6N8|F8A6N8_CELGA			17	K09471	2
+tr|F8A0R6|F8A0R6_CELGA			425		
+tr|F8A4R0|F8A4R0_CELGA	K00760	hprT; hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]	303		
+tr|F8A1P8|F8A1P8_CELGA	K15634	gpmB; probable phosphoglycerate mutase [EC:5.4.2.12]	179		
+tr|F8A701|F8A701_CELGA			105		
+tr|F8A3M3|F8A3M3_CELGA			213		
+tr|F8A3U9|F8A3U9_CELGA	K07220	uncharacterized protein	286		
+tr|F8A6P2|F8A6P2_CELGA			342		
+tr|F8A2I8|F8A2I8_CELGA	K01887	RARS; arginyl-tRNA synthetase [EC:6.1.1.19]	782		
+tr|F8A1F9|F8A1F9_CELGA			53		
+tr|F7ZZE5|F7ZZE5_CELGA			107		
+tr|F8A3L2|F8A3L2_CELGA	K07071	uncharacterized protein	227		
+tr|F8A0H8|F8A0H8_CELGA			26	K07148	1
+tr|F8A7Q2|F8A7Q2_CELGA			21	K00380	1
+tr|F8A4T3|F8A4T3_CELGA	K00854	xylB; xylulokinase [EC:2.7.1.17]	605		
+tr|F7ZZA4|F7ZZA4_CELGA			640		
+tr|F8A665|F8A665_CELGA			277		
+tr|F8A049|F8A049_CELGA			442		
+tr|F8A6K4|F8A6K4_CELGA			315		
+tr|F8A1S6|F8A1S6_CELGA	K02238	comEC; competence protein ComEC	142		
+tr|F8A4F6|F8A4F6_CELGA			427		
+tr|F8A5G9|F8A5G9_CELGA	K02389	flgD; flagellar basal-body rod modification protein FlgD	110		
+tr|F8A2A1|F8A2A1_CELGA	K00605	gcvT; aminomethyltransferase [EC:2.1.2.10]	433		
+tr|F8A0Z0|F8A0Z0_CELGA	K00368	nirK; nitrite reductase (NO-forming) [EC:1.7.2.1]	694		
+tr|F8A2I5|F8A2I5_CELGA	K01733	thrC; threonine synthase [EC:4.2.3.1]	541		
+tr|F8A4C4|F8A4C4_CELGA			327		
+tr|F8A499|F8A499_CELGA			108		
+tr|F8A436|F8A436_CELGA	K03439	trmB; tRNA (guanine-N7-)-methyltransferase [EC:2.1.1.33]	225		
+tr|F8A4B7|F8A4B7_CELGA	K06048	ybdK; carboxylate-amine ligase [EC:6.3.-.-]	323		
+tr|F7ZZD8|F7ZZD8_CELGA	K00384	trxB; thioredoxin reductase (NADPH) [EC:1.8.1.9]	454		
+tr|F8A5L5|F8A5L5_CELGA	K00945	cmk; cytidylate kinase [EC:2.7.4.14]	233	K03977	26
+tr|F8A672|F8A672_CELGA			256		
+tr|F7ZZT6|F7ZZT6_CELGA	K02834	rbfA; ribosome-binding factor A	184		
+tr|F8A6J6|F8A6J6_CELGA	K00661	maa; maltose O-acetyltransferase [EC:2.3.1.79]	281		
+tr|F8A267|F8A267_CELGA			112		
+tr|F8A1N9|F8A1N9_CELGA	K02888	RP-L21; large subunit ribosomal protein L21	161		
+tr|F8A6J5|F8A6J5_CELGA			207		
+tr|F8A3S0|F8A3S0_CELGA			326		
+tr|F8A2C9|F8A2C9_CELGA	K15770	cycB; arabinogalactan oligomer / maltooligosaccharide transport system substrate-binding protein	409		
+tr|F8A7F4|F8A7F4_CELGA	K01992	ABC-2.P; ABC-2 type transport system permease protein	321		
+tr|F8A0D0|F8A0D0_CELGA			360		
+tr|F8A6H0|F8A6H0_CELGA			127		
+tr|F8A010|F8A010_CELGA			22	K03406	1
+tr|F8A7W8|F8A7W8_CELGA			165		
+tr|F8A2I2|F8A2I2_CELGA			62	K07171	3
+tr|F8A1T0|F8A1T0_CELGA	K02968	RP-S20; small subunit ribosomal protein S20	132		
+tr|F8A7W4|F8A7W4_CELGA			255		
+tr|F8A3V9|F8A3V9_CELGA			27	K02004	1
+tr|F8A2E8|F8A2E8_CELGA			21	K02004	2
+tr|F8A7K5|F8A7K5_CELGA	K00059	fabG; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	340		
+tr|F8A2J8|F8A2J8_CELGA			257		
+tr|F8A0Y2|F8A0Y2_CELGA	K00958	sat; sulfate adenylyltransferase [EC:2.7.7.4]	249		
+tr|F8A222|F8A222_CELGA	K02110	ATPF0C; F-type H+-transporting ATPase subunit c	67		
+tr|F8A645|F8A645_CELGA			110		
+tr|F8A109|F8A109_CELGA			300		
+tr|F8A244|F8A244_CELGA	K05364	E2.4.1.129; peptidoglycan glycosyltransferase [EC:2.4.1.129]	420		
+tr|F8A4B2|F8A4B2_CELGA	K06916	zapE; cell division protein ZapE	335		
+tr|F8A7D8|F8A7D8_CELGA			463		
+tr|F8A1A4|F8A1A4_CELGA	K07670	mtrA; two-component system, OmpR family, response regulator MtrA	373		
+tr|F7ZZT3|F7ZZT3_CELGA	K03177	truB; tRNA pseudouridine55 synthase [EC:5.4.99.25]	309		
+tr|F7ZZC5|F7ZZC5_CELGA	K02963	RP-S18; small subunit ribosomal protein S18	139		
+tr|F8A566|F8A566_CELGA			277		
+tr|F8A631|F8A631_CELGA			21	K02293	1
+tr|F8A4Z0|F8A4Z0_CELGA	K03551	ruvB; holliday junction DNA helicase RuvB [EC:3.6.4.12]	493		
+tr|F7ZZX4|F7ZZX4_CELGA	K01409	KAE1; N6-L-threonylcarbamoyladenine synthase [EC:2.3.1.234]	499		
+tr|F7ZZQ1|F7ZZQ1_CELGA	K18682	rny; ribonucrease Y [EC:3.1.-.-]	377		
+tr|F8A423|F8A423_CELGA			244		
+tr|F8A7E5|F8A7E5_CELGA	K02026	ABC.MS.P1; multiple sugar transport system permease protein	389		
+tr|F8A0P5|F8A0P5_CELGA	K02428	rdgB; XTP/dITP diphosphohydrolase [EC:3.6.1.66]	274		
+tr|F8A0S0|F8A0S0_CELGA			453		
+tr|F8A5P8|F8A5P8_CELGA	K04477	ycdX; putative hydrolase	341		
+tr|F8A2S2|F8A2S2_CELGA			223		
+tr|F8A783|F8A783_CELGA			808		
+tr|F7ZZV6|F7ZZV6_CELGA			133		
+tr|F8A1A8|F8A1A8_CELGA			248		
+tr|F8A7W7|F8A7W7_CELGA			231		
+tr|F8A1D6|F8A1D6_CELGA			116		
+tr|F8A5S2|F8A5S2_CELGA			28	K01992	2
+tr|F8A1F6|F8A1F6_CELGA			145		
+tr|F8A0I6|F8A0I6_CELGA	K03284	corA; magnesium transporter	387		
+tr|F8A2M9|F8A2M9_CELGA	K00242	sdhD; succinate dehydrogenase / fumarate reductase, membrane anchor subunit	216		
+tr|F8A5B8|F8A5B8_CELGA			210		
+tr|F8A7T1|F8A7T1_CELGA			14	K00065	2
+tr|F8A1K8|F8A1K8_CELGA			191	K05889	7
+tr|F8A6Y8|F8A6Y8_CELGA	K03432	psmA; proteasome alpha subunit [EC:3.4.25.1]	326		
+tr|F8A0U0|F8A0U0_CELGA			491		
+tr|F7ZZL1|F7ZZL1_CELGA	K01265	map; methionyl aminopeptidase [EC:3.4.11.18]	309		
+tr|F7ZZN9|F7ZZN9_CELGA			57	K02238	2
+tr|F8A0V0|F8A0V0_CELGA	K10242	cebG; cellobiose transport system permease protein	340		
+tr|F8A4B0|F8A4B0_CELGA			66		
+tr|F8A2C0|F8A2C0_CELGA	K01880	GARS; glycyl-tRNA synthetase [EC:6.1.1.14]	800		
+tr|F8A3T4|F8A3T4_CELGA			16	K01246	2
+tr|F8A158|F8A158_CELGA	K02836	prfB; peptide chain release factor 2	564		
+tr|F8A5D5|F8A5D5_CELGA	K02484	two-component system	344		
+tr|F8A3M5|F8A3M5_CELGA			178		
+tr|F8A271|F8A271_CELGA	K00389	yidH; putative membrane protein	92		
+tr|F8A7V3|F8A7V3_CELGA			350		
+tr|F8A0L5|F8A0L5_CELGA	K01256	pepN; aminopeptidase N [EC:3.4.11.2]	1021		
+tr|F8A3A8|F8A3A8_CELGA			139	K03088	16
+tr|F8A2V2|F8A2V2_CELGA	K03564	BCP; peroxiredoxin Q/BCP [EC:1.11.1.15]	33		
+tr|F8A2D9|F8A2D9_CELGA			200		
+tr|F8A5C8|F8A5C8_CELGA			123		
+tr|F8A745|F8A745_CELGA	K02064	thiB; thiamine transport system substrate-binding protein	380		
+tr|F8A7V8|F8A7V8_CELGA			105		
+tr|F8A3M7|F8A3M7_CELGA			181		
+tr|F8A7D0|F8A7D0_CELGA			266		
+tr|F8A478|F8A478_CELGA			130		
+tr|F8A756|F8A756_CELGA	K05565	mnhA; multicomponent Na+:H+ antiporter subunit A	977		
+tr|F8A3X5|F8A3X5_CELGA			174		
+tr|F8A4M8|F8A4M8_CELGA			34	K07152	1
+tr|F8A5D3|F8A5D3_CELGA			139		
+tr|F8A5G7|F8A5G7_CELGA			183		
+tr|F8A475|F8A475_CELGA			33	K01687	2
+tr|F8A5N7|F8A5N7_CELGA			195		
+tr|F8A6I6|F8A6I6_CELGA			212		
+tr|F8A4Z5|F8A4Z5_CELGA	K00951	relA; GTP pyrophosphokinase [EC:2.7.6.5]	1198		
+tr|F8A6C7|F8A6C7_CELGA	K03060	rpoZ; DNA-directed RNA polymerase subunit omega [EC:2.7.7.6]	140		
+tr|F7ZZH6|F7ZZH6_CELGA	K02358	tuf; elongation factor Tu	597		
+tr|F8A0H2|F8A0H2_CELGA	K01077	E3.1.3.1; alkaline phosphatase [EC:3.1.3.1]	556		
+tr|F8A7L2|F8A7L2_CELGA			31	K16783	27
+tr|F8A5J3|F8A5J3_CELGA	K03703	uvrC; excinuclease ABC subunit C	932		
+tr|F8A213|F8A213_CELGA			18	K11744	1
+tr|F8A2J6|F8A2J6_CELGA	K14267	dapC; N-succinyldiaminopimelate aminotransferase [EC:2.6.1.17]	468		
+tr|F8A7I6|F8A7I6_CELGA	K06910	uncharacterized protein	196		
+tr|F8A7S0|F8A7S0_CELGA	K02047	cysW; sulfate transport system permease protein	280		
+tr|F8A6H1|F8A6H1_CELGA	K17218	sqr; sulfide:quinone oxidoreductase [EC:1.8.5.4]	318		
+tr|F8A1I0|F8A1I0_CELGA	K00382	DLD; dihydrolipoamide dehydrogenase [EC:1.8.1.4]	491		
+tr|F8A3J3|F8A3J3_CELGA			269		
+tr|F8A7D7|F8A7D7_CELGA			22	K02004	11
+tr|F8A6Q1|F8A6Q1_CELGA			121	K01990	30
+tr|F8A625|F8A625_CELGA			19	K00014	1
+tr|F7ZZ61|F7ZZ61_CELGA	K02501	hisH; glutamine amidotransferase [EC:2.4.2.-]	310		
+tr|F7ZZL3|F7ZZL3_CELGA	K02919	RP-L36; large subunit ribosomal protein L36	79		
+tr|F8A1I2|F8A1I2_CELGA			356		
+tr|F8A7M0|F8A7M0_CELGA	K09013	sufC; Fe-S cluster assembly ATP-binding protein	431		
+tr|F8A343|F8A343_CELGA	K01265	map; methionyl aminopeptidase [EC:3.4.11.18]	456		
+tr|F8A2P4|F8A2P4_CELGA			231		
+tr|F8A3G9|F8A3G9_CELGA			128		
+tr|F8A764|F8A764_CELGA			205		
+tr|F8A450|F8A450_CELGA	K00619	argA; amino-acid N-acetyltransferase [EC:2.3.1.1]	230		
+tr|F8A4D7|F8A4D7_CELGA	K02030	ABC.PA.S; polar amino acid transport system substrate-binding protein	283		
+tr|F8A425|F8A425_CELGA			198		
+tr|F8A4B3|F8A4B3_CELGA	K13821	putA; RHH-type transcriptional regulator, proline utilization regulon repressor / proline dehydrogenase / delta 1-pyrroline-5-carboxylate dehydrogenase [EC:1.5.5.2 1.2.1.88]	1271		
+tr|F8A4N9|F8A4N9_CELGA			672		
+tr|F8A4P9|F8A4P9_CELGA			198		
+tr|F8A552|F8A552_CELGA	K07497	putative transposase	494		
+tr|F7ZZ15|F7ZZ15_CELGA			242		
+tr|F8A589|F8A589_CELGA			153		
+tr|F8A5D8|F8A5D8_CELGA	K03294	TC.APA; basic amino acid/polyamine antiporter, APA family	277		
+tr|F7ZZ04|F7ZZ04_CELGA			21	K02283	3
+tr|F8A6I0|F8A6I0_CELGA			163		
+tr|F7ZZP2|F7ZZP2_CELGA			146		
+tr|F8A5H8|F8A5H8_CELGA	K02417	fliNY; flagellar motor switch protein FliN/FliY	134		
+tr|F8A0F1|F8A0F1_CELGA	K18917	mrx1; mycoredoxin [EC:1.20.4.3]	129		
+tr|F8A0M7|F8A0M7_CELGA			35	K01965	1
+tr|F8A0R3|F8A0R3_CELGA			22	K06214	2
+tr|F8A0K6|F8A0K6_CELGA			365		
+tr|F8A041|F8A041_CELGA			185		
+tr|F8A113|F8A113_CELGA	K00266	gltD; glutamate synthase (NADPH/NADH) small chain [EC:1.4.1.13 1.4.1.14]	634		
+tr|F8A7J3|F8A7J3_CELGA	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	840		
+tr|F8A1A5|F8A1A5_CELGA	K07654	mtrB; two-component system, OmpR family, sensor histidine kinase MtrB [EC:2.7.13.3]	498		
+tr|F8A1Q9|F8A1Q9_CELGA	K02035	ABC.PE.S; peptide/nickel transport system substrate-binding protein	711		
+tr|F8A1M8|F8A1M8_CELGA	K02911	RP-L32; large subunit ribosomal protein L32	103		
+tr|F8A3G4|F8A3G4_CELGA			35	K00799	1
+tr|F8A3X0|F8A3X0_CELGA	K03734	apbE; FAD:protein FMN transferase [EC:2.7.1.180]	158		
+tr|F8A3I9|F8A3I9_CELGA			137		
+tr|F8A7M1|F8A7M1_CELGA	K05710	hcaC; 3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin component	117		
+tr|F7ZYV8|F7ZYV8_CELGA	K02034	ABC.PE.P1; peptide/nickel transport system permease protein	369		
+tr|F8A4M1|F8A4M1_CELGA	K00362	nirB; nitrite reductase (NADH) large subunit [EC:1.7.1.15]	925		
+tr|F8A1G9|F8A1G9_CELGA			376		
+tr|F8A2X5|F8A2X5_CELGA			611		
+tr|F8A3U3|F8A3U3_CELGA	K01895	ACSS; acetyl-CoA synthetase [EC:6.2.1.1]	1034		
+tr|F8A4I5|F8A4I5_CELGA			163		
+tr|F8A1R6|F8A1R6_CELGA	K07393	ECM4; putative glutathione S-transferase	535		
+tr|F8A106|F8A106_CELGA	K03583	recC; exodeoxyribonuclease V gamma subunit [EC:3.1.11.5]	885		
+tr|F8A4F1|F8A4F1_CELGA			192		
+tr|F8A0U7|F8A0U7_CELGA			26	K00128	1
+tr|F8A6C8|F8A6C8_CELGA	K00942	E2.7.4.8; guanylate kinase [EC:2.7.4.8]	269		
+tr|F8A461|F8A461_CELGA			208		
+tr|F8A1D9|F8A1D9_CELGA	K02283	cpaF; pilus assembly protein CpaF	538		
+tr|F8A102|F8A102_CELGA	K07173	luxS; S-ribosylhomocysteine lyase [EC:4.4.1.21]	227		
+tr|F7ZZR5|F7ZZR5_CELGA	K03466	ftsK; DNA segregation ATPase FtsK/SpoIIIE, S-DNA-T family	987		
+tr|F8A1N6|F8A1N6_CELGA	K00426	cydB; cytochrome d ubiquinol oxidase subunit II [EC:1.10.3.14]	440		
+tr|F8A1V4|F8A1V4_CELGA	K10117	msmE; raffinose/stachyose/melibiose transport system substrate-binding protein	509		
+tr|F8A1X7|F8A1X7_CELGA	K07077	uncharacterized protein	646		
+tr|F8A6L3|F8A6L3_CELGA			471		
+tr|F8A1U8|F8A1U8_CELGA	K06217	phoH; phosphate starvation-inducible protein PhoH and related proteins	467		
+tr|F8A2Z4|F8A2Z4_CELGA			19	K01870	4
+tr|F8A3P0|F8A3P0_CELGA	K02276	coxC; cytochrome c oxidase subunit III [EC:1.9.3.1]	336		
+tr|F8A4M7|F8A4M7_CELGA	K00851	E2.7.1.12; gluconokinase [EC:2.7.1.12]	193		
+tr|F8A013|F8A013_CELGA			274		
+tr|F7ZZ66|F7ZZ66_CELGA	K00817	hisC; histidinol-phosphate aminotransferase [EC:2.6.1.9]	492		
+tr|F8A4T5|F8A4T5_CELGA			351		
+tr|F8A568|F8A568_CELGA			21	K01687	2
+tr|F7ZYZ9|F7ZYZ9_CELGA	K00342	nuoM; NADH-quinone oxidoreductase subunit M [EC:1.6.5.3]	598		
+tr|F8A000|F8A000_CELGA	K00925	ackA; acetate kinase [EC:2.7.2.1]	496		
+tr|F7ZZZ1|F7ZZZ1_CELGA	K02015	ABC.FEV.P; iron complex transport system permease protein	333		
+tr|F8A619|F8A619_CELGA			203		
+tr|F7ZZ77|F7ZZ77_CELGA	K03531	ftsZ; cell division protein FtsZ	581		
+tr|F8A726|F8A726_CELGA	K00374	narI; nitrate reductase gamma subunit [EC:1.7.5.1 1.7.99.4]	312		
+tr|F8A5C0|F8A5C0_CELGA			122	K05962	7
+tr|F7ZYV7|F7ZYV7_CELGA	K02033	ABC.PE.P; peptide/nickel transport system permease protein	424		
+tr|F8A3C0|F8A3C0_CELGA			205		
+tr|F8A152|F8A152_CELGA	K10545	xylG; D-xylose transport system ATP-binding protein [EC:3.6.3.17]	319		
+tr|F8A1Y6|F8A1Y6_CELGA			298		
+tr|F8A0J6|F8A0J6_CELGA			16	K01814/K01817	4
+tr|F8A5N5|F8A5N5_CELGA			196		
+tr|F8A6Q9|F8A6Q9_CELGA	K01056	PTH1; peptidyl-tRNA hydrolase, PTH1 family [EC:3.1.1.29]	260		
+tr|F8A6K0|F8A6K0_CELGA			167		
+tr|F8A2K1|F8A2K1_CELGA	K01966	PCCB; propionyl-CoA carboxylase beta chain [EC:6.4.1.3]	797		
+tr|F8A3Z8|F8A3Z8_CELGA			174		
+tr|F8A5R4|F8A5R4_CELGA			102		
+tr|F8A6N2|F8A6N2_CELGA	K12373	HEXA_B; hexosaminidase [EC:3.2.1.52]	424		
+tr|F8A554|F8A554_CELGA	K00520	merA; mercuric reductase [EC:1.16.1.1]	402		
+tr|F8A5M3|F8A5M3_CELGA			34	K04019	2
+tr|F8A2I3|F8A2I3_CELGA	K03628	rho; transcription termination factor Rho	706		
+tr|F8A6X1|F8A6X1_CELGA			400		
+tr|F8A1H2|F8A1H2_CELGA			133	K03497	4
+tr|F8A7B1|F8A7B1_CELGA	K05791	terZ; tellurium resistance protein TerZ	238		
+tr|F7ZZ56|F7ZZ56_CELGA			60	K03724	2
+tr|F8A0Y7|F8A0Y7_CELGA	K00957	cysD; sulfate adenylyltransferase subunit 2 [EC:2.7.7.4]	449		
+tr|F8A7N2|F8A7N2_CELGA	K01937	pyrG; CTP synthase [EC:6.3.4.2]	896		
+tr|F8A1J4|F8A1J4_CELGA	K00052	leuB; 3-isopropylmalate dehydrogenase [EC:1.1.1.85]	529		
+tr|F8A533|F8A533_CELGA	K00859	coaE; dephospho-CoA kinase [EC:2.7.1.24]	214		
+tr|F8A1J7|F8A1J7_CELGA	K01653	E2.2.1.6S; acetolactate synthase I/III small subunit [EC:2.2.1.6]	266		
+tr|F8A2B3|F8A2B3_CELGA	K03584	recO; DNA repair protein RecO (recombination protein O)	352		
+tr|F8A1M4|F8A1M4_CELGA			103	K20276	9
+tr|F8A6W8|F8A6W8_CELGA	K00873	PK; pyruvate kinase [EC:2.7.1.40]	673		
+tr|F8A395|F8A395_CELGA			602		
+tr|F8A216|F8A216_CELGA	K02114	ATPF1E; F-type H+-transporting ATPase subunit epsilon	86		
+tr|F7ZZ42|F7ZZ42_CELGA			235		
+tr|F8A3N8|F8A3N8_CELGA	K03890	qcrA; ubiquinol-cytochrome c reductase iron-sulfur subunit	385		
+tr|F8A7K3|F8A7K3_CELGA			22	K01992	2
+tr|F8A4A8|F8A4A8_CELGA	K00957	cysD; sulfate adenylyltransferase subunit 2 [EC:2.7.7.4]	497		
+tr|F8A6N0|F8A6N0_CELGA			647		
+tr|F7ZZ92|F7ZZ92_CELGA			75		
+tr|F8A4Z1|F8A4Z1_CELGA			13	K03210	8
+tr|F7ZZS8|F7ZZS8_CELGA			618		
+tr|F8A2D3|F8A2D3_CELGA	K01129	dgt; dGTPase [EC:3.1.5.1]	546		
+tr|F8A7F9|F8A7F9_CELGA			135		
+tr|F8A2V1|F8A2V1_CELGA			318		
+tr|F8A2M3|F8A2M3_CELGA	K02057	ABC.SS.P; simple sugar transport system permease protein	437		
+tr|F8A4I1|F8A4I1_CELGA	K00626	E2.3.1.9; acetyl-CoA C-acetyltransferase [EC:2.3.1.9]	603		
+tr|F8A4T9|F8A4T9_CELGA	K15521	mshA; D-inositol-3-phosphate glycosyltransferase [EC:2.4.1.250]	463		
+tr|F8A5J8|F8A5J8_CELGA	K00927	PGK; phosphoglycerate kinase [EC:2.7.2.3]	553		
+tr|F8A5F6|F8A5F6_CELGA	K02407	fliD; flagellar hook-associated protein 2	280		
+tr|F8A528|F8A528_CELGA			136		
+tr|F7ZYZ0|F7ZYZ0_CELGA	K00333	nuoD; NADH-quinone oxidoreductase subunit D [EC:1.6.5.3]	670		
+tr|F7ZZT8|F7ZZT8_CELGA	K02600	nusA; N utilization substance protein A	490		
+tr|F7ZZN1|F7ZZN1_CELGA	K00016	LDH; L-lactate dehydrogenase [EC:1.1.1.27]	391	K00024	38
+tr|F8A0B3|F8A0B3_CELGA			110	K04749	11
+tr|F8A6A7|F8A6A7_CELGA	K03116	tatA; sec-independent protein translocase protein TatA	52		
+tr|F8A1T2|F8A1T2_CELGA			734		
+tr|F8A2K4|F8A2K4_CELGA			688		
+tr|F8A3C4|F8A3C4_CELGA	K06889	uncharacterized protein	254		
+tr|F8A6Z8|F8A6Z8_CELGA			386		
+tr|F8A3P1|F8A3P1_CELGA			164		
+tr|F8A139|F8A139_CELGA			10	K02010	7
+tr|F7ZZW7|F7ZZW7_CELGA			397		
+tr|F8A3X4|F8A3X4_CELGA	K04750	phnB; PhnB protein	143		
+tr|F8A3F5|F8A3F5_CELGA	K06945	uncharacterized protein	299		
+tr|F8A6F5|F8A6F5_CELGA			18	K01887	2
+tr|F7ZZP4|F7ZZP4_CELGA			147		
+tr|F8A1X4|F8A1X4_CELGA	K03521	fixA; electron transfer flavoprotein beta subunit	228		
+tr|F7ZYY9|F7ZYY9_CELGA	K00332	nuoC; NADH-quinone oxidoreductase subunit C [EC:1.6.5.3]	351		
+tr|F8A0T2|F8A0T2_CELGA			168		
+tr|F8A2D2|F8A2D2_CELGA	K01187	malZ; alpha-glucosidase [EC:3.2.1.20]	298		
+tr|F8A7G2|F8A7G2_CELGA	K01724	PCBD; 4a-hydroxytetrahydrobiopterin dehydratase [EC:4.2.1.96]	213		
+tr|F8A7K6|F8A7K6_CELGA			72		
+tr|F8A547|F8A547_CELGA			584		
+tr|F8A615|F8A615_CELGA			368		
+tr|F8A649|F8A649_CELGA			201		
+tr|F8A671|F8A671_CELGA			173		
+tr|F8A4F3|F8A4F3_CELGA			166		
+tr|F8A7C0|F8A7C0_CELGA			287		
+tr|F8A652|F8A652_CELGA			314		
+tr|F8A6U4|F8A6U4_CELGA	K02356	efp; elongation factor P	324		
+tr|F8A1K7|F8A1K7_CELGA			530		
+tr|F8A046|F8A046_CELGA	K02860	rimM; 16S rRNA processing protein RimM	208		
+tr|F8A7G8|F8A7G8_CELGA			19	K02032	2
+tr|F8A7Q8|F8A7Q8_CELGA			186		
+tr|F8A6X5|F8A6X5_CELGA			117		
+tr|F8A3B5|F8A3B5_CELGA			106		
+tr|F8A3R0|F8A3R0_CELGA	K03086	SIG1; RNA polymerase primary sigma factor	648		
+tr|F8A453|F8A453_CELGA			67	K19159	8
+tr|F8A206|F8A206_CELGA	K15923	AXY8; alpha-L-fucosidase 2 [EC:3.2.1.51]	335		
+tr|F8A5J7|F8A5J7_CELGA	K00134	GAPDH; glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]	553		
+tr|F8A4E4|F8A4E4_CELGA			228		
+tr|F8A1F0|F8A1F0_CELGA	K00164	OGDH; 2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2]	1813		
+tr|F8A4X1|F8A4X1_CELGA			216		
+tr|F8A4N3|F8A4N3_CELGA	K03088	SIG3.2; RNA polymerase sigma-70 factor, ECF subfamily	143		
+tr|F8A181|F8A181_CELGA			283		
+tr|F8A640|F8A640_CELGA					
+tr|F8A2Z8|F8A2Z8_CELGA			23	K03644	3
+tr|F8A7S5|F8A7S5_CELGA			83		
+tr|F8A1Q1|F8A1Q1_CELGA			130		
+tr|F7ZZV8|F7ZZV8_CELGA	K03431	glmM; phosphoglucosamine mutase [EC:5.4.2.10]	584		
+tr|F8A451|F8A451_CELGA	K03575	mutY; A/G-specific adenine glycosylase [EC:3.2.2.-]	304		
+tr|F8A2K0|F8A2K0_CELGA	K03524	birA; BirA family transcriptional regulator, biotin operon repressor / biotin-[acetyl-CoA-carboxylase] ligase [EC:6.3.4.15]	225		
+tr|F8A4F9|F8A4F9_CELGA	K01784	galE; UDP-glucose 4-epimerase [EC:5.1.3.2]	444		
+tr|F8A7I4|F8A7I4_CELGA	K03892	arsR; ArsR family transcriptional regulator	43		
+tr|F8A223|F8A223_CELGA	K02108	ATPF0A; F-type H+-transporting ATPase subunit a	311		
+tr|F8A0Q1|F8A0Q1_CELGA	K06891	clpS; ATP-dependent Clp protease adaptor protein ClpS	121		
+tr|F7ZZ00|F7ZZ00_CELGA	K00343	nuoN; NADH-quinone oxidoreductase subunit N [EC:1.6.5.3]	575		
+tr|F8A1W5|F8A1W5_CELGA			151		
+tr|F8A369|F8A369_CELGA			85		
+tr|F8A477|F8A477_CELGA			28	K11782	1
+tr|F8A4K0|F8A4K0_CELGA			59	K19720	3
+tr|F7ZZU8|F7ZZU8_CELGA	K00099	dxr; 1-deoxy-D-xylulose-5-phosphate reductoisomerase [EC:1.1.1.267]	462		
+tr|F7ZZC8|F7ZZC8_CELGA			583		
+tr|F8A5S3|F8A5S3_CELGA			16	K07483	1
+tr|F8A227|F8A227_CELGA	K02493	hemK; release factor glutamine methyltransferase [EC:2.1.1.297]	271		
+tr|F8A055|F8A055_CELGA			18	K01784	3
+tr|F8A1C4|F8A1C4_CELGA	K00057	gpsA; glycerol-3-phosphate dehydrogenase (NAD(P)+) [EC:1.1.1.94]	391		
+tr|F8A438|F8A438_CELGA			305		
+tr|F8A091|F8A091_CELGA			215		
+tr|F8A077|F8A077_CELGA	K02050	ABC.SN.P; NitT/TauT family transport system permease protein	181		
+tr|F8A1J6|F8A1J6_CELGA	K00053	ilvC; ketol-acid reductoisomerase [EC:1.1.1.86]	562		
+tr|F8A4G9|F8A4G9_CELGA	K01179	E3.2.1.4; endoglucanase [EC:3.2.1.4]	335		
+tr|F8A214|F8A214_CELGA	K07503	nucS; endonuclease [EC:3.1.-.-]	371		
+tr|F8A361|F8A361_CELGA	K02027	ABC.MS.S; multiple sugar transport system substrate-binding protein	341		
+tr|F8A297|F8A297_CELGA	K03639	MOCS1; cyclic pyranopterin phosphate synthase [EC:4.1.99.18]	373		
+tr|F8A5C6|F8A5C6_CELGA	K03648	UNG; uracil-DNA glycosylase [EC:3.2.2.27]	337		
+tr|F8A7L0|F8A7L0_CELGA	K03523	bioY; biotin transport system substrate-specific component	123		
+tr|F8A3X6|F8A3X6_CELGA			1024		
+tr|F8A476|F8A476_CELGA			1011		
+tr|F8A3Z5|F8A3Z5_CELGA	K00059	fabG; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	288		
+tr|F8A4L4|F8A4L4_CELGA	K00762	pyrE; orotate phosphoribosyltransferase [EC:2.4.2.10]	257		
+tr|F8A2Y3|F8A2Y3_CELGA			30	K16784	1
+tr|F8A5G6|F8A5G6_CELGA			22	K02413	3
+tr|F8A4F0|F8A4F0_CELGA			141		
+tr|F8A0W9|F8A0W9_CELGA			324		
+tr|F7ZZ16|F7ZZ16_CELGA	K20074	prpC; PPM family protein phosphatase [EC:3.1.3.16]	179		
+tr|F8A1K4|F8A1K4_CELGA			224		
+tr|F8A7R5|F8A7R5_CELGA	K01845	hemL; glutamate-1-semialdehyde 2,1-aminomutase [EC:5.4.3.8]	548		
+tr|F7ZZ03|F7ZZ03_CELGA	K03466	ftsK; DNA segregation ATPase FtsK/SpoIIIE, S-DNA-T family	1327		
+tr|F8A700|F8A700_CELGA	K03284	corA; magnesium transporter	166		
+tr|F8A334|F8A334_CELGA			238	K03893	24
+tr|F8A5A4|F8A5A4_CELGA			242		
+tr|F8A5E7|F8A5E7_CELGA			19	K08218	1
+tr|F8A5E2|F8A5E2_CELGA	K01451	hipO; hippurate hydrolase [EC:3.5.1.32]	396		
+tr|F8A713|F8A713_CELGA			199		
+tr|F8A0R0|F8A0R0_CELGA	K17329	dasA; N,N'-diacetylchitobiose transport system substrate-binding protein	324		
+tr|F8A1D5|F8A1D5_CELGA	K00954	E2.7.7.3A; pantetheine-phosphate adenylyltransferase [EC:2.7.7.3]	191		
+tr|F8A4L8|F8A4L8_CELGA			154		
+tr|F8A320|F8A320_CELGA	K00648	fabH; 3-oxoacyl-[acyl-carrier-protein] synthase III [EC:2.3.1.180]	457		
+tr|F8A2L4|F8A2L4_CELGA	K00382	DLD; dihydrolipoamide dehydrogenase [EC:1.8.1.4]	588		
+tr|F8A5X9|F8A5X9_CELGA	K00525	E1.17.4.1A; ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]	1230		
+tr|F8A567|F8A567_CELGA			209	K07028	16
+tr|F8A638|F8A638_CELGA			18	K01933	4
+tr|F8A6A4|F8A6A4_CELGA	K03727	helY; ATP-dependent RNA helicase HelY [EC:3.6.4.-]	1108		
+tr|F7ZZU0|F7ZZU0_CELGA			144		
+tr|F8A4I2|F8A4I2_CELGA	K00059	fabG; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	477		
+tr|F8A5M9|F8A5M9_CELGA	K05349	bglX; beta-glucosidase [EC:3.2.1.21]	774		
+tr|F8A0Z4|F8A0Z4_CELGA			63	K13652	10
+tr|F8A174|F8A174_CELGA	K09693	tagH; teichoic acid transport system ATP-binding protein [EC:3.6.3.40]	326		
+tr|F8A1G2|F8A1G2_CELGA			102	K04075	4
+tr|F8A0F7|F8A0F7_CELGA	K07043	uncharacterized protein	223		
+tr|F8A039|F8A039_CELGA	K07391	comM; magnesium chelatase family protein	535		
+tr|F8A3H3|F8A3H3_CELGA			139	K12132	4
+tr|F8A0S7|F8A0S7_CELGA			88		
+tr|F8A6N3|F8A6N3_CELGA			557		
+tr|F8A6J3|F8A6J3_CELGA	K07032	uncharacterized protein	184		
+tr|F8A3C5|F8A3C5_CELGA	K02616	paaX; phenylacetic acid degradation operon negative regulatory protein	166		
+tr|F8A2B6|F8A2B6_CELGA			177		
+tr|F8A0C5|F8A0C5_CELGA	K01491	folD; methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9]	412		
+tr|F8A6F2|F8A6F2_CELGA	K07458	vsr; DNA mismatch endonuclease, patch repair protein [EC:3.1.-.-]	158		
+tr|F8A5D1|F8A5D1_CELGA			18	K09807	8
+tr|F8A496|F8A496_CELGA			901		
+tr|F8A3S7|F8A3S7_CELGA			132		
+tr|F8A3K4|F8A3K4_CELGA			196		
+tr|F8A613|F8A613_CELGA			62	K06972	2
+tr|F8A1C7|F8A1C7_CELGA			135		
+tr|F8A3X9|F8A3X9_CELGA			15	K02114	8
+tr|F8A5T3|F8A5T3_CELGA			427		
+tr|F8A6L2|F8A6L2_CELGA	K03497	parB; chromosome partitioning protein, ParB family	11		
+tr|F8A5L0|F8A5L0_CELGA	K03496	parA; chromosome partitioning protein	450		
+tr|F8A2H2|F8A2H2_CELGA			52	K05847	4
+tr|F8A6D3|F8A6D3_CELGA			135		
+tr|F8A3R7|F8A3R7_CELGA			211		
+tr|F8A0V1|F8A0V1_CELGA	K10241	cebF; cellobiose transport system permease protein	439		
+tr|F8A265|F8A265_CELGA			291		
+tr|F8A562|F8A562_CELGA			143		
+tr|F8A399|F8A399_CELGA	K02004	ABC.CD.P; putative ABC transport system permease protein	327		
+tr|F8A027|F8A027_CELGA	K11175	purN; phosphoribosylglycinamide formyltransferase 1 [EC:2.1.2.2]	256		
+tr|F8A3I0|F8A3I0_CELGA			171		
+tr|F8A780|F8A780_CELGA			330		
+tr|F8A558|F8A558_CELGA			242		
+tr|F8A646|F8A646_CELGA			61	K01223	2
+tr|F8A7C6|F8A7C6_CELGA	K03624	greA; transcription elongation factor GreA	223		
+tr|F8A0A2|F8A0A2_CELGA			24	K02230	1
+tr|F8A0Q9|F8A0Q9_CELGA	K17330	dasB; N,N'-diacetylchitobiose transport system permease protein	273	K02025	27
+tr|F8A2N4|F8A2N4_CELGA	K07058	membrane protein	181		
+tr|F8A4D1|F8A4D1_CELGA			154		
+tr|F8A599|F8A599_CELGA			23	K02034	2
+tr|F7ZZ95|F7ZZ95_CELGA			282		
+tr|F8A182|F8A182_CELGA			366		
+tr|F8A446|F8A446_CELGA	K00864	glpK; glycerol kinase [EC:2.7.1.30]	807		
+tr|F8A2I7|F8A2I7_CELGA	K01586	lysA; diaminopimelate decarboxylase [EC:4.1.1.20]	532		
+tr|F8A4V3|F8A4V3_CELGA			228		
+tr|F8A4Q6|F8A4Q6_CELGA	K01507	ppa; inorganic pyrophosphatase [EC:3.6.1.1]	314		
+tr|F8A0K9|F8A0K9_CELGA			55	K09723	2
+tr|F7ZYX4|F7ZYX4_CELGA			56		
+tr|F8A1C0|F8A1C0_CELGA	K01703	leuC; 3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]	829		
+tr|F7ZZ28|F7ZZ28_CELGA			270		
+tr|F7ZZP7|F7ZZP7_CELGA	K10008	gluA; glutamate transport system ATP-binding protein [EC:3.6.3.-]	373		
+tr|F8A0P6|F8A0P6_CELGA	K00989	rph; ribonuclease PH [EC:2.7.7.56]	355		
+tr|F8A737|F8A737_CELGA	K03322	mntH; manganese transport protein	440		
+tr|F8A4T0|F8A4T0_CELGA	K04567	KARS; lysyl-tRNA synthetase, class II [EC:6.1.1.6]	712		
+tr|F8A3B9|F8A3B9_CELGA	K00527	nrdD; ribonucleoside-triphosphate reductase [EC:1.17.4.2]	944		
+tr|F8A5D4|F8A5D4_CELGA			261		
+tr|F8A5L9|F8A5L9_CELGA			369		
+tr|F8A612|F8A612_CELGA			202		
+tr|F8A5Q8|F8A5Q8_CELGA	K08744	CRLS; cardiolipin synthase (CMP-forming) [EC:2.7.8.41]	219		
+tr|F8A0P8|F8A0P8_CELGA	K01776	murI; glutamate racemase [EC:5.1.1.3]	385		
+tr|F8A6U9|F8A6U9_CELGA	K01735	aroB; 3-dehydroquinate synthase [EC:4.2.3.4]	511		
+tr|F7ZZK3|F7ZZK3_CELGA	K02994	RP-S8; small subunit ribosomal protein S8	235		
+tr|F7ZZ76|F7ZZ76_CELGA	K05810	yfiH; laccase domain-containing protein	185		
+tr|F8A7J6|F8A7J6_CELGA			487		
+tr|F8A0M8|F8A0M8_CELGA	K07107	ybgC; acyl-CoA thioester hydrolase [EC:3.1.2.-]	185		
+tr|F8A1Z8|F8A1Z8_CELGA			220		
+tr|F8A1S4|F8A1S4_CELGA			196		
+tr|F8A188|F8A188_CELGA			538		
+tr|F8A1V6|F8A1V6_CELGA	K03305	TC.POT; proton-dependent oligopeptide transporter, POT family	464		
+tr|F8A715|F8A715_CELGA			168		
+tr|F8A247|F8A247_CELGA			157		
+tr|F8A484|F8A484_CELGA			253		
+tr|F7ZZM6|F7ZZM6_CELGA			770		
+tr|F8A5U3|F8A5U3_CELGA			24	K02004	12
+tr|F8A4I8|F8A4I8_CELGA			547		
+tr|F8A0E1|F8A0E1_CELGA	K05595	marC; multiple antibiotic resistance protein	231		
+tr|F8A337|F8A337_CELGA			26	K00135	1
+tr|F7ZZM9|F7ZZM9_CELGA	K02871	RP-L13; large subunit ribosomal protein L13	256		
+tr|F8A5K2|F8A5K2_CELGA			215	K01057	26
+tr|F8A518|F8A518_CELGA	K07183	nasT; response regulator NasT	318		
+tr|F8A538|F8A538_CELGA	K12410	npdA; NAD-dependent deacetylase [EC:3.5.1.-]	241		
+tr|F8A6P6|F8A6P6_CELGA			663		
+tr|F7ZZM8|F7ZZM8_CELGA	K05596	iciA; LysR family transcriptional regulator, chromosome initiation inhibitor	269		
+tr|F8A0I3|F8A0I3_CELGA	K08987	putative membrane protein	115		
+tr|F8A1L6|F8A1L6_CELGA	K00033	PGD; 6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343]	453		
+tr|F8A2F4|F8A2F4_CELGA			550		
+tr|F8A7A1|F8A7A1_CELGA	K01563	dhaA; haloalkane dehalogenase [EC:3.8.1.5]	219		
+tr|F8A1B5|F8A1B5_CELGA			65		
+tr|F8A6G2|F8A6G2_CELGA			114		
+tr|F8A3P5|F8A3P5_CELGA			234		
+tr|F8A630|F8A630_CELGA			559		
+tr|F8A7B8|F8A7B8_CELGA			420		
+tr|F8A5L1|F8A5L1_CELGA	K05896	scpA; segregation and condensation protein A	305		
+tr|F7ZZK4|F7ZZK4_CELGA	K02933	RP-L6; large subunit ribosomal protein L6	296		
+tr|F8A681|F8A681_CELGA			204		
+tr|F8A6I4|F8A6I4_CELGA			289		
+tr|F8A658|F8A658_CELGA			349		
+tr|F8A6Z2|F8A6Z2_CELGA	K13571	pafA; proteasome accessory factor A [EC:6.3.1.19]	667		
+tr|F8A1A3|F8A1A3_CELGA			212		
+tr|F8A7P9|F8A7P9_CELGA	K00161	PDHA; pyruvate dehydrogenase E1 component alpha subunit [EC:1.2.4.1]	485		
+tr|F8A626|F8A626_CELGA			139		
+tr|F8A768|F8A768_CELGA			22	K02004	2
+tr|F8A5U8|F8A5U8_CELGA			78	K07483	12
+tr|F8A767|F8A767_CELGA			37	K12132	1
+tr|F8A6A8|F8A6A8_CELGA			22	K00963	1
+tr|F8A383|F8A383_CELGA	K01804	araA; L-arabinose isomerase [EC:5.3.1.4]	788		
+tr|F8A057|F8A057_CELGA	K00940	ndk; nucleoside-diphosphate kinase [EC:2.7.4.6]	206		
+tr|F8A3E6|F8A3E6_CELGA	K10233	aglF; alpha-glucoside transport system permease protein	322		
+tr|F8A183|F8A183_CELGA			293		
+tr|F8A3K1|F8A3K1_CELGA	K03820	lnt; apolipoprotein N-acyltransferase [EC:2.3.1.-]	358		
+tr|F8A2B1|F8A2B1_CELGA			141	K17713	5
+tr|F8A4G1|F8A4G1_CELGA			183		
+tr|F8A1Z4|F8A1Z4_CELGA			142		
+tr|F8A165|F8A165_CELGA			312		
+tr|F8A5H0|F8A5H0_CELGA	K02390	flgE; flagellar hook protein FlgE	470		
+tr|F8A186|F8A186_CELGA			160		
+tr|F8A664|F8A664_CELGA			290		
+tr|F8A7J7|F8A7J7_CELGA			131		
+tr|F8A3Q3|F8A3Q3_CELGA	K12132	prkC; eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]	492		
+tr|F8A4P8|F8A4P8_CELGA			143		
+tr|F8A099|F8A099_CELGA			21	K06207	1
+tr|F8A569|F8A569_CELGA			204		
+tr|F7ZZ17|F7ZZ17_CELGA	K01176	E3.2.1.1; alpha-amylase [EC:3.2.1.1]	529		
+tr|F8A4P2|F8A4P2_CELGA	K04063	osmC; osmotically inducible protein OsmC	207		
+tr|F8A442|F8A442_CELGA			341		
+tr|F8A4I3|F8A4I3_CELGA			301		
+tr|F8A667|F8A667_CELGA			107		
+tr|F8A4P6|F8A4P6_CELGA			1250		
+tr|F7ZZZ0|F7ZZZ0_CELGA	K02015	ABC.FEV.P; iron complex transport system permease protein	286		
+tr|F8A0E2|F8A0E2_CELGA			690		
+tr|F8A5M8|F8A5M8_CELGA			437	K01208	96
+tr|F8A166|F8A166_CELGA			141		
+tr|F8A0B2|F8A0B2_CELGA			22	K04757	11
+tr|F8A268|F8A268_CELGA			66		
+tr|F8A0Z2|F8A0Z2_CELGA			182		
+tr|F8A0P4|F8A0P4_CELGA	K18230	tylC; macrolide transport system ATP-binding/permease protein	507		
+tr|F7ZZ78|F7ZZ78_CELGA	K03589	ftsQ; cell division protein FtsQ	148		
+tr|F8A241|F8A241_CELGA	K01664	pabA; para-aminobenzoate synthetase component II [EC:2.6.1.85]	308		
+tr|F8A2E6|F8A2E6_CELGA			19	K06147	1
+tr|F8A775|F8A775_CELGA			19	K00014	2
+tr|F8A3E3|F8A3E3_CELGA			302		
+tr|F8A2Y9|F8A2Y9_CELGA			26	K10125	1
+tr|F8A2J3|F8A2J3_CELGA	K04072	adhE; acetaldehyde dehydrogenase / alcohol dehydrogenase [EC:1.2.1.10 1.1.1.1]	1286		
+tr|F8A0E9|F8A0E9_CELGA			307		
+tr|F8A4N5|F8A4N5_CELGA			118		
+tr|F8A0N4|F8A0N4_CELGA			20	K00799	1
+tr|F8A753|F8A753_CELGA	K05569	mnhE; multicomponent Na+:H+ antiporter subunit E	177		
+tr|F8A1B1|F8A1B1_CELGA	K03070	secA; preprotein translocase subunit SecA	1355		
+tr|F8A2M8|F8A2M8_CELGA	K00241	sdhC; succinate dehydrogenase / fumarate reductase, cytochrome b subunit	196		
+tr|F8A0P0|F8A0P0_CELGA			400		
+tr|F8A3I5|F8A3I5_CELGA	K02484	two-component system	150		
+tr|F8A3T6|F8A3T6_CELGA			143		
+tr|F8A1T8|F8A1T8_CELGA			138		
+tr|F8A434|F8A434_CELGA			142		
+tr|F8A750|F8A750_CELGA			141		
+tr|F8A0Q5|F8A0Q5_CELGA			158		
+tr|F8A5N9|F8A5N9_CELGA			109		
+tr|F8A1P2|F8A1P2_CELGA	K00931	proB; glutamate 5-kinase [EC:2.7.2.11]	442		
+tr|F8A3Z0|F8A3Z0_CELGA			130	K02528	4
+tr|F8A7H6|F8A7H6_CELGA			249		
+tr|F8A4X2|F8A4X2_CELGA			326		
+tr|F8A6I5|F8A6I5_CELGA			317		
+tr|F7ZZV2|F7ZZV2_CELGA	K02838	frr; ribosome recycling factor	281		
+tr|F8A4W1|F8A4W1_CELGA			343		
+tr|F8A3K5|F8A3K5_CELGA			212		
+tr|F8A2B0|F8A2B0_CELGA			212		
+tr|F8A452|F8A452_CELGA			37	K17713	1
+tr|F7ZZL6|F7ZZL6_CELGA	K03040	rpoA; DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]	576		
+tr|F8A5Z6|F8A5Z6_CELGA	K00575	cheR; chemotaxis protein methyltransferase CheR [EC:2.1.1.80]	293		
+tr|F8A2Y4|F8A2Y4_CELGA			15	K01894	3
+tr|F8A4H1|F8A4H1_CELGA			231	K10797	99
+tr|F8A2F3|F8A2F3_CELGA			55	K01892	2
+tr|F8A427|F8A427_CELGA	K12954	ctpG; cation-transporting ATPase G [EC:3.6.3.-]	793		
+tr|F8A7B3|F8A7B3_CELGA	K05795	terD; tellurium resistance protein TerD	308		
+tr|F8A7G7|F8A7G7_CELGA			17	K01775	1
+tr|F7ZZ81|F7ZZ81_CELGA	K01925	murD; UDP-N-acetylmuramoylalanine--D-glutamate ligase [EC:6.3.2.9]	434		
+tr|F8A145|F8A145_CELGA			28	K04771	2
+tr|F8A1U9|F8A1U9_CELGA	K07042	ybeY; probable rRNA maturation factor	225		
+tr|F8A272|F8A272_CELGA			108		
+tr|F8A4V2|F8A4V2_CELGA	K15268	eamA; O-acetylserine/cysteine efflux transporter	326		
+tr|F8A104|F8A104_CELGA			153		
+tr|F8A175|F8A175_CELGA	K09692	tagG; teichoic acid transport system permease protein	277		
+tr|F8A1I8|F8A1I8_CELGA	K06997	yggS; PLP dependent protein	200		
+tr|F7ZZY8|F7ZZY8_CELGA			176		
+tr|F7ZZ08|F7ZZ08_CELGA			35	K15866	1
+tr|F8A7N4|F8A7N4_CELGA			179		
+tr|F8A735|F8A735_CELGA			28	K02049	2
+tr|F8A1J1|F8A1J1_CELGA			59	K02015	2
+tr|F8A0X0|F8A0X0_CELGA			20	K01953	10
+tr|F8A367|F8A367_CELGA	K09955	uncharacterized protein	520		
+tr|F8A0U2|F8A0U2_CELGA			406		
+tr|F8A0L2|F8A0L2_CELGA			310		
+tr|F8A0A7|F8A0A7_CELGA	K01358	clpP; ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]	334		
+tr|F8A220|F8A220_CELGA	K02113	ATPF1D; F-type H+-transporting ATPase subunit delta	210		
+tr|F8A398|F8A398_CELGA			66	K03110	2
+tr|F8A3D9|F8A3D9_CELGA	K04518	pheA2; prephenate dehydratase [EC:4.2.1.51]	350		
+tr|F8A2L1|F8A2L1_CELGA	K16301	efeB; deferrochelatase/peroxidase EfeB [EC:1.11.1.-]	535		
+tr|F8A6S3|F8A6S3_CELGA			365		
+tr|F8A092|F8A092_CELGA	K01207	nagZ; beta-N-acetylhexosaminidase [EC:3.2.1.52]	282		
+tr|F8A704|F8A704_CELGA			67	K01772	2
+tr|F8A5D7|F8A5D7_CELGA			169	K01951	42
+tr|F8A311|F8A311_CELGA	K01421	yhgE; putative membrane protein	373		
+tr|F8A6G7|F8A6G7_CELGA			151		
+tr|F8A770|F8A770_CELGA			27	K00859	1
+tr|F8A5W7|F8A5W7_CELGA			64	K07452	3
+tr|F8A2S7|F8A2S7_CELGA	K02004	ABC.CD.P; putative ABC transport system permease protein	574		
+tr|F8A239|F8A239_CELGA	K07284	srtA; sortase A [EC:3.4.22.70]	68		
+tr|F8A661|F8A661_CELGA			181		
+tr|F7ZZJ4|F7ZZJ4_CELGA	K02890	RP-L22; large subunit ribosomal protein L22	176		
+tr|F7ZZ58|F7ZZ58_CELGA			23	K06331	1
+tr|F8A642|F8A642_CELGA			33	K05846	1
+tr|F8A5T6|F8A5T6_CELGA			365		
+tr|F8A7H2|F8A7H2_CELGA			293		
+tr|F8A6G5|F8A6G5_CELGA			143		
+tr|F8A086|F8A086_CELGA	K02013	ABC.FEV.A; iron complex transport system ATP-binding protein [EC:3.6.3.34]	225		
+tr|F8A7E0|F8A7E0_CELGA			524		
+tr|F8A797|F8A797_CELGA	K01524	ppx-gppA; exopolyphosphatase / guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase [EC:3.6.1.11 3.6.1.40]	387		
+tr|F8A238|F8A238_CELGA			213		
+tr|F8A1E5|F8A1E5_CELGA			329		
+tr|F7ZZZ4|F7ZZZ4_CELGA	K00882	fruK; 1-phosphofructokinase [EC:2.7.1.56]	303		
+tr|F8A4X4|F8A4X4_CELGA	K01665	pabB; para-aminobenzoate synthetase component I [EC:2.6.1.85]	365		
+tr|F8A242|F8A242_CELGA	K12132	prkC; eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]	592		
+tr|F8A137|F8A137_CELGA			472		
+tr|F8A5Z5|F8A5Z5_CELGA	K03412	cheB; two-component system, chemotaxis family, response regulator CheB [EC:3.1.1.61]	376		
+tr|F8A050|F8A050_CELGA	K03106	SRP54; signal recognition particle subunit SRP54 [EC:3.6.5.4]	715		
+tr|F8A2G0|F8A2G0_CELGA			19	K01876	2
+tr|F8A4D9|F8A4D9_CELGA	K14949	pknG; serine/threonine-protein kinase PknG [EC:2.7.11.1]	719		
+tr|F7ZZ23|F7ZZ23_CELGA	K00038	E1.1.1.53; 3alpha(or 20beta)-hydroxysteroid dehydrogenase [EC:1.1.1.53]	222		
+tr|F7ZZ29|F7ZZ29_CELGA			362		
+tr|F8A575|F8A575_CELGA			325		
+tr|F8A4Q2|F8A4Q2_CELGA			153		
+tr|F8A4J5|F8A4J5_CELGA	K01952	purL; phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	380		
+tr|F8A0U6|F8A0U6_CELGA	K09162	cld; chlorite dismutase [EC:1.13.11.49]	313		
+tr|F8A7C7|F8A7C7_CELGA			53	K12132	2
+tr|F8A2Q6|F8A2Q6_CELGA			72		
+tr|F8A5V7|F8A5V7_CELGA			22	K01733	1
+tr|F7ZZM5|F7ZZM5_CELGA			141		
+tr|F8A7G3|F8A7G3_CELGA			121		
+tr|F8A034|F8A034_CELGA	K00024	mdh; malate dehydrogenase [EC:1.1.1.37]	472		
+tr|F8A3L1|F8A3L1_CELGA			195		
+tr|F8A332|F8A332_CELGA	K07164	uncharacterized protein	235		
+tr|F8A546|F8A546_CELGA			291		
+tr|F8A6E5|F8A6E5_CELGA			470		
+tr|F8A3P8|F8A3P8_CELGA	K00845	glk; glucokinase [EC:2.7.1.2]	378		
+tr|F8A0V2|F8A0V2_CELGA	K10240	cebE; cellobiose transport system substrate-binding protein	457		
+tr|F8A1H5|F8A1H5_CELGA			193		
+tr|F8A0G6|F8A0G6_CELGA	K03711	fur; Fur family transcriptional regulator, ferric uptake regulator	160		
+tr|F8A0L3|F8A0L3_CELGA			204		
+tr|F8A657|F8A657_CELGA			10	K02911	7
+tr|F7ZZ53|F7ZZ53_CELGA	K03781	katE; catalase [EC:1.11.1.6]	795		
+tr|F8A6K6|F8A6K6_CELGA			199		
+tr|F8A140|F8A140_CELGA			21	K07112	9
+tr|F8A468|F8A468_CELGA			171		
+tr|F7ZZS9|F7ZZS9_CELGA	K00962	pnp; polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]	1172		
+tr|F7ZZ45|F7ZZ45_CELGA					
+tr|F8A449|F8A449_CELGA			426		
+tr|F8A7Q3|F8A7Q3_CELGA			248		
+tr|F8A5W3|F8A5W3_CELGA			115	K00626	4
+tr|F8A487|F8A487_CELGA			278		
+tr|F8A1L2|F8A1L2_CELGA	K10119	msmG; raffinose/stachyose/melibiose transport system permease protein	357		
+tr|F8A5F5|F8A5F5_CELGA	K02406	fliC; flagellin	306		
+tr|F8A6T1|F8A6T1_CELGA			30	K00928	3
+tr|F8A593|F8A593_CELGA			358		
+tr|F8A1W4|F8A1W4_CELGA			519		
+tr|F8A4U1|F8A4U1_CELGA	K02039	phoU; phosphate transport system protein	237		
+tr|F8A2H0|F8A2H0_CELGA			479		
+tr|F8A4X3|F8A4X3_CELGA			212		
+tr|F8A2H1|F8A2H1_CELGA			104		
+tr|F8A018|F8A018_CELGA			405		
+tr|F8A1I4|F8A1I4_CELGA			1128		
+tr|F8A698|F8A698_CELGA			734		
+tr|F8A5Q0|F8A5Q0_CELGA			146		
+tr|F8A0G9|F8A0G9_CELGA			121		
+tr|F8A5X5|F8A5X5_CELGA			72		
+tr|F8A2M1|F8A2M1_CELGA	K01489	cdd; cytidine deaminase [EC:3.5.4.5]	208		
+tr|F8A3E0|F8A3E0_CELGA			122		
+tr|F8A455|F8A455_CELGA			10	K01613	6
+tr|F8A0U5|F8A0U5_CELGA	K01772	hemH; ferrochelatase [EC:4.99.1.1]	414		
+tr|F8A2W6|F8A2W6_CELGA	K00948	PRPS; ribose-phosphate pyrophosphokinase [EC:2.7.6.1]	409		
+tr|F8A648|F8A648_CELGA			942		
+tr|F8A5F7|F8A5F7_CELGA	K02422	fliS; flagellar protein FliS	113		
+tr|F7ZYW9|F7ZYW9_CELGA			435		
+tr|F8A4U8|F8A4U8_CELGA			77	K09796	2
+tr|F8A4V6|F8A4V6_CELGA			137		
+tr|F8A507|F8A507_CELGA	K06994	putative drug exporter of the RND superfamily	559		
+tr|F8A623|F8A623_CELGA			19	K02033	1
+tr|F7ZZ38|F7ZZ38_CELGA	K00930	argB; acetylglutamate kinase [EC:2.7.2.8]	433		
+tr|F8A5N4|F8A5N4_CELGA			152		
+tr|F7ZZH5|F7ZZH5_CELGA	K02355	fusA; elongation factor G	1211		
+tr|F8A0M1|F8A0M1_CELGA	K08483	PTS-EI.PTSI; phosphotransferase system, enzyme I, PtsI [EC:2.7.3.9]	525		
+tr|F8A0P1|F8A0P1_CELGA			544		
+tr|F8A0Z7|F8A0Z7_CELGA			137		
+tr|F8A3U4|F8A3U4_CELGA	K01218	gmuG; mannan endo-1,4-beta-mannosidase [EC:3.2.1.78]	449		
+tr|F8A199|F8A199_CELGA			434		
+tr|F8A2H5|F8A2H5_CELGA			136		
+tr|F8A7U4|F8A7U4_CELGA			147		
+tr|F8A1C5|F8A1C5_CELGA	K01739	metB; cystathionine gamma-synthase [EC:2.5.1.48]	435		
+tr|F8A6N7|F8A6N7_CELGA			342		
+tr|F8A776|F8A776_CELGA			202		
+tr|F8A0K1|F8A0K1_CELGA	K01738	cysK; cysteine synthase A [EC:2.5.1.47]	476		
+tr|F8A540|F8A540_CELGA			20	K00721	2
+tr|F8A0A4|F8A0A4_CELGA	K04092	tyrA1; chorismate mutase [EC:5.4.99.5]	136		
+tr|F7ZZ13|F7ZZ13_CELGA			161		
+tr|F8A4S4|F8A4S4_CELGA	K00278	nadB; L-aspartate oxidase [EC:1.4.3.16]	617		
+tr|F8A1V9|F8A1V9_CELGA	K02434	gatB; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]	792		
+tr|F8A4Z9|F8A4Z9_CELGA			200		
+tr|F8A7H4|F8A7H4_CELGA			24	K03529	2
+tr|F8A6W4|F8A6W4_CELGA	K02653	pilC; type IV pilus assembly protein PilC	487		
+tr|F8A6D1|F8A6D1_CELGA	K01955	carB; carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]	1699		
+tr|F8A4Y8|F8A4Y8_CELGA	K01159	ruvC; crossover junction endodeoxyribonuclease RuvC [EC:3.1.22.4]	208		
+tr|F8A5G5|F8A5G5_CELGA	K02412	fliI; flagellum-specific ATP synthase [EC:3.6.3.14]	576		
+tr|F8A757|F8A757_CELGA			772		
+tr|F8A7U1|F8A7U1_CELGA	K07735	algH; putative transcriptional regulator	190		
+tr|F8A6R6|F8A6R6_CELGA	K09809	tagF; CDP-glycerol glycerophosphotransferase [EC:2.7.8.12]	293		
+tr|F8A3L5|F8A3L5_CELGA			112		
+tr|F8A6X2|F8A6X2_CELGA	K01695	trpA; tryptophan synthase alpha chain [EC:4.2.1.20]	335		
+tr|F8A5I0|F8A5I0_CELGA	K02419	fliP; flagellar biosynthetic protein FliP	313		
+tr|F8A051|F8A051_CELGA	K00990	glnD; [protein-PII] uridylyltransferase [EC:2.7.7.59]	593		
+tr|F8A3L8|F8A3L8_CELGA			144		
+tr|F8A2P5|F8A2P5_CELGA	K00796	folP; dihydropteroate synthase [EC:2.5.1.15]	333		
+tr|F8A3N7|F8A3N7_CELGA	K03891	qcrB; ubiquinol-cytochrome c reductase cytochrome b subunit	747		
+tr|F8A6K8|F8A6K8_CELGA			26	K03823	5
+tr|F7ZZI5|F7ZZI5_CELGA	K02027	ABC.MS.S; multiple sugar transport system substrate-binding protein	509		
+tr|F8A3U5|F8A3U5_CELGA			450		
+tr|F8A7U0|F8A7U0_CELGA			166		
+tr|F8A2U5|F8A2U5_CELGA			19	K05782	1
+tr|F8A1K5|F8A1K5_CELGA	K01182	IMA; oligo-1,6-glucosidase [EC:3.2.1.10]	798		
+tr|F7ZYW7|F7ZYW7_CELGA			29	K00135	1
+tr|F8A6C4|F8A6C4_CELGA	K04066	priA; primosomal protein N' (replication factor Y) (superfamily II helicase) [EC:3.6.4.-]	641		
+tr|F8A1A0|F8A1A0_CELGA	K03924	moxR; MoxR-like ATPase [EC:3.6.3.-]	491		
+tr|F8A1L0|F8A1L0_CELGA	K01687	ilvD; dihydroxy-acid dehydratase [EC:4.2.1.9]	994		
+tr|F8A6V6|F8A6V6_CELGA	K02654	pilD; leader peptidase (prepilin peptidase) / N-methyltransferase [EC:3.4.23.43 2.1.1.-]	286		
+tr|F7ZZU9|F7ZZU9_CELGA			202		
+tr|F8A3J9|F8A3J9_CELGA			139		
+tr|F8A045|F8A045_CELGA	K00554	trmD; tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228]	324		
+tr|F8A5Y6|F8A5Y6_CELGA	K02400	flhA; flagellar biosynthesis protein FlhA	821		
+tr|F7ZZR1|F7ZZR1_CELGA	K03743	pncC; nicotinamide-nucleotide amidase [EC:3.5.1.42]	141	K03742	16
+tr|F8A4I0|F8A4I0_CELGA	K00232	E1.3.3.6; acyl-CoA oxidase [EC:1.3.3.6]	876		
+tr|F8A1Z6|F8A1Z6_CELGA			376		
+tr|F8A225|F8A225_CELGA	K02851	wecA; UDP-GlcNAc:undecaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33]	416		
+tr|F8A1K1|F8A1K1_CELGA	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	346		
+tr|F8A4E2|F8A4E2_CELGA			234		
+tr|F8A5D0|F8A5D0_CELGA	K04077	groEL; chaperonin GroEL	804		
+tr|F8A3D7|F8A3D7_CELGA			358		
+tr|F8A3Y8|F8A3Y8_CELGA			26	K01586	4
+tr|F8A1A7|F8A1A7_CELGA			117		
+tr|F8A387|F8A387_CELGA	K02026	ABC.MS.P1; multiple sugar transport system permease protein	321		
+tr|F8A3N0|F8A3N0_CELGA	K00865	glxK; glycerate kinase [EC:2.7.1.31]	263		
+tr|F8A6Z9|F8A6Z9_CELGA	K15526	mshC; L-cysteine:1D-myo-inositol 2-amino-2-deoxy-alpha-D-glucopyranoside ligase [EC:6.3.1.13]	493		
+tr|F7ZZ55|F7ZZ55_CELGA			349		
+tr|F8A255|F8A255_CELGA			218		
+tr|F8A101|F8A101_CELGA			402		
+tr|F8A746|F8A746_CELGA	K01265	map; methionyl aminopeptidase [EC:3.4.11.18]	387		
+tr|F8A660|F8A660_CELGA			286		
+tr|F8A156|F8A156_CELGA	K10546	ABC.GGU.S; putative multiple sugar transport system substrate-binding protein	434		
+tr|F7ZZY4|F7ZZY4_CELGA			147		
+tr|F8A4K4|F8A4K4_CELGA	K01939	purA; adenylosuccinate synthase [EC:6.3.4.4]	668		
+tr|F8A408|F8A408_CELGA			350		
+tr|F8A502|F8A502_CELGA			404		
+tr|F7ZZX9|F7ZZX9_CELGA	K06048	ybdK; carboxylate-amine ligase [EC:6.3.-.-]	497		
+tr|F7ZZ69|F7ZZ69_CELGA	K02337	DPO3A1; DNA polymerase III subunit alpha [EC:2.7.7.7]	1751		
+tr|F8A7G5|F8A7G5_CELGA			155		
+tr|F8A135|F8A135_CELGA			165		
+tr|F8A7P6|F8A7P6_CELGA	K15634	gpmB; probable phosphoglycerate mutase [EC:5.4.2.12]	107		
+tr|F8A6C0|F8A6C0_CELGA	K01783	rpe; ribulose-phosphate 3-epimerase [EC:5.1.3.1]	299		
+tr|F8A2J4|F8A2J4_CELGA			30	K01421	1
+tr|F8A3U6|F8A3U6_CELGA	K15520	mshD; mycothiol synthase [EC:2.3.1.189]	255		
+tr|F8A3Y2|F8A3Y2_CELGA			20	K04043	2
+tr|F8A5R6|F8A5R6_CELGA			219	K07459	6
+tr|F8A197|F8A197_CELGA			223		
+tr|F8A2K3|F8A2K3_CELGA			23	K03466	1
+tr|F8A4U5|F8A4U5_CELGA	K02037	pstC; phosphate transport system permease protein	351		
+tr|F8A3W9|F8A3W9_CELGA	K00299	ssuE; FMN reductase [EC:1.5.1.38]	208		
+tr|F8A178|F8A178_CELGA	K01791	wecB; UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	390		
+tr|F8A2N5|F8A2N5_CELGA			215		
+tr|F8A0B1|F8A0B1_CELGA			1984		
+tr|F8A5W9|F8A5W9_CELGA			595		
+tr|F8A394|F8A394_CELGA			336		
+tr|F8A7V4|F8A7V4_CELGA			439		
+tr|F8A1Y9|F8A1Y9_CELGA	K15772	ganQ; arabinogalactan oligomer / maltooligosaccharide transport system permease protein	368		
+tr|F8A7H3|F8A7H3_CELGA			1091		
+tr|F8A6T6|F8A6T6_CELGA	K01596	E4.1.1.32; phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32]	870		
+tr|F8A6S4|F8A6S4_CELGA			569		
+tr|F8A0E7|F8A0E7_CELGA			920		
+tr|F8A6Q6|F8A6Q6_CELGA	K04042	glmU; bifunctional UDP-N-acetylglucosamine pyrophosphorylase / Glucosamine-1-phosphate N-acetyltransferase [EC:2.7.7.23 2.3.1.157]	643		
+tr|F7ZZF6|F7ZZF6_CELGA			233		
+tr|F8A170|F8A170_CELGA			352		
+tr|F8A2X7|F8A2X7_CELGA			237		
+tr|F8A082|F8A082_CELGA	K01431	UPB1; beta-ureidopropionase [EC:3.5.1.6]	436		
+tr|F8A6E2|F8A6E2_CELGA	K03686	dnaJ; molecular chaperone DnaJ	332		
+tr|F8A3A1|F8A3A1_CELGA			32	K02005	15
+tr|F8A6V0|F8A6V0_CELGA	K00891	E2.7.1.71; shikimate kinase [EC:2.7.1.71]	169	K01735	21
+tr|F8A1S2|F8A1S2_CELGA	K06915	uncharacterized protein	601		
+tr|F8A2L5|F8A2L5_CELGA	K03783	punA; purine-nucleoside phosphorylase [EC:2.4.2.1]	405		
+tr|F8A4Q5|F8A4Q5_CELGA			179		
+tr|F7ZZQ6|F7ZZQ6_CELGA			458		
+tr|F8A3M2|F8A3M2_CELGA			16	K07303	1
+tr|F8A5F2|F8A5F2_CELGA	K02396	flgK; flagellar hook-associated protein 1 FlgK	414		
+tr|F8A356|F8A356_CELGA	K00230	hemG; menaquinone-dependent protoporphyrinogen oxidase [EC:1.3.5.3]	120		
+tr|F7ZZI3|F7ZZI3_CELGA	K02025	ABC.MS.P; multiple sugar transport system permease protein	414		
+tr|F8A7U5|F8A7U5_CELGA	K03088	SIG3.2; RNA polymerase sigma-70 factor, ECF subfamily	170		
+tr|F8A443|F8A443_CELGA			22	K02500	3
+tr|F8A040|F8A040_CELGA	K07460	yraN; putative endonuclease	129		
+tr|F7ZZA3|F7ZZA3_CELGA			51		
+tr|F7ZZD3|F7ZZD3_CELGA	K00970	pcnB; poly(A) polymerase [EC:2.7.7.19]	660		
+tr|F7ZZR6|F7ZZR6_CELGA	K12574	rnj; ribonuclease J [EC:3.1.-.-]	851		
+tr|F8A7C8|F8A7C8_CELGA	K18455	mca; mycothiol S-conjugate amidase [EC:3.5.1.115]	400		
+tr|F8A7M8|F8A7M8_CELGA	K02259	COX15; cytochrome c oxidase assembly protein subunit 15	220		
+tr|F8A215|F8A215_CELGA			25	K07216	1
+tr|F8A0B8|F8A0B8_CELGA	K00897	aphA; kanamycin kinase [EC:2.7.1.95]	233		
+tr|F8A0D6|F8A0D6_CELGA			227		
+tr|F8A1K3|F8A1K3_CELGA	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	352		
+tr|F8A4Y4|F8A4Y4_CELGA			197		
+tr|F8A087|F8A087_CELGA	K11212	cofD; LPPG:FO 2-phospho-L-lactate transferase [EC:2.7.8.28]	373		
+tr|F8A3I8|F8A3I8_CELGA	K00688	E2.4.1.1; starch phosphorylase [EC:2.4.1.1]	1117		
+tr|F8A3I3|F8A3I3_CELGA	K02017	modC; molybdate transport system ATP-binding protein [EC:3.6.3.29]	325		
+tr|F8A5L8|F8A5L8_CELGA			175		
+tr|F8A1P5|F8A1P5_CELGA	K00969	nadD; nicotinate-nucleotide adenylyltransferase [EC:2.7.7.18]	300		
+tr|F7ZZY7|F7ZZY7_CELGA	K00088	guaB; IMP dehydrogenase [EC:1.1.1.205]	604		
+tr|F7ZZ62|F7ZZ62_CELGA	K03088	SIG3.2; RNA polymerase sigma-70 factor, ECF subfamily	55		
+tr|F8A583|F8A583_CELGA			101		
+tr|F8A164|F8A164_CELGA			380		
+tr|F8A0R8|F8A0R8_CELGA			19	K03530	1
+tr|F8A128|F8A128_CELGA			30	K02005	1
+tr|F8A3Z4|F8A3Z4_CELGA			103	K03892	10
+tr|F8A3I2|F8A3I2_CELGA	K02018	modB; molybdate transport system permease protein	296		
+tr|F8A4U6|F8A4U6_CELGA	K02038	pstA; phosphate transport system permease protein	368		
+tr|F8A3K9|F8A3K9_CELGA	K03801	lipB; lipoyl(octanoyl) transferase [EC:2.3.1.181]	265		
+tr|F8A4F7|F8A4F7_CELGA			172		
+tr|F7ZZ80|F7ZZ80_CELGA	K03588	ftsW; cell division protein FtsW	340		
+tr|F8A666|F8A666_CELGA			17	K00824	1
+tr|F7ZZG6|F7ZZG6_CELGA			112		
+tr|F7ZZ30|F7ZZ30_CELGA	K01866	YARS; tyrosyl-tRNA synthetase [EC:6.1.1.1]	588		
+tr|F8A0Q0|F8A0Q0_CELGA			138		
+tr|F8A0L8|F8A0L8_CELGA	K03442	mscS; small conductance mechanosensitive channel	263		
+tr|F8A107|F8A107_CELGA	K03582	recB; exodeoxyribonuclease V beta subunit [EC:3.1.11.5]	917		
+tr|F8A525|F8A525_CELGA			25	K02042	3
+tr|F8A7P5|F8A7P5_CELGA			20	K00426	1
+tr|F8A1I1|F8A1I1_CELGA			262		
+tr|F8A3E2|F8A3E2_CELGA	K01875	SARS; seryl-tRNA synthetase [EC:6.1.1.11]	626		
+tr|F8A6M5|F8A6M5_CELGA	K01934	MTHFS; 5-formyltetrahydrofolate cyclo-ligase [EC:6.3.3.2]	94		
+tr|F8A5N2|F8A5N2_CELGA	K11741	sugE; quaternary ammonium compound-resistance protein SugE	159		
+tr|F7ZZG1|F7ZZG1_CELGA	K02601	nusG; transcriptional antiterminator NusG	316		
+tr|F8A7W9|F8A7W9_CELGA			14	K00548	8
+tr|F8A0T6|F8A0T6_CELGA			243		
+tr|F8A7P7|F8A7P7_CELGA	K00627	DLAT; pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12]	537		
+tr|F8A6J7|F8A6J7_CELGA			377		
+tr|F8A313|F8A313_CELGA	K01462	PDF; peptide deformylase [EC:3.5.1.88]	267		
+tr|F7ZZ05|F7ZZ05_CELGA			105		
+tr|F8A6L9|F8A6L9_CELGA			1141		
+tr|F7ZZ79|F7ZZ79_CELGA	K01924	murC; UDP-N-acetylmuramate--alanine ligase [EC:6.3.2.8]	513		
+tr|F8A1G8|F8A1G8_CELGA			350		
+tr|F8A295|F8A295_CELGA			21	K05846	1
+tr|F8A0X6|F8A0X6_CELGA			223		
+tr|F8A014|F8A014_CELGA			68	K09793	2
+tr|F8A4K8|F8A4K8_CELGA			35	K04749	5
+tr|F8A536|F8A536_CELGA			25	K01649	2
+tr|F7ZZP8|F7ZZP8_CELGA	K10005	gluB; glutamate transport system substrate-binding protein	329		
+tr|F8A676|F8A676_CELGA			177		
+tr|F8A0N0|F8A0N0_CELGA	K03111	ssb; single-strand DNA-binding protein	76		
+tr|F8A0U1|F8A0U1_CELGA	K01187	malZ; alpha-glucosidase [EC:3.2.1.20]	740		
+tr|F8A0L0|F8A0L0_CELGA			260		
+tr|F8A7F8|F8A7F8_CELGA			21	K05934	4
+tr|F8A7S3|F8A7S3_CELGA			414		
+tr|F8A1M5|F8A1M5_CELGA			57	K19710	2
+tr|F8A7U3|F8A7U3_CELGA			263		
+tr|F8A1R7|F8A1R7_CELGA			416		
+tr|F8A2W9|F8A2W9_CELGA			504		
+tr|F8A4H5|F8A4H5_CELGA			226		
+tr|F8A080|F8A080_CELGA			531		
+tr|F8A3Q0|F8A3Q0_CELGA	K00655	plsC; 1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51]	357		
+tr|F8A7H1|F8A7H1_CELGA			526		
+tr|F8A1E9|F8A1E9_CELGA			207		
+tr|F8A5Z7|F8A5Z7_CELGA	K03413	cheY; two-component system, chemotaxis family, response regulator CheY	179		
+tr|F8A6P7|F8A6P7_CELGA			227		
+tr|F8A333|F8A333_CELGA	K15634	gpmB; probable phosphoglycerate mutase [EC:5.4.2.12]	149		
+tr|F8A3P4|F8A3P4_CELGA	K02342	DPO3E; DNA polymerase III subunit epsilon [EC:2.7.7.7]	665		
+tr|F8A6M7|F8A6M7_CELGA	K03750	moeA; molybdopterin molybdotransferase [EC:2.10.1.1]	395		
+tr|F8A2U0|F8A2U0_CELGA			53	K02461	2
+tr|F8A348|F8A348_CELGA	K00982	glnE; glutamate-ammonia-ligase adenylyltransferase [EC:2.7.7.42]	1052		
+tr|F8A5Z3|F8A5Z3_CELGA	K10546	ABC.GGU.S; putative multiple sugar transport system substrate-binding protein	371		
+tr|F8A189|F8A189_CELGA			235		
+tr|F8A339|F8A339_CELGA	K07156	copC; copper resistance protein C	19		
+tr|F8A1F3|F8A1F3_CELGA			265		
+tr|F8A3T2|F8A3T2_CELGA			463		
+tr|F8A7T2|F8A7T2_CELGA			362		
+tr|F7ZZK6|F7ZZK6_CELGA	K02988	RP-S5; small subunit ribosomal protein S5	305		
+tr|F7ZZ20|F7ZZ20_CELGA	K00528	fpr; ferredoxin--NADP+ reductase [EC:1.18.1.2]	695		
+tr|F8A4H7|F8A4H7_CELGA	K01952	purL; phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	1177		
+tr|F8A0I9|F8A0I9_CELGA			53	K01736	2
+tr|F8A6V2|F8A6V2_CELGA	K01736	aroC; chorismate synthase [EC:4.2.3.5]	585		
+tr|F8A5V9|F8A5V9_CELGA	K11991	tadA; tRNA(adenine34) deaminase [EC:3.5.4.33]	167		
+tr|F7ZZU4|F7ZZU4_CELGA	K03526	gcpE; (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase [EC:1.17.7.1 1.17.7.3]	675		
+tr|F8A733|F8A733_CELGA			463		
+tr|F8A0W6|F8A0W6_CELGA	K01588	purE; 5-(carboxyamino)imidazole ribonucleotide mutase [EC:5.4.99.18]	249		
+tr|F8A2Y2|F8A2Y2_CELGA			17	K02338	2
+tr|F8A6M0|F8A6M0_CELGA			35	K01531	1
+tr|F8A2I0|F8A2I0_CELGA	K02909	RP-L31; large subunit ribosomal protein L31	128		
+tr|F8A401|F8A401_CELGA	K07089	uncharacterized protein	335		
+tr|F8A7Q6|F8A7Q6_CELGA			121		
+tr|F8A788|F8A788_CELGA	K02351	putative membrane protein	536		
+	K07245	pcoD; copper resistance protein D			
+tr|F8A1P1|F8A1P1_CELGA	K03979	obgE; GTPase [EC:3.6.5.-]	728		
+tr|F8A4P5|F8A4P5_CELGA			20	K04090	2
+tr|F8A4Q7|F8A4Q7_CELGA	K07259	dacB; D-alanyl-D-alanine carboxypeptidase / D-alanyl-D-alanine-endopeptidase (penicillin-binding protein 4) [EC:3.4.16.4 3.4.21.-]	319		
+tr|F8A5L4|F8A5L4_CELGA	K04517	tyrA2; prephenate dehydrogenase [EC:1.3.1.12]	366		
+tr|F8A6Y2|F8A6Y2_CELGA			588	K02021	58
+tr|F8A163|F8A163_CELGA	K12511	tadC; tight adherence protein C	246		
+tr|F8A1C6|F8A1C6_CELGA	K01921	ddl; D-alanine-D-alanine ligase [EC:6.3.2.4]	475		
+tr|F8A318|F8A318_CELGA	K09458	fabF; 3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179]	612		
+tr|F8A3D1|F8A3D1_CELGA			65		
+tr|F8A315|F8A315_CELGA	K02071	metN; D-methionine transport system ATP-binding protein	397		
+tr|F8A201|F8A201_CELGA			110		
+tr|F8A6C9|F8A6C9_CELGA			142		
+tr|F8A340|F8A340_CELGA			393		
+tr|F7ZZ33|F7ZZ33_CELGA	K01755	argH; argininosuccinate lyase [EC:4.3.2.1]	648		
+tr|F8A6M4|F8A6M4_CELGA	K01434	E3.5.1.11; penicillin amidase [EC:3.5.1.11]	899		
+tr|F8A0B7|F8A0B7_CELGA			205		
+tr|F7ZZG9|F7ZZG9_CELGA	K02935	RP-L7; large subunit ribosomal protein L7/L12	151		
+tr|F8A2S8|F8A2S8_CELGA			402		
+tr|F8A1D7|F8A1D7_CELGA	K07040	uncharacterized protein	243		
+tr|F8A6Z1|F8A6Z1_CELGA			172		
+tr|F8A4Q3|F8A4Q3_CELGA	K00641	metX; homoserine O-acetyltransferase [EC:2.3.1.31]	517		
+tr|F8A4C9|F8A4C9_CELGA	K13789	GGPS; geranylgeranyl diphosphate synthase, type II [EC:2.5.1.1 2.5.1.10 2.5.1.29]	266		
+tr|F8A0X4|F8A0X4_CELGA			367	K01654	96
+tr|F8A7N8|F8A7N8_CELGA	K00858	ppnK; NAD+ kinase [EC:2.7.1.23]	341		
+tr|F7ZYY8|F7ZYY8_CELGA	K00331	nuoB; NADH-quinone oxidoreductase subunit B [EC:1.6.5.3]	308		
+tr|F8A4T6|F8A4T6_CELGA			193		
+tr|F7ZZ25|F7ZZ25_CELGA			185		
+tr|F7ZZB5|F7ZZB5_CELGA			32	K04618	1
+tr|F8A006|F8A006_CELGA			547		
+tr|F8A758|F8A758_CELGA			191	K01894	4
+tr|F8A3A5|F8A3A5_CELGA	K15987	hppA; K(+)-stimulated pyrophosphate-energized sodium pump [EC:3.6.1.1]	1023		
+tr|F8A7A3|F8A7A3_CELGA			296		
+tr|F8A005|F8A005_CELGA			724		
+tr|F8A4U4|F8A4U4_CELGA	K02040	pstS; phosphate transport system substrate-binding protein	342		
+tr|F8A3P9|F8A3P9_CELGA			55	K01652	2
+tr|F8A2F7|F8A2F7_CELGA			21	K17473	2
+tr|F7ZZN8|F7ZZN8_CELGA	K00791	miaA; tRNA dimethylallyltransferase [EC:2.5.1.75]	350		
+tr|F8A6B4|F8A6B4_CELGA	K01523	hisE; phosphoribosyl-ATP pyrophosphohydrolase [EC:3.6.1.31]	135		
+tr|F8A462|F8A462_CELGA	K05349	bglX; beta-glucosidase [EC:3.2.1.21]	673		
+tr|F8A0B4|F8A0B4_CELGA	K00694	bcsA; cellulose synthase (UDP-forming) [EC:2.4.1.12]	759		
+tr|F8A2Z9|F8A2Z9_CELGA			19	K00615	1
+tr|F8A1V2|F8A1V2_CELGA			416		
+tr|F8A5R1|F8A5R1_CELGA	K02343	DPO3G; DNA polymerase III subunit gamma/tau [EC:2.7.7.7]	565		
+tr|F8A519|F8A519_CELGA			203		
+tr|F8A606|F8A606_CELGA			21	K12658	5
+tr|F7ZZ24|F7ZZ24_CELGA	K02913	RP-L33; large subunit ribosomal protein L33	107		
+tr|F8A4U2|F8A4U2_CELGA	K07768	senX3; two-component system, OmpR family, sensor histidine kinase SenX3 [EC:2.7.13.3]	423		
+tr|F8A6A9|F8A6A9_CELGA	K13573	pafC; proteasome accessory factor C	208		
+tr|F8A4X5|F8A4X5_CELGA	K00826	E2.6.1.42; branched-chain amino acid aminotransferase [EC:2.6.1.42]	279		
+tr|F8A2R6|F8A2R6_CELGA	K03547	sbcD; exonuclease SbcD	386		
+tr|F8A298|F8A298_CELGA	K03635	MOCS2; molybdopterin synthase catalytic subunit [EC:2.8.1.12]	124		
+tr|F8A4S2|F8A4S2_CELGA	K01918	panC; pantoate--beta-alanine ligase [EC:6.3.2.1]	253		
+tr|F8A203|F8A203_CELGA	K01811	xylS; alpha-D-xyloside xylohydrolase [EC:3.2.1.177]	1051		
+tr|F8A7L8|F8A7L8_CELGA	K04488	iscU; nitrogen fixation protein NifU and related proteins	166		
+tr|F7ZZ35|F7ZZ35_CELGA	K03402	argR; transcriptional regulator of arginine metabolism	200		
+tr|F8A3Z6|F8A3Z6_CELGA	K00661	maa; maltose O-acetyltransferase [EC:2.3.1.79]	181		
+tr|F8A2G1|F8A2G1_CELGA			21	K03088	2
+tr|F8A486|F8A486_CELGA			122		
+tr|F8A044|F8A044_CELGA	K02884	RP-L19; large subunit ribosomal protein L19	185		
+tr|F7ZZE7|F7ZZE7_CELGA	K06346	jag; spoIIIJ-associated protein	180		
+tr|F7ZZ37|F7ZZ37_CELGA	K00818	E2.6.1.11; acetylornithine aminotransferase [EC:2.6.1.11]	528		
+tr|F8A0S9|F8A0S9_CELGA	K00363	nirD; nitrite reductase (NADH) small subunit [EC:1.7.1.15]	124		
+tr|F8A1T6|F8A1T6_CELGA			22	K03529	1
+tr|F8A1Z2|F8A1Z2_CELGA	K12308	bgaB; beta-galactosidase [EC:3.2.1.23]	878		
+tr|F8A0M6|F8A0M6_CELGA			650		
+tr|F8A6G1|F8A6G1_CELGA			166		
+tr|F8A7N0|F8A7N0_CELGA			326	K01992	35
+tr|F8A1U0|F8A1U0_CELGA	K02495	hemN; oxygen-independent coproporphyrinogen III oxidase [EC:1.3.99.22]	569		
+tr|F8A209|F8A209_CELGA	K17318	lplA; putative aldouronate transport system substrate-binding protein	522		
+tr|F7ZZR8|F7ZZR8_CELGA	K00287	folA; dihydrofolate reductase [EC:1.5.1.3]	163		
+tr|F8A433|F8A433_CELGA			125		
+tr|F8A534|F8A534_CELGA			107		
+tr|F8A728|F8A728_CELGA	K00371	narH; nitrate reductase / nitrite oxidoreductase, beta subunit [EC:1.7.5.1 1.7.99.4]	916		
+tr|F8A0T8|F8A0T8_CELGA			145		
+tr|F8A1E7|F8A1E7_CELGA			450		
+tr|F8A7J9|F8A7J9_CELGA			130		
+tr|F8A633|F8A633_CELGA			25	K00057	3
+tr|F8A096|F8A096_CELGA			199		
+tr|F8A7R0|F8A7R0_CELGA	K01599	hemE; uroporphyrinogen decarboxylase [EC:4.1.1.37]	505		
+tr|F8A680|F8A680_CELGA			206		
+tr|F7ZYW2|F7ZYW2_CELGA	K06207	typA; GTP-binding protein	1062		
+tr|F8A3M6|F8A3M6_CELGA			593		
+tr|F8A2D7|F8A2D7_CELGA	K09815	znuA; zinc transport system substrate-binding protein	216		
+tr|F8A7M9|F8A7M9_CELGA	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	383		
+tr|F8A7V6|F8A7V6_CELGA			163		
+tr|F8A115|F8A115_CELGA			310		
+tr|F8A6L6|F8A6L6_CELGA			431		
+tr|F8A4C6|F8A4C6_CELGA			54		
+tr|F8A6S8|F8A6S8_CELGA			321		
+tr|F8A0H5|F8A0H5_CELGA			181		
+tr|F8A1J9|F8A1J9_CELGA			125		
+tr|F8A4P0|F8A4P0_CELGA			211		
+tr|F8A0R5|F8A0R5_CELGA			156		
+tr|F7ZZ60|F7ZZ60_CELGA	K01814	hisA; phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase [EC:5.3.1.16]	356	K01814	38
+	K01817	trpF; phosphoribosylanthranilate isomerase [EC:5.3.1.24]			
+tr|F8A2A2|F8A2A2_CELGA	K02437	gcvH; glycine cleavage system H protein	168		
+tr|F8A1E2|F8A1E2_CELGA			251		
+tr|F8A4C0|F8A4C0_CELGA			18	K02519	8
+tr|F8A2A7|F8A2A7_CELGA	K03924	moxR; MoxR-like ATPase [EC:3.6.3.-]	457		
+tr|F8A3W6|F8A3W6_CELGA	K01955	carB; carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]	60		
+tr|F8A065|F8A065_CELGA			240		
+tr|F8A5B0|F8A5B0_CELGA			599		
+tr|F8A663|F8A663_CELGA	K08999	uncharacterized protein	148		
+tr|F8A748|F8A748_CELGA			600		
+tr|F7ZZK1|F7ZZK1_CELGA	K02931	RP-L5; large subunit ribosomal protein L5	306		
+tr|F7ZYX9|F7ZYX9_CELGA			11	K00930	8
+tr|F8A0J0|F8A0J0_CELGA			124		
+tr|F8A6U2|F8A6U2_CELGA			295		
+tr|F8A699|F8A699_CELGA			19	K00031	2
+tr|F8A2R0|F8A2R0_CELGA	K00297	metF; methylenetetrahydrofolate reductase (NADPH) [EC:1.5.1.20]	313		
+tr|F8A258|F8A258_CELGA			24	K02230	4
+tr|F8A572|F8A572_CELGA			210		
+tr|F8A373|F8A373_CELGA			334		
+tr|F8A523|F8A523_CELGA	K01998	livM; branched-chain amino acid transport system permease protein	342		
+tr|F7ZZQ7|F7ZZQ7_CELGA			60	K07001	2
+tr|F7ZZQ3|F7ZZQ3_CELGA	K03565	recX; regulatory protein	172		
+tr|F7ZZS2|F7ZZS2_CELGA			16	K11907	2
+tr|F8A6R1|F8A6R1_CELGA			169	K15921	4
+tr|F7ZZY6|F7ZZY6_CELGA	K02342	DPO3E; DNA polymerase III subunit epsilon [EC:2.7.7.7]	207		
+tr|F8A0W2|F8A0W2_CELGA			417		
+tr|F8A6N9|F8A6N9_CELGA			26	K02687	1
+tr|F8A7E7|F8A7E7_CELGA	K00847	E2.7.1.4; fructokinase [EC:2.7.1.4]	308		
+tr|F8A1X3|F8A1X3_CELGA	K03522	fixB; electron transfer flavoprotein alpha subunit	255		
+tr|F8A118|F8A118_CELGA	K02346	DPO4; DNA polymerase IV [EC:2.7.7.7]	380		
+tr|F8A226|F8A226_CELGA			287		
+tr|F8A285|F8A285_CELGA			469		
+tr|F8A095|F8A095_CELGA			203		
+tr|F8A368|F8A368_CELGA			33		
+tr|F8A329|F8A329_CELGA			30	K09968	3
+tr|F8A6H2|F8A6H2_CELGA			220		
+tr|F8A322|F8A322_CELGA			464		
+tr|F8A3Q1|F8A3Q1_CELGA	K00895	pfp; pyrophosphate--fructose-6-phosphate 1-phosphotransferase [EC:2.7.1.90]	623		
+tr|F7ZZQ5|F7ZZQ5_CELGA			181		
+tr|F8A410|F8A410_CELGA	K03101	lspA; signal peptidase II [EC:3.4.23.36]	126		
+tr|F8A317|F8A317_CELGA			277		
+tr|F8A3Y6|F8A3Y6_CELGA			21	K00097	2
+tr|F8A5Y4|F8A5Y4_CELGA	K02421	fliR; flagellar biosynthetic protein FliR	256		
+tr|F8A243|F8A243_CELGA	K12132	prkC; eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]	350		
+tr|F8A7B5|F8A7B5_CELGA			24	K05879	1
+tr|F8A2H4|F8A2H4_CELGA			24	K01621	1
+tr|F8A592|F8A592_CELGA			681		
+tr|F8A584|F8A584_CELGA			362		
+tr|F7ZZW9|F7ZZW9_CELGA	K06925	tsaE; tRNA threonylcarbamoyladenosine biosynthesis protein TsaE	168		
+tr|F8A0G7|F8A0G7_CELGA			156		
+tr|F8A1F2|F8A1F2_CELGA			13	K04516	2
+tr|F8A279|F8A279_CELGA			248		
+tr|F8A5C9|F8A5C9_CELGA			302		
+tr|F8A221|F8A221_CELGA	K02109	ATPF0B; F-type H+-transporting ATPase subunit b	179		
+tr|F8A2D0|F8A2D0_CELGA	K15771	ganP; arabinogalactan oligomer / maltooligosaccharide transport system permease protein	608		
+tr|F8A6D7|F8A6D7_CELGA	K18233	oleC5; oleandomycin transport system permease protein	324		
+tr|F8A3K6|F8A3K6_CELGA	K06196	ccdA; cytochrome c-type biogenesis protein	220		
+tr|F8A6Y5|F8A6Y5_CELGA	K02500	hisF; cyclase [EC:4.1.3.-]	388		
+tr|F8A0F8|F8A0F8_CELGA			447		
+tr|F8A7M2|F8A7M2_CELGA	K09015	sufD; Fe-S cluster assembly protein SufD	516		
+tr|F8A3L4|F8A3L4_CELGA	K00382	DLD; dihydrolipoamide dehydrogenase [EC:1.8.1.4]	685		
+tr|F8A417|F8A417_CELGA			19	K07667	7
+tr|F8A4N2|F8A4N2_CELGA			355		
+tr|F8A2U4|F8A2U4_CELGA			16	K08982	3
+tr|F8A7J2|F8A7J2_CELGA	K03933	cpbD; chitin-binding protein	90		
+tr|F7ZZT5|F7ZZT5_CELGA			518		
+tr|F8A3D4|F8A3D4_CELGA	K02283	cpaF; pilus assembly protein CpaF	356		
+tr|F8A7U9|F8A7U9_CELGA			19	K05515	2
+tr|F8A261|F8A261_CELGA	K01451	hipO; hippurate hydrolase [EC:3.5.1.32]	240		
+tr|F8A1B2|F8A1B2_CELGA			122		
+tr|F8A4A1|F8A4A1_CELGA			37	K02343	2
+tr|F8A6I2|F8A6I2_CELGA			234		
+tr|F8A150|F8A150_CELGA	K09811	ftsX; cell division transport system permease protein	362		
+tr|F8A674|F8A674_CELGA			303		
+tr|F8A2S5|F8A2S5_CELGA			320		
+tr|F8A3S2|F8A3S2_CELGA	K01092	E3.1.3.25; myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25]	275		
+tr|F8A0W8|F8A0W8_CELGA			335		
+tr|F7ZYY5|F7ZYY5_CELGA	K03183	ubiE; demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201]	324		
+tr|F8A157|F8A157_CELGA	K02529	lacI; LacI family transcriptional regulator	336		
+tr|F8A719|F8A719_CELGA			156		
+tr|F8A4S0|F8A4S0_CELGA	K08981	putative membrane protein	416		
+tr|F8A7N5|F8A7N5_CELGA			235		
+tr|F8A0Y0|F8A0Y0_CELGA	K13665	gumL; pyruvyltransferase	226		
+tr|F8A1W8|F8A1W8_CELGA			272		
+tr|F8A1E0|F8A1E0_CELGA			120		
+tr|F8A205|F8A205_CELGA			318		
+tr|F8A4T8|F8A4T8_CELGA			268		
+tr|F8A6K7|F8A6K7_CELGA			151	K01181	94
+tr|F8A0N8|F8A0N8_CELGA	K04078	groES; chaperonin GroES	141		
+tr|F8A761|F8A761_CELGA	K01785	galM; aldose 1-epimerase [EC:5.1.3.3]	138		
+tr|F8A162|F8A162_CELGA			52		
+tr|F8A1V7|F8A1V7_CELGA			203		
+tr|F7ZZA0|F7ZZA0_CELGA			375		
+tr|F7ZZ74|F7ZZ74_CELGA	K02221	yggT; YggT family protein	86		
+tr|F8A270|F8A270_CELGA			33		
+tr|F7ZZ73|F7ZZ73_CELGA			250		
+tr|F8A4K9|F8A4K9_CELGA	K01624	FBA; fructose-bisphosphate aldolase, class II [EC:4.1.2.13]	557		
+tr|F8A2H3|F8A2H3_CELGA	K14415	RTCB; tRNA-splicing ligase RtcB [EC:6.5.1.3]	552		
+tr|F8A6H7|F8A6H7_CELGA			149		
+tr|F8A292|F8A292_CELGA	K03750	moeA; molybdopterin molybdotransferase [EC:2.10.1.1]	303		
+tr|F8A2R1|F8A2R1_CELGA			19	K00982	2
+tr|F7ZZJ7|F7ZZJ7_CELGA	K02904	RP-L29; large subunit ribosomal protein L29	124		
+tr|F8A1W2|F8A1W2_CELGA			131		
+tr|F8A2L0|F8A2L0_CELGA	K07224	efeO; iron uptake system component EfeO	444		
+tr|F8A142|F8A142_CELGA			162		
+tr|F8A7T8|F8A7T8_CELGA			135		
+tr|F7ZZ99|F7ZZ99_CELGA			455		
+tr|F8A6L1|F8A6L1_CELGA	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	177		
+tr|F8A643|F8A643_CELGA			25	K00147	1
+tr|F8A7I5|F8A7I5_CELGA	K03321	TC.SULP; sulfate permease, SulP family	422		
+tr|F7ZZC4|F7ZZC4_CELGA	K02939	RP-L9; large subunit ribosomal protein L9	190		
+tr|F8A402|F8A402_CELGA			104		
+tr|F8A6Y1|F8A6Y1_CELGA	K01496	hisI; phosphoribosyl-AMP cyclohydrolase [EC:3.5.4.19]	197		
+tr|F8A059|F8A059_CELGA			656		
+tr|F8A5B2|F8A5B2_CELGA			124	K17713	5
+tr|F8A6V9|F8A6V9_CELGA			41	K02671	4
+tr|F8A1L8|F8A1L8_CELGA			145		
+tr|F8A5W0|F8A5W0_CELGA	K00761	upp; uracil phosphoribosyltransferase [EC:2.4.2.9]	324		
+tr|F8A2W5|F8A2W5_CELGA	K03333	choD; cholesterol oxidase [EC:1.1.3.6]	620		
+tr|F8A2C8|F8A2C8_CELGA			474		
+tr|F8A793|F8A793_CELGA	K01181	E3.2.1.8; endo-1,4-beta-xylanase [EC:3.2.1.8]	422		
+tr|F8A3W4|F8A3W4_CELGA			457		
+tr|F7ZZA6|F7ZZA6_CELGA			38	K08307	3
+tr|F8A2Q1|F8A2Q1_CELGA			193		
+tr|F8A336|F8A336_CELGA			159		
+tr|F8A3N5|F8A3N5_CELGA			159		
+tr|F8A4M6|F8A4M6_CELGA			391		
+tr|F8A4B1|F8A4B1_CELGA	K00392	sir; sulfite reductase (ferredoxin) [EC:1.8.7.1]	752		
+tr|F7ZZ96|F7ZZ96_CELGA	K03704	cspA; cold shock protein (beta-ribbon, CspA family)	119		
+tr|F8A7M7|F8A7M7_CELGA	K01992	ABC-2.P; ABC-2 type transport system permease protein	232		
+tr|F8A4W5|F8A4W5_CELGA			124		
+tr|F8A6H9|F8A6H9_CELGA	K03719	lrp; Lrp/AsnC family transcriptional regulator, leucine-responsive regulatory protein	185		
+tr|F8A286|F8A286_CELGA	K03704	cspA; cold shock protein (beta-ribbon, CspA family)	123		
+tr|F8A7W5|F8A7W5_CELGA			116		
+tr|F8A4E5|F8A4E5_CELGA			296		
+tr|F8A6N1|F8A6N1_CELGA	K14347	SLC10A7; solute carrier family 10 (sodium/bile acid cotransporter), member 7	272		
+tr|F8A190|F8A190_CELGA			164		
+tr|F8A375|F8A375_CELGA			141		
+tr|F8A3R3|F8A3R3_CELGA			314		
+tr|F8A0C9|F8A0C9_CELGA			27	K07114	1
+tr|F8A1W0|F8A1W0_CELGA	K02433	gatA; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A [EC:6.3.5.6 6.3.5.7]	769		
+tr|F8A7U6|F8A7U6_CELGA			192		
+tr|F8A7G6|F8A7G6_CELGA	K02035	ABC.PE.S; peptide/nickel transport system substrate-binding protein	485		
+tr|F8A3F3|F8A3F3_CELGA	K07131	uncharacterized protein	210		
+tr|F8A3S1|F8A3S1_CELGA			223		
+tr|F7ZZ41|F7ZZ41_CELGA	K00344	qor; NADPH2:quinone reductase [EC:1.6.5.5]	391		
+tr|F7ZZV7|F7ZZV7_CELGA	K02996	RP-S9; small subunit ribosomal protein S9	244		
+tr|F8A435|F8A435_CELGA			220		
+tr|F8A549|F8A549_CELGA			150		
+tr|F8A498|F8A498_CELGA	K03684	rnd; ribonuclease D [EC:3.1.13.5]	480		
+tr|F7ZZH0|F7ZZH0_CELGA	K03043	rpoB; DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]	1970		
+tr|F8A5E4|F8A5E4_CELGA	K03704	cspA; cold shock protein (beta-ribbon, CspA family)	173		
+tr|F7ZZB0|F7ZZB0_CELGA			16	K07012	3
+tr|F8A6T9|F8A6T9_CELGA	K02493	hemK; release factor glutamine methyltransferase [EC:2.1.1.297]	273		
+tr|F8A4J7|F8A4J7_CELGA			163		
+tr|F8A098|F8A098_CELGA			19	K01081	1
+tr|F8A2I4|F8A2I4_CELGA	K00872	thrB1; homoserine kinase [EC:2.7.1.39]	297		
+tr|F8A5P6|F8A5P6_CELGA	K01971	ligD; bifunctional non-homologous end joining protein LigD [EC:6.5.1.1]	264		
+tr|F8A347|F8A347_CELGA	K01915	glnA; glutamine synthetase [EC:6.3.1.2]	753		
+tr|F8A251|F8A251_CELGA	K02038	pstA; phosphate transport system permease protein	246		
+tr|F8A103|F8A103_CELGA	K01243	mtnN; adenosylhomocysteine nucleosidase [EC:3.2.2.9]	109		
+tr|F8A6W5|F8A6W5_CELGA	K02669	pilT; twitching motility protein PilT	406		
+tr|F8A702|F8A702_CELGA	K06153	bacA; undecaprenyl-diphosphatase [EC:3.6.1.27]	330		
+tr|F8A2A4|F8A2A4_CELGA			280		
+tr|F8A7F0|F8A7F0_CELGA			28	K06175	4
+tr|F8A1N8|F8A1N8_CELGA	K08300	rne; ribonuclease E [EC:3.1.26.12]	769		
+tr|F8A458|F8A458_CELGA	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	366		
+tr|F8A6E9|F8A6E9_CELGA			854		
+tr|F8A345|F8A345_CELGA	K00606	panB; 3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11]	336		
+tr|F7ZZD4|F7ZZD4_CELGA			217		
+tr|F7ZZA7|F7ZZA7_CELGA			168		
+tr|F8A5W5|F8A5W5_CELGA			140		
+tr|F8A1Z3|F8A1Z3_CELGA	K05838	ybbN; putative thioredoxin	268		
+tr|F8A2S3|F8A2S3_CELGA			199		
+tr|F8A0I8|F8A0I8_CELGA			423		
+tr|F8A1Y5|F8A1Y5_CELGA	K01192	E3.2.1.25; beta-mannosidase [EC:3.2.1.25]	965		
+tr|F8A4H3|F8A4H3_CELGA	K06949	rsgA; ribosome biogenesis GTPase [EC:3.6.1.-]	264		
+tr|F8A4Q0|F8A4Q0_CELGA			363		
+tr|F8A0U4|F8A0U4_CELGA	K02026	ABC.MS.P1; multiple sugar transport system permease protein	304		
+tr|F8A670|F8A670_CELGA			177		
+tr|F7ZZU2|F7ZZU2_CELGA	K10563	mutM; formamidopyrimidine-DNA glycosylase [EC:3.2.2.23 4.2.99.18]	370		
+tr|F8A689|F8A689_CELGA	K04750	phnB; PhnB protein	179		
+tr|F8A517|F8A517_CELGA			16	K07240	1
+tr|F7ZZ97|F7ZZ97_CELGA			344		
+tr|F8A5V3|F8A5V3_CELGA	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	101	K09810	33
+tr|F8A160|F8A160_CELGA			66		
+tr|F8A0T3|F8A0T3_CELGA	K01421	yhgE; putative membrane protein	170		
+tr|F8A6Z4|F8A6Z4_CELGA	K07442	TRM61; tRNA (adenine57-N1/adenine58-N1)-methyltransferase [EC:2.1.1.219 2.1.1.220]	473		
+tr|F8A2M2|F8A2M2_CELGA	K02057	ABC.SS.P; simple sugar transport system permease protein	453		
+tr|F8A284|F8A284_CELGA			66		
+tr|F8A3H2|F8A3H2_CELGA			143		
+tr|F8A350|F8A350_CELGA			148		
+tr|F8A011|F8A011_CELGA			232		
+tr|F8A2M4|F8A2M4_CELGA	K02056	ABC.SS.A; simple sugar transport system ATP-binding protein [EC:3.6.3.17]	738		
+tr|F8A6R7|F8A6R7_CELGA			431	K00968	46
+tr|F8A6M2|F8A6M2_CELGA	K03282	mscL; large conductance mechanosensitive channel	121		
+tr|F8A550|F8A550_CELGA			211		
+tr|F8A4C2|F8A4C2_CELGA			268		
+tr|F7ZZ67|F7ZZ67_CELGA	K00013	hisD; histidinol dehydrogenase [EC:1.1.1.23]	532		
+tr|F7ZZ40|F7ZZ40_CELGA	K00145	argC; N-acetyl-gamma-glutamyl-phosphate reductase [EC:1.2.1.38]	473		
+tr|F8A3B1|F8A3B1_CELGA			191		
+tr|F8A7R9|F8A7R9_CELGA	K02045	cysA; sulfate transport system ATP-binding protein [EC:3.6.3.25]	424		
+tr|F7ZZB8|F7ZZB8_CELGA			120		
+tr|F8A413|F8A413_CELGA			351		
+tr|F8A508|F8A508_CELGA	K07478	ycaJ; putative ATPase	599		
+tr|F7ZYX3|F7ZYX3_CELGA	K00674	dapD; 2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase [EC:2.3.1.117]	397		
+tr|F8A5E1|F8A5E1_CELGA			529		
+tr|F8A5H3|F8A5H3_CELGA	K02385	flbD; flagellar protein FlbD	66		
+tr|F8A5S0|F8A5S0_CELGA	K07458	vsr; DNA mismatch endonuclease, patch repair protein [EC:3.1.-.-]	164		
+tr|F8A6S1|F8A6S1_CELGA			127		
+tr|F8A7V5|F8A7V5_CELGA			264		
+tr|F8A195|F8A195_CELGA			387		
+tr|F8A6S9|F8A6S9_CELGA			228		
+tr|F8A765|F8A765_CELGA			23	K19302	1
+tr|F8A2M6|F8A2M6_CELGA	K01436	amidohydrolase [EC:3.5.1.-]	444		
+tr|F8A319|F8A319_CELGA	K02078	acpP; acyl carrier protein	128		
+tr|F8A628|F8A628_CELGA			224		
+tr|F8A512|F8A512_CELGA	K01872	AARS; alanyl-tRNA synthetase [EC:6.1.1.7]	1069		
+tr|F8A1F1|F8A1F1_CELGA			384		
+tr|F8A397|F8A397_CELGA			234	K13888	9
+tr|F8A5J2|F8A5J2_CELGA			178		
+tr|F8A0J2|F8A0J2_CELGA			161		
+tr|F8A591|F8A591_CELGA	K18955	whiB1_2_3_4; WhiB family transcriptional regulator, redox-sensing transcriptional regulator	106		
+tr|F8A7E3|F8A7E3_CELGA	K02027	ABC.MS.S; multiple sugar transport system substrate-binding protein	511		
+tr|F8A3G7|F8A3G7_CELGA	K07646	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]	234		
+tr|F8A2Y5|F8A2Y5_CELGA			19	K05810	2
+tr|F8A0W3|F8A0W3_CELGA	K01809	manA; mannose-6-phosphate isomerase [EC:5.3.1.8]	393		
+tr|F8A474|F8A474_CELGA			532		
+tr|F7ZZM2|F7ZZM2_CELGA	K00886	ppgK; polyphosphate glucokinase [EC:2.7.1.63]	346		
+tr|F8A685|F8A685_CELGA			21	K03168	1
+tr|F8A6I1|F8A6I1_CELGA	K00876	udk; uridine kinase [EC:2.7.1.48]	136		
+tr|F8A4J3|F8A4J3_CELGA			257	K19302	22
+tr|F8A0L9|F8A0L9_CELGA			36	K02777	30
+tr|F8A5A5|F8A5A5_CELGA			187		
+tr|F8A6S2|F8A6S2_CELGA			322		
+tr|F8A6A1|F8A6A1_CELGA	K00721	DPM1; dolichol-phosphate mannosyltransferase [EC:2.4.1.83]	297		
+tr|F8A515|F8A515_CELGA	K07082	UPF0755 protein	264		
+tr|F7ZYZ7|F7ZYZ7_CELGA	K00340	nuoK; NADH-quinone oxidoreductase subunit K [EC:1.6.5.3]	125		
+tr|F8A2Q8|F8A2Q8_CELGA	K14155	patB; cystathione beta-lyase [EC:4.4.1.8]	371		
+tr|F8A004|F8A004_CELGA			25	K10562	1
+tr|F8A2F2|F8A2F2_CELGA			192		
+tr|F8A522|F8A522_CELGA	K01995	livG; branched-chain amino acid transport system ATP-binding protein	366		
+tr|F8A2T2|F8A2T2_CELGA			146		
+tr|F7ZZX1|F7ZZX1_CELGA	K03789	rimI; ribosomal-protein-alanine N-acetyltransferase [EC:2.3.1.128]	130		
+tr|F8A301|F8A301_CELGA			14	K00179	2
+tr|F8A711|F8A711_CELGA			108	K02230	4
+tr|F7ZZZ3|F7ZZZ3_CELGA	K03436	fruR2; DeoR family transcriptional regulator, fructose operon transcriptional repressor	326		
+tr|F8A529|F8A529_CELGA	K14393	actP; cation/acetate symporter	734		
+tr|F8A5C1|F8A5C1_CELGA			20	K01236	2
+tr|F7ZZ84|F7ZZ84_CELGA	K01928	murE; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase [EC:6.3.2.13]	431		
+tr|F8A5U2|F8A5U2_CELGA			16	K15581	2
+tr|F8A5T2|F8A5T2_CELGA			227		
+tr|F8A5Y9|F8A5Y9_CELGA	K03563	csrA; carbon storage regulator	71		
+tr|F7ZZK8|F7ZZK8_CELGA	K02876	RP-L15; large subunit ribosomal protein L15	237		
+tr|F8A0H4|F8A0H4_CELGA	K03088	SIG3.2; RNA polymerase sigma-70 factor, ECF subfamily	24		
+tr|F8A0K0|F8A0K0_CELGA	K02335	DPO1; DNA polymerase I [EC:2.7.7.7]	534		
+tr|F8A6Y0|F8A6Y0_CELGA	K01657	trpE; anthranilate synthase component I [EC:4.1.3.27]	663		
+tr|F8A0W0|F8A0W0_CELGA			346		
+tr|F8A7D6|F8A7D6_CELGA			376		
+tr|F8A009|F8A009_CELGA			138		
+tr|F8A7I9|F8A7I9_CELGA			386		
+tr|F8A7F5|F8A7F5_CELGA	K06942	ychF; ribosome-binding ATPase	547		
+tr|F8A1D1|F8A1D1_CELGA	K07030	uncharacterized protein	155		
+tr|F8A1Q3|F8A1Q3_CELGA			20	K02621	4
+tr|F8A1W1|F8A1W1_CELGA	K02435	gatC; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C [EC:6.3.5.6 6.3.5.7]	131		
+tr|F8A249|F8A249_CELGA			13	K04043	9
+tr|F8A306|F8A306_CELGA			212		
+tr|F8A2P8|F8A2P8_CELGA			310		
+tr|F8A390|F8A390_CELGA	K02529	lacI; LacI family transcriptional regulator	397		
+tr|F8A3T8|F8A3T8_CELGA			135		
+tr|F8A3U0|F8A3U0_CELGA			448		
+tr|F8A3V6|F8A3V6_CELGA			107		
+tr|F8A2I6|F8A2I6_CELGA	K00003	E1.1.1.3; homoserine dehydrogenase [EC:1.1.1.3]	496		
+tr|F8A3X1|F8A3X1_CELGA			133		
+tr|F8A3X8|F8A3X8_CELGA			244		
+tr|F8A124|F8A124_CELGA			257		
+tr|F8A7S6|F8A7S6_CELGA	K17686	copA; Cu+-exporting ATPase [EC:3.6.3.54]	789		
+tr|F8A256|F8A256_CELGA	K02036	pstB; phosphate transport system ATP-binding protein [EC:3.6.3.27]	306		
+tr|F8A330|F8A330_CELGA	K07140	uncharacterized protein	210		
+tr|F8A304|F8A304_CELGA			63		
+tr|F8A3D0|F8A3D0_CELGA			14	K00324	4
+tr|F8A2H6|F8A2H6_CELGA			33	K00606	1
+tr|F8A4E0|F8A4E0_CELGA			242		
+tr|F8A3N3|F8A3N3_CELGA	K02275	coxB; cytochrome c oxidase subunit II [EC:1.9.3.1]	344		
+tr|F8A2M0|F8A2M0_CELGA	K00758	deoA; thymidine phosphorylase [EC:2.4.2.4]	588		
+tr|F8A073|F8A073_CELGA	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	569		
+tr|F8A019|F8A019_CELGA			20	K02666	1
+tr|F8A5A9|F8A5A9_CELGA	K03218	rlmB; 23S rRNA (guanosine2251-2'-O)-methyltransferase [EC:2.1.1.185]	401		
+tr|F8A1B0|F8A1B0_CELGA			22	K03298	10
+tr|F8A0V6|F8A0V6_CELGA			28	K01255	2
+tr|F8A710|F8A710_CELGA			238		
+tr|F8A6P9|F8A6P9_CELGA	K03469	rnhA; ribonuclease HI [EC:3.1.26.4]	230		
+tr|F8A5X4|F8A5X4_CELGA			20	K02471	1
+tr|F8A212|F8A212_CELGA	K01443	nagA; N-acetylglucosamine-6-phosphate deacetylase [EC:3.5.1.25]	383		
+tr|F8A3T3|F8A3T3_CELGA			303		
+tr|F8A3K8|F8A3K8_CELGA			139		
+tr|F8A314|F8A314_CELGA	K02072	metI; D-methionine transport system permease protein	238		
+tr|F8A6R9|F8A6R9_CELGA			169		
+tr|F8A5Y8|F8A5Y8_CELGA			19	K00040	1
+tr|F8A6G0|F8A6G0_CELGA			188		
+tr|F8A5P9|F8A5P9_CELGA	K03530	hupB; DNA-binding protein HU-beta	112		
+tr|F8A371|F8A371_CELGA			573		
+tr|F8A5Z1|F8A5Z1_CELGA	K03408	cheW; purine-binding chemotaxis protein CheW	122		
+tr|F8A054|F8A054_CELGA	K03110	ftsY; fused signal recognition particle receptor	425		
+tr|F8A4N6|F8A4N6_CELGA			393		
+tr|F8A7U7|F8A7U7_CELGA			206		
+tr|F8A2J5|F8A2J5_CELGA			14	K01872	1
+tr|F7ZZU6|F7ZZU6_CELGA			460		
+tr|F8A541|F8A541_CELGA			14	K14261	1
+tr|F8A732|F8A732_CELGA			18	K01992	1
+tr|F8A5C7|F8A5C7_CELGA			125		
+tr|F8A2D8|F8A2D8_CELGA			274		
+tr|F8A695|F8A695_CELGA			237		
+tr|F8A563|F8A563_CELGA			18	K03775	5
+tr|F8A6Z7|F8A6Z7_CELGA			205		
+tr|F8A422|F8A422_CELGA			135		
+tr|F8A4I4|F8A4I4_CELGA			244		
+tr|F8A4R2|F8A4R2_CELGA	K01495	GCH1; GTP cyclohydrolase I [EC:3.5.4.16]	316		
+tr|F8A5I9|F8A5I9_CELGA			239		
+tr|F8A511|F8A511_CELGA			21	K06200	2
+tr|F8A036|F8A036_CELGA	K02405	fliA; RNA polymerase sigma factor for flagellar operon FliA	287		
+tr|F8A126|F8A126_CELGA	K03294	TC.APA; basic amino acid/polyamine antiporter, APA family	586		
+tr|F8A7G4|F8A7G4_CELGA	K05349	bglX; beta-glucosidase [EC:3.2.1.21]	937		
+tr|F7ZZE3|F7ZZE3_CELGA	K03496	parA; chromosome partitioning protein	374		
+tr|F8A7T7|F8A7T7_CELGA			189		
+tr|F8A6D2|F8A6D2_CELGA	K01956	carA; carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]	565		
+tr|F7ZZW5|F7ZZW5_CELGA			19	K01547	1
+tr|F8A795|F8A795_CELGA			122		
+tr|F8A3I4|F8A3I4_CELGA	K02483	two-component system	113		
+tr|F8A0X1|F8A0X1_CELGA			470		
+tr|F8A4R6|F8A4R6_CELGA	K00796	folP; dihydropteroate synthase [EC:2.5.1.15]	323		
+tr|F8A274|F8A274_CELGA			115		
+tr|F7ZZI1|F7ZZI1_CELGA			23	K02994	1
+tr|F8A1Y8|F8A1Y8_CELGA	K01224	E3.2.1.89; arabinogalactan endo-1,4-beta-galactosidase [EC:3.2.1.89]	643		
+tr|F7ZZ64|F7ZZ64_CELGA			24	K03735	7
+tr|F8A173|F8A173_CELGA			293		
+tr|F8A5K5|F8A5K5_CELGA	K00036	G6PD; glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49 1.1.1.363]	847		
+tr|F8A2N3|F8A2N3_CELGA			219		
+tr|F8A6J1|F8A6J1_CELGA	K16168	bpsB; methyltransferase	237		
+tr|F7ZZG5|F7ZZG5_CELGA			192		
+tr|F7ZZX2|F7ZZX2_CELGA	K01011	TST; thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]	327		
+tr|F8A0N2|F8A0N2_CELGA			356		
+tr|F8A5N3|F8A5N3_CELGA			402		
+tr|F8A172|F8A172_CELGA			384		
+tr|F8A604|F8A604_CELGA			535		
+tr|F8A7F1|F8A7F1_CELGA	K03527	ispH; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase [EC:1.17.7.4]	494		
+tr|F8A7S9|F8A7S9_CELGA			323		
+tr|F8A7G9|F8A7G9_CELGA			174		
+tr|F8A7L5|F8A7L5_CELGA	K01181	E3.2.1.8; endo-1,4-beta-xylanase [EC:3.2.1.8]	496		
+tr|F8A4N1|F8A4N1_CELGA			74		
+tr|F8A3P7|F8A3P7_CELGA	K01897	ACSL; long-chain acyl-CoA synthetase [EC:6.2.1.3]	746		
+tr|F8A0U3|F8A0U3_CELGA	K02025	ABC.MS.P; multiple sugar transport system permease protein	353		
+tr|F8A4F8|F8A4F8_CELGA			384		
+tr|F8A2W2|F8A2W2_CELGA			61	K00111	4
+tr|F8A3C9|F8A3C9_CELGA			19	K01599	2
+tr|F8A245|F8A245_CELGA			516		
+tr|F8A5T8|F8A5T8_CELGA			106		
+tr|F8A5K1|F8A5K1_CELGA			159		
+tr|F8A0H6|F8A0H6_CELGA	K06994	putative drug exporter of the RND superfamily	820		
+tr|F8A1G7|F8A1G7_CELGA	K01885	EARS; glutamyl-tRNA synthetase [EC:6.1.1.17]	717		
+tr|F8A2T0|F8A2T0_CELGA	K02355	fusA; elongation factor G	607		
+tr|F8A573|F8A573_CELGA			207	K13963	26
+tr|F8A1H9|F8A1H9_CELGA	K05845	opuC; osmoprotectant transport system substrate-binding protein	310		
+tr|F8A656|F8A656_CELGA	K02919	RP-L36; large subunit ribosomal protein L36	62		
+tr|F8A405|F8A405_CELGA	K03325	TC.ACR3; arsenite transporter, ACR3 family	553		
+tr|F8A5V0|F8A5V0_CELGA	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	139	K09810	15
+tr|F8A424|F8A424_CELGA			186		
+tr|F8A1R9|F8A1R9_CELGA			179	K07260	14
+tr|F7ZZD9|F7ZZD9_CELGA	K03671	trxA; thioredoxin 1	144		
+tr|F8A5M5|F8A5M5_CELGA	K06988	uncharacterized protein	200		
+tr|F8A432|F8A432_CELGA			211		
+tr|F8A0I5|F8A0I5_CELGA			178	K00018	14
+tr|F8A669|F8A669_CELGA			203		
+tr|F8A0L7|F8A0L7_CELGA	K01322	PREP; prolyl oligopeptidase [EC:3.4.21.26]	825		
+tr|F8A718|F8A718_CELGA	K06199	crcB; CrcB protein	105		
+tr|F8A491|F8A491_CELGA			181		
+tr|F8A114|F8A114_CELGA					
+tr|F8A131|F8A131_CELGA	K00156	poxB; pyruvate dehydrogenase (quinone) [EC:1.2.5.1]	734		
+tr|F8A161|F8A161_CELGA			121		
+tr|F8A0Y9|F8A0Y9_CELGA	K01810	GPI; glucose-6-phosphate isomerase [EC:5.3.1.9]	860		
+tr|F8A1E8|F8A1E8_CELGA	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	321		
+tr|F8A351|F8A351_CELGA			58	K00595	2
+tr|F8A1V0|F8A1V0_CELGA			369		
+tr|F8A3B7|F8A3B7_CELGA			58	K20276	3
+tr|F8A282|F8A282_CELGA			62		
+tr|F8A382|F8A382_CELGA	K02058	ABC.SS.S; simple sugar transport system substrate-binding protein	339		
+tr|F8A1E6|F8A1E6_CELGA			426		
+tr|F8A3S3|F8A3S3_CELGA			174		
+tr|F8A3H1|F8A3H1_CELGA			23	K02063	1
+tr|F8A441|F8A441_CELGA			228		
+tr|F8A730|F8A730_CELGA	K01392	THOP1; thimet oligopeptidase [EC:3.4.24.15]	664		
+tr|F8A0C0|F8A0C0_CELGA			199		
+tr|F8A224|F8A224_CELGA			112		
+tr|F8A2W3|F8A2W3_CELGA	K03406	mcp; methyl-accepting chemotaxis protein	335		
+tr|F8A5N0|F8A5N0_CELGA			186		
+tr|F8A3N6|F8A3N6_CELGA	K04564	SOD2; superoxide dismutase, Fe-Mn family [EC:1.15.1.1]	352		
+tr|F8A0U8|F8A0U8_CELGA	K00261	GLUD1_2; glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3]	551		
+tr|F7ZZV3|F7ZZV3_CELGA	K09903	pyrH; uridylate kinase [EC:2.7.4.22]	352		
+tr|F8A230|F8A230_CELGA			26	K08167	2
+tr|F8A4B8|F8A4B8_CELGA					
+tr|F8A357|F8A357_CELGA			180	K00554	17
+tr|F7ZYZ1|F7ZYZ1_CELGA	K00334	nuoE; NADH-quinone oxidoreductase subunit E [EC:1.6.5.3]	337		
+tr|F8A467|F8A467_CELGA	K02031	ABC.PE.A; peptide/nickel transport system ATP-binding protein	166		
+tr|F8A4G7|F8A4G7_CELGA	K01933	purM; phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.3.1]	509		
+tr|F7ZZ21|F7ZZ21_CELGA	K03799	htpX; heat shock protein HtpX [EC:3.4.24.-]	416		
+tr|F8A5Q4|F8A5Q4_CELGA			197		
+tr|F7ZZB4|F7ZZB4_CELGA			21	K00956	2
+tr|F8A4M5|F8A4M5_CELGA	K02529	lacI; LacI family transcriptional regulator	198		
+tr|F8A654|F8A654_CELGA	K02913	RP-L33; large subunit ribosomal protein L33	88		
+tr|F8A6T4|F8A6T4_CELGA	K01637	E4.1.3.1; isocitrate lyase [EC:4.1.3.1]	665		
+tr|F8A7C9|F8A7C9_CELGA			27	K13525	1
+tr|F8A1B4|F8A1B4_CELGA			114		
+tr|F8A755|F8A755_CELGA	K05567	mnhC; multicomponent Na+:H+ antiporter subunit C	156		
+tr|F8A335|F8A335_CELGA	K09861	uncharacterized protein	247		
+tr|F8A2N1|F8A2N1_CELGA	K00240	sdhB; succinate dehydrogenase / fumarate reductase, iron-sulfur subunit [EC:1.3.5.1 1.3.5.4]	428		
+tr|F8A3R2|F8A3R2_CELGA	K02470	gyrB; DNA gyrase subunit B [EC:5.99.1.3]	1067		
+tr|F8A0E8|F8A0E8_CELGA	K03657	uvrD; DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]	948		
+tr|F8A3F0|F8A3F0_CELGA			312	K18479	73
+tr|F8A052|F8A052_CELGA	K04751	glnB; nitrogen regulatory protein P-II 1	170		
+tr|F8A234|F8A234_CELGA			131		
+tr|F8A290|F8A290_CELGA	K09981	uncharacterized protein	92		
+tr|F7ZZ88|F7ZZ88_CELGA	K03925	mraZ; MraZ protein	229		
+tr|F8A5R7|F8A5R7_CELGA			331		
+tr|F8A5S1|F8A5S1_CELGA	K00558	DNMT1; DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]	321		
+tr|F8A0C2|F8A0C2_CELGA			205		
+tr|F8A0L4|F8A0L4_CELGA			63	K07396	2
+tr|F8A1A1|F8A1A1_CELGA			221		
+tr|F8A1X1|F8A1X1_CELGA			238		
+tr|F8A2G4|F8A2G4_CELGA			19	K15578	1
+tr|F8A3M9|F8A3M9_CELGA	K03517	nadA; quinolinate synthase [EC:2.5.1.72]	615		
+tr|F8A0J8|F8A0J8_CELGA			306		
+tr|F8A560|F8A560_CELGA	K01533	copB; Cu2+-exporting ATPase [EC:3.6.3.4]	808		
+tr|F8A2X3|F8A2X3_CELGA			238		
+tr|F8A3Z2|F8A3Z2_CELGA			19	K02890	2
+tr|F8A4Z7|F8A4Z7_CELGA			524		
+tr|F8A3J6|F8A3J6_CELGA			314		
+tr|F8A3F8|F8A3F8_CELGA			23	K04025	1
+tr|F8A6C3|F8A6C3_CELGA	K01560	E3.8.1.2; 2-haloacid dehalogenase [EC:3.8.1.2]	48		
+tr|F8A4P1|F8A4P1_CELGA			169		
+tr|F8A020|F8A020_CELGA			23	K00192	2
+tr|F8A466|F8A466_CELGA	K02034	ABC.PE.P1; peptide/nickel transport system permease protein	340		
+tr|F7ZZE2|F7ZZE2_CELGA	K03497	parB; chromosome partitioning protein, ParB family	400		
+tr|F7ZZ94|F7ZZ94_CELGA			21	K00666	1
+tr|F8A4B5|F8A4B5_CELGA	K06044	treY; (1->4)-alpha-D-glucan 1-alpha-D-glucosylmutase [EC:5.4.99.15]	927		
+tr|F8A4R9|F8A4R9_CELGA	K09167	uncharacterized protein	170		
+tr|F8A577|F8A577_CELGA			304		
+tr|F8A6J2|F8A6J2_CELGA			339		
+tr|F8A0C7|F8A0C7_CELGA	K01142	E3.1.11.2; exodeoxyribonuclease III [EC:3.1.11.2]	338		
+tr|F8A3Y5|F8A3Y5_CELGA			210		
+tr|F7ZZB6|F7ZZB6_CELGA			41		
+tr|F8A3L0|F8A3L0_CELGA			329		
+tr|F8A6T2|F8A6T2_CELGA			23	K01997	3
+tr|F8A2R2|F8A2R2_CELGA	K01246	tag; DNA-3-methyladenine glycosylase I [EC:3.2.2.20]	233		
+tr|F8A3T5|F8A3T5_CELGA	K01681	ACO; aconitate hydratase [EC:4.2.1.3]	1474		
+tr|F8A7L4|F8A7L4_CELGA			297		
+tr|F7ZZD5|F7ZZD5_CELGA			323		
+tr|F8A3R9|F8A3R9_CELGA	K00857	tdk; thymidine kinase [EC:2.7.1.21]	255		
+tr|F8A0S1|F8A0S1_CELGA	K02575	NRT; MFS transporter, NNP family, nitrate/nitrite transporter	536		
+tr|F8A4K6|F8A4K6_CELGA			127	K04749	5
+tr|F7ZZN4|F7ZZN4_CELGA			274		
+tr|F8A0X7|F8A0X7_CELGA			21	K01965	1
+tr|F8A0I0|F8A0I0_CELGA			18	K04079	5
+tr|F8A5Y5|F8A5Y5_CELGA	K02401	flhB; flagellar biosynthetic protein FlhB	333		
+tr|F8A5T9|F8A5T9_CELGA			176		
+tr|F8A6W6|F8A6W6_CELGA	K02652	pilB; type IV pilus assembly protein PilB	737		
+tr|F8A7E2|F8A7E2_CELGA	K01673	cynT; carbonic anhydrase [EC:4.2.1.1]	252		
+tr|F8A564|F8A564_CELGA			252		
+tr|F8A2D4|F8A2D4_CELGA	K01183	E3.2.1.14; chitinase [EC:3.2.1.14]	629		
+tr|F8A1U6|F8A1U6_CELGA	K09761	rsmE; 16S rRNA (uracil1498-N3)-methyltransferase [EC:2.1.1.193]	249		
+tr|F8A093|F8A093_CELGA	K12234	cofE; coenzyme F420-0:L-glutamate ligase / coenzyme F420-1:gamma-L-glutamate ligase [EC:6.3.2.31 6.3.2.34]	298		
+tr|F8A4H0|F8A4H0_CELGA			18	K06147	1
+tr|F8A2R3|F8A2R3_CELGA	K03578	hrpA; ATP-dependent helicase HrpA [EC:3.6.4.13]	1407		
+tr|F7ZZ83|F7ZZ83_CELGA	K01929	murF; UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase [EC:6.3.2.10]	453		
+tr|F8A4E1|F8A4E1_CELGA			493		
+tr|F8A4H9|F8A4H9_CELGA			135		
+tr|F8A3Q7|F8A3Q7_CELGA			23	K01011	1
+tr|F8A6T5|F8A6T5_CELGA			680		
+tr|F8A042|F8A042_CELGA	K03470	rnhB; ribonuclease HII [EC:3.1.26.4]	205		
+tr|F7ZZX0|F7ZZX0_CELGA			140	K14742	37
+tr|F8A773|F8A773_CELGA			295		
+tr|F8A0W5|F8A0W5_CELGA	K01589	purK; 5-(carboxyamino)imidazole ribonucleotide synthase [EC:6.3.4.18]	369		
+tr|F8A0W4|F8A0W4_CELGA			161		
+tr|F8A1L7|F8A1L7_CELGA	K03629	recF; DNA replication and repair protein RecF	420		
+tr|F8A260|F8A260_CELGA	K09136	ycaO; ribosomal protein S12 methylthiotransferase accessory factor	281		
+tr|F8A2E7|F8A2E7_CELGA			23	K03574	1
+tr|F8A379|F8A379_CELGA	K02057	ABC.SS.P; simple sugar transport system permease protein	244		
+tr|F8A7V2|F8A7V2_CELGA			19	K00793	2
+tr|F8A0C8|F8A0C8_CELGA			114	K07979	14
+tr|F8A727|F8A727_CELGA	K00373	narJ; nitrate reductase delta subunit	198		
+tr|F8A489|F8A489_CELGA			143	K01951	28
+tr|F8A2T6|F8A2T6_CELGA	K01155	E3.1.21.4; type II restriction enzyme [EC:3.1.21.4]	179		
+tr|F8A3W5|F8A3W5_CELGA			20	K04477	14
+tr|F8A653|F8A653_CELGA	K02902	RP-L28; large subunit ribosomal protein L28	113		
+tr|F8A7D2|F8A7D2_CELGA	K12503	E2.5.1.68; short-chain Z-isoprenyl diphosphate synthase [EC:2.5.1.68]	357		
+tr|F7ZZH7|F7ZZH7_CELGA			51	K00162	2
+tr|F7ZZ87|F7ZZ87_CELGA	K03438	mraW; 16S rRNA (cytosine1402-N4)-methyltransferase [EC:2.1.1.199]	423		
+tr|F7ZZF9|F7ZZF9_CELGA			605		
+tr|F8A5L7|F8A5L7_CELGA	K03977	engA; GTPase	714		
+tr|F8A0M4|F8A0M4_CELGA	K06994	putative drug exporter of the RND superfamily	605		
+tr|F7ZZD7|F7ZZD7_CELGA			329		
+tr|F8A179|F8A179_CELGA			271		
+tr|F8A0X5|F8A0X5_CELGA			344	K00983	82
+tr|F8A0G8|F8A0G8_CELGA			63		
+tr|F8A1R1|F8A1R1_CELGA	K02034	ABC.PE.P1; peptide/nickel transport system permease protein	373		
+tr|F8A269|F8A269_CELGA			364		
+tr|F8A6N6|F8A6N6_CELGA	K08281	pncA; nicotinamidase/pyrazinamidase [EC:3.5.1.19 3.5.1.-]	216		
+tr|F7ZZN5|F7ZZN5_CELGA			321		
+tr|F8A0E4|F8A0E4_CELGA			71		
+tr|F8A1V1|F8A1V1_CELGA	K03595	era; GTPase	463		
+tr|F8A7Q4|F8A7Q4_CELGA	K03924	moxR; MoxR-like ATPase [EC:3.6.3.-]	436		
+tr|F8A5S4|F8A5S4_CELGA			196		
+tr|F8A1J8|F8A1J8_CELGA	K01652	E2.2.1.6L; acetolactate synthase I/II/III large subunit [EC:2.2.1.6]	963		
+tr|F8A2U6|F8A2U6_CELGA	K02004	ABC.CD.P; putative ABC transport system permease protein	51		
+tr|F8A3K2|F8A3K2_CELGA			303		
+tr|F8A759|F8A759_CELGA	K01494	dcd; dCTP deaminase [EC:3.5.4.13]	339		
+tr|F7ZZT2|F7ZZT2_CELGA	K01179	E3.2.1.4; endoglucanase [EC:3.2.1.4]	619		
+tr|F8A167|F8A167_CELGA			194		
+tr|F8A1H4|F8A1H4_CELGA			138	K06211	6
+tr|F8A074|F8A074_CELGA			333		
+tr|F8A5W6|F8A5W6_CELGA			168		
+tr|F8A5F3|F8A5F3_CELGA			134		
+tr|F7ZZ54|F7ZZ54_CELGA			160		
+tr|F7ZZE8|F7ZZE8_CELGA	K03217	yidC; YidC/Oxa1 family membrane protein insertase	371		
+tr|F8A338|F8A338_CELGA			201		
+tr|F8A1P3|F8A1P3_CELGA	K00147	proA; glutamate-5-semialdehyde dehydrogenase [EC:1.2.1.41]	547		
+tr|F8A2U3|F8A2U3_CELGA			19	K03106	2
+tr|F7ZZ27|F7ZZ27_CELGA			370		
+tr|F8A5T0|F8A5T0_CELGA			608		
+tr|F8A5E6|F8A5E6_CELGA			634		
+tr|F8A0X3|F8A0X3_CELGA			175		
+tr|F8A5Z4|F8A5Z4_CELGA	K03406	mcp; methyl-accepting chemotaxis protein	321		
+tr|F7ZZN6|F7ZZN6_CELGA			110		
+tr|F7ZZZ8|F7ZZZ8_CELGA	K08483	PTS-EI.PTSI; phosphotransferase system, enzyme I, PtsI [EC:2.7.3.9]	529		
+tr|F8A0A1|F8A0A1_CELGA	K01897	ACSL; long-chain acyl-CoA synthetase [EC:6.2.1.3]	735		
+tr|F8A1K2|F8A1K2_CELGA			154	K01992	16
+tr|F8A031|F8A031_CELGA	K06188	aqpZ; aquaporin Z	189		
+tr|F8A380|F8A380_CELGA	K02057	ABC.SS.P; simple sugar transport system permease protein	311		
+tr|F8A6K1|F8A6K1_CELGA			19	K00612	1
+tr|F8A7T0|F8A7T0_CELGA			596		
+tr|F7ZZY1|F7ZZY1_CELGA	K04078	groES; chaperonin GroES	174		
+tr|F8A5G4|F8A5G4_CELGA			14	K02411	10
+tr|F8A0N1|F8A0N1_CELGA			303		
+tr|F7ZZQ8|F7ZZQ8_CELGA	K03724	lhr; ATP-dependent helicase Lhr and Lhr-like helicase [EC:3.6.4.-]	1742		
+tr|F8A716|F8A716_CELGA			392		
+tr|F8A7L9|F8A7L9_CELGA	K11717	sufS; cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]	602		
+tr|F8A7P1|F8A7P1_CELGA			415		
+tr|F8A4K7|F8A4K7_CELGA			522		
+tr|F8A7S4|F8A7S4_CELGA			148		
+tr|F8A742|F8A742_CELGA			147		
+tr|F8A2N9|F8A2N9_CELGA			109	K07114	4
+tr|F8A5U6|F8A5U6_CELGA			24	K01201	1
+tr|F8A0Y5|F8A0Y5_CELGA			181		
+tr|F8A7R7|F8A7R7_CELGA			150		
+tr|F8A5W2|F8A5W2_CELGA			429		
+tr|F8A4W6|F8A4W6_CELGA			223		
+tr|F8A123|F8A123_CELGA			28	K06378	7
+tr|F7ZZ65|F7ZZ65_CELGA	K01693	hisB; imidazoleglycerol-phosphate dehydratase [EC:4.2.1.19]	330		
+tr|F7ZZU7|F7ZZU7_CELGA			229		
+tr|F7ZYY7|F7ZYY7_CELGA	K00330	nuoA; NADH-quinone oxidoreductase subunit A [EC:1.6.5.3]	191		
+tr|F7ZZ98|F7ZZ98_CELGA			223		
+tr|F8A598|F8A598_CELGA			16	K01752	2
+tr|F7ZZC9|F7ZZC9_CELGA			250		
+tr|F7ZZH3|F7ZZH3_CELGA	K02950	RP-S12; small subunit ribosomal protein S12	233		
+tr|F8A469|F8A469_CELGA	K03168	topA; DNA topoisomerase I [EC:5.99.1.2]	1203		
+tr|F8A5K3|F8A5K3_CELGA	K01057	PGLS; 6-phosphogluconolactonase [EC:3.1.1.31]	240		
+tr|F7ZZL2|F7ZZL2_CELGA	K02518	infA; translation initiation factor IF-1	145		
+tr|F8A5L6|F8A5L6_CELGA	K00655	plsC; 1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51]	189		
+tr|F7ZZQ4|F7ZZQ4_CELGA	K03553	recA; recombination protein RecA	574		
+tr|F7ZZY2|F7ZZY2_CELGA	K18955	whiB1_2_3_4; WhiB family transcriptional regulator, redox-sensing transcriptional regulator	134		
+tr|F8A0X8|F8A0X8_CELGA			81	K16555	9
+tr|F8A064|F8A064_CELGA	K11754	folC; dihydrofolate synthase / folylpolyglutamate synthase [EC:6.3.2.12 6.3.2.17]	437		
+tr|F8A3C2|F8A3C2_CELGA	K07160	UPF0271 protein	207		
+tr|F8A3D8|F8A3D8_CELGA			474		
+tr|F8A1N1|F8A1N1_CELGA			299		
+tr|F8A2V3|F8A2V3_CELGA			19	K03386	1
+tr|F8A3W2|F8A3W2_CELGA			385		
+tr|F7ZZN0|F7ZZN0_CELGA	K01356	lexA; repressor LexA [EC:3.4.21.88]	331		
+tr|F8A6N4|F8A6N4_CELGA	K07056	rsmI; 16S rRNA (cytidine1402-2'-O)-methyltransferase [EC:2.1.1.198]	315		
+tr|F8A4H4|F8A4H4_CELGA	K01179	E3.2.1.4; endoglucanase [EC:3.2.1.4]	274		
+tr|F8A637|F8A637_CELGA			74		
+tr|F8A555|F8A555_CELGA			137		
+tr|F8A570|F8A570_CELGA	K07024	uncharacterized protein	247		
+tr|F7ZZ93|F7ZZ93_CELGA	K02346	DPO4; DNA polymerase IV [EC:2.7.7.7]	430		
+tr|F8A6V4|F8A6V4_CELGA			108	K02663	10
+tr|F8A3W8|F8A3W8_CELGA			616		
+tr|F8A035|F8A035_CELGA			12	K09131	9
+tr|F8A6A2|F8A6A2_CELGA	K03820	lnt; apolipoprotein N-acyltransferase [EC:2.3.1.-]	425		
+tr|F8A5S8|F8A5S8_CELGA			169		
+tr|F8A233|F8A233_CELGA			855	K01179	95
+tr|F8A069|F8A069_CELGA	K01091	gph; phosphoglycolate phosphatase [EC:3.1.3.18]	153		
+tr|F8A0Z3|F8A0Z3_CELGA			112		
+tr|F8A406|F8A406_CELGA			172	K03892	55
+tr|F7ZZ31|F7ZZ31_CELGA	K03652	MPG; DNA-3-methyladenine glycosylase [EC:3.2.2.21]	222		
+tr|F8A3L7|F8A3L7_CELGA			63	K01537	2
+tr|F8A381|F8A381_CELGA	K02056	ABC.SS.A; simple sugar transport system ATP-binding protein [EC:3.6.3.17]	591		
+tr|F8A3R5|F8A3R5_CELGA	K02469	gyrA; DNA gyrase subunit A [EC:5.99.1.3]	1101		
+tr|F8A4N8|F8A4N8_CELGA			27	K00525	1
+tr|F8A303|F8A303_CELGA			75		
+tr|F8A3V2|F8A3V2_CELGA			446	K08139	106
+tr|F8A302|F8A302_CELGA			37	K03092	1
+tr|F8A7B0|F8A7B0_CELGA	K01802	E5.2.1.8; peptidylprolyl isomerase [EC:5.2.1.8]	67		
+tr|F8A0E0|F8A0E0_CELGA	K07053	E3.1.3.97; 3',5'-nucleoside bisphosphate phosphatase [EC:3.1.3.97]	322		
+tr|F8A1U4|F8A1U4_CELGA	K03705	hrcA; heat-inducible transcriptional repressor	391		
+tr|F8A2A8|F8A2A8_CELGA			332		
+tr|F7ZZI7|F7ZZI7_CELGA			823		
+tr|F8A266|F8A266_CELGA			877		
+tr|F8A5N6|F8A5N6_CELGA	K06911	uncharacterized protein	337		
+tr|F8A4N4|F8A4N4_CELGA			273		
+tr|F7ZZ01|F7ZZ01_CELGA	K00805	hepST; heptaprenyl diphosphate synthase [EC:2.5.1.30]	388		
+tr|F8A686|F8A686_CELGA			22	K01687	12
+tr|F8A7U8|F8A7U8_CELGA			220		
+tr|F7ZZV1|F7ZZV1_CELGA	K00981	E2.7.7.41; phosphatidate cytidylyltransferase [EC:2.7.7.41]	282		
+tr|F8A4W3|F8A4W3_CELGA			419		
+tr|F8A4Q9|F8A4Q9_CELGA	K04075	tilS; tRNA(Ile)-lysidine synthase [EC:6.3.4.19]	284		
+tr|F7ZZJ8|F7ZZJ8_CELGA	K02961	RP-S17; small subunit ribosomal protein S17	158		
+tr|F8A792|F8A792_CELGA	K00325	pntB; NAD(P) transhydrogenase subunit beta [EC:1.6.1.2]	625		
+tr|F8A4G0|F8A4G0_CELGA			329		
+tr|F7ZZ70|F7ZZ70_CELGA	K06180	rluD; 23S rRNA pseudouridine1911/1915/1917 synthase [EC:5.4.99.23]	460		
+tr|F8A083|F8A083_CELGA			438		
+tr|F8A5R2|F8A5R2_CELGA			66		
+tr|F8A1T9|F8A1T9_CELGA	K03596	lepA; GTP-binding protein LepA	1006		
+tr|F8A1X5|F8A1X5_CELGA	K02438	treX; glycogen operon protein [EC:3.2.1.-]	796		
+tr|F8A7A4|F8A7A4_CELGA			82		
+tr|F8A1Y2|F8A1Y2_CELGA			417		
+tr|F8A264|F8A264_CELGA			20	K03406	2
+tr|F8A2K2|F8A2K2_CELGA			57	K03626	2
+tr|F8A2U8|F8A2U8_CELGA			290		
+tr|F8A3M1|F8A3M1_CELGA			406		
+tr|F8A3X7|F8A3X7_CELGA			57		
+tr|F8A6I9|F8A6I9_CELGA			156		
+tr|F7ZZA5|F7ZZA5_CELGA	K07738	nrdR; transcriptional repressor NrdR	241		
+tr|F8A542|F8A542_CELGA			65	K07654	3
+tr|F8A6R2|F8A6R2_CELGA			173		
+tr|F8A7P8|F8A7P8_CELGA	K00162	PDHB; pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1]	483		
+tr|F8A7L7|F8A7L7_CELGA			178		
+tr|F8A4W0|F8A4W0_CELGA			68		
+tr|F8A4B4|F8A4B4_CELGA	K01236	treZ; maltooligosyltrehalose trehalohydrolase [EC:3.2.1.141]	645		
+tr|F7ZZ86|F7ZZ86_CELGA			72		
+tr|F8A557|F8A557_CELGA			162		
+tr|F8A0G0|F8A0G0_CELGA	K07177	Lon-like protease	319		
+tr|F8A415|F8A415_CELGA	K01534	zntA; Cd2+/Zn2+-exporting ATPase [EC:3.6.3.3 3.6.3.5]	822		
+tr|F8A5P2|F8A5P2_CELGA			20	K02519	1
+tr|F7ZZ18|F7ZZ18_CELGA			159		
+tr|F7ZZG4|F7ZZG4_CELGA			155		
+tr|F8A062|F8A062_CELGA	K05879	dhaL; dihydroxyacetone kinase, C-terminal domain [EC:2.7.1.-]	242		
+tr|F8A0D3|F8A0D3_CELGA	K00965	galT; UDPglucose--hexose-1-phosphate uridylyltransferase [EC:2.7.7.12]	463		
+tr|F8A168|F8A168_CELGA			323		
+tr|F8A5U0|F8A5U0_CELGA			21	K03445	3
+tr|F8A6U3|F8A6U3_CELGA	K03625	nusB; N utilization substance protein B	190		
+tr|F8A1R4|F8A1R4_CELGA			261		
+tr|F8A0C3|F8A0C3_CELGA			105		
+tr|F8A722|F8A722_CELGA			292		
+tr|F8A7K7|F8A7K7_CELGA			111		
+tr|F7ZZ71|F7ZZ71_CELGA	K03101	lspA; signal peptidase II [EC:3.4.23.36]	156		
+tr|F8A0G3|F8A0G3_CELGA	K02077	ABC.ZM.S; zinc/manganese transport system substrate-binding protein	293		
+tr|F8A198|F8A198_CELGA			368		
+tr|F7ZZL8|F7ZZL8_CELGA			474		
+tr|F8A1I9|F8A1I9_CELGA			20	K05367	1
+tr|F7ZZ11|F7ZZ11_CELGA			35	K03474	2
+tr|F8A4A2|F8A4A2_CELGA	K00033	PGD; 6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343]	760		
+tr|F8A481|F8A481_CELGA	K19302	bcrC; undecaprenyl-diphosphatase [EC:3.6.1.27]	46		
+tr|F8A5E8|F8A5E8_CELGA			88		
+tr|F8A6G3|F8A6G3_CELGA			447	K15924	26
+tr|F8A749|F8A749_CELGA			23	K01934	1
+tr|F8A0H3|F8A0H3_CELGA			25	K03088	1
+tr|F8A0F2|F8A0F2_CELGA	K03657	uvrD; DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]	742		
+tr|F8A1I7|F8A1I7_CELGA			199		
+tr|F8A7D9|F8A7D9_CELGA			157		
+tr|F8A6X8|F8A6X8_CELGA			18	K00342	2
+tr|F8A2K6|F8A2K6_CELGA	K06287	maf; septum formation protein	240		
+tr|F7ZZJ0|F7ZZJ0_CELGA	K02926	RP-L4; large subunit ribosomal protein L4	319		
+tr|F8A5F4|F8A5F4_CELGA	K02405	fliA; RNA polymerase sigma factor for flagellar operon FliA	241		
+tr|F8A516|F8A516_CELGA	K00014	aroE; shikimate dehydrogenase [EC:1.1.1.25]	258		
+tr|F8A3F1|F8A3F1_CELGA			281	K00344	28
+tr|F8A384|F8A384_CELGA	K01786	araD; L-ribulose-5-phosphate 4-epimerase [EC:5.1.3.4]	358		
+tr|F8A3U8|F8A3U8_CELGA	K03574	mutT; 8-oxo-dGTP diphosphatase [EC:3.6.1.55]	307		
+tr|F8A259|F8A259_CELGA			35	K01596	1
+tr|F8A1J5|F8A1J5_CELGA			54	K03306	2
+tr|F8A2F0|F8A2F0_CELGA			13	K01256	2
+tr|F8A688|F8A688_CELGA			155		
+tr|F7ZYX5|F7ZYX5_CELGA			25	K02015	1
+tr|F8A4W9|F8A4W9_CELGA			371		
+tr|F8A5W1|F8A5W1_CELGA			206		
+tr|F8A668|F8A668_CELGA			181		
+tr|F8A5G1|F8A5G1_CELGA	K02408	fliE; flagellar hook-basal body complex protein FliE	81		
+tr|F7ZZB9|F7ZZB9_CELGA			26	K06181	6
+tr|F8A6R4|F8A6R4_CELGA			208		
+tr|F8A6W1|F8A6W1_CELGA			25	K00831	3
+tr|F8A294|F8A294_CELGA			126		
+tr|F8A6G8|F8A6G8_CELGA			231	K03933	10
+tr|F8A364|F8A364_CELGA	K06113	abnA; arabinan endo-1,5-alpha-L-arabinosidase [EC:3.2.1.99]	229		
+tr|F8A4X7|F8A4X7_CELGA	K01868	TARS; threonyl-tRNA synthetase [EC:6.1.1.3]	1016		
+tr|F8A376|F8A376_CELGA	K07407	E3.2.1.22B; alpha-galactosidase [EC:3.2.1.22]	798		
+tr|F8A250|F8A250_CELGA	K02037	pstC; phosphate transport system permease protein	253		
+tr|F8A3P3|F8A3P3_CELGA			129		
+tr|F8A007|F8A007_CELGA	K01951	guaA; GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]	863		
+tr|F8A739|F8A739_CELGA			287		
+tr|F8A169|F8A169_CELGA			184		
+tr|F8A3G8|F8A3G8_CELGA			23	K06888	3
+tr|F8A7L3|F8A7L3_CELGA	K07054	uncharacterized protein	282		
+tr|F8A3H0|F8A3H0_CELGA	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	171	K20490	17
+tr|F8A6R3|F8A6R3_CELGA			133	K15921	7
+tr|F8A3N1|F8A3N1_CELGA			207		
+tr|F8A4A5|F8A4A5_CELGA			218		
+tr|F8A4D5|F8A4D5_CELGA			341		
+tr|F8A6X3|F8A6X3_CELGA	K01696	trpB; tryptophan synthase beta chain [EC:4.2.1.20]	610		
+tr|F8A1D4|F8A1D4_CELGA			105		
+tr|F8A0R9|F8A0R9_CELGA			376	K03313	48
+tr|F8A0A5|F8A0A5_CELGA	K03544	clpX; ATP-dependent Clp protease ATP-binding subunit ClpX	646		
+tr|F8A3L3|F8A3L3_CELGA	K00658	DLST; 2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [EC:2.3.1.61]	576		
+tr|F8A3J1|F8A3J1_CELGA			69	K07132	40
+tr|F8A6C2|F8A6C2_CELGA	K00604	MTFMT; methionyl-tRNA formyltransferase [EC:2.1.2.9]	389		
+tr|F8A4V4|F8A4V4_CELGA			267	K00344	24
+tr|F8A262|F8A262_CELGA			55	K06996	3
+tr|F8A723|F8A723_CELGA			120		
+tr|F8A2R8|F8A2R8_CELGA			19	K03407	6
+tr|F8A5T5|F8A5T5_CELGA			480		
+tr|F8A5E5|F8A5E5_CELGA			335		
+tr|F8A798|F8A798_CELGA	K05350	bglB; beta-glucosidase [EC:3.2.1.21]	434		
+tr|F8A1L3|F8A1L3_CELGA	K10118	msmF; raffinose/stachyose/melibiose transport system permease protein	366		
+tr|F8A4I6|F8A4I6_CELGA			144		
+tr|F8A366|F8A366_CELGA			425		
+tr|F7ZZ36|F7ZZ36_CELGA	K00611	OTC; ornithine carbamoyltransferase [EC:2.1.3.3]	427		
+tr|F8A4D3|F8A4D3_CELGA			492		
+tr|F8A1V3|F8A1V3_CELGA	K20074	prpC; PPM family protein phosphatase [EC:3.1.3.16]	230		
+tr|F8A5H2|F8A5H2_CELGA			511		
+tr|F8A5S5|F8A5S5_CELGA	K05995	pepE; dipeptidase E [EC:3.4.13.21]	306		
+tr|F8A5Q1|F8A5Q1_CELGA	K01620	ltaE; threonine aldolase [EC:4.1.2.48]	436		
+tr|F7ZZL5|F7ZZL5_CELGA	K02948	RP-S11; small subunit ribosomal protein S11	231		
+tr|F8A5J9|F8A5J9_CELGA	K01803	TPI; triosephosphate isomerase (TIM) [EC:5.3.1.1]	382		
+tr|F8A6I7|F8A6I7_CELGA			220		
+tr|F8A1H7|F8A1H7_CELGA	K05846	opuBD; osmoprotectant transport system permease protein	158		
+tr|F8A1M3|F8A1M3_CELGA	K05782	benE; benzoate membrane transport protein	376		
+tr|F8A2J1|F8A2J1_CELGA			21	K00927	1
+tr|F8A5R5|F8A5R5_CELGA			284		
+tr|F8A6L8|F8A6L8_CELGA	K03758	arcD; arginine:ornithine antiporter / lysine permease	458		
+tr|F8A6L7|F8A6L7_CELGA			266		
+tr|F8A6A3|F8A6A3_CELGA	K07047	uncharacterized protein	480		
+tr|F8A6K5|F8A6K5_CELGA			438		
+tr|F8A411|F8A411_CELGA	K12954	ctpG; cation-transporting ATPase G [EC:3.6.3.-]	864		
+tr|F8A769|F8A769_CELGA	K07133	uncharacterized protein	403		
+tr|F8A3A6|F8A3A6_CELGA			139	K03088	15
+tr|F8A493|F8A493_CELGA	K00656	E2.3.1.54; formate C-acetyltransferase [EC:2.3.1.54]	1174		
+tr|F8A527|F8A527_CELGA	K02335	DPO1; DNA polymerase I [EC:2.7.7.7]	1054		
+tr|F8A3I7|F8A3I7_CELGA	K06994	putative drug exporter of the RND superfamily	214		
+tr|F8A6U7|F8A6U7_CELGA			140		
+tr|F8A3G2|F8A3G2_CELGA			496		
+tr|F7ZZT1|F7ZZT1_CELGA	K11753	ribF; riboflavin kinase / FMN adenylyltransferase [EC:2.7.1.26 2.7.7.2]	373		
+tr|F8A2Q7|F8A2Q7_CELGA	K03574	mutT; 8-oxo-dGTP diphosphatase [EC:3.6.1.55]	165		
+tr|F8A595|F8A595_CELGA			269		
+tr|F8A2Q2|F8A2Q2_CELGA			280		
+tr|F8A5X6|F8A5X6_CELGA			21	K00697	2
+tr|F7ZZH2|F7ZZH2_CELGA			20	K00167	2
+tr|F8A6S6|F8A6S6_CELGA	K07090	uncharacterized protein	244		
+tr|F8A784|F8A784_CELGA			282		
+tr|F7ZZ72|F7ZZ72_CELGA	K06204	dksA; DnaK suppressor protein	132		
+tr|F8A4D6|F8A4D6_CELGA			206		
+tr|F8A772|F8A772_CELGA			636		
+tr|F8A3F2|F8A3F2_CELGA			619		
+tr|F8A794|F8A794_CELGA	K01689	ENO; enolase [EC:4.2.1.11]	682		
+tr|F8A291|F8A291_CELGA	K11996	MOCS3; adenylyltransferase and sulfurtransferase [EC:2.7.7.80]	267		
+tr|F8A1T7|F8A1T7_CELGA			22	K01586	2
+tr|F8A5K8|F8A5K8_CELGA	K02301	cyoE; protoheme IX farnesyltransferase [EC:2.5.1.-]	388		
+tr|F7ZZ85|F7ZZ85_CELGA	K03587	ftsI; cell division protein FtsI (penicillin-binding protein 3)	485		
+tr|F8A2Z2|F8A2Z2_CELGA	K18955	whiB1_2_3_4; WhiB family transcriptional regulator, redox-sensing transcriptional regulator	41		
+tr|F8A2K5|F8A2K5_CELGA			213		
+tr|F8A0J3|F8A0J3_CELGA			182		
+tr|F8A3C8|F8A3C8_CELGA	K01992	ABC-2.P; ABC-2 type transport system permease protein	307		
+tr|F8A4F4|F8A4F4_CELGA	K03823	pat; phosphinothricin acetyltransferase [EC:2.3.1.183]	193		
+tr|F8A0V3|F8A0V3_CELGA			24	K05366	1
+tr|F8A1H3|F8A1H3_CELGA	K03811	pnuC; nicotinamide mononucleotide transporter	103		
+tr|F8A470|F8A470_CELGA	K01218	gmuG; mannan endo-1,4-beta-mannosidase [EC:3.2.1.78]	321		
+tr|F8A6M9|F8A6M9_CELGA			128		
+tr|F8A6U8|F8A6U8_CELGA	K03786	aroQ; 3-dehydroquinate dehydratase II [EC:4.2.1.10]	199		
+tr|F8A7C3|F8A7C3_CELGA	K07304	msrA; peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]	296		
+tr|F8A479|F8A479_CELGA			16	K00342	1
+tr|F8A7B4|F8A7B4_CELGA	K05795	terD; tellurium resistance protein TerD	298		
+tr|F8A1D2|F8A1D2_CELGA	K03655	recG; ATP-dependent DNA helicase RecG [EC:3.6.4.12]	723		
+tr|F8A4P4|F8A4P4_CELGA	K04759	feoB; ferrous iron transport protein B	517		
+tr|F8A580|F8A580_CELGA			16	K19058	2
+tr|F8A5S9|F8A5S9_CELGA			111		
+tr|F8A7I7|F8A7I7_CELGA			207		
+tr|F8A607|F8A607_CELGA	K00831	serC; phosphoserine aminotransferase [EC:2.6.1.52]	446		
+tr|F8A2B8|F8A2B8_CELGA			134		
+tr|F8A0C6|F8A0C6_CELGA			18	K00793	3
+tr|F8A7R1|F8A7R1_CELGA	K00231	PPOX; oxygen-dependent protoporphyrinogen oxidase [EC:1.3.3.4]	333		
+tr|F7ZZQ2|F7ZZQ2_CELGA			26	K14949	1
+tr|F8A5C5|F8A5C5_CELGA			337		
+tr|F8A327|F8A327_CELGA	K01697	E4.2.1.22; cystathionine beta-synthase [EC:4.2.1.22]	617		
+tr|F8A6V8|F8A6V8_CELGA			47	K02672	4
+tr|F7ZZX8|F7ZZX8_CELGA			25	K16087	1
+tr|F8A388|F8A388_CELGA	K02025	ABC.MS.P; multiple sugar transport system permease protein	307		
+tr|F8A5X3|F8A5X3_CELGA			165		
+tr|F7ZZD2|F7ZZD2_CELGA			365		
+tr|F8A0D9|F8A0D9_CELGA	K01262	pepP; Xaa-Pro aminopeptidase [EC:3.4.11.9]	651		
+tr|F8A4J4|F8A4J4_CELGA			131		
+tr|F8A5I5|F8A5I5_CELGA	K05794	terC; tellurite resistance protein TerC	412		
+tr|F7ZZK5|F7ZZK5_CELGA	K02881	RP-L18; large subunit ribosomal protein L18	188		
+tr|F8A151|F8A151_CELGA	K09812	ftsE; cell division transport system ATP-binding protein	377		
+tr|F8A2D1|F8A2D1_CELGA	K15772	ganQ; arabinogalactan oligomer / maltooligosaccharide transport system permease protein	370		
+tr|F8A2V8|F8A2V8_CELGA			142		
+tr|F8A210|F8A210_CELGA	K05349	bglX; beta-glucosidase [EC:3.2.1.21]	756		
+tr|F7ZZL7|F7ZZL7_CELGA	K02879	RP-L17; large subunit ribosomal protein L17	217		
+tr|F8A2F8|F8A2F8_CELGA			22	K03575	2
+tr|F8A3A7|F8A3A7_CELGA			179	K13735	5
+tr|F8A4Z6|F8A4Z6_CELGA			64		
+tr|F8A6T8|F8A6T8_CELGA	K02825	pyrR; pyrimidine operon attenuation protein / uracil phosphoribosyltransferase [EC:2.4.2.9]	236		
+tr|F8A4Y6|F8A4Y6_CELGA	K08681	pdxT; 5'-phosphate synthase pdxT subunit [EC:4.3.3.6]	276		
+tr|F8A4N0|F8A4N0_CELGA			542		
+tr|F8A2W1|F8A2W1_CELGA			84		
+tr|F7ZZH4|F7ZZH4_CELGA	K02992	RP-S7; small subunit ribosomal protein S7	286		
+tr|F8A4U9|F8A4U9_CELGA	K07736	carD; CarD family transcriptional regulator	261		
+tr|F8A448|F8A448_CELGA	K00111	glpA; glycerol-3-phosphate dehydrogenase [EC:1.1.5.3]	739		
+tr|F8A4Y9|F8A4Y9_CELGA	K03550	ruvA; holliday junction DNA helicase RuvA [EC:3.6.4.12]	208		
+tr|F8A632|F8A632_CELGA			357		
+tr|F8A5Y1|F8A5Y1_CELGA	K06191	nrdH; glutaredoxin-like protein NrdH	110		
+tr|F8A3F4|F8A3F4_CELGA			131		
+tr|F8A2Y8|F8A2Y8_CELGA			115		
+tr|F8A008|F8A008_CELGA			130		
+tr|F8A3L6|F8A3L6_CELGA	K01255	CARP; leucyl aminopeptidase [EC:3.4.11.1]	506		
+tr|F8A5F8|F8A5F8_CELGA			16	K02835	2
+tr|F8A3V0|F8A3V0_CELGA	K03306	TC.PIT; inorganic phosphate transporter, PiT family	462		
+tr|F8A5A7|F8A5A7_CELGA			389		
+tr|F8A6Q3|F8A6Q3_CELGA			23	K02015	2
+tr|F8A325|F8A325_CELGA			177		
+tr|F8A1B7|F8A1B7_CELGA			330		
+tr|F8A287|F8A287_CELGA			816		
+tr|F8A4C3|F8A4C3_CELGA			18	K06168	1
+tr|F8A177|F8A177_CELGA			352		
+tr|F8A5F9|F8A5F9_CELGA	K02387	flgB; flagellar basal-body rod protein FlgB	131		
+tr|F8A6X9|F8A6X9_CELGA			63		
+tr|F8A6G9|F8A6G9_CELGA			157		
+tr|F8A0I4|F8A0I4_CELGA			213		
+tr|F8A5B4|F8A5B4_CELGA	K00697	otsA; trehalose 6-phosphate synthase [EC:2.4.1.15]	555	K16055	65
+tr|F8A1D8|F8A1D8_CELGA	K12510	tadB; tight adherence protein B	289		
+tr|F8A5G0|F8A5G0_CELGA	K02388	flgC; flagellar basal-body rod protein FlgC	183		
+tr|F8A747|F8A747_CELGA			18	K10546	2
+tr|F7ZZE6|F7ZZE6_CELGA			106		
+tr|F8A5G2|F8A5G2_CELGA	K02409	fliF; flagellar M-ring protein FliF	407		
+tr|F8A509|F8A509_CELGA	K02986	RP-S4; small subunit ribosomal protein S4	343		
+tr|F8A7B6|F8A7B6_CELGA	K05795	terD; tellurium resistance protein TerD	134		
+tr|F8A159|F8A159_CELGA			34	K03640	1
+tr|F8A6G6|F8A6G6_CELGA			277		
+tr|F8A289|F8A289_CELGA			491		
+tr|F8A312|F8A312_CELGA			188		
+tr|F8A7J4|F8A7J4_CELGA	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	732		
+tr|F8A5G8|F8A5G8_CELGA			25	K02414	7
+tr|F8A127|F8A127_CELGA			18	K05791	2
+tr|F8A7C1|F8A7C1_CELGA	K07401	selenoprotein W-related protein	127		
+tr|F8A2T5|F8A2T5_CELGA			365		
+tr|F8A1B8|F8A1B8_CELGA			115		
+tr|F8A4G4|F8A4G4_CELGA			20	K03231	2
+tr|F8A4G5|F8A4G5_CELGA			97		
+tr|F8A229|F8A229_CELGA	K09694	nodJ; lipooligosaccharide transport system permease protein	338		
+tr|F8A4S6|F8A4S6_CELGA			63		
+tr|F8A038|F8A038_CELGA	K04096	smf; DNA processing protein	277		
+tr|F8A1X6|F8A1X6_CELGA			121		
+tr|F8A4U7|F8A4U7_CELGA	K02036	pstB; phosphate transport system ATP-binding protein [EC:3.6.3.27]	422		
+tr|F8A5P5|F8A5P5_CELGA	K01971	ligD; bifunctional non-homologous end joining protein LigD [EC:6.5.1.1]	272		
+tr|F7ZYZ4|F7ZYZ4_CELGA	K00337	nuoH; NADH-quinone oxidoreductase subunit H [EC:1.6.5.3]	531		
+tr|F8A3G5|F8A3G5_CELGA			30	K07114	1
+tr|F7ZZK2|F7ZZK2_CELGA	K02954	RP-S14; small subunit ribosomal protein S14	126		
+tr|F8A385|F8A385_CELGA			732		
+tr|F7ZZW1|F7ZZW1_CELGA	K00867	coaA; type I pantothenate kinase [EC:2.7.1.33]	468		
+tr|F8A7P4|F8A7P4_CELGA			107		
+tr|F8A1P4|F8A1P4_CELGA			15	K11720	2
+tr|F8A3Z3|F8A3Z3_CELGA			362		
+tr|F7ZZJ1|F7ZZJ1_CELGA	K02892	RP-L23; large subunit ribosomal protein L23	173		
+tr|F8A217|F8A217_CELGA	K02112	ATPF1B; F-type H+-transporting ATPase subunit beta [EC:3.6.3.14]	839		
+tr|F8A047|F8A047_CELGA	K06960	uncharacterized protein	112		
+tr|F7ZYY1|F7ZYY1_CELGA	K02549	menC; O-succinylbenzoate synthase [EC:4.2.1.113]	365		
+tr|F7ZZP1|F7ZZP1_CELGA	K04079	htpG; molecular chaperone HtpG	508		
+tr|F8A6L5|F8A6L5_CELGA			483		
+tr|F8A627|F8A627_CELGA			157		
+tr|F8A0F3|F8A0F3_CELGA			17	K03782	2
+tr|F8A0Z9|F8A0Z9_CELGA	K15987	hppA; K(+)-stimulated pyrophosphate-energized sodium pump [EC:3.6.1.1]	1089		
+tr|F8A089|F8A089_CELGA			17	K03802	1
+tr|F8A7H8|F8A7H8_CELGA			26	K06894	1
+tr|F8A028|F8A028_CELGA	K00602	purH; phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10]	705		
+tr|F8A7Q0|F8A7Q0_CELGA	K00817	hisC; histidinol-phosphate aminotransferase [EC:2.6.1.9]	414		
+tr|F8A0J7|F8A0J7_CELGA			605		
+tr|F8A2B7|F8A2B7_CELGA			137		
+tr|F8A2E0|F8A2E0_CELGA			433		
+tr|F8A3A3|F8A3A3_CELGA			618		
+tr|F8A7Q7|F8A7Q7_CELGA	K01756	purB; adenylosuccinate lyase [EC:4.3.2.2]	704		
+tr|F8A7V0|F8A7V0_CELGA			22	K00130	2
+tr|F8A3Y1|F8A3Y1_CELGA			23	K03555	2
+tr|F8A4U0|F8A4U0_CELGA	K01834	PGAM; 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11]	408		
+tr|F8A1M1|F8A1M1_CELGA			166		
+tr|F7ZZ02|F7ZZ02_CELGA			136		
+tr|F8A1F5|F8A1F5_CELGA			238		
+tr|F8A3V4|F8A3V4_CELGA			566		
+tr|F8A791|F8A791_CELGA	K00324	pntA; NAD(P) transhydrogenase subunit alpha [EC:1.6.1.2]	549		
+tr|F8A6Z3|F8A6Z3_CELGA	K13527	mpa; proteasome-associated ATPase	808		
+tr|F8A5B6|F8A5B6_CELGA			152		
+tr|F8A4W8|F8A4W8_CELGA			282		
+tr|F8A4Q8|F8A4Q8_CELGA			268		
+tr|F8A1U3|F8A1U3_CELGA			372		
+tr|F8A6B3|F8A6B3_CELGA	K00765	hisG; ATP phosphoribosyltransferase [EC:2.4.2.17]	414		
+tr|F8A609|F8A609_CELGA			211		
+tr|F8A4J1|F8A4J1_CELGA			24	K03820	1
+tr|F8A002|F8A002_CELGA	K01621	xfp; xylulose-5-phosphate/fructose-6-phosphate phosphoketolase [EC:4.1.2.9 4.1.2.22]	1356		
+tr|F8A7I2|F8A7I2_CELGA	K14161	imuB; protein ImuB	437		
+tr|F8A240|F8A240_CELGA			58		
+tr|F8A0T1|F8A0T1_CELGA	K01719	hemD; uroporphyrinogen-III synthase [EC:4.2.1.75]	418		
+tr|F8A6F3|F8A6F3_CELGA	K00558	DNMT1; DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]	355		
+tr|F8A1T3|F8A1T3_CELGA			372		
+tr|F8A2V0|F8A2V0_CELGA			28	K00639	1
+tr|F8A3H8|F8A3H8_CELGA	K09117	uncharacterized protein	125		
+tr|F8A1L1|F8A1L1_CELGA	K05349	bglX; beta-glucosidase [EC:3.2.1.21]	978		
+tr|F8A2U1|F8A2U1_CELGA			31	K03893	1
+tr|F8A3D6|F8A3D6_CELGA	K00567	ogt; methylated-DNA-[protein]-cysteine S-methyltransferase [EC:2.1.1.63]	110	K10778	12
+tr|F8A6Q5|F8A6Q5_CELGA			222		
+tr|F8A3U1|F8A3U1_CELGA	K02598	nirC; nitrite transporter NirC	224		
+tr|F8A4L3|F8A4L3_CELGA			125		
+tr|F8A6B6|F8A6B6_CELGA	K00794	ribH; 6,7-dimethyl-8-ribityllumazine synthase [EC:2.5.1.78]	199		
+tr|F8A372|F8A372_CELGA	K03499	trkA; trk system potassium uptake protein	324		
+tr|F8A283|F8A283_CELGA	K01265	map; methionyl aminopeptidase [EC:3.4.11.18]	327		
+tr|F8A4C7|F8A4C7_CELGA			578		
+tr|F8A1M9|F8A1M9_CELGA	K03685	rnc; ribonuclease III [EC:3.1.26.3]	262		
+tr|F7ZZU3|F7ZZU3_CELGA	K06976	uncharacterized protein	262		
+tr|F8A323|F8A323_CELGA			177		
+tr|F8A4I7|F8A4I7_CELGA			134		
+tr|F8A1B9|F8A1B9_CELGA			407		
+tr|F8A331|F8A331_CELGA			383		
+tr|F8A2C3|F8A2C3_CELGA			542		
+tr|F8A6D5|F8A6D5_CELGA	K00609	pyrB; aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2]	480		
+tr|F8A444|F8A444_CELGA			66		
+tr|F7ZYZ8|F7ZYZ8_CELGA	K00341	nuoL; NADH-quinone oxidoreductase subunit L [EC:1.6.5.3]	811		
+tr|F8A650|F8A650_CELGA			25	K02612	1
+tr|F7ZZH9|F7ZZH9_CELGA			103		
+tr|F8A6A5|F8A6A5_CELGA	K07029	dagK; diacylglycerol kinase (ATP) [EC:2.7.1.107]	263		
+tr|F8A752|F8A752_CELGA	K05570	mnhF; multicomponent Na+:H+ antiporter subunit F	73		
+tr|F8A1J0|F8A1J0_CELGA	K03800	lplA; lipoate---protein ligase [EC:6.3.1.20]	447		
+tr|F8A0K2|F8A0K2_CELGA	K00640	cysE; serine O-acetyltransferase [EC:2.3.1.30]	260		
+tr|F8A1G4|F8A1G4_CELGA	K06949	rsgA; ribosome biogenesis GTPase [EC:3.6.1.-]	402		
+tr|F8A1Q6|F8A1Q6_CELGA			20	K02035	1
+tr|F8A1U5|F8A1U5_CELGA	K03686	dnaJ; molecular chaperone DnaJ	479		
+tr|F8A6F0|F8A6F0_CELGA			271		
+tr|F8A2D6|F8A2D6_CELGA			503		
+tr|F8A4Z4|F8A4Z4_CELGA	K00759	APRT; adenine phosphoribosyltransferase [EC:2.4.2.7]	180		
+tr|F8A078|F8A078_CELGA	K02049	ABC.SN.A; NitT/TauT family transport system ATP-binding protein	303		
+tr|F8A2L6|F8A2L6_CELGA	K01840	manB; phosphomannomutase [EC:5.4.2.8]	638		
+tr|F8A3B0|F8A3B0_CELGA			63		
+tr|F8A2W7|F8A2W7_CELGA			53		
+tr|F8A3G0|F8A3G0_CELGA			22	K01895	4
+tr|F8A488|F8A488_CELGA			228		
+tr|F8A490|F8A490_CELGA	K00088	guaB; IMP dehydrogenase [EC:1.1.1.205]	682		
+tr|F8A5Y3|F8A5Y3_CELGA			154		
+tr|F8A5Y7|F8A5Y7_CELGA			116	K13688	4
+tr|F7ZZ22|F7ZZ22_CELGA	K09767	yajQ; cyclic-di-GMP-binding protein	250		
+tr|F8A629|F8A629_CELGA			16	K03632	3
+tr|F8A610|F8A610_CELGA			182		
+tr|F8A090|F8A090_CELGA			137	K14441	4
+tr|F8A4R7|F8A4R7_CELGA					
+tr|F8A6M8|F8A6M8_CELGA	K03790	rimJ; ribosomal-protein-alanine N-acetyltransferase [EC:2.3.1.128]	251		
+tr|F8A7H9|F8A7H9_CELGA	K10747	LIG1; DNA ligase 1 [EC:6.5.1.1 6.5.1.6 6.5.1.7]	525		
+tr|F8A1A6|F8A1A6_CELGA			316		
+tr|F8A148|F8A148_CELGA	K03664	smpB; SsrA-binding protein	236		
+tr|F8A7L1|F8A7L1_CELGA	K16784	bioM; biotin transport system ATP-binding protein [EC:3.6.3.-]	242		
+tr|F8A0Q2|F8A0Q2_CELGA	K00763	pncB; nicotinate phosphoribosyltransferase [EC:6.3.4.21]	556		
+tr|F8A2M5|F8A2M5_CELGA	K07335	bmpA; basic membrane protein A and related proteins	349		
+tr|F8A2P3|F8A2P3_CELGA			90		
+tr|F8A7X0|F8A7X0_CELGA			184		
+tr|F8A1E1|F8A1E1_CELGA	K01785	galM; aldose 1-epimerase [EC:5.1.3.3]	260		
+tr|F8A1U2|F8A1U2_CELGA			139		
+tr|F8A6D0|F8A6D0_CELGA	K01591	pyrF; orotidine-5'-phosphate decarboxylase [EC:4.1.1.23]	289		
+tr|F8A2A0|F8A2A0_CELGA	K00281	GLDC; glycine dehydrogenase [EC:1.4.4.2]	1209		
+tr|F8A219|F8A219_CELGA	K02111	ATPF1A; F-type H+-transporting ATPase subunit alpha [EC:3.6.3.14]	898		
+tr|F8A3B8|F8A3B8_CELGA	K04069	pflA; pyruvate formate lyase activating enzyme [EC:1.97.1.4]	180		
+tr|F8A2V4|F8A2V4_CELGA	K13292	lgt; phosphatidylglycerol:prolipoprotein diacylglycerol transferase [EC:2.-.-.-]	157		
+tr|F8A3J0|F8A3J0_CELGA			18	K01711	2
+tr|F7ZZ09|F7ZZ09_CELGA			209		
+tr|F8A5X7|F8A5X7_CELGA	K00526	E1.17.4.1B; ribonucleoside-diphosphate reductase beta chain [EC:1.17.4.1]	596		
+tr|F8A7A2|F8A7A2_CELGA			20	K03824	1
+tr|F7ZYV9|F7ZYV9_CELGA			119		
+tr|F8A4L1|F8A4L1_CELGA	K03975	dedA; membrane-associated protein	240		
+tr|F8A4T2|F8A4T2_CELGA			140		
+tr|F8A5H5|F8A5H5_CELGA	K02557	motB; chemotaxis protein MotB	218		
+tr|F8A576|F8A576_CELGA			61		
+tr|F8A5M6|F8A5M6_CELGA			137		
+tr|F8A0F4|F8A0F4_CELGA	K18958	whiB7; WhiB family transcriptional regulator, redox-sensing transcriptional regulator	103		
+tr|F8A636|F8A636_CELGA			68	K05541	2
+tr|F8A1H8|F8A1H8_CELGA	K05846	opuBD; osmoprotectant transport system permease protein	192		
+tr|F8A6S7|F8A6S7_CELGA	K03723	mfd; transcription-repair coupling factor (superfamily II helicase) [EC:3.6.4.-]	1693		
+tr|F8A6Q4|F8A6Q4_CELGA			210		
+tr|F8A7E1|F8A7E1_CELGA	K01679	E4.2.1.2B; fumarate hydratase, class II [EC:4.2.1.2]	734		
+tr|F8A033|F8A033_CELGA			33	K03789	3
+tr|F8A7U2|F8A7U2_CELGA			1119		
+tr|F8A278|F8A278_CELGA	K07058	membrane protein	358		
+tr|F8A1Y7|F8A1Y7_CELGA	K00700	glgB; 1,4-alpha-glucan branching enzyme [EC:2.4.1.18]	1063		
+tr|F8A2K8|F8A2K8_CELGA			158		
+tr|F8A1L4|F8A1L4_CELGA	K02313	dnaA; chromosomal replication initiator protein	649		
+tr|F8A5A1|F8A5A1_CELGA			28	K00627	2
+tr|F8A1S9|F8A1S9_CELGA	K07181	putative signal transduction protein containing EAL and modified HD-GYP domains	119		
+tr|F8A2B2|F8A2B2_CELGA	K01649	leuA; 2-isopropylmalate synthase [EC:2.3.3.13]	898		
+tr|F8A2C2|F8A2C2_CELGA			146		
+tr|F8A293|F8A293_CELGA	K03637	moaC; cyclic pyranopterin phosphate synthase [EC:4.1.99.18]	191		
+tr|F8A359|F8A359_CELGA	K01209	abfA; alpha-N-arabinofuranosidase [EC:3.2.1.55]	726		
+tr|F7ZZF7|F7ZZF7_CELGA	K01992	ABC-2.P; ABC-2 type transport system permease protein	329		
+tr|F8A0H1|F8A0H1_CELGA			168		
+tr|F8A4L5|F8A4L5_CELGA	K07124	uncharacterized protein	290		
+tr|F8A5T1|F8A5T1_CELGA			23	K01733	1
+tr|F8A605|F8A605_CELGA			358		
+tr|F8A620|F8A620_CELGA			162		
+tr|F8A0I2|F8A0I2_CELGA			184		
+tr|F8A4V0|F8A4V0_CELGA	K00991	ispD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase [EC:2.7.7.60]	140		
+tr|F8A5H7|F8A5H7_CELGA	K02416	fliM; flagellar motor switch protein FliM	249		
+tr|F8A1L9|F8A1L9_CELGA	K02470	gyrB; DNA gyrase subunit B [EC:5.99.1.3]	1038		
+tr|F7ZYX2|F7ZYX2_CELGA			242		
+tr|F8A1S8|F8A1S8_CELGA	K07181	putative signal transduction protein containing EAL and modified HD-GYP domains	105		
+tr|F8A3S8|F8A3S8_CELGA			229		
+tr|F8A207|F8A207_CELGA	K17320	lplC; putative aldouronate transport system permease protein	394		
+tr|F8A4T1|F8A4T1_CELGA			55		
+tr|F8A789|F8A789_CELGA			670		
+tr|F8A6D8|F8A6D8_CELGA	K18232	oleC4; oleandomycin transport system ATP-binding protein	424		
+tr|F8A3E4|F8A3E4_CELGA			301		
+tr|F8A6Y9|F8A6Y9_CELGA	K03433	psmB; proteasome beta subunit [EC:3.4.25.1]	353		
+tr|F8A2L2|F8A2L2_CELGA			276		
+tr|F8A3V5|F8A3V5_CELGA			65	K06075	3
+tr|F8A6Y4|F8A6Y4_CELGA			173		
+tr|F8A4A7|F8A4A7_CELGA	K00956	cysN; sulfate adenylyltransferase subunit 1 [EC:2.7.7.4]	508		
+tr|F7ZZC0|F7ZZC0_CELGA	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	169		
+tr|F8A5V5|F8A5V5_CELGA			26	K06894	1
+tr|F7ZZG0|F7ZZG0_CELGA	K03073	secE; preprotein translocase subunit SecE	70		
+tr|F8A5M4|F8A5M4_CELGA	K07104	catE; catechol 2,3-dioxygenase [EC:1.13.11.2]	338		
+tr|F8A7P3|F8A7P3_CELGA			59	K00014	3
+tr|F8A1X8|F8A1X8_CELGA	K16147	glgE; starch synthase (maltosyl-transferring) [EC:2.4.99.16]	869		
+tr|F8A412|F8A412_CELGA			164		
+tr|F7ZZ47|F7ZZ47_CELGA	K01889	FARSA; phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]	512		
+tr|F8A4N7|F8A4N7_CELGA			20	K01750	2
+tr|F8A5W8|F8A5W8_CELGA			180		
+tr|F7ZZF4|F7ZZF4_CELGA			158	K02358	8
+tr|F8A5H1|F8A5H1_CELGA			504		
+tr|F8A079|F8A079_CELGA	K02050	ABC.SN.P; NitT/TauT family transport system permease protein	245		
+tr|F7ZZJ6|F7ZZJ6_CELGA	K02878	RP-L16; large subunit ribosomal protein L16	265		
+tr|F8A0Y4|F8A0Y4_CELGA			147	K00963	4
+tr|F8A1C9|F8A1C9_CELGA			178		
+tr|F8A0K7|F8A0K7_CELGA	K01808	rpiB; ribose 5-phosphate isomerase B [EC:5.3.1.6]	229		
+tr|F8A1Y3|F8A1Y3_CELGA	K02025	ABC.MS.P; multiple sugar transport system permease protein	271		
+tr|F8A2J2|F8A2J2_CELGA	K03316	TC.CPA1; monovalent cation:H+ antiporter, CPA1 family	310		
+tr|F8A370|F8A370_CELGA	K04768	acuC; acetoin utilization protein AcuC	480		
+tr|F8A3H9|F8A3H9_CELGA			38	K20276	3
+tr|F8A7K0|F8A7K0_CELGA	K16148	glgA; starch synthase [EC:2.4.1.21]	576		
+tr|F8A439|F8A439_CELGA	K15634	gpmB; probable phosphoglycerate mutase [EC:5.4.2.12]	103		
+tr|F8A346|F8A346_CELGA	K01950	E6.3.5.1; NAD+ synthase (glutamine-hydrolysing) [EC:6.3.5.1]	646		
+tr|F8A5Y2|F8A5Y2_CELGA	K19267	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]	294		
+tr|F8A6U1|F8A6U1_CELGA	K14645	serine protease [EC:3.4.21.-]	312		
+tr|F7ZZG7|F7ZZG7_CELGA			396		
+tr|F8A2F6|F8A2F6_CELGA			16	K03113	3
+tr|F8A6Q0|F8A6Q0_CELGA			106	K01218	4
+tr|F8A5A0|F8A5A0_CELGA			19	K11754	2
+tr|F8A0E3|F8A0E3_CELGA			166		
+tr|F8A482|F8A482_CELGA			107	K00123	4
+tr|F7ZYW3|F7ZYW3_CELGA	K15525	mshB; N-acetyl-1-D-myo-inositol-2-amino-2-deoxy-alpha-D-glucopyranoside deacetylase [EC:3.5.1.103]	133		
+tr|F8A5V2|F8A5V2_CELGA			27	K03527	1
+tr|F7ZZ82|F7ZZ82_CELGA	K01000	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase [EC:2.7.8.13]	520		
+tr|F8A596|F8A596_CELGA	K00133	asd; aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]	510		
+tr|F8A094|F8A094_CELGA			576		
+tr|F8A0B5|F8A0B5_CELGA			347		
+tr|F8A132|F8A132_CELGA			413		
+tr|F8A675|F8A675_CELGA			140		
+tr|F8A1G6|F8A1G6_CELGA	K07025	putative hydrolase of the HAD superfamily	188		
+tr|F8A2E2|F8A2E2_CELGA			22	K03046	1
+tr|F8A3A0|F8A3A0_CELGA	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	266		
+tr|F8A2G9|F8A2G9_CELGA			345		
+tr|F8A349|F8A349_CELGA			351		
+tr|F8A0A8|F8A0A8_CELGA	K03545	tig; trigger factor	558		
+tr|F8A777|F8A777_CELGA	K09959	uncharacterized protein	171		
+tr|F8A6X0|F8A6X0_CELGA	K00265	gltB; glutamate synthase (NADPH/NADH) large chain [EC:1.4.1.13 1.4.1.14]	2256		
+tr|F8A0G1|F8A0G1_CELGA			201		
+tr|F8A7E4|F8A7E4_CELGA	K02025	ABC.MS.P; multiple sugar transport system permease protein	375		
+tr|F8A143|F8A143_CELGA			277		
+tr|F8A5D2|F8A5D2_CELGA	K14260	alaA; alanine-synthesizing transaminase [EC:2.6.1.66 2.6.1.2]	613		
+tr|F7ZYX1|F7ZYX1_CELGA			21	K00344	2
+tr|F8A119|F8A119_CELGA			303		
+tr|F8A532|F8A532_CELGA	K02945	RP-S1; small subunit ribosomal protein S1	819		
+tr|F8A578|F8A578_CELGA	K06980	ygfZ; tRNA-modifying protein YgfZ	468		
+tr|F7ZZW4|F7ZZW4_CELGA	K00997	acpS; holo-[acyl-carrier protein] synthase [EC:2.7.8.7]	146		
+tr|F8A4V8|F8A4V8_CELGA	K13993	HSP20; HSP20 family protein	172		
+tr|F8A1S1|F8A1S1_CELGA	K19577	ydhP; MFS transporter, DHA1 family, inner membrane transport protein	347		
+tr|F7ZZK0|F7ZZK0_CELGA	K02895	RP-L24; large subunit ribosomal protein L24	164		
+tr|F8A1X9|F8A1X9_CELGA	K05343	treS; maltose alpha-D-glucosyltransferase/ alpha-amylase [EC:5.4.99.16 3.2.1.1]	918		
+tr|F8A5B7|F8A5B7_CELGA			164		
+tr|F8A3N9|F8A3N9_CELGA	K03889	qcrC; ubiquinol-cytochrome c reductase cytochrome c subunit	315		
+tr|F7ZZP5|F7ZZP5_CELGA			599		
+tr|F8A0N9|F8A0N9_CELGA	K03564	BCP; peroxiredoxin Q/BCP [EC:1.11.1.15]	221		
+tr|F8A3D3|F8A3D3_CELGA			14	K12510	8
+tr|F8A5K4|F8A5K4_CELGA			343		
+tr|F8A5B1|F8A5B1_CELGA	K10112	msmX; multiple sugar transport system ATP-binding protein	569		
+tr|F8A053|F8A053_CELGA	K03320	amt; ammonium transporter, Amt family	486		
+tr|F8A3P2|F8A3P2_CELGA	K00766	trpD; anthranilate phosphoribosyltransferase [EC:2.4.2.18]	399		
+tr|F8A4Y2|F8A4Y2_CELGA			163		
+tr|F8A3S9|F8A3S9_CELGA	K03499	trkA; trk system potassium uptake protein	324		
+tr|F8A3Q2|F8A3Q2_CELGA	K01626	E2.5.1.54; 3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54]	664		
+tr|F8A2L8|F8A2L8_CELGA	K01488	add; adenosine deaminase [EC:3.5.4.4]	403		
+tr|F8A3C7|F8A3C7_CELGA	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	351		
+tr|F8A0S3|F8A0S3_CELGA			491		
+tr|F8A460|F8A460_CELGA			109	K00658	4
+tr|F8A409|F8A409_CELGA	K03892	arsR; ArsR family transcriptional regulator	65		
+tr|F7ZZU1|F7ZZU1_CELGA	K01881	PARS; prolyl-tRNA synthetase [EC:6.1.1.15]	872		
+tr|F8A687|F8A687_CELGA			34	K01468	1
+tr|F8A0M0|F8A0M0_CELGA	K02803	PTS-Nag-EIIB; PTS system, N-acetylglucosamine-specific IIB component [EC:2.7.1.193]	115		
+tr|F8A6F4|F8A6F4_CELGA			539		
+tr|F8A0T7|F8A0T7_CELGA	K01181	E3.2.1.8; endo-1,4-beta-xylanase [EC:3.2.1.8]	409		
+tr|F8A6N5|F8A6N5_CELGA	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	511		
+tr|F8A208|F8A208_CELGA	K17319	lplB; putative aldouronate transport system permease protein	431		
+tr|F8A3B3|F8A3B3_CELGA			488		
+tr|F8A7A9|F8A7A9_CELGA			333		
+tr|F8A2Y1|F8A2Y1_CELGA	K01835	pgm; phosphoglucomutase [EC:5.4.2.2]	837		
+tr|F8A6P1|F8A6P1_CELGA	K03424	tatD; TatD DNase family protein [EC:3.1.21.-]	336		
+tr|F8A3L9|F8A3L9_CELGA	K00254	DHODH; dihydroorotate dehydrogenase [EC:1.3.5.2]	364		
+tr|F8A5Q6|F8A5Q6_CELGA	K05592	deaD; ATP-dependent RNA helicase DeaD [EC:3.6.4.13]	631		
+tr|F8A7H5|F8A7H5_CELGA			413		
+tr|F7ZZB3|F7ZZB3_CELGA			18	K00850	6
+tr|F8A1L5|F8A1L5_CELGA	K02338	DPO3B; DNA polymerase III subunit beta [EC:2.7.7.7]	552		
+tr|F8A396|F8A396_CELGA	K00286	proC; pyrroline-5-carboxylate reductase [EC:1.5.1.2]	249		
+tr|F8A2H7|F8A2H7_CELGA			20	K13571	2
+tr|F8A2C1|F8A2C1_CELGA			158	K01011	8
+tr|F8A771|F8A771_CELGA	K03406	mcp; methyl-accepting chemotaxis protein	191		
+tr|F8A647|F8A647_CELGA			324		
+tr|F8A4S5|F8A4S5_CELGA	K00767	nadC; nicotinate-nucleotide pyrophosphorylase (carboxylating) [EC:2.4.2.19]	325		
+tr|F8A697|F8A697_CELGA			105		
+tr|F8A3J2|F8A3J2_CELGA	K07497	putative transposase	620		
+tr|F8A0N5|F8A0N5_CELGA	K13288	orn; oligoribonuclease [EC:3.1.-.-]	297		
+tr|F8A253|F8A253_CELGA			401		
+tr|F8A7A8|F8A7A8_CELGA	K01060	cah; cephalosporin-C deacetylase [EC:3.1.1.41]	370		
+tr|F8A1Y4|F8A1Y4_CELGA	K02026	ABC.MS.P1; multiple sugar transport system permease protein	287		
+tr|F7ZZF5|F7ZZF5_CELGA			261		
+tr|F8A7S1|F8A7S1_CELGA	K02046	cysU; sulfate transport system permease protein	278		
+tr|F8A2V7|F8A2V7_CELGA			427		
+tr|F8A2A9|F8A2A9_CELGA			407		
+tr|F8A7M4|F8A7M4_CELGA			232		
+tr|F8A0Y8|F8A0Y8_CELGA	K00955	cysNC; bifunctional enzyme CysN/CysC [EC:2.7.7.4 2.7.1.25]	628		
+tr|F8A2V6|F8A2V6_CELGA			240		
+tr|F8A485|F8A485_CELGA			125		
+tr|F8A404|F8A404_CELGA	K00384	trxB; thioredoxin reductase (NADPH) [EC:1.8.1.9]	452		
+tr|F7ZYW4|F7ZYW4_CELGA			101		
+tr|F7ZYZ2|F7ZYZ2_CELGA	K00335	nuoF; NADH-quinone oxidoreductase subunit F [EC:1.6.5.3]	720		
+tr|F8A4G8|F8A4G8_CELGA	K00764	purF; amidophosphoribosyltransferase [EC:2.4.2.14]	838		
+tr|F7ZZV5|F7ZZV5_CELGA	K02967	RP-S2; small subunit ribosomal protein S2	424		
+tr|F8A0N6|F8A0N6_CELGA			333		
+tr|F8A4X0|F8A4X0_CELGA			57	K06941	2
+tr|F8A4W2|F8A4W2_CELGA			23	K09723	1
+tr|F8A122|F8A122_CELGA			470		
+tr|F8A141|F8A141_CELGA			29	K04091	2
+tr|F8A3F9|F8A3F9_CELGA			175		
+tr|F8A3Y4|F8A3Y4_CELGA			163		
+tr|F8A117|F8A117_CELGA			855		
+tr|F8A3V7|F8A3V7_CELGA	K07305	msrB; peptide-methionine (R)-S-oxide reductase [EC:1.8.4.12]	209		
+tr|F8A1U7|F8A1U7_CELGA	K01006	ppdK; pyruvate, orthophosphate dikinase [EC:2.7.9.1]	1220		
+tr|F8A0S4|F8A0S4_CELGA			160		
+tr|F8A5Q3|F8A5Q3_CELGA	K19668	CBHC; cellulose 1,4-beta-cellobiosidase [EC:3.2.1.91]	607		
+tr|F8A6V3|F8A6V3_CELGA			102	K03969	4
+tr|F8A5A3|F8A5A3_CELGA			303	K01990	28
+tr|F8A429|F8A429_CELGA			213		
+tr|F7ZZP0|F7ZZP0_CELGA			303		
+tr|F8A5K7|F8A5K7_CELGA	K00615	E2.2.1.1; transketolase [EC:2.2.1.1]	980		
+tr|F8A2S9|F8A2S9_CELGA			192		
+tr|F8A2M7|F8A2M7_CELGA	K00971	manC; mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]	395		
+tr|F8A3V8|F8A3V8_CELGA			542		
+tr|F8A6X6|F8A6X6_CELGA			112		
+tr|F8A0Y1|F8A0Y1_CELGA			414		
+tr|F8A4A6|F8A4A6_CELGA	K02302	cysG; uroporphyrin-III C-methyltransferase / precorrin-2 dehydrogenase / sirohydrochlorin ferrochelatase [EC:2.1.1.107 1.3.1.76 4.99.1.4]	328		
+tr|F8A5T7|F8A5T7_CELGA			316	K09955	66
+tr|F8A5I2|F8A5I2_CELGA			16	K11907	3
+tr|F8A0T4|F8A0T4_CELGA			18	K04759	3
+tr|F8A5E0|F8A5E0_CELGA	K10843	ERCC3; DNA excision repair protein ERCC-3 [EC:3.6.4.12]	903		
+tr|F8A6A0|F8A6A0_CELGA			169		
+tr|F8A2X1|F8A2X1_CELGA			15	K03723	3
+tr|F8A2B9|F8A2B9_CELGA			65	K05561	2
+tr|F8A1J2|F8A1J2_CELGA	K01649	leuA; 2-isopropylmalate synthase [EC:2.3.3.13]	733		
+tr|F7ZZT7|F7ZZT7_CELGA	K02519	infB; translation initiation factor IF-2	1039		
+tr|F8A7J0|F8A7J0_CELGA			502		
+tr|F7ZZR9|F7ZZR9_CELGA	K00560	thyA; thymidylate synthase [EC:2.1.1.45]	455		
+tr|F8A3E8|F8A3E8_CELGA	K11939	rhtA; inner membrane transporter RhtA	226		
+tr|F8A4V1|F8A4V1_CELGA	K01770	ispF; 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:4.6.1.12]	196		
+tr|F8A5C4|F8A5C4_CELGA			33	K08226	1
+tr|F8A3J8|F8A3J8_CELGA	K16264	czcD; cobalt-zinc-cadmium efflux system protein	342		
+tr|F8A4X6|F8A4X6_CELGA			52	K00050	4
+tr|F8A5U4|F8A5U4_CELGA					
+tr|F8A428|F8A428_CELGA	K03101	lspA; signal peptidase II [EC:3.4.23.36]	128		
+tr|F8A4W7|F8A4W7_CELGA			230		
+tr|F8A5U9|F8A5U9_CELGA			198		
+tr|F8A6E6|F8A6E6_CELGA			54	K01092	3
+tr|F8A0F9|F8A0F9_CELGA			187	K01784	15
+tr|F7ZZI9|F7ZZI9_CELGA	K02906	RP-L3; large subunit ribosomal protein L3	355		
+tr|F8A0H9|F8A0H9_CELGA			419		
+tr|F8A6V5|F8A6V5_CELGA	K02662	pilM; type IV pilus assembly protein PilM	293		
+tr|F8A1D3|F8A1D3_CELGA	K08316	rsmD; 16S rRNA (guanine966-N2)-methyltransferase [EC:2.1.1.171]	169		
+tr|F7ZZI6|F7ZZI6_CELGA	K12308	bgaB; beta-galactosidase [EC:3.2.1.23]	650		
+tr|F8A6Z6|F8A6Z6_CELGA	K07465	putative RecB family exonuclease	308		
+tr|F8A1E4|F8A1E4_CELGA			524		
+tr|F8A2E3|F8A2E3_CELGA			14	K03527	8
+tr|F8A108|F8A108_CELGA	K03581	recD; exodeoxyribonuclease V alpha subunit [EC:3.1.11.5]	476		
+tr|F8A0D8|F8A0D8_CELGA			177		
+tr|F8A3W0|F8A3W0_CELGA	K13280	SEC11; signal peptidase, endoplasmic reticulum-type [EC:3.4.-.-]	40		
+tr|F8A6M3|F8A6M3_CELGA			106		
+tr|F8A2U9|F8A2U9_CELGA			307		
+tr|F8A7C4|F8A7C4_CELGA			371		
+tr|F8A465|F8A465_CELGA	K02033	ABC.PE.P; peptide/nickel transport system permease protein	405		
+tr|F8A4S8|F8A4S8_CELGA			31	K00117	2
+tr|F8A530|F8A530_CELGA			343		
+tr|F8A1N0|F8A1N0_CELGA	K10563	mutM; formamidopyrimidine-DNA glycosylase [EC:3.2.2.23 4.2.99.18]	351		
+tr|F8A2S4|F8A2S4_CELGA			314		
+tr|F8A2E9|F8A2E9_CELGA			26	K01191	1
+tr|F8A200|F8A200_CELGA	K07024	uncharacterized protein	186		
+tr|F7ZZ46|F7ZZ46_CELGA	K01890	FARSB; phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]	878		
+tr|F8A787|F8A787_CELGA			880		
+tr|F8A5S6|F8A5S6_CELGA	K03704	cspA; cold shock protein (beta-ribbon, CspA family)	121		
+tr|F8A1N3|F8A1N3_CELGA			526		
+tr|F8A1T1|F8A1T1_CELGA			191		
+tr|F8A6C5|F8A6C5_CELGA	K00789	metK; S-adenosylmethionine synthetase [EC:2.5.1.6]	597		
+tr|F8A0G2|F8A0G2_CELGA	K09118	uncharacterized protein	1051		
+tr|F7ZZW0|F7ZZW0_CELGA			201		
+tr|F8A058|F8A058_CELGA			70		
+tr|F8A513|F8A513_CELGA	K07447	ruvX; putative holliday junction resolvase [EC:3.1.-.-]	178		
+tr|F7ZZQ9|F7ZZQ9_CELGA	K05522	nei; endonuclease VIII [EC:3.2.2.- 4.2.99.18]	245		
+tr|F7ZZY9|F7ZZY9_CELGA	K02013	ABC.FEV.A; iron complex transport system ATP-binding protein [EC:3.6.3.34]	373		
+tr|F7ZZD0|F7ZZD0_CELGA	K01858	INO1; myo-inositol-1-phosphate synthase [EC:5.5.1.4]	624		
+tr|F8A3Z1|F8A3Z1_CELGA			19	K01890	1
+tr|F8A1I3|F8A1I3_CELGA	K01951	guaA; GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]	262		
+tr|F8A0A3|F8A0A3_CELGA			252		
+tr|F8A3T1|F8A3T1_CELGA			917		
+tr|F8A296|F8A296_CELGA			58	K03635	3
+tr|F8A0W1|F8A0W1_CELGA			322		
+tr|F8A097|F8A097_CELGA			155		
+tr|F8A3R1|F8A3R1_CELGA			107		
+tr|F8A5Z2|F8A5Z2_CELGA	K03406	mcp; methyl-accepting chemotaxis protein	344		
+tr|F8A2Q0|F8A2Q0_CELGA	K06196	ccdA; cytochrome c-type biogenesis protein	232		
+tr|F7ZZC7|F7ZZC7_CELGA	K02990	RP-S6; small subunit ribosomal protein S6	157		
+tr|F8A6J0|F8A6J0_CELGA	K16167	bpsA; alkylresorcinol/alkylpyrone synthase	331		
+tr|F8A740|F8A740_CELGA			189		
+tr|F8A196|F8A196_CELGA			178		
+tr|F8A6D4|F8A6D4_CELGA	K01465	URA4; dihydroorotase [EC:3.5.2.3]	661		
+tr|F8A7Q9|F8A7Q9_CELGA	K02492	hemA; glutamyl-tRNA reductase [EC:1.2.1.70]	298		
+tr|F8A0K5|F8A0K5_CELGA			103		
+tr|F8A3A4|F8A3A4_CELGA	K09992	uncharacterized protein	123		
+tr|F8A202|F8A202_CELGA	K05350	bglB; beta-glucosidase [EC:3.2.1.21]	632		
+tr|F8A146|F8A146_CELGA			237		
+tr|F8A7I1|F8A7I1_CELGA	K14162	dnaE2; error-prone DNA polymerase [EC:2.7.7.7]	1147		
+tr|F8A1J3|F8A1J3_CELGA	K00826	E2.6.1.42; branched-chain amino acid aminotransferase [EC:2.6.1.42]	486		
+tr|F8A7F6|F8A7F6_CELGA			22	K02609	1
+tr|F8A1R2|F8A1R2_CELGA	K02031	ABC.PE.A; peptide/nickel transport system ATP-binding protein	728		
+	K02032	ABC.PE.A1; peptide/nickel transport system ATP-binding protein			
+tr|F8A7W3|F8A7W3_CELGA			23	K00822	1
+tr|F8A0J9|F8A0J9_CELGA			206		
+tr|F8A617|F8A617_CELGA			438		
+tr|F8A5N8|F8A5N8_CELGA	K00567	ogt; methylated-DNA-[protein]-cysteine S-methyltransferase [EC:2.1.1.63]	214		
+tr|F8A622|F8A622_CELGA			371		
+tr|F8A2C6|F8A2C6_CELGA			114	K03750/K07219	4
+tr|F8A0E6|F8A0E6_CELGA			215		
+tr|F7ZZ91|F7ZZ91_CELGA			386		
+tr|F8A4L2|F8A4L2_CELGA	K02566	nagD; NagD protein	397		
+tr|F8A2G7|F8A2G7_CELGA			36	K09118	1
+tr|F8A2X9|F8A2X9_CELGA	K06975	uncharacterized protein	93		
+tr|F7ZYX8|F7ZYX8_CELGA			272		
+tr|F8A683|F8A683_CELGA			422		
+tr|F8A4Z2|F8A4Z2_CELGA	K03072	secD; preprotein translocase subunit SecD	552		
+tr|F8A6F1|F8A6F1_CELGA			922		
+tr|F8A766|F8A766_CELGA	K01897	ACSL; long-chain acyl-CoA synthetase [EC:6.2.1.3]	607		
+tr|F8A6G4|F8A6G4_CELGA			346		
+tr|F8A193|F8A193_CELGA	K01840	manB; phosphomannomutase [EC:5.4.2.8]	631		
+tr|F8A066|F8A066_CELGA	K01870	IARS; isoleucyl-tRNA synthetase [EC:6.1.1.5]	1439		
+tr|F8A526|F8A526_CELGA			165		
+tr|F8A7K9|F8A7K9_CELGA			775		
+tr|F7ZZZ5|F7ZZZ5_CELGA	K02768	PTS-Fru-EIIA; PTS system, fructose-specific IIA component [EC:2.7.1.202]	165	K02768/K02769/K02770	16
+tr|F8A307|F8A307_CELGA			62	K03316	2
+tr|F8A3E9|F8A3E9_CELGA			226		
+tr|F8A1F4|F8A1F4_CELGA			173		
+tr|F8A5P3|F8A5P3_CELGA			379		
+tr|F8A3T0|F8A3T0_CELGA	K03499	trkA; trk system potassium uptake protein	295		
+tr|F8A2R9|F8A2R9_CELGA			26	K17686	2
+tr|F8A4R3|F8A4R3_CELGA			281		
+tr|F8A1Q2|F8A1Q2_CELGA	K03088	SIG3.2; RNA polymerase sigma-70 factor, ECF subfamily	61		
+tr|F8A6H3|F8A6H3_CELGA	K09166	uncharacterized protein	248		
+tr|F8A277|F8A277_CELGA			892		
+tr|F8A6H6|F8A6H6_CELGA	K03704	cspA; cold shock protein (beta-ribbon, CspA family)	345		
+tr|F8A4M9|F8A4M9_CELGA			70		
+tr|F7ZZN7|F7ZZN7_CELGA	K01778	dapF; diaminopimelate epimerase [EC:5.1.1.7]	290		
+tr|F8A6W0|F8A6W0_CELGA			214	K02674	4
+tr|F8A0R4|F8A0R4_CELGA	K13529	ada-alkA; AraC family transcriptional regulator, regulatory protein of adaptative response / DNA-3-methyladenine glycosylase II [EC:3.2.2.21]	145	K01247	20
+tr|F8A5B3|F8A5B3_CELGA	K01087	otsB; trehalose 6-phosphate phosphatase [EC:3.1.3.12]	169	K16055	18
+tr|F8A5H4|F8A5H4_CELGA	K02556	motA; chemotaxis protein MotA	297		
+tr|F8A1C8|F8A1C8_CELGA	K00946	thiL; thiamine-monophosphate kinase [EC:2.7.4.16]	329		
+tr|F8A537|F8A537_CELGA			240		
+tr|F8A5U7|F8A5U7_CELGA			19	K00376	3
+tr|F8A037|F8A037_CELGA	K03733	xerC; integrase/recombinase XerC	321		
+tr|F8A744|F8A744_CELGA	K02063	thiP; thiamine transport system permease protein	502		
+tr|F8A6W9|F8A6W9_CELGA	K00266	gltD; glutamate synthase (NADPH/NADH) small chain [EC:1.4.1.13 1.4.1.14]	734		
+tr|F8A3T7|F8A3T7_CELGA			311		
+tr|F8A6P0|F8A6P0_CELGA	K01874	MARS; methionyl-tRNA synthetase [EC:6.1.1.10]	940		
+tr|F8A3D5|F8A3D5_CELGA			302		
+tr|F8A2P9|F8A2P9_CELGA	K07399	resB; cytochrome c biogenesis protein	550		
+tr|F8A360|F8A360_CELGA			547		
+tr|F8A0I7|F8A0I7_CELGA			248		
+tr|F8A3K7|F8A3K7_CELGA			174		
+tr|F8A2Z1|F8A2Z1_CELGA	K03497	parB; chromosome partitioning protein, ParB family	91		
+tr|F8A618|F8A618_CELGA	K02342	DPO3E; DNA polymerase III subunit epsilon [EC:2.7.7.7]	282		
+tr|F8A677|F8A677_CELGA			119		
+tr|F8A0P3|F8A0P3_CELGA			275		
+tr|F8A3M4|F8A3M4_CELGA			515		
+tr|F8A709|F8A709_CELGA	K00259	ald; alanine dehydrogenase [EC:1.4.1.1]	463		
+tr|F8A3J7|F8A3J7_CELGA			202		
+tr|F8A4D4|F8A4D4_CELGA			129		
+tr|F8A445|F8A445_CELGA	K01142	E3.1.11.2; exodeoxyribonuclease III [EC:3.1.11.2]	384		
+tr|F7ZZC1|F7ZZC1_CELGA			30	K01198/K01209	1
+tr|F7ZYX0|F7ZYX0_CELGA	K01647	CS; citrate synthase [EC:2.3.3.1]	648		
+tr|F8A029|F8A029_CELGA			299		
+tr|F8A738|F8A738_CELGA			216		
+tr|F8A472|F8A472_CELGA	K00943	tmk; dTMP kinase [EC:2.7.4.9]	238		
+tr|F8A5X1|F8A5X1_CELGA	K02004	ABC.CD.P; putative ABC transport system permease protein	318		
+tr|F8A6P5|F8A6P5_CELGA	K00919	ispE; 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase [EC:2.7.1.148]	279		
+tr|F8A1R3|F8A1R3_CELGA			504		
+tr|F8A0B6|F8A0B6_CELGA	K01433	purU; formyltetrahydrofolate deformylase [EC:3.5.1.10]	405		
+tr|F8A762|F8A762_CELGA			112		
+tr|F8A2G5|F8A2G5_CELGA			207		
+tr|F8A6W2|F8A6W2_CELGA			28	K02672	2
+tr|F8A0V8|F8A0V8_CELGA	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	368		
+tr|F8A281|F8A281_CELGA			209		
+tr|F8A2Y0|F8A2Y0_CELGA			428		
+tr|F8A5I1|F8A5I1_CELGA	K02420	fliQ; flagellar biosynthetic protein FliQ	106		
+tr|F8A280|F8A280_CELGA	K19062	arr; rifampin ADP-ribosylating transferase	171		
+tr|F8A3Z9|F8A3Z9_CELGA			184		
+tr|F8A5J1|F8A5J1_CELGA	K03701	uvrA; excinuclease ABC subunit A	1549		
+tr|F8A5U1|F8A5U1_CELGA			19	K12234	2
+tr|F8A6D6|F8A6D6_CELGA			563		
+tr|F8A760|F8A760_CELGA	K00702	E2.4.1.20; cellobiose phosphorylase [EC:2.4.1.20]	1140		
+tr|F8A4B6|F8A4B6_CELGA	K02438	treX; glycogen operon protein [EC:3.2.1.-]	1117		
+tr|F8A3A2|F8A3A2_CELGA	K01669	phrB; deoxyribodipyrimidine photo-lyase [EC:4.1.99.3]	489		
+tr|F8A4L0|F8A4L0_CELGA			310		
+tr|F8A504|F8A504_CELGA			54	K03789	3
+tr|F8A551|F8A551_CELGA			270	K07132	48
+tr|F7ZZH8|F7ZZH8_CELGA			26	K03556	1
+tr|F8A4A3|F8A4A3_CELGA	K17810	asl; D-aspartate ligase [EC:6.3.1.12]	80		
+tr|F8A588|F8A588_CELGA			332		
+tr|F8A5A8|F8A5A8_CELGA	K01883	CARS; cysteinyl-tRNA synthetase [EC:6.1.1.16]	600		
+tr|F8A471|F8A471_CELGA			365		
+tr|F8A0F6|F8A0F6_CELGA			82		
+tr|F7ZZM3|F7ZZM3_CELGA	K06173	truA; tRNA pseudouridine38-40 synthase [EC:5.4.99.12]	337		
+tr|F7ZZN2|F7ZZN2_CELGA	K03722	dinG; ATP-dependent DNA helicase DinG [EC:3.6.4.12]	731		
+tr|F8A0F0|F8A0F0_CELGA	K03426	E3.6.1.22; NAD+ diphosphatase [EC:3.6.1.22]	260		
+tr|F8A600|F8A600_CELGA			21	K01955	9
+tr|F8A729|F8A729_CELGA	K00370	narG; nitrate reductase / nitrite oxidoreductase, alpha subunit [EC:1.7.5.1 1.7.99.4]	1886		
+tr|F8A1V5|F8A1V5_CELGA	K02529	lacI; LacI family transcriptional regulator	414		
+tr|F8A734|F8A734_CELGA	K03088	SIG3.2; RNA polymerase sigma-70 factor, ECF subfamily	85		
+tr|F8A1C1|F8A1C1_CELGA	K01704	leuD; 3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]	350		
+tr|F8A2E5|F8A2E5_CELGA			23	K03578	1
+tr|F8A754|F8A754_CELGA	K05568	mnhD; multicomponent Na+:H+ antiporter subunit D	560		
+tr|F8A2W4|F8A2W4_CELGA			15	K01962	11
+tr|F8A4X8|F8A4X8_CELGA	K19710	E2.7.7.53; ATP adenylyltransferase [EC:2.7.7.53]	262		
+tr|F8A5K9|F8A5K9_CELGA	K04763	xerD; integrase/recombinase XerD	387		
+tr|F8A5P7|F8A5P7_CELGA	K10979	ku; DNA end-binding protein Ku	328		
+tr|F8A246|F8A246_CELGA	K20074	prpC; PPM family protein phosphatase [EC:3.1.3.16]	358		
+tr|F8A4K2|F8A4K2_CELGA			145		
+tr|F8A0P2|F8A0P2_CELGA	K03671	trxA; thioredoxin 1	163		
+tr|F8A1U1|F8A1U1_CELGA	K09940	uncharacterized protein	84		
+tr|F8A1W7|F8A1W7_CELGA			17	K06941	2
+tr|F8A0K3|F8A0K3_CELGA			103	K03574	19
+tr|F8A0Q8|F8A0Q8_CELGA	K17331	dasC; N,N'-diacetylchitobiose transport system permease protein	310		
+tr|F7ZZX6|F7ZZX6_CELGA			197		
+tr|F7ZZ57|F7ZZ57_CELGA			221		
+tr|F8A520|F8A520_CELGA	K01999	livK; branched-chain amino acid transport system substrate-binding protein	383		
+tr|F8A012|F8A012_CELGA			352		
+tr|F8A2B4|F8A2B4_CELGA	K00806	uppS; undecaprenyl diphosphate synthase [EC:2.5.1.31]	403		
+tr|F8A2C7|F8A2C7_CELGA	K01187	malZ; alpha-glucosidase [EC:3.2.1.20]	775		
+tr|F8A1I6|F8A1I6_CELGA	K03976	ybaK; Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase [EC:3.1.1.-]	184		
+tr|F8A0W7|F8A0W7_CELGA			196		
+tr|F8A779|F8A779_CELGA	K01151	nfo; deoxyribonuclease IV [EC:3.1.21.2]	293		
+tr|F7ZZF2|F7ZZF2_CELGA	K00075	murB; UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98]	403		
+tr|F8A4H6|F8A4H6_CELGA	K00262	E1.4.1.4; glutamate dehydrogenase (NADP+) [EC:1.4.1.4]	701		
+tr|F7ZZF3|F7ZZF3_CELGA	K01488	add; adenosine deaminase [EC:3.5.4.4]	422		
+tr|F8A679|F8A679_CELGA			91	K18301	17
+tr|F8A5L2|F8A5L2_CELGA	K06024	scpB; segregation and condensation protein B	248		
+tr|F7ZZU5|F7ZZU5_CELGA			110		
+tr|F8A7R8|F8A7R8_CELGA			128		
+tr|F8A1F7|F8A1F7_CELGA			165		
+tr|F8A3S4|F8A3S4_CELGA			109		
+tr|F8A1Q0|F8A1Q0_CELGA			28	K18197	1
+tr|F8A2K7|F8A2K7_CELGA	K11263	bccA; acetyl-CoA/propionyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein [EC:6.4.1.2 6.4.1.3 6.3.4.14]	814		
+tr|F8A6T3|F8A6T3_CELGA	K01638	aceB; malate synthase [EC:2.3.3.9]	689		
+tr|F8A743|F8A743_CELGA	K02062	thiQ; thiamine transport system ATP-binding protein	265		
+tr|F8A0V5|F8A0V5_CELGA	K18955	whiB1_2_3_4; WhiB family transcriptional regulator, redox-sensing transcriptional regulator	142		
+tr|F8A6Z5|F8A6Z5_CELGA			232		
+tr|F8A2N6|F8A2N6_CELGA	K01867	WARS; tryptophanyl-tRNA synthetase [EC:6.1.1.2]	475		
+tr|F7ZZE1|F7ZZE1_CELGA	K01921	ddl; D-alanine-D-alanine ligase [EC:6.3.2.4]	366		
+tr|F7ZZT9|F7ZZT9_CELGA	K09748	rimP; ribosome maturation factor RimP	69		
+tr|F8A3A9|F8A3A9_CELGA			136	K02414	5
+tr|F8A5U5|F8A5U5_CELGA			192		
+tr|F8A6B0|F8A6B0_CELGA	K13572	pafB; proteasome accessory factor B	167		
+tr|F7ZZA1|F7ZZA1_CELGA			703		
+tr|F8A503|F8A503_CELGA	K01876	DARS; aspartyl-tRNA synthetase [EC:6.1.1.12]	910		
+tr|F8A068|F8A068_CELGA			37	K18844	28
+tr|F7ZZT0|F7ZZT0_CELGA	K02956	RP-S15; small subunit ribosomal protein S15	152		
+tr|F8A5B5|F8A5B5_CELGA			332		
+tr|F8A4L9|F8A4L9_CELGA			19	K05520	2
+tr|F7ZZ34|F7ZZ34_CELGA	K01940	argG; argininosuccinate synthase [EC:6.3.4.5]	709		
+tr|F7ZZJ9|F7ZZJ9_CELGA	K02874	RP-L14; large subunit ribosomal protein L14	202		
+tr|F8A6C1|F8A6C1_CELGA	K03500	rsmB; 16S rRNA (cytosine967-C5)-methyltransferase [EC:2.1.1.176]	498		
+tr|F7ZZG8|F7ZZG8_CELGA	K02864	RP-L10; large subunit ribosomal protein L10	253		
+tr|F7ZZV4|F7ZZV4_CELGA	K02357	tsf; elongation factor Ts	337		
+tr|F8A7S2|F8A7S2_CELGA	K02048	cysP; sulfate transport system substrate-binding protein	325		
+tr|F8A6E4|F8A6E4_CELGA	K04043	dnaK; molecular chaperone DnaK	973		
+tr|F8A0H7|F8A0H7_CELGA			79		
+tr|F8A1N2|F8A1N2_CELGA			318		
+tr|F8A3T9|F8A3T9_CELGA	K00027	ME2; malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]	582		
+tr|F8A2N7|F8A2N7_CELGA	K03117	tatB; sec-independent protein translocase protein TatB	108		
+tr|F8A1P6|F8A1P6_CELGA			54	K11717	2
+tr|F8A4F2|F8A4F2_CELGA			125		
+tr|F8A1Z9|F8A1Z9_CELGA	K07018	uncharacterized protein	364		
+tr|F8A7N9|F8A7N9_CELGA	K06442	tlyA; 23S rRNA (cytidine1920-2'-O)/16S rRNA (cytidine1409-2'-O)-methyltransferase [EC:2.1.1.226 2.1.1.227]	268		
+tr|F8A579|F8A579_CELGA			232		
+tr|F8A521|F8A521_CELGA	K01996	livF; branched-chain amino acid transport system ATP-binding protein	381		
+tr|F8A015|F8A015_CELGA	K03406	mcp; methyl-accepting chemotaxis protein	343		
+tr|F8A176|F8A176_CELGA			580		
+tr|F8A7I8|F8A7I8_CELGA			17	K11896	2
+tr|F8A4R8|F8A4R8_CELGA			64		
+tr|F8A324|F8A324_CELGA	K00163	aceE; pyruvate dehydrogenase E1 component [EC:1.2.4.1]	1449		
+tr|F8A228|F8A228_CELGA	K02835	prfA; peptide chain release factor 1	467		
+tr|F8A0Z6|F8A0Z6_CELGA			320	K01218	28
+tr|F8A309|F8A309_CELGA			95		
+tr|F7ZZM7|F7ZZM7_CELGA	K06895	lysE; L-lysine exporter family protein LysE/ArgO	191		
+tr|F8A2G3|F8A2G3_CELGA			22	K00059	3
+tr|F8A4S3|F8A4S3_CELGA	K01579	panD; aspartate 1-decarboxylase [EC:4.1.1.11]	190		
+tr|F8A4J6|F8A4J6_CELGA	K01952	purL; phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	111		
+tr|F8A6U5|F8A6U5_CELGA			78		
+tr|F8A0S5|F8A0S5_CELGA	K01992	ABC-2.P; ABC-2 type transport system permease protein	256		
+tr|F8A391|F8A391_CELGA			119		
+tr|F8A0X2|F8A0X2_CELGA			267		
+tr|F8A1W3|F8A1W3_CELGA	K03647	nrdI; protein involved in ribonucleotide reduction	112		
+tr|F8A447|F8A447_CELGA	K02440	GLPF; glycerol uptake facilitator protein	310		
+tr|F8A2Q3|F8A2Q3_CELGA			180		
+tr|F7ZZ43|F7ZZ43_CELGA			237		
+tr|F8A0G5|F8A0G5_CELGA	K02075	ABC.ZM.P; zinc/manganese transport system permease protein	320		
+tr|F8A0N3|F8A0N3_CELGA			69		
+tr|F8A378|F8A378_CELGA			1015		
+tr|F8A3I6|F8A3I6_CELGA			21	K05568	1
+tr|F8A5I4|F8A5I4_CELGA			146		
+tr|F7ZYZ6|F7ZYZ6_CELGA	K00339	nuoJ; NADH-quinone oxidoreductase subunit J [EC:1.6.5.3]	245		
+tr|F8A153|F8A153_CELGA			398		
+tr|F8A5K0|F8A5K0_CELGA	K03075	secG; preprotein translocase subunit SecG	81		
+tr|F8A416|F8A416_CELGA			149		
+tr|F8A5J0|F8A5J0_CELGA			659		
+tr|F8A5Z0|F8A5Z0_CELGA	K03407	cheA; two-component system, chemotaxis family, sensor kinase CheA [EC:2.7.13.3]	696		
+tr|F8A144|F8A144_CELGA			29	K17760	1
+tr|F8A6F8|F8A6F8_CELGA			369		
+tr|F8A0V9|F8A0V9_CELGA			325		
+tr|F8A185|F8A185_CELGA			306		
+tr|F8A2T4|F8A2T4_CELGA			446		
+tr|F8A480|F8A480_CELGA			35	K19302	23
+tr|F7ZZP6|F7ZZP6_CELGA	K06168	miaB; tRNA-2-methylthio-N6-dimethylallyladenosine synthase [EC:2.8.4.3]	729		
+tr|F8A544|F8A544_CELGA	K09005	uncharacterized protein	63		
+tr|F8A084|F8A084_CELGA	K02016	ABC.FEV.S; iron complex transport system substrate-binding protein	303		
+tr|F8A0S2|F8A0S2_CELGA			1713		
+tr|F8A7J1|F8A7J1_CELGA			252		
+tr|F8A2I9|F8A2I9_CELGA	K03449	MFS.CP; MFS transporter, CP family, cyanate transporter	306		
+tr|F8A2L7|F8A2L7_CELGA	K01619	deoC; deoxyribose-phosphate aldolase [EC:4.1.2.4]	285		
+tr|F8A353|F8A353_CELGA			114		
+tr|F8A2P7|F8A2P7_CELGA	K01439	dapE; succinyl-diaminopimelate desuccinylase [EC:3.5.1.18]	469		
+tr|F8A3G3|F8A3G3_CELGA	K09858	SEC-C motif domain protein	163		
+tr|F8A5M1|F8A5M1_CELGA	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	253		
+tr|F8A0D4|F8A0D4_CELGA			255		
+tr|F8A1X2|F8A1X2_CELGA	K00850	pfkA; 6-phosphofructokinase 1 [EC:2.7.1.11]	460		
+tr|F8A6V1|F8A6V1_CELGA			221	K12567	27
+tr|F8A218|F8A218_CELGA	K02115	ATPF1G; F-type H+-transporting ATPase subunit gamma	394		
+tr|F8A4Y3|F8A4Y3_CELGA	K06215	pdxS; pyridoxal 5'-phosphate synthase pdxS subunit [EC:4.3.3.6]	541		
+tr|F8A4E9|F8A4E9_CELGA			323	K07486	29
+tr|F7ZZ06|F7ZZ06_CELGA			34	K03474	2
+tr|F8A5V4|F8A5V4_CELGA			25	K02034	2
+tr|F7ZZA8|F7ZZA8_CELGA			20	K00615	2
+tr|F8A4E8|F8A4E8_CELGA			73	K07483	36
+tr|F8A2X4|F8A2X4_CELGA			169		
+tr|F8A5Q2|F8A5Q2_CELGA			583	K01179	62
+tr|F8A565|F8A565_CELGA			295		
+tr|F8A705|F8A705_CELGA			81		
+tr|F8A4A9|F8A4A9_CELGA	K00390	cysH; phosphoadenosine phosphosulfate reductase [EC:1.8.4.8 1.8.4.10]	311		
+tr|F8A707|F8A707_CELGA	K01284	dcp; peptidyl-dipeptidase Dcp [EC:3.4.15.5]	814		
+tr|F8A2A5|F8A2A5_CELGA			364	K12132	39
+tr|F8A5X0|F8A5X0_CELGA			145		
+tr|F7ZZR3|F7ZZR3_CELGA	K07282	pgsA; poly-gamma-glutamate synthesis protein (capsule biosynthesis protein)	276		
+tr|F8A180|F8A180_CELGA			538		
+tr|F8A4J8|F8A4J8_CELGA	K07047	uncharacterized protein	370		
+tr|F8A7T5|F8A7T5_CELGA			137		
+tr|F8A4Y0|F8A4Y0_CELGA	K02517	lpxL; Kdo2-lipid IVA lauroyltransferase [EC:2.3.1.241]	284		
+tr|F8A603|F8A603_CELGA			156		
+tr|F7ZZL9|F7ZZL9_CELGA			208		
+tr|F8A4Q1|F8A4Q1_CELGA			341		
+tr|F8A5J4|F8A5J4_CELGA	K06958	rapZ; RNase adapter protein RapZ	415		
+tr|F8A3Z7|F8A3Z7_CELGA			173	K04750	18
+tr|F8A4W4|F8A4W4_CELGA			586		
+tr|F8A524|F8A524_CELGA	K01997	livH; branched-chain amino acid transport system permease protein	318		
+tr|F8A0U9|F8A0U9_CELGA			413		
+tr|F8A574|F8A574_CELGA	K07560	dtd; D-tyrosyl-tRNA(Tyr) deacylase [EC:3.1.-.-]	212		
+tr|F8A7J8|F8A7J8_CELGA	K02013	ABC.FEV.A; iron complex transport system ATP-binding protein [EC:3.6.3.34]	377		
+tr|F8A641|F8A641_CELGA			110		
+tr|F8A4Q4|F8A4Q4_CELGA	K01740	metY; O-acetylhomoserine (thiol)-lyase [EC:2.5.1.49]	703		
+tr|F8A6F9|F8A6F9_CELGA			19	K03645	2
+tr|F8A3N2|F8A3N2_CELGA	K04487	iscS; cysteine desulfurase [EC:2.8.1.7]	328		
+tr|F8A763|F8A763_CELGA			61	K02343	2
+tr|F8A070|F8A070_CELGA	K07101	uncharacterized protein	190		
+tr|F8A662|F8A662_CELGA			250		
+tr|F8A3Q4|F8A3Q4_CELGA			313		
+tr|F8A1H0|F8A1H0_CELGA			192		
+tr|F8A171|F8A171_CELGA			199		
+tr|F8A017|F8A017_CELGA	K03657	uvrD; DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]	1023		
+tr|F8A0Q4|F8A0Q4_CELGA			883		
+tr|F8A6I8|F8A6I8_CELGA			251		
+tr|F8A3Y7|F8A3Y7_CELGA			667		
+tr|F7ZZX5|F7ZZX5_CELGA			140		
+tr|F8A659|F8A659_CELGA			171		
+tr|F8A3E7|F8A3E7_CELGA	K10234	aglG; alpha-glucoside transport system permease protein	380		
+tr|F8A0L1|F8A0L1_CELGA			223		
+tr|F8A2Q5|F8A2Q5_CELGA	K01926	rex; redox-sensing transcriptional repressor	202		
+tr|F8A352|F8A352_CELGA	K01915	glnA; glutamine synthetase [EC:6.3.1.2]	811		
+tr|F8A022|F8A022_CELGA	K02470	gyrB; DNA gyrase subunit B [EC:5.99.1.3]	18		
+tr|F8A3Q6|F8A3Q6_CELGA	K13787	idsA; geranylgeranyl diphosphate synthase, type I [EC:2.5.1.1 2.5.1.10 2.5.1.29]	324		
+tr|F8A510|F8A510_CELGA			127		
+tr|F8A2Z5|F8A2Z5_CELGA			20	K03546	4
+tr|F8A4V9|F8A4V9_CELGA			150		
+tr|F8A5X8|F8A5X8_CELGA			182		
+tr|F8A4E3|F8A4E3_CELGA			226		
+tr|F7ZZM4|F7ZZM4_CELGA			894		
+tr|F7ZZJ2|F7ZZJ2_CELGA	K02886	RP-L2; large subunit ribosomal protein L2	529		
+tr|F7ZZX7|F7ZZX7_CELGA			93		
+tr|F8A706|F8A706_CELGA			634		
+tr|F8A0Q6|F8A0Q6_CELGA	K02564	nagB; glucosamine-6-phosphate deaminase [EC:3.5.99.6]	388		
+tr|F8A720|F8A720_CELGA			18	K01551	8
+tr|F8A1T5|F8A1T5_CELGA			119		
+tr|F8A2Q9|F8A2Q9_CELGA	K00549	metE; 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:2.1.1.14]	997		
+tr|F7ZYZ3|F7ZYZ3_CELGA	K00336	nuoG; NADH-quinone oxidoreductase subunit G [EC:1.6.5.3]	970		
+tr|F8A0M3|F8A0M3_CELGA	K10805	tesB; acyl-CoA thioesterase II [EC:3.1.2.-]	343		
+tr|F8A4M0|F8A4M0_CELGA			22	K01915	1
+tr|F8A751|F8A751_CELGA	K05571	mnhG; multicomponent Na+:H+ antiporter subunit G	91		
+tr|F8A539|F8A539_CELGA			117	K03686	6
+tr|F8A7H0|F8A7H0_CELGA	K18346	vanW; vancomycin resistance protein VanW	278		
+tr|F8A6H8|F8A6H8_CELGA			422		
+tr|F8A4H8|F8A4H8_CELGA			24	K11737	1
+tr|F7ZZF1|F7ZZF1_CELGA	K02914	RP-L34; large subunit ribosomal protein L34	74		
+tr|F8A4E6|F8A4E6_CELGA			16	K00626	3
+tr|F8A587|F8A587_CELGA			21	K07114	1
+tr|F8A5Q5|F8A5Q5_CELGA			518		
+tr|F8A393|F8A393_CELGA			1270	K18206	105
+tr|F7ZZY5|F7ZZY5_CELGA	K00088	guaB; IMP dehydrogenase [EC:1.1.1.205]	789		
+tr|F8A6C6|F8A6C6_CELGA	K13038	coaBC; phosphopantothenoylcysteine decarboxylase / phosphopantothenate--cysteine ligase [EC:4.1.1.36 6.3.2.5]	449		
+tr|F8A0P9|F8A0P9_CELGA			423		
+tr|F8A6Z0|F8A6Z0_CELGA	K13570	pup; prokaryotic ubiquitin-like protein Pup	63		
+tr|F7ZZ19|F7ZZ19_CELGA			657		
+tr|F8A389|F8A389_CELGA	K02027	ABC.MS.S; multiple sugar transport system substrate-binding protein	406		
+tr|F8A204|F8A204_CELGA	K12308	bgaB; beta-galactosidase [EC:3.2.1.23]	580		
+tr|F8A5M7|F8A5M7_CELGA			400		
+tr|F8A0S8|F8A0S8_CELGA	K00362	nirB; nitrite reductase (NADH) large subunit [EC:1.7.1.15]	1161		
+tr|F8A5V1|F8A5V1_CELGA			23	K00548	1
+tr|F8A7K4|F8A7K4_CELGA	K00208	fabI; enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]	400		
+tr|F8A252|F8A252_CELGA			406	K02040	49
+tr|F8A081|F8A081_CELGA	K01464	DPYS; dihydropyrimidinase [EC:3.5.2.2]	768		
+tr|F8A2G8|F8A2G8_CELGA			180		
+tr|F8A3S5|F8A3S5_CELGA	K01520	dut; dUTP pyrophosphatase [EC:3.6.1.23]	187		
+tr|F8A0Z5|F8A0Z5_CELGA	K04762	hslR; ribosome-associated heat shock protein Hsp15	123		
+tr|F8A192|F8A192_CELGA			19	K04656	1
+tr|F8A1T4|F8A1T4_CELGA			285		
+tr|F8A6L4|F8A6L4_CELGA			262		
+tr|F8A501|F8A501_CELGA	K05770	TSPO; benzodiazapine receptor	154		
+tr|F8A3C1|F8A3C1_CELGA			198		
+tr|F7ZZ90|F7ZZ90_CELGA			170		
+tr|F7ZZ48|F7ZZ48_CELGA	K01975	ligT; 2'-5' RNA ligase [EC:6.5.1.-]	105		
+tr|F7ZZ49|F7ZZ49_CELGA	K03437	spoU; RNA methyltransferase, TrmH family	236		
+tr|F8A1P7|F8A1P7_CELGA	K09710	ybeB; ribosome-associated protein	175		
+tr|F8A2R5|F8A2R5_CELGA			496		
+tr|F8A5W4|F8A5W4_CELGA			215		
+tr|F8A2D5|F8A2D5_CELGA	K02316	dnaG; DNA primase [EC:2.7.7.-]	712		
+tr|F7ZZ39|F7ZZ39_CELGA	K00620	argJ; glutamate N-acetyltransferase / amino-acid N-acetyltransferase [EC:2.3.1.35 2.3.1.1]	488		
+tr|F8A5V8|F8A5V8_CELGA			383		
+tr|F8A6J8|F8A6J8_CELGA			140	K07028	15
+tr|F8A7G0|F8A7G0_CELGA			121		
+tr|F8A7N6|F8A7N6_CELGA			534		
+tr|F8A1H1|F8A1H1_CELGA			357		
+tr|F8A5P4|F8A5P4_CELGA	K04047	dps; starvation-inducible DNA-binding protein	257		
+tr|F8A1C2|F8A1C2_CELGA	K00790	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase [EC:2.5.1.7]	707		
+tr|F8A2Y6|F8A2Y6_CELGA			124	K00335	3
+tr|F8A7Q1|F8A7Q1_CELGA	K08972	putative membrane protein	123		
+tr|F8A7A6|F8A7A6_CELGA	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	416		
+tr|F8A2J0|F8A2J0_CELGA			181		
+tr|F8A2N2|F8A2N2_CELGA			26	K00646	1
+tr|F8A024|F8A024_CELGA	K01902	sucD; succinyl-CoA synthetase alpha subunit [EC:6.2.1.5]	482		
+tr|F8A7K8|F8A7K8_CELGA			239		
+tr|F8A796|F8A796_CELGA	K09009	uncharacterized protein	233		
+tr|F8A2T1|F8A2T1_CELGA			78	K01802	66
+tr|F8A2P1|F8A2P1_CELGA			263		
+tr|F7ZZZ9|F7ZZZ9_CELGA	K00135	gabD; succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2.1.79 1.2.1.20]	538		
+tr|F8A7T6|F8A7T6_CELGA			233		
+tr|F8A4U3|F8A4U3_CELGA	K07776	regX3; two-component system, OmpR family, response regulator RegX3	323		
+tr|F8A4C5|F8A4C5_CELGA			19	K07243	1
+tr|F7ZZS1|F7ZZS1_CELGA			238		
+tr|F8A621|F8A621_CELGA			27	K11263	1
+tr|F7ZZW8|F7ZZW8_CELGA	K01775	alr; alanine racemase [EC:5.1.1.1]	443		
+tr|F8A6A6|F8A6A6_CELGA	K03118	tatC; sec-independent protein translocase protein TatC	281		
+tr|F8A056|F8A056_CELGA	K03529	smc; chromosome segregation protein	1124		
+tr|F7ZZ75|F7ZZ75_CELGA	K09772	sepF; cell division inhibitor SepF	188		
+tr|F8A0D2|F8A0D2_CELGA	K00849	galK; galactokinase [EC:2.7.1.6]	372		
+tr|F8A0F5|F8A0F5_CELGA			158		
+tr|F8A6V7|F8A6V7_CELGA			147		
+tr|F8A0Z1|F8A0Z1_CELGA			286		
+tr|F8A0Q3|F8A0Q3_CELGA			24	K02498	1
+tr|F8A7M6|F8A7M6_CELGA	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	335		
+tr|F8A7M3|F8A7M3_CELGA	K09014	sufB; Fe-S cluster assembly protein SufB	860		
+tr|F8A7R6|F8A7R6_CELGA	K07090	uncharacterized protein	389		
+tr|F8A7V7|F8A7V7_CELGA	K01181	E3.2.1.8; endo-1,4-beta-xylanase [EC:3.2.1.8]	494		
+tr|F8A1X0|F8A1X0_CELGA	K04487	iscS; cysteine desulfurase [EC:2.8.1.7]	456		
+tr|F8A342|F8A342_CELGA	K00886	ppgK; polyphosphate glucokinase [EC:2.7.1.63]	285		
+tr|F8A3F7|F8A3F7_CELGA			29	K02030	1
+tr|F8A344|F8A344_CELGA			62		
+tr|F8A6W7|F8A6W7_CELGA			200		
+tr|F8A5R9|F8A5R9_CELGA			232	K03086	15
+tr|F8A5D9|F8A5D9_CELGA			26	K01429	1
+tr|F8A016|F8A016_CELGA	K09793	uncharacterized protein	74		
+tr|F8A3W1|F8A3W1_CELGA			20	K00252	1
+tr|F7ZZZ7|F7ZZZ7_CELGA	K11189	PTS-HPR; phosphocarrier protein	107		
+tr|F8A001|F8A001_CELGA	K13788	pta; phosphate acetyltransferase [EC:2.3.1.8]	925		
+tr|F8A6F7|F8A6F7_CELGA			519		
+tr|F8A4K5|F8A4K5_CELGA			144		
+tr|F8A3Q9|F8A3Q9_CELGA			130		
+tr|F8A5R0|F8A5R0_CELGA	K06187	recR; recombination protein RecR	336		
+tr|F8A5I7|F8A5I7_CELGA			255	K06221	67
+tr|F8A6B5|F8A6B5_CELGA	K03811	pnuC; nicotinamide mononucleotide transporter	278		
+tr|F8A6I3|F8A6I3_CELGA			362		
+tr|F8A5E9|F8A5E9_CELGA			22	K07181	12
+tr|F8A2X8|F8A2X8_CELGA			382		
+tr|F7ZYW5|F7ZYW5_CELGA			119		
+tr|F8A1B3|F8A1B3_CELGA			105		
+tr|F8A3H4|F8A3H4_CELGA			54	K01434	2
+tr|F8A601|F8A601_CELGA	K06901	pbuG; putative MFS transporter, AGZA family, xanthine/uracil permease	569		
+tr|F8A2G2|F8A2G2_CELGA			20	K20276	5
+tr|F8A505|F8A505_CELGA			16	K02025	2
+tr|F8A310|F8A310_CELGA			149		
+Contaminant_TRYP_PIG			153	K01312	19
+Contaminant_Trypa1					
+Contaminant_Trypa2					
+Contaminant_Trypa3					
+Contaminant_Trypa4					
+Contaminant_Trypa5			17	K03701	1
+Contaminant_Trypa6					
+Contaminant_TRYP_BOVIN			153	K01312	19
+Contaminant_CTRA_BOVIN			135	K01312	16
+Contaminant_CTRB_BOVIN			131	K01312	15
+Contaminant_ALBU_HUMAN			20	K03685	1
+Contaminant_ALBU_BOVIN			16	K01494	2
+Contaminant_K2C1_HUMAN			38	K03546	5
+Contaminant_K22E_HUMAN			24	K03529	2
+Contaminant_K1C9_HUMAN			25	K03529	2
+Contaminant_K1C10_HUMAN			24	K03529	4

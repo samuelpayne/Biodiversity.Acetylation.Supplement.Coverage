@@ -1,0 +1,2737 @@
+tr|S6C8V6|S6C8V6_LACCA			117		
+tr|S6CK70|S6CK70_LACCA			304		
+tr|S6CC94|S6CC94_LACCA			507		
+tr|S6C0K6|S6C0K6_LACCA			310		
+tr|S6CJU7|S6CJU7_LACCA			311		
+tr|S6C328|S6C328_LACCA			147		
+tr|S6BNQ2|S6BNQ2_LACCA			509		
+tr|S6BYC7|S6BYC7_LACCA			310		
+tr|S6BYT0|S6BYT0_LACCA			389		
+tr|S6CB52|S6CB52_LACCA			177		
+tr|S6CJ48|S6CJ48_LACCA			246		
+tr|S6CKB0|S6CKB0_LACCA			256		
+tr|S6BVH7|S6BVH7_LACCA			374		
+tr|S6CJ94|S6CJ94_LACCA			161		
+tr|S6CIX9|S6CIX9_LACCA			14	K00855	9
+tr|S6BWB1|S6BWB1_LACCA			227		
+tr|S6BYE0|S6BYE0_LACCA			309		
+tr|S6BQU2|S6BQU2_LACCA			309		
+tr|S6CIW0|S6CIW0_LACCA			308		
+tr|Q8VRG2|Q8VRG2_LACCA			39	K07483	35
+tr|S6BVV1|S6BVV1_LACCA			18	K19221	7
+tr|S6C307|S6C307_LACCA			309		
+tr|S6CK23|S6CK23_LACCA			320		
+tr|S6CJQ3|S6CJQ3_LACCA			311		
+tr|S6BVH6|S6BVH6_LACCA			308		
+tr|S6BUN4|S6BUN4_LACCA			306		
+tr|S6BX48|S6BX48_LACCA			311		
+tr|S6BRR3|S6BRR3_LACCA	K00382	DLD; dihydrolipoamide dehydrogenase [EC:1.8.1.4]	627		
+tr|S6BTN8|S6BTN8_LACCA			138		
+tr|S6C525|S6C525_LACCA			474		
+tr|S6BSQ4|S6BSQ4_LACCA	K01512	acyP; acylphosphatase [EC:3.6.1.7]	66		
+tr|S6BUN9|S6BUN9_LACCA	K04047	dps; starvation-inducible DNA-binding protein	161		
+tr|S6BTG2|S6BTG2_LACCA	K01790	rfbC; dTDP-4-dehydrorhamnose 3,5-epimerase [EC:5.1.3.13]	245		
+tr|S6BRZ9|S6BRZ9_LACCA			217		
+tr|S6C8A4|S6C8A4_LACCA	K01491	folD; methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9]	298		
+tr|S6BSI2|S6BSI2_LACCA	K03631	recN; DNA repair protein RecN (Recombination protein N)	548		
+tr|S6C940|S6C940_LACCA	K08483	PTS-EI.PTSI; phosphotransferase system, enzyme I, PtsI [EC:2.7.3.9]	772		
+tr|S6C5A2|S6C5A2_LACCA			487	K17869	81
+tr|S6C9Q0|S6C9Q0_LACCA	K01424	E3.5.1.1; L-asparaginase [EC:3.5.1.1]	364		
+tr|S6BUI0|S6BUI0_LACCA			24	K02477	16
+tr|S6BS18|S6BS18_LACCA	K01591	pyrF; orotidine-5'-phosphate decarboxylase [EC:4.1.1.23]	225		
+tr|S6C636|S6C636_LACCA	K03671	trxA; thioredoxin 1	143		
+tr|S6BNS8|S6BNS8_LACCA	K01921	ddl; D-alanine-D-alanine ligase [EC:6.3.2.4]	251		
+tr|S6BRB0|S6BRB0_LACCA	K01810	GPI; glucose-6-phosphate isomerase [EC:5.3.1.9]	579		
+tr|S6CC89|S6CC89_LACCA			207		
+tr|S6C897|S6C897_LACCA	K03322	mntH; manganese transport protein	344		
+tr|S6CAW2|S6CAW2_LACCA			278	K19168	62
+tr|S6CAZ1|S6CAZ1_LACCA			485		
+tr|S6CA84|S6CA84_LACCA			28	K19156	5
+tr|S6CJ90|S6CJ90_LACCA	K03215	rumA; 23S rRNA (uracil1939-C5)-methyltransferase [EC:2.1.1.190]	480		
+tr|S6C9I9|S6C9I9_LACCA	K00384	trxB; thioredoxin reductase (NADPH) [EC:1.8.1.9]	313		
+tr|S6CJT4|S6CJT4_LACCA			71		
+tr|S6C9I2|S6C9I2_LACCA	K03693	pbp; penicillin-binding protein	535		
+tr|S6BZV4|S6BZV4_LACCA	K09710	ybeB; ribosome-associated protein	133		
+tr|S6CJ81|S6CJ81_LACCA	K03431	glmM; phosphoglucosamine mutase [EC:5.4.2.10]	619		
+tr|S6C9S6|S6C9S6_LACCA	K00057	gpsA; glycerol-3-phosphate dehydrogenase (NAD(P)+) [EC:1.1.1.94]	394		
+tr|S6CKA1|S6CKA1_LACCA	K03650	mnmE; tRNA modification GTPase [EC:3.6.-.-]	599		
+tr|S6BTE7|S6BTE7_LACCA	K00703	E2.4.1.21; starch synthase [EC:2.4.1.21]	491		
+tr|S6CAG0|S6CAG0_LACCA	K02519	infB; translation initiation factor IF-2	844		
+tr|S6CJK0|S6CJK0_LACCA	K03500	rsmB; 16S rRNA (cytosine967-C5)-methyltransferase [EC:2.1.1.176]	410		
+tr|S6C4R5|S6C4R5_LACCA	K02313	dnaA; chromosomal replication initiator protein	505		
+tr|S6CCB8|S6CCB8_LACCA			178		
+tr|S6BXH7|S6BXH7_LACCA	K01589	purK; 5-(carboxyamino)imidazole ribonucleotide synthase [EC:6.3.4.18]	199		
+tr|S6BY36|S6BY36_LACCA	K03581	recD; exodeoxyribonuclease V alpha subunit [EC:3.1.11.5]	696		
+tr|S6CJE2|S6CJE2_LACCA	K03978	engB; GTP-binding protein	216		
+tr|S6BVX7|S6BVX7_LACCA	K00868	pdxK; pyridoxine kinase [EC:2.7.1.35]	146		
+tr|S6C7W9|S6C7W9_LACCA	K17828	pyrDI; dihydroorotate dehydrogenase (NAD+) catalytic subunit [EC:1.3.1.14]	313		
+tr|S6C2U3|S6C2U3_LACCA			211		
+tr|S6BX20|S6BX20_LACCA	K03553	recA; recombination protein RecA	413		
+tr|S6CC91|S6CC91_LACCA			13	K02768/K02769/K02770	5
+tr|S6BPF8|S6BPF8_LACCA	K00014	aroE; shikimate dehydrogenase [EC:1.1.1.25]	283		
+tr|S6BZX2|S6BZX2_LACCA	K04069	pflA; pyruvate formate lyase activating enzyme [EC:1.97.1.4]	146	K20037	29
+tr|S6CKA8|S6CKA8_LACCA			187		
+tr|S6C949|S6C949_LACCA			104	K02483	31
+tr|S6CIT8|S6CIT8_LACCA	K03336	iolD; 3D-(3,5/4)-trihydroxycyclohexane-1,2-dione acylhydrolase (decyclizing) [EC:3.7.1.22]	104		
+tr|S6C248|S6C248_LACCA	K01874	MARS; methionyl-tRNA synthetase [EC:6.1.1.10]	883		
+tr|S6CJP7|S6CJP7_LACCA	K01644	citE; citrate lyase subunit beta / citryl-CoA lyase [EC:4.1.3.34]	371		
+tr|S6C0Q1|S6C0Q1_LACCA	K00574	cfa; cyclopropane-fatty-acyl-phospholipid synthase [EC:2.1.1.79]	458		
+tr|S6CJM3|S6CJM3_LACCA	K12555	pbp2A; penicillin-binding protein 2A [EC:2.4.1.129 2.3.2.-]	638		
+tr|S6CAZ9|S6CAZ9_LACCA			18	K02038	1
+tr|S6CK07|S6CK07_LACCA	K16786	ecfA1; energy-coupling factor transport system ATP-binding protein [EC:3.6.3.-]	332		
+tr|S6C8M7|S6C8M7_LACCA			271	K05910	70
+tr|S6C8K8|S6C8K8_LACCA	K02806	PTS-Ntr-EIIA; PTS system, nitrogen regulatory IIA component [EC:2.7.1.-]	48	K02768/K02769/K02770	13
+tr|S6CJN0|S6CJN0_LACCA	K11189	PTS-HPR; phosphocarrier protein	133		
+tr|S6CK21|S6CK21_LACCA	K05592	deaD; ATP-dependent RNA helicase DeaD [EC:3.6.4.13]	610		
+tr|S6C9N1|S6C9N1_LACCA	K09825	perR; Fur family transcriptional regulator, peroxide stress response regulator	158		
+tr|S6CC28|S6CC28_LACCA	K02355	fusA; elongation factor G	1076		
+tr|S6C2H9|S6C2H9_LACCA	K03777	dld; D-lactate dehydrogenase [EC:1.1.1.28]	812		
+tr|S6CA71|S6CA71_LACCA			264		
+tr|S6C1X6|S6C1X6_LACCA	K03696	clpC; ATP-dependent Clp protease ATP-binding subunit ClpC	1053		
+tr|S6C9S9|S6C9S9_LACCA			137		
+tr|S6C6V4|S6C6V4_LACCA	K07029	dagK; diacylglycerol kinase (ATP) [EC:2.7.1.107]	395		
+tr|S6C7G4|S6C7G4_LACCA	K03151	thiI; thiamine biosynthesis protein ThiI	467		
+tr|S6BSY0|S6BSY0_LACCA	K11175	purN; phosphoribosylglycinamide formyltransferase 1 [EC:2.1.2.2]	186		
+tr|S6C964|S6C964_LACCA			398	K02003/K02004	111
+tr|S6BNU5|S6BNU5_LACCA			158		
+tr|S6BT01|S6BT01_LACCA			449	K00557	49
+tr|S6C7V1|S6C7V1_LACCA			236		
+tr|S6CJA3|S6CJA3_LACCA			127	K01487	31
+tr|S6CJF1|S6CJF1_LACCA	K00560	thyA; thymidylate synthase [EC:2.1.1.45]	476		
+tr|S6CAE5|S6CAE5_LACCA			38	K16869	38
+tr|S6C869|S6C869_LACCA	K03177	truB; tRNA pseudouridine55 synthase [EC:5.4.99.25]	279		
+tr|S6BSF6|S6BSF6_LACCA	K03685	rnc; ribonuclease III [EC:3.1.26.3]	233		
+tr|S6CJA2|S6CJA2_LACCA			80		
+tr|S6C916|S6C916_LACCA			129		
+tr|S6CJG3|S6CJG3_LACCA	K01955	carB; carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]	1423		
+tr|S6CJF6|S6CJF6_LACCA	K04069	pflA; pyruvate formate lyase activating enzyme [EC:1.97.1.4]	331		
+tr|S6C8L5|S6C8L5_LACCA	K02768	PTS-Fru-EIIA; PTS system, fructose-specific IIA component [EC:2.7.1.202]	549		
+	K02769	PTS-Fru-EIIB; PTS system, fructose-specific IIB component [EC:2.7.1.202]			
+	K02770	PTS-Fru-EIIC; PTS system, fructose-specific IIC component			
+tr|S6BVA7|S6BVA7_LACCA	K03553	recA; recombination protein RecA	425		
+tr|S6C6J3|S6C6J3_LACCA	K00364	E1.7.1.7; GMP reductase [EC:1.7.1.7]	499		
+tr|S6C6L5|S6C6L5_LACCA	K07658	phoB1; two-component system, OmpR family, alkaline phosphatase synthesis response regulator PhoP	259		
+tr|S6CAL1|S6CAL1_LACCA			73		
+tr|S6BY25|S6BY25_LACCA	K03704	cspA; cold shock protein (beta-ribbon, CspA family)	88		
+tr|S6C9Y6|S6C9Y6_LACCA	K02437	gcvH; glycine cleavage system H protein	72		
+tr|S6BZW8|S6BZW8_LACCA	K06966	uncharacterized protein	182		
+tr|S6BY80|S6BY80_LACCA	K02768	PTS-Fru-EIIA; PTS system, fructose-specific IIA component [EC:2.7.1.202]	663		
+	K02769	PTS-Fru-EIIB; PTS system, fructose-specific IIB component [EC:2.7.1.202]			
+	K02770	PTS-Fru-EIIC; PTS system, fructose-specific IIC component			
+tr|S6BYR5|S6BYR5_LACCA	K01892	HARS; histidyl-tRNA synthetase [EC:6.1.1.21]	500		
+tr|S6CJE3|S6CJE3_LACCA	K03703	uvrC; excinuclease ABC subunit C	717		
+tr|S6C646|S6C646_LACCA	K03524	birA; BirA family transcriptional regulator, biotin operon repressor / biotin-[acetyl-CoA-carboxylase] ligase [EC:6.3.4.15]	106		
+tr|S6C6X8|S6C6X8_LACCA	K02755	PTS-Bgl-EIIA; PTS system, beta-glucoside-specific IIA component [EC:2.7.1.-]	476		
+	K02756	PTS-Bgl-EIIB; PTS system, beta-glucoside-specific IIB component [EC:2.7.1.-]			
+	K02757	PTS-Bgl-EIIC; PTS system, beta-glucoside-specific IIC component			
+tr|S6CJG6|S6CJG6_LACCA	K06191	nrdH; glutaredoxin-like protein NrdH	74		
+tr|S6BV22|S6BV22_LACCA	K00997	acpS; holo-[acyl-carrier protein] synthase [EC:2.7.8.7]	115		
+tr|S6CIV2|S6CIV2_LACCA			22	K03491	5
+tr|S6CK52|S6CK52_LACCA	K02444	glpR; DeoR family transcriptional regulator, glycerol-3-phosphate regulon repressor	63		
+tr|S6BZX6|S6BZX6_LACCA			231		
+tr|S6CK65|S6CK65_LACCA	K07652	vicK; two-component system, OmpR family, sensor histidine kinase VicK [EC:2.7.13.3]	643		
+tr|S6BS42|S6BS42_LACCA	K01493	comEB; dCMP deaminase [EC:3.5.4.12]	173		
+tr|S6BUI8|S6BUI8_LACCA	K01679	E4.2.1.2B; fumarate hydratase, class II [EC:4.2.1.2]	500		
+tr|S6C908|S6C908_LACCA	K07738	nrdR; transcriptional repressor NrdR	236		
+tr|S6BRP8|S6BRP8_LACCA			432		
+tr|S6C933|S6C933_LACCA	K01933	purM; phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.3.1]	321		
+tr|S6CK95|S6CK95_LACCA	K02773	PTS-Gat-EIIA; PTS system, galactitol-specific IIA component [EC:2.7.1.200]	107		
+tr|S6CJF4|S6CJF4_LACCA	K03168	topA; DNA topoisomerase I [EC:5.99.1.2]	995		
+tr|S6BQ67|S6BQ67_LACCA	K07447	ruvX; putative holliday junction resolvase [EC:3.1.-.-]	203		
+tr|S6CK66|S6CK66_LACCA	K01755	argH; argininosuccinate lyase [EC:4.3.2.1]	577		
+tr|S6CAV2|S6CAV2_LACCA	K13993	HSP20; HSP20 family protein	56		
+tr|S6CJU6|S6CJU6_LACCA	K02755	PTS-Bgl-EIIA; PTS system, beta-glucoside-specific IIA component [EC:2.7.1.-]	540		
+	K02756	PTS-Bgl-EIIB; PTS system, beta-glucoside-specific IIB component [EC:2.7.1.-]			
+	K02757	PTS-Bgl-EIIC; PTS system, beta-glucoside-specific IIC component			
+tr|S6CB37|S6CB37_LACCA	K03800	lplA; lipoate---protein ligase [EC:6.3.1.20]	186		
+tr|S6C0M6|S6C0M6_LACCA			359		
+tr|S6CJS9|S6CJS9_LACCA			334		
+tr|S6CJL1|S6CJL1_LACCA			484		
+tr|S6CBS7|S6CBS7_LACCA	K00147	proA; glutamate-5-semialdehyde dehydrogenase [EC:1.2.1.41]	475		
+tr|S6CA08|S6CA08_LACCA	K11145	ribonuclease III family protein [EC:3.1.26.-]	149		
+tr|S6CBH1|S6CBH1_LACCA			537		
+tr|S6BTM8|S6BTM8_LACCA			178		
+tr|S6BTL9|S6BTL9_LACCA	K01963	accD; acetyl-CoA carboxylase carboxyl transferase subunit beta [EC:6.4.1.2]	301		
+tr|S6C8J4|S6C8J4_LACCA	K03671	trxA; thioredoxin 1	81		
+tr|S6CAG4|S6CAG4_LACCA	K03763	DPO3A2; DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]	1714		
+tr|S6C0F3|S6C0F3_LACCA			229		
+tr|S6BV68|S6BV68_LACCA	K00215	dapB; 4-hydroxy-tetrahydrodipicolinate reductase [EC:1.17.1.8]	228		
+tr|S6CA85|S6CA85_LACCA	K00762	pyrE; orotate phosphoribosyltransferase [EC:2.4.2.10]	240		
+tr|S6CJJ1|S6CJJ1_LACCA	K00981	E2.7.7.41; phosphatidate cytidylyltransferase [EC:2.7.7.41]	255		
+tr|S6BUG7|S6BUG7_LACCA	K00931	proB; glutamate 5-kinase [EC:2.7.2.11]	277		
+tr|S6BQ70|S6BQ70_LACCA	K07456	mutS2; DNA mismatch repair protein MutS2	795		
+tr|S6C8A0|S6C8A0_LACCA	K03402	argR; transcriptional regulator of arginine metabolism	122		
+tr|S6BWK2|S6BWK2_LACCA			14	K09888	3
+tr|S6CA07|S6CA07_LACCA	K07778	desK; two-component system, NarL family, sensor histidine kinase DesK [EC:2.7.13.3]	127		
+tr|S6CJE0|S6CJE0_LACCA	K02358	tuf; elongation factor Tu	670		
+tr|S6C833|S6C833_LACCA	K01489	cdd; cytidine deaminase [EC:3.5.4.5]	134		
+tr|S6C804|S6C804_LACCA	K01879	glyS; glycyl-tRNA synthetase beta chain [EC:6.1.1.14]	662		
+tr|S6CAN3|S6CAN3_LACCA			15	K02773	6
+tr|S6BPY8|S6BPY8_LACCA	K14982	ciaH; two-component system, OmpR family, sensor histidine kinase CiaH [EC:2.7.13.3]	213		
+tr|S6CA88|S6CA88_LACCA	K16787	ecfA2; energy-coupling factor transport system ATP-binding protein [EC:3.6.3.-]	345		
+tr|S6CCG2|S6CCG2_LACCA	K02525	kdgR; LacI family transcriptional regulator, kdg operon repressor	94		
+tr|S6C8G8|S6C8G8_LACCA	K11618	liaR; two-component system, NarL family, response regulator LiaR	264	K07694	29
+tr|S6C8I0|S6C8I0_LACCA	K00010	iolG; myo-inositol 2-dehydrogenase / D-chiro-inositol 1-dehydrogenase [EC:1.1.1.18 1.1.1.369]	336		
+tr|S6BZT9|S6BZT9_LACCA	K01890	FARSB; phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]	758		
+tr|S6C243|S6C243_LACCA			41	K07705	18
+tr|S6CB38|S6CB38_LACCA			313		
+tr|S6CJB7|S6CJB7_LACCA			213		
+tr|S6CC74|S6CC74_LACCA			176		
+tr|S6C924|S6C924_LACCA	K02530	lacR; DeoR family transcriptional regulator, lactose phosphotransferase system repressor	217		
+tr|S6C559|S6C559_LACCA	K03336	iolD; 3D-(3,5/4)-trihydroxycyclohexane-1,2-dione acylhydrolase (decyclizing) [EC:3.7.1.22]	667		
+tr|S6BPF1|S6BPF1_LACCA			331		
+tr|S6CJC7|S6CJC7_LACCA	K03925	mraZ; MraZ protein	200		
+tr|S6BQ62|S6BQ62_LACCA	K18692	cshB; ATP-dependent RNA helicase CshB [EC:3.6.4.13]	489		
+tr|S6C4Y3|S6C4Y3_LACCA			23	K03574	20
+tr|S6BVE1|S6BVE1_LACCA			458		
+tr|S6C8Z9|S6C8Z9_LACCA	K03491	licR; lichenan operon transcriptional antiterminator	386		
+tr|S6C9R5|S6C9R5_LACCA	K03216	trmL; tRNA (cytidine/uridine-2'-O-)-methyltransferase [EC:2.1.1.207]	231		
+tr|S6CAV6|S6CAV6_LACCA	K01940	argG; argininosuccinate synthase [EC:6.3.4.5]	522		
+tr|S6BVF0|S6BVF0_LACCA			409		
+tr|S6CC77|S6CC77_LACCA					
+tr|S6BT34|S6BT34_LACCA	K03305	TC.POT; proton-dependent oligopeptide transporter, POT family	568		
+tr|S6BV01|S6BV01_LACCA	K04567	KARS; lysyl-tRNA synthetase, class II [EC:6.1.1.6]	695		
+tr|S6CJH3|S6CJH3_LACCA	K01878	glyQ; glycyl-tRNA synthetase alpha chain [EC:6.1.1.14]	490		
+tr|S6CJT7|S6CJT7_LACCA			174		
+tr|S6BVJ0|S6BVJ0_LACCA			63	K03483	37
+tr|S6CA33|S6CA33_LACCA	K06207	typA; GTP-binding protein	896		
+tr|S6C887|S6C887_LACCA	K20074	prpC; PPM family protein phosphatase [EC:3.1.3.16]	238		
+tr|S6CBM7|S6CBM7_LACCA	K06187	recR; recombination protein RecR	303		
+tr|S6BWH5|S6BWH5_LACCA			60		
+tr|S6CAC1|S6CAC1_LACCA			298		
+tr|S6BRK0|S6BRK0_LACCA			247		
+tr|S6CJ64|S6CJ64_LACCA	K07636	phoR; two-component system, OmpR family, phosphate regulon sensor histidine kinase PhoR [EC:2.7.13.3]	254		
+tr|S6BRW9|S6BRW9_LACCA	K03977	engA; GTPase	649		
+tr|S6BTK6|S6BTK6_LACCA			625		
+tr|S6C7Z0|S6C7Z0_LACCA	K03722	dinG; ATP-dependent DNA helicase DinG [EC:3.6.4.12]	459		
+tr|S6CCI1|S6CCI1_LACCA			437		
+tr|S6BS34|S6BS34_LACCA			236		
+tr|S6CJW1|S6CJW1_LACCA			294		
+tr|S6CJH1|S6CJH1_LACCA			414		
+tr|S6C2F4|S6C2F4_LACCA			13	K02773	12
+tr|S6C8H3|S6C8H3_LACCA	K06608	iolR; DeoR family transcriptional regulator, myo-inositol catabolism operon repressor	211		
+tr|S6BQM0|S6BQM0_LACCA			519		
+tr|S6BV53|S6BV53_LACCA			9	K02773	8
+tr|S6C754|S6C754_LACCA	K02110	ATPF0C; F-type H+-transporting ATPase subunit c	82		
+tr|S6C7Q0|S6C7Q0_LACCA	K03695	clpB; ATP-dependent Clp protease ATP-binding subunit ClpB	1107		
+tr|S6BR54|S6BR54_LACCA	K02434	gatB; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]	659		
+tr|S6BRU4|S6BRU4_LACCA	K03436	fruR2; DeoR family transcriptional regulator, fructose operon transcriptional repressor	213		
+tr|S6CCP5|S6CCP5_LACCA			201		
+tr|S6CC50|S6CC50_LACCA	K01775	alr; alanine racemase [EC:5.1.1.1]	355		
+tr|S6CJG0|S6CJG0_LACCA	K02501	hisH; glutamine amidotransferase [EC:2.4.2.-]	198		
+tr|S6CJB9|S6CJB9_LACCA	K07693	desR; two-component system, NarL family, response regulator DesR	219		
+tr|S6C588|S6C588_LACCA			201		
+tr|S6BRQ6|S6BRQ6_LACCA			287		
+tr|S6CB82|S6CB82_LACCA	K02778	PTS-Glc-EIIB; PTS system, glucose-specific IIB component [EC:2.7.1.199]	472	K02777/K02778/K02779	132
+	K02779	PTS-Glc-EIIC; PTS system, glucose-specific IIC component			
+tr|S6CA65|S6CA65_LACCA	K14540	rbgA; ribosome biogenesis GTPase A	294		
+tr|S6CIT5|S6CIT5_LACCA			371		
+tr|S6CA96|S6CA96_LACCA	K05366	mrcA; penicillin-binding protein 1A [EC:2.4.1.- 3.4.-.-]	585		
+tr|S6C9W1|S6C9W1_LACCA			305	K02483	36
+tr|S6BVG3|S6BVG3_LACCA	K00020	mmsB; 3-hydroxyisobutyrate dehydrogenase [EC:1.1.1.31]	250		
+tr|S6BYT9|S6BYT9_LACCA	K03596	lepA; GTP-binding protein LepA	914		
+tr|S6CJA0|S6CJA0_LACCA	K16169	pbuX; xanthine permease	533		
+tr|S6BVR5|S6BVR5_LACCA	K00014	aroE; shikimate dehydrogenase [EC:1.1.1.25]	288		
+tr|S6BQT0|S6BQT0_LACCA	K00384	trxB; thioredoxin reductase (NADPH) [EC:1.8.1.9]	422		
+tr|S6C278|S6C278_LACCA			14	K02768	2
+tr|S6BPV4|S6BPV4_LACCA	K13993	HSP20; HSP20 family protein	65		
+tr|S6CJE8|S6CJE8_LACCA			171		
+tr|S6CA87|S6CA87_LACCA	K01465	URA4; dihydroorotase [EC:3.5.2.3]	428		
+tr|S6CIT7|S6CIT7_LACCA	K03337	iolB; 5-deoxy-glucuronate isomerase [EC:5.3.1.30]	306		
+tr|S6BSW2|S6BSW2_LACCA	K03402	argR; transcriptional regulator of arginine metabolism	117		
+tr|S6CB18|S6CB18_LACCA	K03322	mntH; manganese transport protein	309		
+tr|S6BQW1|S6BQW1_LACCA	K03075	secG; preprotein translocase subunit SecG	66		
+tr|S6BW73|S6BW73_LACCA			29	K00020	9
+tr|S6CJT5|S6CJT5_LACCA			460		
+tr|S6BTX3|S6BTX3_LACCA			448		
+tr|S6CC55|S6CC55_LACCA	K01929	murF; UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase [EC:6.3.2.10]	408		
+tr|S6BV78|S6BV78_LACCA	K00383	GSR; glutathione reductase (NADPH) [EC:1.8.1.7]	250		
+tr|S6CJG7|S6CJG7_LACCA	K03800	lplA; lipoate---protein ligase [EC:6.3.1.20]	340		
+tr|S6CB94|S6CB94_LACCA					
+tr|S6BR38|S6BR38_LACCA			479		
+tr|S6C2Q0|S6C2Q0_LACCA	K07668	vicR; two-component system, OmpR family, response regulator VicR	369		
+tr|S6BW86|S6BW86_LACCA	K03483	mtlR; mannitol operon transcriptional antiterminator	240		
+tr|S6CA31|S6CA31_LACCA	K00627	DLAT; pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12]	519		
+tr|S6CIV7|S6CIV7_LACCA			302		
+tr|S6CCA8|S6CCA8_LACCA					
+tr|S6CIR6|S6CIR6_LACCA	K02809	PTS-Scr-EIIB; PTS system, sucrose-specific IIB component [EC:2.7.1.-]	178	K11191/K11192	61
+	K02810	PTS-Scr-EIIC; PTS system, sucrose-specific IIC component			
+tr|S6BS07|S6BS07_LACCA	K02500	hisF; cyclase [EC:4.1.3.-]	284		
+tr|S6BW47|S6BW47_LACCA	K00941	thiD; hydroxymethylpyrimidine/phosphomethylpyrimidine kinase [EC:2.7.1.49 2.7.4.7]	276		
+tr|S6C014|S6C014_LACCA			294	K02483	37
+tr|S6C8L8|S6C8L8_LACCA			38	K02821	19
+tr|S6BVH9|S6BVH9_LACCA	K01839	deoB; phosphopentomutase [EC:5.4.2.7]	474		
+tr|S6BTN5|S6BTN5_LACCA			111		
+tr|S6C547|S6C547_LACCA	K01928	murE; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase [EC:6.3.2.13]	208	K05362	43
+tr|S6CAW0|S6CAW0_LACCA	K00226	pyrD; dihydroorotate dehydrogenase (fumarate) [EC:1.3.98.1]	371		
+tr|S6CJ66|S6CJ66_LACCA	K06023	hprK; HPr kinase/phosphorylase [EC:2.7.11.- 2.7.4.-]	383		
+tr|S6BZZ2|S6BZZ2_LACCA	K01924	murC; UDP-N-acetylmuramate--alanine ligase [EC:6.3.2.8]	529		
+tr|S6BSC9|S6BSC9_LACCA	K01881	PARS; prolyl-tRNA synthetase [EC:6.1.1.15]	689		
+tr|S6BZV0|S6BZV0_LACCA			362		
+tr|S6BWL8|S6BWL8_LACCA	K02529	lacI; LacI family transcriptional regulator	445		
+tr|S6CIU5|S6CIU5_LACCA	K01999	livK; branched-chain amino acid transport system substrate-binding protein	196		
+tr|S6BX81|S6BX81_LACCA	K11072	potA; spermidine/putrescine transport system ATP-binding protein [EC:3.6.3.31]	513		
+tr|S6C0C8|S6C0C8_LACCA			396		
+tr|S6C943|S6C943_LACCA	K02837	prfC; peptide chain release factor 3	766		
+tr|S6BUF2|S6BUF2_LACCA	K06975	uncharacterized protein	77		
+tr|S6BYV9|S6BYV9_LACCA	K00806	uppS; undecaprenyl diphosphate synthase [EC:2.5.1.31]	308		
+tr|S6CJL7|S6CJL7_LACCA	K01868	TARS; threonyl-tRNA synthetase [EC:6.1.1.3]	836		
+tr|S6BYH4|S6BYH4_LACCA	K01956	carA; carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]	504		
+tr|S6CAI2|S6CAI2_LACCA	K03529	smc; chromosome segregation protein	769		
+tr|S6BXC4|S6BXC4_LACCA	K02435	gatC; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C [EC:6.3.5.6 6.3.5.7]	69		
+tr|S6C0V6|S6C0V6_LACCA	K18926	lmrB; MFS transporter, DHA2 family, lincomycin resistance protein	330		
+tr|S6CJD7|S6CJD7_LACCA	K01958	PC; pyruvate carboxylase [EC:6.4.1.1]	1288		
+tr|S6C0D7|S6C0D7_LACCA	K01951	guaA; GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]	766		
+tr|S6CJW0|S6CJW0_LACCA	K11991	tadA; tRNA(adenine34) deaminase [EC:3.5.4.33]	176		
+tr|S6CAJ4|S6CAJ4_LACCA	K06949	rsgA; ribosome biogenesis GTPase [EC:3.6.1.-]	271		
+tr|S6C913|S6C913_LACCA	K02529	lacI; LacI family transcriptional regulator	234		
+tr|S6CJK8|S6CJK8_LACCA	K11617	liaS; two-component system, NarL family, sensor histidine kinase LiaS [EC:2.7.13.3]	257		
+tr|S6BTZ8|S6BTZ8_LACCA			155		
+tr|S6CJU5|S6CJU5_LACCA	K00383	GSR; glutathione reductase (NADPH) [EC:1.8.1.7]	350		
+tr|S6CJN1|S6CJN1_LACCA	K03699	tlyC; putative hemolysin	390		
+tr|S6CCQ5|S6CCQ5_LACCA	K02798	PTS-Mtl-EIIA; PTS system, mannitol-specific IIA component [EC:2.7.1.197]	160		
+tr|S6C9E4|S6C9E4_LACCA			290		
+tr|S6CAJ0|S6CAJ0_LACCA			51		
+tr|S6C5Q6|S6C5Q6_LACCA	K02755	PTS-Bgl-EIIA; PTS system, beta-glucoside-specific IIA component [EC:2.7.1.-]	291	K02756/K02757	42
+	K02756	PTS-Bgl-EIIB; PTS system, beta-glucoside-specific IIB component [EC:2.7.1.-]			
+	K02757	PTS-Bgl-EIIC; PTS system, beta-glucoside-specific IIC component			
+tr|S6CIX2|S6CIX2_LACCA	K01738	cysK; cysteine synthase A [EC:2.5.1.47]	384		
+tr|S6CJ54|S6CJ54_LACCA			549		
+tr|S6BRU9|S6BRU9_LACCA			53	K03832	2
+tr|S6C7D7|S6C7D7_LACCA			175		
+tr|S6CB27|S6CB27_LACCA	K03495	gidA; tRNA uridine 5-carboxymethylaminomethyl modification enzyme	862		
+tr|S6CK44|S6CK44_LACCA			412		
+tr|S6C9Q5|S6C9Q5_LACCA	K00789	metK; S-adenosylmethionine synthetase [EC:2.5.1.6]	563		
+tr|S6C5I8|S6C5I8_LACCA	K00158	E1.2.3.3; pyruvate oxidase [EC:1.2.3.3]	445		
+tr|S6BRR0|S6BRR0_LACCA	K01462	PDF; peptide deformylase [EC:3.5.1.88]	214		
+tr|S6C6H9|S6C6H9_LACCA			379		
+tr|S6C5L2|S6C5L2_LACCA			12	K01992	1
+tr|S6C978|S6C978_LACCA			151		
+tr|S6BS23|S6BS23_LACCA	K00609	pyrB; aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2]	323		
+tr|S6BRN3|S6BRN3_LACCA	K06131	clsA_B; cardiolipin synthase A/B [EC:2.7.8.-]	363		
+tr|S6BUF6|S6BUF6_LACCA	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	80		
+tr|S6BTX0|S6BTX0_LACCA			252	K06221	90
+tr|S6C937|S6C937_LACCA	K01923	purC; phosphoribosylaminoimidazole-succinocarboxamide synthase [EC:6.3.2.6]	232		
+tr|S6C6X4|S6C6X4_LACCA			20	K00712	17
+tr|S6BST0|S6BST0_LACCA			64	K00772	2
+tr|S6C959|S6C959_LACCA			244		
+tr|S6C581|S6C581_LACCA	K02075	ABC.ZM.P; zinc/manganese transport system permease protein	220		
+tr|S6C9G4|S6C9G4_LACCA			118		
+tr|S6BT65|S6BT65_LACCA	K01572	oadB; oxaloacetate decarboxylase, beta subunit [EC:4.1.1.3]	463		
+tr|S6C684|S6C684_LACCA			11	K01595	2
+tr|S6CAA8|S6CAA8_LACCA	K03386	PRDX2_4; peroxiredoxin (alkyl hydroperoxide reductase subunit C) [EC:1.11.1.15]	243		
+tr|S6BSB2|S6BSB2_LACCA			20	K03696	2
+tr|S6CCI8|S6CCI8_LACCA	K17076	lysY; putative lysine transport system ATP-binding protein [EC:3.6.3.-]	309		
+tr|S6C995|S6C995_LACCA			342		
+tr|S6BSL1|S6BSL1_LACCA	K00845	glk; glucokinase [EC:2.7.1.2]	415		
+tr|S6BNL8|S6BNL8_LACCA			277	K07222	26
+tr|S6CA73|S6CA73_LACCA			16	K01356	3
+tr|S6BUC6|S6BUC6_LACCA	K02913	RP-L33; large subunit ribosomal protein L33	54		
+tr|S6CAL4|S6CAL4_LACCA	K02431	fucU; L-fucose mutarotase [EC:5.1.3.29]	143		
+tr|S6BNY5|S6BNY5_LACCA	K00088	guaB; IMP dehydrogenase [EC:1.1.1.205]	738		
+tr|S6BUA3|S6BUA3_LACCA	K14205	mprF; phosphatidylglycerol lysyltransferase [EC:2.3.2.3]	674		
+tr|S6BVF4|S6BVF4_LACCA	K01223	E3.2.1.86B; 6-phospho-beta-glucosidase [EC:3.2.1.86]	381	K05350	103
+tr|S6C614|S6C614_LACCA	K07088	uncharacterized protein	296		
+tr|S6BP66|S6BP66_LACCA	K12111	ebgA; evolved beta-galactosidase subunit alpha [EC:3.2.1.23]	218	K01190	24
+tr|S6BRS5|S6BRS5_LACCA	K02238	comEC; competence protein ComEC	77		
+tr|S6BTH5|S6BTH5_LACCA			15	K08300	4
+tr|S6C6K2|S6C6K2_LACCA	K00995	pgsA; CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase [EC:2.7.8.5]	219		
+tr|S6CK77|S6CK77_LACCA			17	K00161	2
+tr|S6CCM1|S6CCM1_LACCA			19	K02521	2
+tr|S6BQ58|S6BQ58_LACCA	K03709	troR; DtxR family transcriptional regulator, Mn-dependent transcriptional regulator	180		
+tr|S6CK98|S6CK98_LACCA			216		
+tr|S6C6L0|S6C6L0_LACCA	K03070	secA; preprotein translocase subunit SecA	1116		
+tr|S6BSC1|S6BSC1_LACCA	K11753	ribF; riboflavin kinase / FMN adenylyltransferase [EC:2.7.1.26 2.7.7.2]	316		
+tr|S6BNV5|S6BNV5_LACCA	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	131		
+tr|S6BTE2|S6BTE2_LACCA			65	K03892	3
+tr|S6C6S4|S6C6S4_LACCA			922		
+tr|S6C4Z8|S6C4Z8_LACCA	K01939	purA; adenylosuccinate synthase [EC:6.3.4.4]	638		
+tr|S6BQW6|S6BQW6_LACCA			521	K01234	75
+tr|S6CAN7|S6CAN7_LACCA			213		
+tr|S6BT44|S6BT44_LACCA			38	K03593	2
+tr|S6BS10|S6BS10_LACCA	K00765	hisG; ATP phosphoribosyltransferase [EC:2.4.2.17]	157	K00765/K02502	38
+tr|S6CCU1|S6CCU1_LACCA	K19157	yafQ; mRNA interferase YafQ [EC:3.1.-.-]	60		
+tr|S6BQR1|S6BQR1_LACCA			16	K00148	1
+tr|S6C9G7|S6C9G7_LACCA	K02000	proV; glycine betaine/proline transport system ATP-binding protein [EC:3.6.3.32]	463		
+tr|S6BRS9|S6BRS9_LACCA	K12574	rnj; ribonuclease J [EC:3.1.-.-]	647		
+tr|S6C7A7|S6C7A7_LACCA	K08998	uncharacterized protein	114		
+tr|S6C987|S6C987_LACCA	K08659	pepDA; dipeptidase [EC:3.4.-.-]	540		
+tr|S6BT70|S6BT70_LACCA	K07559	kptA; putative RNA 2'-phosphotransferase [EC:2.7.1.-]	132		
+tr|S6C4Y9|S6C4Y9_LACCA			37	K01874	1
+tr|S6BPU5|S6BPU5_LACCA			132		
+tr|S6BV65|S6BV65_LACCA			16	K05568	1
+tr|S6BQS5|S6BQS5_LACCA			15	K02033	2
+tr|S6BRK7|S6BRK7_LACCA	K01992	ABC-2.P; ABC-2 type transport system permease protein	103		
+tr|S6BQ23|S6BQ23_LACCA	K01934	MTHFS; 5-formyltetrahydrofolate cyclo-ligase [EC:6.3.3.2]	91		
+tr|S6C6S1|S6C6S1_LACCA	K11069	potD; spermidine/putrescine transport system substrate-binding protein	131		
+tr|S6BR50|S6BR50_LACCA	K03657	uvrD; DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]	875		
+tr|S6BS86|S6BS86_LACCA	K09117	uncharacterized protein	157		
+tr|S6BR27|S6BR27_LACCA			281		
+tr|S6BPZ6|S6BPZ6_LACCA			222		
+tr|S6BTU6|S6BTU6_LACCA	K01537	E3.6.3.8; Ca2+-transporting ATPase [EC:3.6.3.8]	622		
+tr|S6BTT2|S6BTT2_LACCA	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	230		
+tr|S6C991|S6C991_LACCA	K15634	gpmB; probable phosphoglycerate mutase [EC:5.4.2.12]	191		
+tr|S6C7Q3|S6C7Q3_LACCA			18	K07793	1
+tr|S6C5M9|S6C5M9_LACCA			17	K01596	3
+tr|S6BSD4|S6BSD4_LACCA	K09903	pyrH; uridylate kinase [EC:2.7.4.22]	369		
+tr|S6BQE9|S6BQE9_LACCA			383		
+tr|S6C9D4|S6C9D4_LACCA			574		
+tr|S6C7C6|S6C7C6_LACCA			153		
+tr|S6C953|S6C953_LACCA			128		
+tr|S6BS55|S6BS55_LACCA	K02316	dnaG; DNA primase [EC:2.7.7.-]	414		
+tr|S6C9B3|S6C9B3_LACCA	K00975	glgC; glucose-1-phosphate adenylyltransferase [EC:2.7.7.27]	252		
+tr|S6CCL5|S6CCL5_LACCA	K02786	PTS-Lac-EIIA; PTS system, lactose-specific IIA component [EC:2.7.1.207]	107		
+tr|S6CA39|S6CA39_LACCA			371		
+tr|S6CKA9|S6CKA9_LACCA			16	K12573	1
+tr|S6CCE9|S6CCE9_LACCA	K06881	nrnA; bifunctional oligoribonuclease and PAP phosphatase NrnA [EC:3.1.3.7 3.1.13.3]	248		
+tr|S6C951|S6C951_LACCA			16	K10001	5
+tr|S6C838|S6C838_LACCA	K02970	RP-S21; small subunit ribosomal protein S21	98		
+tr|S6C6R7|S6C6R7_LACCA	K03316	TC.CPA1; monovalent cation:H+ antiporter, CPA1 family	424		
+tr|S6C617|S6C617_LACCA	K00940	ndk; nucleoside-diphosphate kinase [EC:2.7.4.6]	159		
+tr|S6CCR5|S6CCR5_LACCA	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	139		
+tr|S6C9L1|S6C9L1_LACCA	K01488	add; adenosine deaminase [EC:3.5.4.4]	236		
+tr|S6C7R0|S6C7R0_LACCA	K06178	rluB; 23S rRNA pseudouridine2605 synthase [EC:5.4.99.22]	291		
+tr|S6BRJ3|S6BRJ3_LACCA	K07304	msrA; peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]	250		
+tr|S6BTC3|S6BTC3_LACCA			297		
+tr|S6BSE1|S6BSE1_LACCA	K09976	uncharacterized protein	77		
+tr|S6BPE6|S6BPE6_LACCA	K01256	pepN; aminopeptidase N [EC:3.4.11.2]	1037		
+tr|S6C5K8|S6C5K8_LACCA	K00651	metA; homoserine O-succinyltransferase [EC:2.3.1.46]	152		
+tr|S6BT51|S6BT51_LACCA			116		
+tr|S6BVE2|S6BVE2_LACCA			20	K17320	2
+tr|S6C5U6|S6C5U6_LACCA	K07118	uncharacterized protein	47		
+tr|S6BUS9|S6BUS9_LACCA			17	K02405	3
+tr|S6C9A0|S6C9A0_LACCA			186		
+tr|S6BR81|S6BR81_LACCA			164		
+tr|S6BS52|S6BS52_LACCA			146		
+tr|S6BQF6|S6BQF6_LACCA	K07027	uncharacterized protein	242		
+tr|S6BUB6|S6BUB6_LACCA	K00712	tagE; poly(glycerol-phosphate) alpha-glucosyltransferase [EC:2.4.1.52]	184		
+tr|S6C503|S6C503_LACCA			301		
+tr|S6BRC9|S6BRC9_LACCA			180		
+tr|S6C7F0|S6C7F0_LACCA	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	150		
+tr|S6C824|S6C824_LACCA			313		
+tr|S6CA68|S6CA68_LACCA			55	K01406	3
+tr|S6C7G6|S6C7G6_LACCA	K03630	radC; DNA repair protein RadC	159		
+tr|S6BS98|S6BS98_LACCA	K02687	prmA; ribosomal protein L11 methyltransferase [EC:2.1.1.-]	274		
+tr|S6CCT3|S6CCT3_LACCA	K07483	transposase	52		
+tr|S6C5J8|S6C5J8_LACCA			228		
+tr|S6CA12|S6CA12_LACCA			129		
+tr|S6C5D5|S6C5D5_LACCA			129		
+tr|S6BPT0|S6BPT0_LACCA	K07496	putative transposase	134		
+tr|S6BT76|S6BT76_LACCA	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	331		
+tr|S6CK88|S6CK88_LACCA			161		
+tr|S6BVB1|S6BVB1_LACCA	K03475	PTS-Ula-EIIC; PTS system, ascorbate-specific IIC component	379		
+tr|S6BW29|S6BW29_LACCA			18	K15051	10
+tr|S6BW53|S6BW53_LACCA			19	K06901	4
+tr|S6BWS9|S6BWS9_LACCA			72		
+tr|S6BYZ3|S6BYZ3_LACCA	K02033	ABC.PE.P; peptide/nickel transport system permease protein	369		
+tr|S6BZ36|S6BZ36_LACCA			18	K03797	2
+tr|S6BYD2|S6BYD2_LACCA	K04094	trmFO; methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase [EC:2.1.1.74]	600		
+tr|S6C0P5|S6C0P5_LACCA	K10974	codB; cytosine permease	366		
+tr|S6BW81|S6BW81_LACCA	K00948	PRPS; ribose-phosphate pyrophosphokinase [EC:2.7.6.1]	328		
+tr|S6C324|S6C324_LACCA			223		
+tr|S6C8X9|S6C8X9_LACCA	K01819	E5.3.1.26; galactose-6-phosphate isomerase [EC:5.3.1.26]	137		
+tr|S6C917|S6C917_LACCA	K10986	PTS-Gam-EIID; PTS system, galactosamine-specific IID component	291		
+tr|S6C0W3|S6C0W3_LACCA					
+tr|S6C942|S6C942_LACCA	K05349	bglX; beta-glucosidase [EC:3.2.1.21]	573		
+tr|S6C9L2|S6C9L2_LACCA			13	K00854	6
+tr|S6C2Z0|S6C2Z0_LACCA			370		
+tr|S6C8E6|S6C8E6_LACCA			136		
+tr|S6C8T2|S6C8T2_LACCA			15	K02357	4
+tr|S6CAX5|S6CAX5_LACCA			34	K06384	21
+tr|S6C2T9|S6C2T9_LACCA	K20444	rfbC; O-antigen biosynthesis protein [EC:2.4.1.-]	122		
+tr|S6C8U1|S6C8U1_LACCA			16	K14682	2
+tr|S6CAK0|S6CAK0_LACCA			19	K07787	1
+tr|S6CAY5|S6CAY5_LACCA			472		
+tr|S6CBV5|S6CBV5_LACCA			16	K02055	3
+tr|S6CAB6|S6CAB6_LACCA			18	K01972	2
+tr|S6CAI7|S6CAI7_LACCA	K07030	uncharacterized protein	581		
+tr|S6CBD6|S6CBD6_LACCA	K02548	menA; 1,4-dihydroxy-2-naphthoate octaprenyltransferase [EC:2.5.1.74 2.5.1.-]	64		
+tr|S6CBW4|S6CBW4_LACCA			55	K01447	3
+tr|S6CB32|S6CB32_LACCA			123	K07497	10
+tr|S6CBA0|S6CBA0_LACCA	K09458	fabF; 3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179]	455		
+tr|S6CJX3|S6CJX3_LACCA			398		
+tr|S6BVB8|S6BVB8_LACCA			192	K06148	36
+tr|S6CJD6|S6CJD6_LACCA			101		
+tr|S6CJ51|S6CJ51_LACCA			30	K12218	1
+tr|S6CJ26|S6CJ26_LACCA			18	K01992	2
+tr|S6BY05|S6BY05_LACCA	K03570	mreC; rod shape-determining protein MreC	241		
+tr|S6CJF2|S6CJF2_LACCA			131		
+tr|S6CA40|S6CA40_LACCA			21	K03980	1
+tr|S6CJ99|S6CJ99_LACCA			261		
+tr|S6CJ92|S6CJ92_LACCA	K07273	acm; lysozyme	70		
+tr|S6CK51|S6CK51_LACCA			17	K02057	2
+tr|S6CBG1|S6CBG1_LACCA			36	K01056	2
+tr|S6CAY2|S6CAY2_LACCA			214		
+tr|S6CIW4|S6CIW4_LACCA			134		
+tr|S6CJN5|S6CJN5_LACCA			51	K03825	3
+tr|S6BWI0|S6BWI0_LACCA			220		
+tr|S6CJ58|S6CJ58_LACCA	K06153	bacA; undecaprenyl-diphosphatase [EC:3.6.1.27]	313		
+tr|S6BVD0|S6BVD0_LACCA	K06988	uncharacterized protein	149		
+tr|S6C0I7|S6C0I7_LACCA			545	K01200	53
+tr|S6CB36|S6CB36_LACCA	K00942	E2.7.4.8; guanylate kinase [EC:2.7.4.8]	140		
+tr|S6CJ09|S6CJ09_LACCA			13	K02433	1
+tr|S6CJG5|S6CJG5_LACCA	K03469	rnhA; ribonuclease HI [EC:3.1.26.4]	44	K15634	11
+tr|S6CJ77|S6CJ77_LACCA	K01992	ABC-2.P; ABC-2 type transport system permease protein	180		
+tr|S6CA80|S6CA80_LACCA	K11755	hisIE; phosphoribosyl-ATP pyrophosphohydrolase / phosphoribosyl-AMP cyclohydrolase [EC:3.6.1.31 3.5.4.19]	89	K01496	37
+tr|S6C9F3|S6C9F3_LACCA	K06889	uncharacterized protein	273		
+tr|S6C192|S6C192_LACCA			36	K15773	1
+tr|S6C9R6|S6C9R6_LACCA	K00059	fabG; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	199		
+tr|S6CJP4|S6CJP4_LACCA	K01652	E2.2.1.6L; acetolactate synthase I/II/III large subunit [EC:2.2.1.6]	723		
+tr|S6CJ56|S6CJ56_LACCA	K07166	ACT domain-containing protein	89		
+tr|S6CA67|S6CA67_LACCA	K03733	xerC; integrase/recombinase XerC	325		
+tr|S6CBB6|S6CBB6_LACCA	K07284	srtA; sortase A [EC:3.4.22.70]	150		
+tr|S6C8S6|S6C8S6_LACCA			228		
+tr|S6BVG0|S6BVG0_LACCA	K03299	TC.GNTP; gluconate:H+ symporter, GntP family	528		
+tr|S6CB11|S6CB11_LACCA	K07090	uncharacterized protein	15		
+tr|S6CJW3|S6CJW3_LACCA			310		
+tr|S6CJP8|S6CJP8_LACCA			20	K00052	2
+tr|S6CAA6|S6CAA6_LACCA			155		
+tr|S6C9R1|S6C9R1_LACCA	K06180	rluD; 23S rRNA pseudouridine1911/1915/1917 synthase [EC:5.4.99.23]	200	K06177	23
+tr|S6CAZ2|S6CAZ2_LACCA	K04759	feoB; ferrous iron transport protein B	743		
+tr|S6C9K9|S6C9K9_LACCA			16	K15738	2
+tr|S6BVY5|S6BVY5_LACCA			14	K02057	4
+tr|S6BYE5|S6BYE5_LACCA	K02004	ABC.CD.P; putative ABC transport system permease protein	329		
+tr|S6CAX6|S6CAX6_LACCA	K00054	mvaA; hydroxymethylglutaryl-CoA reductase [EC:1.1.1.88]	277		
+tr|S6CK48|S6CK48_LACCA	K02774	PTS-Gat-EIIB; PTS system, galactitol-specific IIB component [EC:2.7.1.200]	74		
+tr|S6C288|S6C288_LACCA			14	K03320	3
+tr|S6CJ23|S6CJ23_LACCA	K01439	dapE; succinyl-diaminopimelate desuccinylase [EC:3.5.1.18]	175		
+tr|S6CJN3|S6CJN3_LACCA	K00158	E1.2.3.3; pyruvate oxidase [EC:1.2.3.3]	639		
+tr|S6C9K6|S6C9K6_LACCA			91		
+tr|S6BWT3|S6BWT3_LACCA	K19002	mgs; 1,2-diacylglycerol 3-alpha-glucosyltransferase [EC:2.4.1.337]	403		
+tr|S6CC64|S6CC64_LACCA	K04042	glmU; bifunctional UDP-N-acetylglucosamine pyrophosphorylase / Glucosamine-1-phosphate N-acetyltransferase [EC:2.7.7.23 2.3.1.157]	569		
+tr|S6BY67|S6BY67_LACCA			19	K00927	1
+tr|S6C0V1|S6C0V1_LACCA	K01754	E4.3.1.19; threonine dehydratase [EC:4.3.1.19]	348		
+tr|S6CIU1|S6CIU1_LACCA			249		
+tr|S6C8N1|S6C8N1_LACCA	K02795	PTS-Man-EIIC; PTS system, mannose-specific IIC component	133		
+tr|S6CAX4|S6CAX4_LACCA			18	K03296	1
+tr|S6CB14|S6CB14_LACCA	K02774	PTS-Gat-EIIB; PTS system, galactitol-specific IIB component [EC:2.7.1.200]	79		
+tr|S6C0P9|S6C0P9_LACCA			891		
+tr|S6CA05|S6CA05_LACCA	K00799	GST; glutathione S-transferase [EC:2.5.1.18]	173		
+tr|S6CK38|S6CK38_LACCA	K03701	uvrA; excinuclease ABC subunit A	799		
+tr|S6CB09|S6CB09_LACCA			227		
+tr|S6CJ25|S6CJ25_LACCA	K03975	dedA; membrane-associated protein	226		
+tr|S6C2N6|S6C2N6_LACCA	K15580	oppA; oligopeptide transport system substrate-binding protein	224	K02035	49
+tr|S6BV67|S6BV67_LACCA			156		
+tr|S6C9W4|S6C9W4_LACCA	K02433	gatA; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A [EC:6.3.5.6 6.3.5.7]	584		
+tr|S6CBG7|S6CBG7_LACCA			139		
+tr|S6BYX5|S6BYX5_LACCA			63	K01173	3
+tr|S6CK16|S6CK16_LACCA	K03043	rpoB; DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]	1902		
+tr|S6BZ07|S6BZ07_LACCA	K00604	MTFMT; methionyl-tRNA formyltransferase [EC:2.1.2.9]	333		
+tr|S6CJZ0|S6CJZ0_LACCA			18	K00869	1
+tr|S6CJC3|S6CJC3_LACCA	K02986	RP-S4; small subunit ribosomal protein S4	300		
+tr|S6BX02|S6BX02_LACCA	K09157	uncharacterized protein	515		
+tr|S6BW33|S6BW33_LACCA			16	K00790	1
+tr|S6BVY2|S6BVY2_LACCA			55		
+tr|S6BXY1|S6BXY1_LACCA			21	K03733	4
+tr|S6BYY2|S6BYY2_LACCA	K02959	RP-S16; small subunit ribosomal protein S16	141		
+tr|S6CAT2|S6CAT2_LACCA	K01889	FARSA; phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]	481		
+tr|S6CJ97|S6CJ97_LACCA	K00712	tagE; poly(glycerol-phosphate) alpha-glucosyltransferase [EC:2.4.1.52]	217		
+tr|S6CJX7|S6CJX7_LACCA			20	K06041	1
+tr|S6C024|S6C024_LACCA	K01588	purE; 5-(carboxyamino)imidazole ribonucleotide mutase [EC:5.4.99.18]	200		
+tr|S6C0S7|S6C0S7_LACCA			101	K06149	6
+tr|S6C188|S6C188_LACCA			140		
+tr|S6CCE2|S6CCE2_LACCA			235		
+tr|S6C8K2|S6C8K2_LACCA			13	K02786	12
+tr|S6C343|S6C343_LACCA	K01760	metC; cystathionine beta-lyase [EC:4.4.1.8]	405	K17217	92
+tr|S6BW00|S6BW00_LACCA			307		
+tr|S6BYI6|S6BYI6_LACCA	K00525	E1.17.4.1A; ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]	1067		
+tr|S6C9V1|S6C9V1_LACCA	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	234		
+tr|S6BW88|S6BW88_LACCA			18	K02195	2
+tr|S6CJS5|S6CJS5_LACCA			18	K14441	3
+tr|S6CIR3|S6CIR3_LACCA			17	K10697	7
+tr|S6CJQ2|S6CJQ2_LACCA			343		
+tr|S6CIW8|S6CIW8_LACCA			403		
+tr|S6CK68|S6CK68_LACCA			151		
+tr|S6C8E9|S6C8E9_LACCA	K07090	uncharacterized protein	308		
+tr|S6C003|S6C003_LACCA	K06180	rluD; 23S rRNA pseudouridine1911/1915/1917 synthase [EC:5.4.99.23]	187		
+tr|S6CAT6|S6CAT6_LACCA			184		
+tr|S6BVX3|S6BVX3_LACCA			237		
+tr|S6BXU7|S6BXU7_LACCA	K04488	iscU; nitrogen fixation protein NifU and related proteins	147		
+tr|S6CB07|S6CB07_LACCA			16	K03438	2
+tr|S6CIV8|S6CIV8_LACCA			759		
+tr|S6CAH2|S6CAH2_LACCA	K18889	mdlA; ATP-binding cassette, subfamily B, multidrug efflux pump	600	K06148	67
+tr|S6BVZ0|S6BVZ0_LACCA	K01819	E5.3.1.26; galactose-6-phosphate isomerase [EC:5.3.1.26]	203		
+tr|S6C0E8|S6C0E8_LACCA			17	K02004	8
+tr|S6C0F9|S6C0F9_LACCA			126	K19419	7
+tr|S6CA28|S6CA28_LACCA			526		
+tr|S6CJ36|S6CJ36_LACCA			218		
+tr|S6CK63|S6CK63_LACCA			300	K01439	28
+tr|S6CK54|S6CK54_LACCA			219		
+tr|S6CC05|S6CC05_LACCA	K02879	RP-L17; large subunit ribosomal protein L17	201		
+tr|S6CAU2|S6CAU2_LACCA	K00656	E2.3.1.54; formate C-acetyltransferase [EC:2.3.1.54]	263		
+tr|S6BVH4|S6BVH4_LACCA			22	K03183	12
+tr|S6C9V0|S6C9V0_LACCA	K11069	potD; spermidine/putrescine transport system substrate-binding protein	341		
+tr|S6CJ65|S6CJ65_LACCA	K02036	pstB; phosphate transport system ATP-binding protein [EC:3.6.3.27]	366		
+tr|S6CIZ0|S6CIZ0_LACCA			130		
+tr|S6C0E5|S6C0E5_LACCA			197		
+tr|S6BZZ5|S6BZZ5_LACCA	K03439	trmB; tRNA (guanine-N7-)-methyltransferase [EC:2.1.1.33]	234		
+tr|S6C0H1|S6C0H1_LACCA			519		
+tr|S6CJP2|S6CJP2_LACCA	K10716	kch; voltage-gated potassium channel	150		
+tr|S6CK72|S6CK72_LACCA					
+tr|S6C9E8|S6C9E8_LACCA			607		
+tr|S6C197|S6C197_LACCA	K04485	radA; DNA repair protein RadA/Sms	626		
+tr|S6BVK8|S6BVK8_LACCA			22	K03086	3
+tr|S6CIU7|S6CIU7_LACCA	K02787	PTS-Lac-EIIB; PTS system, lactose-specific IIB component [EC:2.7.1.207]	471		
+	K02788	PTS-Lac-EIIC; PTS system, lactose-specific IIC component			
+tr|S6CK71|S6CK71_LACCA			16	K07027	2
+tr|S6CA89|S6CA89_LACCA	K03101	lspA; signal peptidase II [EC:3.4.23.36]	114		
+tr|S6CIV3|S6CIV3_LACCA			306		
+tr|S6CJH0|S6CJH0_LACCA	K16898	addA; ATP-dependent helicase/nuclease subunit A [EC:3.1.-.- 3.6.4.12]	750		
+tr|S6CAW6|S6CAW6_LACCA	K01952	purL; phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	272		
+tr|S6CIX3|S6CIX3_LACCA			205	K07741	53
+tr|S6CA76|S6CA76_LACCA	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	289		
+tr|S6CBC5|S6CBC5_LACCA	K01733	thrC; threonine synthase [EC:4.2.3.1]	439		
+tr|S6C8R6|S6C8R6_LACCA	K07090	uncharacterized protein	146		
+tr|S6C8U3|S6C8U3_LACCA			69		
+tr|S6CC97|S6CC97_LACCA			15	K01915	2
+tr|S6BW13|S6BW13_LACCA			174	K06609	86
+tr|S6C1B0|S6C1B0_LACCA			399		
+tr|S6CK53|S6CK53_LACCA	K00848	rhaB; rhamnulokinase [EC:2.7.1.5]	403		
+tr|S6CC43|S6CC43_LACCA			406		
+tr|S6C173|S6C173_LACCA	K02863	RP-L1; large subunit ribosomal protein L1	318		
+tr|S6CJX6|S6CJX6_LACCA			18	K01620	2
+tr|S6CIX1|S6CIX1_LACCA			274	K00065	39
+tr|S6C177|S6C177_LACCA			28	K16927	5
+tr|S6C8W6|S6C8W6_LACCA			71		
+tr|S6CAC7|S6CAC7_LACCA			16	K16012	1
+tr|S6CK22|S6CK22_LACCA			24	K15777	1
+tr|S6CIW6|S6CIW6_LACCA			12	K07172	5
+tr|S6CJI7|S6CJI7_LACCA			15	K02563	2
+tr|S6BWR4|S6BWR4_LACCA			16	K15268	2
+tr|S6BY98|S6BY98_LACCA	K02859	ribT; riboflavin biosynthesis RibT protein	80		
+tr|S6C355|S6C355_LACCA			227		
+tr|S6CBV0|S6CBV0_LACCA	K02077	ABC.ZM.S; zinc/manganese transport system substrate-binding protein	216		
+tr|S6CIS5|S6CIS5_LACCA	K01624	FBA; fructose-bisphosphate aldolase, class II [EC:4.1.2.13]	174	K08302	45
+tr|S6CC01|S6CC01_LACCA	K06173	truA; tRNA pseudouridine38-40 synthase [EC:5.4.99.12]	257		
+tr|S6CIR0|S6CIR0_LACCA	K07090	uncharacterized protein	156		
+tr|S6BXI2|S6BXI2_LACCA			170		
+tr|S6C2E5|S6C2E5_LACCA			18	K00602	1
+tr|S6CBQ7|S6CBQ7_LACCA	K06962	uncharacterized protein	158		
+tr|S6CBJ7|S6CBJ7_LACCA			120		
+tr|S6BPM8|S6BPM8_LACCA	K00549	metE; 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:2.1.1.14]	874		
+tr|S6C8Z2|S6C8Z2_LACCA			294		
+tr|S6C567|S6C567_LACCA	K00033	PGD; 6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343]	374		
+tr|S6BQA6|S6BQA6_LACCA	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	32	K18889	21
+tr|S6C968|S6C968_LACCA			17	K19611	2
+tr|S6C872|S6C872_LACCA	K07742	ylxR; uncharacterized protein	116		
+tr|S6BWW6|S6BWW6_LACCA			17	K03147	1
+tr|S6CJI8|S6CJI8_LACCA	K03687	GRPE; molecular chaperone GrpE	163		
+tr|S6CK32|S6CK32_LACCA	K01524	ppx-gppA; exopolyphosphatase / guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase [EC:3.6.1.11 3.6.1.40]	242		
+tr|S6CJY9|S6CJY9_LACCA			19	K07473	4
+tr|S6BXD3|S6BXD3_LACCA			61		
+tr|S6C093|S6C093_LACCA			155	K02123	4
+tr|S6C0I1|S6C0I1_LACCA	K02076	zurR; Fur family transcriptional regulator, zinc uptake regulator	133		
+tr|S6BX58|S6BX58_LACCA			517	K03281	59
+tr|S6BXT7|S6BXT7_LACCA			18	K03701	3
+tr|S6C179|S6C179_LACCA	K02601	nusG; transcriptional antiterminator NusG	251		
+tr|S6C9F0|S6C9F0_LACCA			21	K03592	2
+tr|S6CIV0|S6CIV0_LACCA	K03710	GntR family transcriptional regulator	186		
+tr|S6CK39|S6CK39_LACCA			59		
+tr|S6C9X9|S6C9X9_LACCA			20	K02238	2
+tr|S6BPT5|S6BPT5_LACCA	K02744	PTS-Aga-EIIA; PTS system, N-acetylgalactosamine-specific IIA component [EC:2.7.1.-]	64		
+tr|S6C5E5|S6C5E5_LACCA			17	K09786	2
+tr|S6C997|S6C997_LACCA			269		
+tr|S6BQA2|S6BQA2_LACCA			62		
+tr|S6CCQ1|S6CCQ1_LACCA			249		
+tr|S6BP89|S6BP89_LACCA	K01182	IMA; oligo-1,6-glucosidase [EC:3.2.1.10]	121	K01215	13
+tr|S6BUR1|S6BUR1_LACCA			280		
+tr|S6C960|S6C960_LACCA			489		
+tr|S6BV87|S6BV87_LACCA	K15524	mngB; mannosylglycerate hydrolase [EC:3.2.1.170]	511		
+tr|S6BVZ6|S6BVZ6_LACCA			16	K03821	1
+tr|S6BWJ7|S6BWJ7_LACCA			22	K02342	3
+tr|S6CK67|S6CK67_LACCA			23	K03710	18
+tr|S6CAV7|S6CAV7_LACCA	K02761	PTS-Cel-EIIC; PTS system, cellobiose-specific IIC component	276		
+tr|S6C263|S6C263_LACCA			183		
+tr|S6BWX9|S6BWX9_LACCA			475		
+tr|S6CCE4|S6CCE4_LACCA			31	K02824	1
+tr|S6CB49|S6CB49_LACCA			147	K07497	12
+tr|S6BTQ3|S6BTQ3_LACCA	K02001	proW; glycine betaine/proline transport system permease protein	201	K02001/K02002	54
+tr|S6BNX6|S6BNX6_LACCA			19	K06147	2
+tr|S6BPQ5|S6BPQ5_LACCA			21	K01533	2
+tr|S6C6Q9|S6C6Q9_LACCA	K02027	ABC.MS.S; multiple sugar transport system substrate-binding protein	240	K05813	17
+tr|S6CK94|S6CK94_LACCA			324		
+tr|S6C847|S6C847_LACCA	K07560	dtd; D-tyrosyl-tRNA(Tyr) deacylase [EC:3.1.-.-]	177		
+tr|S6BY08|S6BY08_LACCA	K02028	ABC.PA.A; polar amino acid transport system ATP-binding protein [EC:3.6.3.21]	210		
+tr|S6C046|S6C046_LACCA	K03095	sprL; SprT-like protein	130		
+tr|S6BYE9|S6BYE9_LACCA	K08217	mef; MFS transporter, DHA3 family, macrolide efflux protein	178		
+tr|S6C1D9|S6C1D9_LACCA			17	K20534	2
+tr|S6C9R3|S6C9R3_LACCA			13	K02781	5
+tr|S6CJH5|S6CJH5_LACCA			635		
+tr|S6CB13|S6CB13_LACCA			72		
+tr|S6CK02|S6CK02_LACCA			14	K00342	4
+tr|S6CBS1|S6CBS1_LACCA			200		
+tr|S6CJJ4|S6CJJ4_LACCA			16	K07183	1
+tr|S6C164|S6C164_LACCA	K01361	E3.4.21.96; lactocepin [EC:3.4.21.96]	1098		
+tr|S6BSR8|S6BSR8_LACCA	K15975	glyoxalase family protein	367		
+tr|S6C7H8|S6C7H8_LACCA	K01000	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase [EC:2.7.8.13]	366		
+tr|S6BNP8|S6BNP8_LACCA	K00133	asd; aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]	425		
+tr|S6BNV8|S6BNV8_LACCA			473		
+tr|S6BRL6|S6BRL6_LACCA	K07010	putative glutamine amidotransferase	174		
+tr|S6BVI6|S6BVI6_LACCA			17	K07058	1
+tr|S6C925|S6C925_LACCA	K01887	RARS; arginyl-tRNA synthetase [EC:6.1.1.19]	711		
+tr|S6BXV7|S6BXV7_LACCA	K07478	ycaJ; putative ATPase	563		
+tr|S6BVC1|S6BVC1_LACCA			20	K02427	1
+tr|S6CIS1|S6CIS1_LACCA	K03778	ldhA; D-lactate dehydrogenase [EC:1.1.1.28]	238		
+tr|S6C0K9|S6C0K9_LACCA			109	K12997	30
+tr|S6CJ59|S6CJ59_LACCA	K03284	corA; magnesium transporter	165		
+tr|S6CJE7|S6CJE7_LACCA	K04763	xerD; integrase/recombinase XerD	305		
+tr|S6CK12|S6CK12_LACCA	K02965	RP-S19; small subunit ribosomal protein S19	163		
+tr|S6CK73|S6CK73_LACCA	K09167	uncharacterized protein	14		
+tr|S6C967|S6C967_LACCA			162		
+tr|S6BPK2|S6BPK2_LACCA			381		
+tr|S6BS03|S6BS03_LACCA			145		
+tr|S6C850|S6C850_LACCA			20	K06346	3
+tr|S6C9C9|S6C9C9_LACCA	K18929	lldF; L-lactate dehydrogenase complex protein LldF	574		
+tr|S6BRV7|S6BRV7_LACCA			180		
+tr|S6C6D2|S6C6D2_LACCA			21	K03798	4
+tr|S6BQG6|S6BQG6_LACCA			16	K03654	2
+tr|S6C9L8|S6C9L8_LACCA	K18979	queG; epoxyqueuosine reductase [EC:1.17.99.6]	428		
+tr|S6BQD4|S6BQD4_LACCA			36	K13583	3
+tr|S6C5K4|S6C5K4_LACCA			368		
+tr|S6BPB3|S6BPB3_LACCA	K05879	dhaL; dihydroxyacetone kinase, C-terminal domain [EC:2.7.1.-]	169		
+tr|S6BNX1|S6BNX1_LACCA			233		
+tr|S6BRD4|S6BRD4_LACCA	K02835	prfA; peptide chain release factor 1	485		
+tr|S6C7I7|S6C7I7_LACCA	K07496	putative transposase	134		
+tr|S6BUB2|S6BUB2_LACCA			36	K00692	1
+tr|S6CCN5|S6CCN5_LACCA			17	K00059	1
+tr|S6CAC2|S6CAC2_LACCA	K04075	tilS; tRNA(Ile)-lysidine synthase [EC:6.3.4.19]	122	K15780	16
+tr|S6BQ53|S6BQ53_LACCA			21	K03327	1
+tr|S6BRX7|S6BRX7_LACCA			298		
+tr|S6C6P2|S6C6P2_LACCA			19	K01887	3
+tr|S6BV46|S6BV46_LACCA	K00426	cydB; cytochrome d ubiquinol oxidase subunit II [EC:1.10.3.14]	161		
+tr|S6C9B8|S6C9B8_LACCA			217		
+tr|S6C634|S6C634_LACCA			124		
+tr|S6C6B4|S6C6B4_LACCA			22	K00703	2
+tr|S6CCJ4|S6CCJ4_LACCA			194		
+tr|S6CCH9|S6CCH9_LACCA	K02759	PTS-Cel-EIIA; PTS system, cellobiose-specific IIA component [EC:2.7.1.196 2.7.1.205]	134		
+tr|S6C9F7|S6C9F7_LACCA			15	K13490	2
+tr|S6BPN3|S6BPN3_LACCA	K01226	treC; trehalose-6-phosphate hydrolase [EC:3.2.1.93]	674		
+tr|S6C535|S6C535_LACCA			331		
+tr|S6C9C3|S6C9C3_LACCA			292		
+tr|S6BTH1|S6BTH1_LACCA			207		
+tr|S6BSX5|S6BSX5_LACCA	K04068	nrdG; anaerobic ribonucleoside-triphosphate reductase activating protein [EC:1.97.1.4]	281		
+tr|S6BRI9|S6BRI9_LACCA			103		
+tr|S6CCU2|S6CCU2_LACCA			17	K01649	2
+tr|S6CCJ1|S6CCJ1_LACCA			153		
+tr|S6BYG0|S6BYG0_LACCA	K01693	hisB; imidazoleglycerol-phosphate dehydratase [EC:4.2.1.19]	241		
+tr|S6BXB1|S6BXB1_LACCA			19	K07058	1
+tr|S6C321|S6C321_LACCA	K06346	jag; spoIIIJ-associated protein	164		
+tr|S6C1T8|S6C1T8_LACCA	K02907	RP-L30; large subunit ribosomal protein L30	71		
+tr|S6BX52|S6BX52_LACCA			17	K02003	1
+tr|S6CJJ2|S6CJJ2_LACCA	K02967	RP-S2; small subunit ribosomal protein S2	371		
+tr|S6CK61|S6CK61_LACCA	K00783	rlmH; 23S rRNA (pseudouridine1915-N3)-methyltransferase [EC:2.1.1.177]	216		
+tr|S6CJN2|S6CJN2_LACCA	K03565	recX; regulatory protein	143		
+tr|S6C0A1|S6C0A1_LACCA			220	K05966	15
+tr|S6CB75|S6CB75_LACCA	K07407	E3.2.1.22B; alpha-galactosidase [EC:3.2.1.22]	481		
+tr|S6C051|S6C051_LACCA	K01537	E3.6.3.8; Ca2+-transporting ATPase [EC:3.6.3.8]	1055		
+tr|S6BWJ2|S6BWJ2_LACCA			390		
+tr|S6BV85|S6BV85_LACCA	K07106	murQ; N-acetylmuramic acid 6-phosphate etherase [EC:4.2.1.126]	368		
+tr|S6C0S4|S6C0S4_LACCA	K00158	E1.2.3.3; pyruvate oxidase [EC:1.2.3.3]	525		
+tr|S6C935|S6C935_LACCA			16	K03529	1
+tr|S6CBB3|S6CBB3_LACCA	K01834	PGAM; 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11]	342		
+tr|S6CJP0|S6CJP0_LACCA			18	K02221	1
+tr|S6BYK7|S6BYK7_LACCA			24	K02004	3
+tr|S6CIT3|S6CIT3_LACCA	K03501	gidB; 16S rRNA (guanine527-N7)-methyltransferase [EC:2.1.1.170]	261		
+tr|S6CIV9|S6CIV9_LACCA			130		
+tr|S6CJN7|S6CJN7_LACCA	K00763	pncB; nicotinate phosphoribosyltransferase [EC:6.3.4.21]	656		
+tr|S6BX35|S6BX35_LACCA	K13292	lgt; phosphatidylglycerol:prolipoprotein diacylglycerol transferase [EC:2.-.-.-]	315		
+tr|S6BYA7|S6BYA7_LACCA	K00945	cmk; cytidylate kinase [EC:2.7.4.14]	246		
+tr|S6C8S0|S6C8S0_LACCA			15	K01972	8
+tr|S6BVC4|S6BVC4_LACCA			15	K07006	7
+tr|S6CJW8|S6CJW8_LACCA			115		
+tr|S6C899|S6C899_LACCA	K01714	dapA; 4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7]	284		
+tr|S6BWM6|S6BWM6_LACCA			394	K01081	46
+tr|S6C2E9|S6C2E9_LACCA			20	K00627	4
+tr|S6C0G2|S6C0G2_LACCA			136		
+tr|S6CJJ7|S6CJJ7_LACCA	K02034	ABC.PE.P1; peptide/nickel transport system permease protein	310		
+tr|S6BVD3|S6BVD3_LACCA	K03497	parB; chromosome partitioning protein, ParB family	252		
+tr|S6C1Z8|S6C1Z8_LACCA			19	K02015	1
+tr|S6CJ17|S6CJ17_LACCA	K01872	AARS; alanyl-tRNA synthetase [EC:6.1.1.7]	1061		
+tr|S6CJT0|S6CJT0_LACCA	K01193	E3.2.1.26; beta-fructofuranosidase [EC:3.2.1.26]	340		
+tr|S6CK46|S6CK46_LACCA	K07052	uncharacterized protein	59		
+tr|S6C8S3|S6C8S3_LACCA	K08996	yagU; putative membrane protein	137		
+tr|S6CK58|S6CK58_LACCA			504		
+tr|S6CBR8|S6CBR8_LACCA			23	K01992	2
+tr|S6BWR0|S6BWR0_LACCA			63		
+tr|S6C8R0|S6C8R0_LACCA			296		
+tr|S6BWQ8|S6BWQ8_LACCA			20	K03841	4
+tr|S6CK06|S6CK06_LACCA			20	K06158	1
+tr|S6BW31|S6BW31_LACCA	K01819	E5.3.1.26; galactose-6-phosphate isomerase [EC:5.3.1.26]	147		
+tr|S6CJI3|S6CJI3_LACCA	K00951	relA; GTP pyrophosphokinase [EC:2.7.6.5]	940		
+tr|S6C168|S6C168_LACCA			17	K02033	4
+tr|S6C060|S6C060_LACCA			458		
+tr|S6CJ22|S6CJ22_LACCA	K01271	pepQ; Xaa-Pro dipeptidase [EC:3.4.13.9]	320		
+tr|S6C9X5|S6C9X5_LACCA	K01756	purB; adenylosuccinate lyase [EC:4.3.2.2]	589		
+tr|S6BY49|S6BY49_LACCA	K01092	E3.1.3.25; myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25]	186		
+tr|S6C8Q0|S6C8Q0_LACCA			133		
+tr|S6C8S9|S6C8S9_LACCA			20	K13292	2
+tr|S6C2L3|S6C2L3_LACCA			17	K01299	1
+tr|S6BXZ5|S6BXZ5_LACCA	K07170	GAF domain-containing protein	159		
+tr|S6CAB8|S6CAB8_LACCA			167		
+tr|S6CBN9|S6CBN9_LACCA			26	K01224	2
+tr|S6BW61|S6BW61_LACCA			18	K06999	1
+tr|S6CJZ3|S6CJZ3_LACCA			31	K03529	3
+tr|S6CJ78|S6CJ78_LACCA			221		
+tr|S6CAI4|S6CAI4_LACCA			112	K10823	105
+tr|S6CJ35|S6CJ35_LACCA			16	K03147	1
+tr|S6CK08|S6CK08_LACCA	K02952	RP-S13; small subunit ribosomal protein S13	173		
+tr|S6C2W9|S6C2W9_LACCA			199		
+tr|S6C155|S6C155_LACCA	K07056	rsmI; 16S rRNA (cytidine1402-2'-O)-methyltransferase [EC:2.1.1.198]	303		
+tr|S6BSH7|S6BSH7_LACCA	K13038	coaBC; phosphopantothenoylcysteine decarboxylase / phosphopantothenate--cysteine ligase [EC:4.1.1.36 6.3.2.5]	318		
+tr|S6BV12|S6BV12_LACCA			134	K03328	61
+tr|S6C930|S6C930_LACCA			20	K02004	9
+tr|S6CCG0|S6CCG0_LACCA			24	K00596	2
+tr|S6BUS4|S6BUS4_LACCA	K01156	res; type III restriction enzyme [EC:3.1.21.5]	785		
+tr|S6BRD9|S6BRD9_LACCA	K02108	ATPF0A; F-type H+-transporting ATPase subunit a	218		
+tr|S6BS37|S6BS37_LACCA	K07444	ypsC; putative N6-adenine-specific DNA methylase [EC:2.1.1.-]	466		
+tr|S6BSV3|S6BSV3_LACCA	K01992	ABC-2.P; ABC-2 type transport system permease protein	176		
+tr|S6BQL4|S6BQL4_LACCA			34	K07114	1
+tr|S6BPG8|S6BPG8_LACCA			15	K06996	2
+tr|S6BSG5|S6BSG5_LACCA			174		
+tr|S6BQF2|S6BQF2_LACCA			13	K02198	2
+tr|S6CAE9|S6CAE9_LACCA			20	K02227	2
+tr|S6C516|S6C516_LACCA	K00854	xylB; xylulokinase [EC:2.7.1.17]	203		
+tr|S6C9M1|S6C9M1_LACCA			137		
+tr|S6BSN4|S6BSN4_LACCA	K00876	udk; uridine kinase [EC:2.7.1.48]	256		
+tr|S6CAI1|S6CAI1_LACCA	K05847	opuA; osmoprotectant transport system ATP-binding protein	234		
+tr|S6C728|S6C728_LACCA	K07104	catE; catechol 2,3-dioxygenase [EC:1.13.11.2]	147		
+tr|S6C1X1|S6C1X1_LACCA			698		
+tr|S6CB50|S6CB50_LACCA	K01710	E4.2.1.46; dTDP-glucose 4,6-dehydratase [EC:4.2.1.46]	532		
+tr|S6CIS6|S6CIS6_LACCA			23	K03457	1
+tr|S6CB57|S6CB57_LACCA			239		
+tr|S6C944|S6C944_LACCA			291		
+tr|S6BVP7|S6BVP7_LACCA			26	K07045	26
+tr|S6CB87|S6CB87_LACCA			178		
+tr|S6BZ49|S6BZ49_LACCA			503	K00687	97
+tr|S6BVY8|S6BVY8_LACCA			17	K06147	8
+tr|S6BX28|S6BX28_LACCA	K02040	pstS; phosphate transport system substrate-binding protein	334		
+tr|S6CJ12|S6CJ12_LACCA	K01091	gph; phosphoglycolate phosphatase [EC:3.1.3.18]	126		
+tr|S6BV79|S6BV79_LACCA			105		
+tr|S6CJK2|S6CJK2_LACCA	K06442	tlyA; 23S rRNA (cytidine1920-2'-O)/16S rRNA (cytidine1409-2'-O)-methyltransferase [EC:2.1.1.226 2.1.1.227]	322		
+tr|S6C9I0|S6C9I0_LACCA	K07035	uncharacterized protein	268		
+tr|S6CA01|S6CA01_LACCA			79	K08728	10
+tr|S6C8Y6|S6C8Y6_LACCA			141		
+tr|S6C947|S6C947_LACCA			184		
+tr|S6CA66|S6CA66_LACCA	K00712	tagE; poly(glycerol-phosphate) alpha-glucosyltransferase [EC:2.4.1.52]	220		
+tr|S6CA81|S6CA81_LACCA			14	K04567	2
+tr|S6BSS6|S6BSS6_LACCA	K00656	E2.3.1.54; formate C-acetyltransferase [EC:2.3.1.54]	319		
+tr|S6CJU3|S6CJU3_LACCA	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	321		
+tr|S6BW11|S6BW11_LACCA	K02760	PTS-Cel-EIIB; PTS system, cellobiose-specific IIB component [EC:2.7.1.196 2.7.1.205]	104		
+tr|S6C9X2|S6C9X2_LACCA			65		
+tr|S6C9L9|S6C9L9_LACCA			153		
+tr|S6CJV0|S6CJV0_LACCA			18	K12297	1
+tr|S6CJB1|S6CJB1_LACCA	K02073	metQ; D-methionine transport system substrate-binding protein	191		
+tr|S6CBQ4|S6CBQ4_LACCA					
+tr|S6C9L5|S6C9L5_LACCA			15	K01596	3
+tr|S6CB28|S6CB28_LACCA			103		
+tr|S6CIZ9|S6CIZ9_LACCA	K03546	sbcC; exonuclease SbcC	395		
+tr|S6CJE1|S6CJE1_LACCA			134		
+tr|S6C2S2|S6C2S2_LACCA			19	K08981	11
+tr|S6BNW7|S6BNW7_LACCA			21	K08641	1
+tr|S6BQK9|S6BQK9_LACCA			61		
+tr|S6BNW4|S6BNW4_LACCA			22	K00376	1
+tr|S6BUD8|S6BUD8_LACCA			20	K02004	1
+tr|S6CC60|S6CC60_LACCA			301		
+tr|S6CJW7|S6CJW7_LACCA			270		
+tr|S6BX93|S6BX93_LACCA			16	K02244	3
+tr|S6C008|S6C008_LACCA			16	K04561	7
+tr|S6C9Z2|S6C9Z2_LACCA			65	K20480	3
+tr|S6C1M2|S6C1M2_LACCA			32	K15580	1
+tr|S6CCD1|S6CCD1_LACCA	K02774	PTS-Gat-EIIB; PTS system, galactitol-specific IIB component [EC:2.7.1.200]	59		
+tr|S6C9Z6|S6C9Z6_LACCA	K15634	gpmB; probable phosphoglycerate mutase [EC:5.4.2.12]	76		
+tr|S6CJF9|S6CJF9_LACCA	K00817	hisC; histidinol-phosphate aminotransferase [EC:2.6.1.9]	288		
+tr|S6CAY3|S6CAY3_LACCA			54	K03483	2
+tr|S6C1N0|S6C1N0_LACCA			183		
+tr|S6C9A2|S6C9A2_LACCA	K01791	wecB; UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	504		
+tr|S6BPG3|S6BPG3_LACCA			75	K01356	7
+tr|S6C7Y3|S6C7Y3_LACCA			130		
+tr|S6BS91|S6BS91_LACCA			334		
+tr|S6CCT9|S6CCT9_LACCA			188	K07497	16
+tr|S6C7E1|S6C7E1_LACCA			190		
+tr|S6BUP5|S6BUP5_LACCA	K07024	uncharacterized protein	169	K07757	38
+tr|S6BSE5|S6BSE5_LACCA	K00554	trmD; tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228]	313		
+tr|S6BQ74|S6BQ74_LACCA	K14188	dltC; D-alanine--poly(phosphoribitol) ligase subunit 2 [EC:6.1.1.13]	70		
+tr|S6BUK3|S6BUK3_LACCA			10	K14393	8
+tr|S6CK79|S6CK79_LACCA			235		
+tr|S6C1T3|S6C1T3_LACCA	K02919	RP-L36; large subunit ribosomal protein L36	74		
+tr|S6BXM7|S6BXM7_LACCA	K02113	ATPF1D; F-type H+-transporting ATPase subunit delta	85		
+tr|S6C0Y2|S6C0Y2_LACCA	K03523	bioY; biotin transport system substrate-specific component	121		
+tr|S6CJ45|S6CJ45_LACCA			15	K01790	2
+tr|S6C238|S6C238_LACCA	K05985	rnmV; ribonuclease M5 [EC:3.1.26.8]	185		
+tr|S6C9P4|S6C9P4_LACCA			15	K01714	1
+tr|S6CAV5|S6CAV5_LACCA	K07533	prsA; foldase protein PrsA [EC:5.2.1.8]	188		
+tr|S6C1L5|S6C1L5_LACCA			16	K03782	5
+tr|S6CJ27|S6CJ27_LACCA			29	K14645	12
+tr|S6CBD3|S6CBD3_LACCA			58	K07032	2
+tr|S6CJ72|S6CJ72_LACCA	K01689	ENO; enolase [EC:4.2.1.11]	602		
+tr|S6CAY7|S6CAY7_LACCA	K03893	arsB; arsenical pump membrane protein	601		
+tr|S6CC39|S6CC39_LACCA			120		
+tr|S6CJ88|S6CJ88_LACCA			17	K00381	1
+tr|S6C7X7|S6C7X7_LACCA			189	K03639	4
+tr|S6BTJ3|S6BTJ3_LACCA	K09861	uncharacterized protein	221		
+tr|S6CAT9|S6CAT9_LACCA			210	K15975	32
+tr|S6C0U7|S6C0U7_LACCA	K01992	ABC-2.P; ABC-2 type transport system permease protein	186		
+tr|S6BQN3|S6BQN3_LACCA			132		
+tr|S6C6U8|S6C6U8_LACCA	K03502	DPO5C; DNA polymerase V	366		
+tr|S6C9A4|S6C9A4_LACCA	K01784	galE; UDP-glucose 4-epimerase [EC:5.1.3.2]	258		
+tr|S6BPJ2|S6BPJ2_LACCA			122	K01358	24
+tr|S6BS66|S6BS66_LACCA			17	K00525	2
+tr|S6C7X5|S6C7X5_LACCA			21	K03303	1
+tr|S6CCQ7|S6CCQ7_LACCA			18	K02227	1
+tr|S6BRM2|S6BRM2_LACCA	K04487	iscS; cysteine desulfurase [EC:2.8.1.7]	374		
+tr|S6C6I4|S6C6I4_LACCA			136		
+tr|S6C7Y0|S6C7Y0_LACCA	K07386	pepO; putative endopeptidase [EC:3.4.24.-]	528		
+tr|S6C863|S6C863_LACCA	K04043	dnaK; molecular chaperone DnaK	886		
+tr|S6C5D3|S6C5D3_LACCA	K03931	ygjK; putative isomerase	644		
+tr|S6BPD6|S6BPD6_LACCA			131		
+tr|S6C6W3|S6C6W3_LACCA			372		
+tr|S6BQT5|S6BQT5_LACCA			163		
+tr|S6BXI7|S6BXI7_LACCA	K15051	endA; DNA-entry nuclease	179		
+tr|S6BX10|S6BX10_LACCA	K07404	pgl; 6-phosphogluconolactonase [EC:3.1.1.31]	279		
+tr|S6CBU1|S6CBU1_LACCA			310		
+tr|S6BY32|S6BY32_LACCA			116		
+tr|S6BXK2|S6BXK2_LACCA	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	649		
+tr|S6BY00|S6BY00_LACCA	K01873	VARS; valyl-tRNA synthetase [EC:6.1.1.9]	1221		
+tr|S6CJA7|S6CJA7_LACCA	K07566	tsaC; L-threonylcarbamoyladenylate synthase [EC:2.7.7.87]	319		
+tr|S6BVS0|S6BVS0_LACCA			264		
+tr|S6C1N7|S6C1N7_LACCA			101		
+tr|S6C9R8|S6C9R8_LACCA	K18682	rny; ribonucrease Y [EC:3.1.-.-]	638		
+tr|S6C079|S6C079_LACCA	K07118	uncharacterized protein	81		
+tr|S6CIU9|S6CIU9_LACCA	K12373	HEXA_B; hexosaminidase [EC:3.2.1.52]	167		
+tr|S6CK24|S6CK24_LACCA	K06885	uncharacterized protein	562		
+tr|S6CJD3|S6CJD3_LACCA			55	K02656	2
+tr|S6C9Y3|S6C9Y3_LACCA	K02111	ATPF1A; F-type H+-transporting ATPase subunit alpha [EC:3.6.3.14]	788		
+tr|S6CJL2|S6CJL2_LACCA			255		
+tr|S6CJI1|S6CJI1_LACCA			322		
+tr|S6C0I2|S6C0I2_LACCA	K07024	uncharacterized protein	131		
+tr|S6CB00|S6CB00_LACCA			20	K01999	1
+tr|S6CJJ3|S6CJJ3_LACCA			257		
+tr|S6BY85|S6BY85_LACCA	K00784	rnz; ribonuclease Z [EC:3.1.26.11]	369		
+tr|S6CBY5|S6CBY5_LACCA			410		
+tr|S6CAZ5|S6CAZ5_LACCA			21	K02503	2
+tr|S6CAX8|S6CAX8_LACCA			21	K01785	3
+tr|S6CK60|S6CK60_LACCA			123	K03273	24
+tr|S6BY93|S6BY93_LACCA	K00850	pfkA; 6-phosphofructokinase 1 [EC:2.7.1.11]	439		
+tr|S6CA27|S6CA27_LACCA			933		
+tr|S6C2H4|S6C2H4_LACCA	K02745	PTS-Aga-EIIB; PTS system, N-acetylgalactosamine-specific IIB component [EC:2.7.1.-]	81	K10984	19
+tr|S6CK74|S6CK74_LACCA	K02029	ABC.PA.P; polar amino acid transport system permease protein	478		
+	K02030	ABC.PA.S; polar amino acid transport system substrate-binding protein			
+tr|S6C1Q5|S6C1Q5_LACCA			157		
+tr|S6CK36|S6CK36_LACCA			239		
+tr|S6CJP5|S6CJP5_LACCA	K02913	RP-L33; large subunit ribosomal protein L33	66		
+tr|S6CAG9|S6CAG9_LACCA			241		
+tr|S6BYN6|S6BYN6_LACCA			20	K01057	1
+tr|S6CK31|S6CK31_LACCA	K06910	uncharacterized protein	135		
+tr|S6C9K2|S6C9K2_LACCA			16	K02109	1
+tr|S6CJ10|S6CJ10_LACCA	K11065	tpx; thiol peroxidase, atypical 2-Cys peroxiredoxin [EC:1.11.1.15]	141		
+tr|S6CK37|S6CK37_LACCA			304	K06147	26
+tr|S6CJV7|S6CJV7_LACCA	K03789	rimI; ribosomal-protein-alanine N-acetyltransferase [EC:2.3.1.128]	119		
+tr|S6CJM2|S6CJM2_LACCA	K02503	HINT1; histidine triad (HIT) family protein	175		
+tr|S6C8P1|S6C8P1_LACCA			15	K02500	3
+tr|S6C8K6|S6C8K6_LACCA			710	K07464	69
+tr|S6CBN6|S6CBN6_LACCA	K08369	ydjE; MFS transporter, putative metabolite:H+ symporter	476		
+tr|S6BWG8|S6BWG8_LACCA			17	K01567	1
+tr|S6C8M1|S6C8M1_LACCA			437	K20265	103
+tr|S6C0Q9|S6C0Q9_LACCA	K02078	acpP; acyl carrier protein	71		
+tr|S6C9X0|S6C9X0_LACCA	K01265	map; methionyl aminopeptidase [EC:3.4.11.18]	315		
+tr|S6CJA4|S6CJA4_LACCA			348		
+tr|S6BVX9|S6BVX9_LACCA	K02793	PTS-Man-EIIA; PTS system, mannose-specific IIA component [EC:2.7.1.191]	429		
+	K02794	PTS-Man-EIIB; PTS system, mannose-specific IIB component [EC:2.7.1.191]			
+tr|S6BWA5|S6BWA5_LACCA			16	K02575	2
+tr|S6CA17|S6CA17_LACCA			17	K03571	5
+tr|S6CA94|S6CA94_LACCA			219		
+tr|S6BSU8|S6BSU8_LACCA	K06878	tRNA-binding protein	170		
+tr|S6CC82|S6CC82_LACCA			231		
+tr|S6BSZ7|S6BSZ7_LACCA			18	K01874	3
+tr|S6CAT7|S6CAT7_LACCA			118		
+tr|S6BYL6|S6BYL6_LACCA			311		
+tr|S6BVP2|S6BVP2_LACCA			197		
+tr|S6BVY3|S6BVY3_LACCA	K08177	oxlT; MFS transporter, OFA family, oxalate/formate antiporter	448		
+tr|S6CIY3|S6CIY3_LACCA			22	K02867	2
+tr|S6CC79|S6CC79_LACCA	K12410	npdA; NAD-dependent deacetylase [EC:3.5.1.-]	208		
+tr|S6CJ63|S6CJ63_LACCA	K02836	prfB; peptide chain release factor 2	432		
+tr|S6CAU4|S6CAU4_LACCA			112		
+tr|S6C2X4|S6C2X4_LACCA			24	K09690	1
+tr|S6BYH9|S6BYH9_LACCA	K06180	rluD; 23S rRNA pseudouridine1911/1915/1917 synthase [EC:5.4.99.23]	375		
+tr|S6CJ13|S6CJ13_LACCA			107	K03654	4
+tr|S6C6T0|S6C6T0_LACCA			327		
+tr|S6C5B5|S6C5B5_LACCA	K02794	PTS-Man-EIIB; PTS system, mannose-specific IIB component [EC:2.7.1.191]	177		
+tr|S6BR18|S6BR18_LACCA			16	K01439	2
+tr|S6BR22|S6BR22_LACCA	K00571	E2.1.1.72; site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]	262		
+tr|S6BQX1|S6BQX1_LACCA	K12574	rnj; ribonuclease J [EC:3.1.-.-]	78		
+tr|S6C7A4|S6C7A4_LACCA	K02112	ATPF1B; F-type H+-transporting ATPase subunit beta [EC:3.6.3.14]	743		
+tr|S6CIS7|S6CIS7_LACCA			219		
+tr|S6CAU9|S6CAU9_LACCA			68		
+tr|S6CAY9|S6CAY9_LACCA	K02787	PTS-Lac-EIIB; PTS system, lactose-specific IIB component [EC:2.7.1.207]	532		
+	K02788	PTS-Lac-EIIC; PTS system, lactose-specific IIC component			
+tr|S6CJQ0|S6CJQ0_LACCA			77	K09017	20
+tr|S6BVF1|S6BVF1_LACCA	K00010	iolG; myo-inositol 2-dehydrogenase / D-chiro-inositol 1-dehydrogenase [EC:1.1.1.18 1.1.1.369]	316		
+tr|S6CJA1|S6CJA1_LACCA	K19005	ltaS; lipoteichoic acid synthase [EC:2.7.8.20]	678		
+tr|S6CJ84|S6CJ84_LACCA	K11737	cycA; D-serine/D-alanine/glycine transporter	287	K03293	65
+tr|S6CAE1|S6CAE1_LACCA	K09761	rsmE; 16S rRNA (uracil1498-N3)-methyltransferase [EC:2.1.1.193]	172		
+tr|S6C8L0|S6C8L0_LACCA	K01443	nagA; N-acetylglucosamine-6-phosphate deacetylase [EC:3.5.1.25]	427		
+tr|S6CJ70|S6CJ70_LACCA			16	K09861	1
+tr|S6CJD5|S6CJD5_LACCA	K00161	PDHA; pyruvate dehydrogenase E1 component alpha subunit [EC:1.2.4.1]	498		
+tr|S6CJY5|S6CJY5_LACCA			774		
+tr|S6CIS9|S6CIS9_LACCA			18	K02003	2
+tr|S6C9X4|S6C9X4_LACCA			116		
+tr|S6CJ14|S6CJ14_LACCA	K07173	luxS; S-ribosylhomocysteine lyase [EC:4.4.1.21]	235		
+tr|S6CAW8|S6CAW8_LACCA	K16789	thiT; thiamine transporter	146		
+tr|S6C5M3|S6C5M3_LACCA			17	K15371	1
+tr|S6C4X3|S6C4X3_LACCA	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	89		
+tr|S6CB39|S6CB39_LACCA			140		
+tr|S6CBE1|S6CBE1_LACCA	K07979	ytrA; GntR family transcriptional regulator	132		
+tr|S6CJJ9|S6CJJ9_LACCA	K00949	thiN; thiamine pyrophosphokinase [EC:2.7.6.2]	159		
+tr|S6BX22|S6BX22_LACCA	K02242	comFC; competence protein ComFC	69		
+tr|S6C9N6|S6C9N6_LACCA			14	K02357	4
+tr|S6C2H6|S6C2H6_LACCA	K01815	kduI; 4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase [EC:5.3.1.17]	362		
+tr|S6CJ52|S6CJ52_LACCA			133		
+tr|S6CBZ4|S6CBZ4_LACCA	K02871	RP-L13; large subunit ribosomal protein L13	214		
+tr|S6CB08|S6CB08_LACCA			38	K07483	34
+tr|S6BRY8|S6BRY8_LACCA	K01419	hslV; ATP-dependent HslUV protease, peptidase subunit HslV [EC:3.4.25.2]	215		
+tr|S6BVB2|S6BVB2_LACCA	K00882	fruK; 1-phosphofructokinase [EC:2.7.1.56]	151	K16370	28
+tr|S6BQZ8|S6BQZ8_LACCA			16	K01693	1
+tr|S6C6P7|S6C6P7_LACCA	K01803	TPI; triosephosphate isomerase (TIM) [EC:5.3.1.1]	323		
+tr|S6C5A6|S6C5A6_LACCA			21	K00797	1
+tr|S6CAM6|S6CAM6_LACCA			66	K12373	8
+tr|S6BS46|S6BS46_LACCA			21	K01940	4
+tr|S6BTG7|S6BTG7_LACCA			24	K03451	1
+tr|S6BX74|S6BX74_LACCA	K03648	UNG; uracil-DNA glycosylase [EC:3.2.2.27]	296		
+tr|S6BYY7|S6BYY7_LACCA	K03110	ftsY; fused signal recognition particle receptor	406		
+tr|S6C893|S6C893_LACCA			116		
+tr|S6BW83|S6BW83_LACCA			51	K10947	20
+tr|S6C9G6|S6C9G6_LACCA	K06881	nrnA; bifunctional oligoribonuclease and PAP phosphatase NrnA [EC:3.1.3.7 3.1.13.3]	311		
+tr|S6CAH9|S6CAH9_LACCA	K03106	SRP54; signal recognition particle subunit SRP54 [EC:3.6.5.4]	622		
+tr|S6CBA7|S6CBA7_LACCA			142		
+tr|S6BW24|S6BW24_LACCA	K10985	PTS-Gam-EIIC; PTS system, galactosamine-specific IIC component	303		
+tr|S6CB53|S6CB53_LACCA	K12992	rfbN; rhamnosyltransferase [EC:2.4.1.-]	147		
+tr|S6CJS4|S6CJS4_LACCA			23	K00566	1
+tr|S6BVW1|S6BVW1_LACCA			22	K18893	1
+tr|S6C8Q7|S6C8Q7_LACCA			17	K06152	1
+tr|S6CK29|S6CK29_LACCA			16	K00339	2
+tr|S6CJK5|S6CJK5_LACCA	K01281	pepX; X-Pro dipeptidyl-peptidase [EC:3.4.14.11]	465		
+tr|S6CJD9|S6CJD9_LACCA	K02968	RP-S20; small subunit ribosomal protein S20	86		
+tr|S6BW37|S6BW37_LACCA			20	K01778	1
+tr|S6CBW7|S6CBW7_LACCA			19	K10015	9
+tr|S6BNU9|S6BNU9_LACCA	K07457	endonuclease III related protein	156		
+tr|S6C6U5|S6C6U5_LACCA			119	K03824	9
+tr|S6C7V5|S6C7V5_LACCA			72		
+tr|S6BV56|S6BV56_LACCA	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	164		
+tr|S6C6M2|S6C6M2_LACCA	K08972	putative membrane protein	75		
+tr|S6CA92|S6CA92_LACCA	K03076	secY; preprotein translocase subunit SecY	501		
+tr|S6C6V1|S6C6V1_LACCA	K01972	E6.5.1.2; DNA ligase (NAD+) [EC:6.5.1.2]	735		
+tr|S6BUT4|S6BUT4_LACCA			17	K15727	1
+tr|S6C317|S6C317_LACCA			222		
+tr|S6CJJ6|S6CJJ6_LACCA			22	K07052	1
+tr|S6CJA8|S6CJA8_LACCA	K02109	ATPF0B; F-type H+-transporting ATPase subunit b	103		
+tr|S6CAX9|S6CAX9_LACCA			138		
+tr|S6CK25|S6CK25_LACCA			64	K01551	2
+tr|S6CJW6|S6CJW6_LACCA			184		
+tr|S6C9W9|S6C9W9_LACCA	K19689	ampS; aminopeptidase [EC:3.4.11.-]	435		
+tr|S6CJ44|S6CJ44_LACCA			147		
+tr|S6CK18|S6CK18_LACCA	K07571	S1 RNA binding domain protein	136		
+tr|S6CIW7|S6CIW7_LACCA	K01915	glnA; glutamine synthetase [EC:6.3.1.2]	193		
+tr|S6BYD6|S6BYD6_LACCA	K08591	plsY; glycerol-3-phosphate acyltransferase PlsY [EC:2.3.1.15]	168		
+tr|S6BW91|S6BW91_LACCA	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	11		
+tr|S6CJ47|S6CJ47_LACCA			35	K13583	3
+tr|S6CJZ4|S6CJZ4_LACCA			65		
+tr|S6C958|S6C958_LACCA			351		
+tr|S6CK69|S6CK69_LACCA			169		
+tr|S6CJD2|S6CJD2_LACCA	K04487	iscS; cysteine desulfurase [EC:2.8.1.7]	398		
+tr|S6C2U7|S6C2U7_LACCA	K03741	ARSC2; arsenate reductase [EC:1.20.4.1]	91		
+tr|S6BVR1|S6BVR1_LACCA			269	K03292	26
+tr|S6CA78|S6CA78_LACCA			134		
+tr|S6CAX0|S6CAX0_LACCA	K03697	clpE; ATP-dependent Clp protease ATP-binding subunit ClpE	957		
+tr|S6CA43|S6CA43_LACCA	K11085	msbA; ATP-binding cassette, subfamily B, bacterial MsbA [EC:3.6.3.-]	368		
+tr|S6C9T2|S6C9T2_LACCA			20	K00766	6
+tr|S6CJG8|S6CJG8_LACCA			198		
+tr|S6CJN6|S6CJN6_LACCA			22	K03629	2
+tr|S6BWB9|S6BWB9_LACCA			186	K07497	16
+tr|S6CAZ3|S6CAZ3_LACCA			29	K00799	1
+tr|S6CJV1|S6CJV1_LACCA			13	K00748	9
+tr|S6BVV0|S6BVV0_LACCA			205		
+tr|S6C8C9|S6C8C9_LACCA			15	K13525	2
+tr|S6CIU6|S6CIU6_LACCA	K01619	deoC; deoxyribose-phosphate aldolase [EC:4.1.2.4]	256		
+tr|S6CJR6|S6CJR6_LACCA			298		
+tr|S6CJD4|S6CJD4_LACCA			78		
+tr|S6C0K1|S6C0K1_LACCA	K00067	rfbD; dTDP-4-dehydrorhamnose reductase [EC:1.1.1.133]	335		
+tr|S6CJM5|S6CJM5_LACCA	K16509	spxA; regulatory protein spx	196		
+tr|S6BZY8|S6BZY8_LACCA			16	K01585	2
+tr|S6CJB3|S6CJB3_LACCA			269		
+tr|S6CB12|S6CB12_LACCA			27	K01195	1
+tr|S6CJU4|S6CJU4_LACCA	K00259	ald; alanine dehydrogenase [EC:1.4.1.1]	361		
+tr|S6C9X3|S6C9X3_LACCA			230		
+tr|S6C8C6|S6C8C6_LACCA			134		
+tr|S6CJP3|S6CJP3_LACCA	K01875	SARS; seryl-tRNA synthetase [EC:6.1.1.11]	532		
+tr|S6BV96|S6BV96_LACCA	K06950	uncharacterized protein	181		
+tr|S6BNZ6|S6BNZ6_LACCA	K03338	iolC; 5-dehydro-2-deoxygluconokinase [EC:2.7.1.92]	232		
+tr|S6C631|S6C631_LACCA			53	K01874	4
+tr|S6BNY3|S6BNY3_LACCA	K03497	parB; chromosome partitioning protein, ParB family	316		
+tr|S6C859|S6C859_LACCA			114		
+tr|S6BPE1|S6BPE1_LACCA	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	183		
+tr|S6C9F5|S6C9F5_LACCA	K02372	fabZ; 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59]	125		
+tr|S6CA51|S6CA51_LACCA	K06199	crcB; CrcB protein	53		
+tr|S6CCT2|S6CCT2_LACCA	K07407	E3.2.1.22B; alpha-galactosidase [EC:3.2.1.22]	413		
+tr|S6C6K5|S6C6K5_LACCA			18	K03724	1
+tr|S6BV36|S6BV36_LACCA			70	K14761	8
+tr|S6BUH7|S6BUH7_LACCA			18	K20345	4
+tr|S6C5S6|S6C5S6_LACCA	K00849	galK; galactokinase [EC:2.7.1.6]	443		
+tr|S6C9N0|S6C9N0_LACCA	K04077	groEL; chaperonin GroEL	787		
+tr|S6CA30|S6CA30_LACCA			16	K13688	9
+tr|S6BUL3|S6BUL3_LACCA			21	K01998	3
+tr|S6BSQ9|S6BSQ9_LACCA			16	K07040	10
+tr|S6C976|S6C976_LACCA			116		
+tr|S6BV07|S6BV07_LACCA	K00760	hprT; hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]	192	K15780	48
+tr|S6BT99|S6BT99_LACCA	K01772	hemH; ferrochelatase [EC:4.99.1.1]	231		
+tr|S6BQ35|S6BQ35_LACCA	K00027	ME2; malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]	741		
+tr|S6C9E7|S6C9E7_LACCA	K01961	accC; acetyl-CoA carboxylase, biotin carboxylase subunit [EC:6.4.1.2 6.3.4.14]	490		
+tr|S6BTD3|S6BTD3_LACCA	K10041	ABC.GLN1.A; putative glutamine transport system ATP-binding protein [EC:3.6.3.-]	318		
+tr|S6BS49|S6BS49_LACCA	K01597	MVD; diphosphomevalonate decarboxylase [EC:4.1.1.33]	256		
+tr|S6C800|S6C800_LACCA	K01821	praC; 4-oxalocrotonate tautomerase [EC:5.3.2.6]	60		
+tr|S6BVD5|S6BVD5_LACCA	K01818	fucI; L-fucose/D-arabinose isomerase [EC:5.3.1.25 5.3.1.3]	829		
+tr|S6BU98|S6BU98_LACCA	K09747	uncharacterized protein	88		
+tr|S6BNJ0|S6BNJ0_LACCA	K02963	RP-S18; small subunit ribosomal protein S18	130		
+tr|S6CAM2|S6CAM2_LACCA			116	K07787	4
+tr|S6C5D0|S6C5D0_LACCA	K12111	ebgA; evolved beta-galactosidase subunit alpha [EC:3.2.1.23]	512	K01190	53
+tr|S6BNS0|S6BNS0_LACCA			163	K07484	16
+tr|S6C2Y1|S6C2Y1_LACCA			18	K03555	1
+tr|S6C2N1|S6C2N1_LACCA	K00874	kdgK; 2-dehydro-3-deoxygluconokinase [EC:2.7.1.45]	362		
+tr|S6CBW9|S6CBW9_LACCA			25	K05896	1
+tr|S6CAD3|S6CAD3_LACCA	K06217	phoH; phosphate starvation-inducible protein PhoH and related proteins	401		
+tr|S6CJD8|S6CJD8_LACCA	K07177	Lon-like protease	183		
+tr|S6C5W5|S6C5W5_LACCA			18	K00333	2
+tr|S6BQ57|S6BQ57_LACCA	K03551	ruvB; holliday junction DNA helicase RuvB [EC:3.6.4.12]	417		
+tr|S6C2H1|S6C2H1_LACCA	K01629	rhaD; rhamnulose-1-phosphate aldolase [EC:4.1.2.19]	329		
+tr|S6BY29|S6BY29_LACCA			21	K04043	4
+tr|S6CIR2|S6CIR2_LACCA	K01586	lysA; diaminopimelate decarboxylase [EC:4.1.1.20]	495		
+tr|S6BW15|S6BW15_LACCA	K00105	E1.1.3.21; alpha-glycerophosphate oxidase [EC:1.1.3.21]	564	K00111	153
+tr|S6C233|S6C233_LACCA	K02069	ABC.X2.P; putative ABC transport system permease protein	281		
+tr|S6CJ69|S6CJ69_LACCA			61	K07496	2
+tr|S6CAU6|S6CAU6_LACCA			140		
+tr|S6CJ29|S6CJ29_LACCA			51	K03737	2
+tr|S6CA36|S6CA36_LACCA			157	K08316	36
+tr|S6C629|S6C629_LACCA	K00036	G6PD; glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49 1.1.1.363]	536		
+tr|S6C6B9|S6C6B9_LACCA			17	K03091	2
+tr|S6C7G9|S6C7G9_LACCA	K03609	minD; septum site-determining protein MinD	327		
+tr|S6BP97|S6BP97_LACCA			210		
+tr|S6C5P9|S6C5P9_LACCA	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	260		
+tr|S6C6P0|S6C6P0_LACCA			38	K20276	1
+tr|S6CA72|S6CA72_LACCA			16	K02886	2
+tr|S6BQY1|S6BQY1_LACCA	K06925	tsaE; tRNA threonylcarbamoyladenosine biosynthesis protein TsaE	137		
+tr|S6C6U2|S6C6U2_LACCA			13	K01937	4
+tr|S6CCL0|S6CCL0_LACCA			437		
+tr|S6C889|S6C889_LACCA	K03060	rpoZ; DNA-directed RNA polymerase subunit omega [EC:2.7.7.6]	73		
+tr|S6BUW2|S6BUW2_LACCA	K00939	adk; adenylate kinase [EC:2.7.4.3]	292		
+tr|S6CK35|S6CK35_LACCA					
+tr|S6BVV6|S6BVV6_LACCA			632		
+tr|S6BVN3|S6BVN3_LACCA			22	K03763	9
+tr|S6C8Y3|S6C8Y3_LACCA			192		
+tr|S6CBY3|S6CBY3_LACCA			130		
+tr|S6C284|S6C284_LACCA	K01223	E3.2.1.86B; 6-phospho-beta-glucosidase [EC:3.2.1.86]	398		
+tr|S6C034|S6C034_LACCA			111		
+tr|S6CK59|S6CK59_LACCA	K11741	sugE; quaternary ammonium compound-resistance protein SugE	134		
+tr|S6CK42|S6CK42_LACCA			301		
+tr|S6CJD0|S6CJD0_LACCA	K01870	IARS; isoleucyl-tRNA synthetase [EC:6.1.1.5]	1227		
+tr|S6BPH1|S6BPH1_LACCA			33	K02315	11
+tr|S6BV70|S6BV70_LACCA	K01524	ppx-gppA; exopolyphosphatase / guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase [EC:3.6.1.11 3.6.1.40]	244		
+tr|S6C639|S6C639_LACCA	K03740	dltD; D-alanine transfer protein	336		
+tr|S6CAJ3|S6CAJ3_LACCA	K03469	rnhA; ribonuclease HI [EC:3.1.26.4]	124		
+tr|S6BQK5|S6BQK5_LACCA			424		
+tr|S6CA46|S6CA46_LACCA					
+tr|S6CCN2|S6CCN2_LACCA	K03205	virD4; type IV secretion system protein VirD4	53		
+tr|S6C5Q9|S6C5Q9_LACCA	K00262	E1.4.1.4; glutamate dehydrogenase (NADP+) [EC:1.4.1.4]	561		
+tr|S6BUG4|S6BUG4_LACCA			19	K00991	1
+tr|S6CAW1|S6CAW1_LACCA			262		
+tr|S6CJS2|S6CJS2_LACCA	K15580	oppA; oligopeptide transport system substrate-binding protein	414		
+tr|S6BXA2|S6BXA2_LACCA			214		
+tr|S6BYG4|S6BYG4_LACCA			308		
+tr|S6CJF8|S6CJF8_LACCA	K08217	mef; MFS transporter, DHA3 family, macrolide efflux protein	60		
+tr|S6CJF5|S6CJF5_LACCA			297		
+tr|S6CJL0|S6CJL0_LACCA			21	K02456	1
+tr|S6CJK9|S6CJK9_LACCA	K07082	UPF0755 protein	317		
+tr|S6CIZ5|S6CIZ5_LACCA	K01784	galE; UDP-glucose 4-epimerase [EC:5.1.3.2]	458		
+tr|S6BYQ1|S6BYQ1_LACCA			24	K06980	1
+tr|S6CK00|S6CK00_LACCA			19	K07133	1
+tr|S6CIX0|S6CIX0_LACCA			112		
+tr|S6C9U4|S6C9U4_LACCA	K00625	E2.3.1.8; phosphate acetyltransferase [EC:2.3.1.8]	406		
+tr|S6C9X6|S6C9X6_LACCA	K05340	glcU; glucose uptake protein	279		
+tr|S6C7U8|S6C7U8_LACCA			271		
+tr|S6CCI7|S6CCI7_LACCA			142		
+tr|S6BTM3|S6BTM3_LACCA	K00059	fabG; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	250		
+tr|S6CBV2|S6CBV2_LACCA			18	K05989	4
+tr|S6BX86|S6BX86_LACCA	K01992	ABC-2.P; ABC-2 type transport system permease protein	264		
+tr|S6C096|S6C096_LACCA			21	K12452	2
+tr|S6BRH2|S6BRH2_LACCA			19	K08369	2
+tr|S6C0N0|S6C0N0_LACCA	K01791	wecB; UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	497		
+tr|S6C9W2|S6C9W2_LACCA			22	K03308	2
+tr|S6CJY4|S6CJY4_LACCA	K03322	mntH; manganese transport protein	354		
+tr|S6C2I5|S6C2I5_LACCA			373		
+tr|S6BXV1|S6BXV1_LACCA			28	K02897	2
+tr|S6C1G4|S6C1G4_LACCA					
+tr|S6CAB2|S6CAB2_LACCA			13	K15987	3
+tr|S6CJ82|S6CJ82_LACCA	K02243	comGA; competence protein ComGA	179		
+tr|S6CA23|S6CA23_LACCA			260		
+tr|S6CAU7|S6CAU7_LACCA	K02335	DPO1; DNA polymerase I [EC:2.7.7.7]	967		
+tr|S6CJV5|S6CJV5_LACCA	K04078	groES; chaperonin GroES	120		
+tr|S6C512|S6C512_LACCA			15	K01714	2
+tr|S6BUE1|S6BUE1_LACCA	K03218	rlmB; 23S rRNA (guanosine2251-2'-O)-methyltransferase [EC:2.1.1.185]	285		
+tr|S6C682|S6C682_LACCA			86		
+tr|S6C6T8|S6C6T8_LACCA			254		
+tr|S6BSX0|S6BSX0_LACCA			20	K00647	3
+tr|S6BT41|S6BT41_LACCA	K04758	feoA; ferrous iron transport protein A	81		
+tr|S6C818|S6C818_LACCA			110		
+tr|S6CA55|S6CA55_LACCA			202	K01990	49
+tr|S6C725|S6C725_LACCA	K15634	gpmB; probable phosphoglycerate mutase [EC:5.4.2.12]	66		
+tr|S6BR45|S6BR45_LACCA			54	K02010	2
+tr|S6C9H5|S6C9H5_LACCA	K00928	lysC; aspartate kinase [EC:2.7.2.4]	335		
+tr|S6C6Q5|S6C6Q5_LACCA	K00691	E2.4.1.8; maltose phosphorylase [EC:2.4.1.8]	855		
+tr|S6C7J4|S6C7J4_LACCA	K01243	mtnN; adenosylhomocysteine nucleosidase [EC:3.2.2.9]	211		
+tr|S6CCK2|S6CCK2_LACCA			115		
+tr|S6C5H5|S6C5H5_LACCA	K05878	dhaK; dihydroxyacetone kinase, N-terminal domain [EC:2.7.1.-]	338		
+tr|S6C6W9|S6C6W9_LACCA			390		
+tr|S6BRL0|S6BRL0_LACCA			507	K03529	5
+tr|S6BR63|S6BR63_LACCA			287		
+tr|S6C7X1|S6C7X1_LACCA	K02824	pyrP; uracil permease	553		
+tr|S6BTQ8|S6BTQ8_LACCA			19	K02557	2
+tr|S6C9M7|S6C9M7_LACCA	K06287	maf; septum formation protein	152		
+tr|S6BS74|S6BS74_LACCA			17	K03406	1
+tr|S6C9G2|S6C9G2_LACCA			103		
+tr|S6CBB9|S6CBB9_LACCA	K02002	proX; glycine betaine/proline transport system substrate-binding protein	299		
+tr|S6CJY3|S6CJY3_LACCA			278		
+tr|S6CIS2|S6CIS2_LACCA			15	K03561	4
+tr|S6CBX1|S6CBX1_LACCA			68	K06926	36
+tr|S6C2C6|S6C2C6_LACCA			359		
+tr|S6C928|S6C928_LACCA			18	K01495	1
+tr|S6CAA3|S6CAA3_LACCA	K00869	E2.7.1.36; mevalonate kinase [EC:2.7.1.36]	214		
+tr|S6CJC0|S6CJC0_LACCA	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	14	K06861	8
+tr|S6CCA0|S6CCA0_LACCA	K07024	uncharacterized protein	115		
+tr|S6CJL6|S6CJL6_LACCA	K00656	E2.3.1.54; formate C-acetyltransferase [EC:2.3.1.54]	196		
+tr|S6C030|S6C030_LACCA			378		
+tr|S6CIZ4|S6CIZ4_LACCA	K02440	GLPF; glycerol uptake facilitator protein	306		
+tr|S6CB43|S6CB43_LACCA	K00826	E2.6.1.42; branched-chain amino acid aminotransferase [EC:2.6.1.42]	459		
+tr|S6C1V8|S6C1V8_LACCA	K02886	RP-L2; large subunit ribosomal protein L2	417		
+tr|S6CAU5|S6CAU5_LACCA	K11144	dnaI; primosomal protein DnaI	276		
+tr|S6C8D6|S6C8D6_LACCA			20	K01462	1
+tr|S6BVE8|S6BVE8_LACCA	K03338	iolC; 5-dehydro-2-deoxygluconokinase [EC:2.7.1.92]	126		
+tr|S6BVW6|S6BVW6_LACCA	K02029	ABC.PA.P; polar amino acid transport system permease protein	447		
+	K02030	ABC.PA.S; polar amino acid transport system substrate-binding protein			
+tr|S6CBP1|S6CBP1_LACCA	K02867	RP-L11; large subunit ribosomal protein L11	238		
+tr|S6CBY0|S6CBY0_LACCA			559		
+tr|S6C880|S6C880_LACCA			22	K02298	1
+tr|S6CJP6|S6CJP6_LACCA	K05966	citG; triphosphoribosyl-dephospho-CoA synthase [EC:2.4.2.52]	63	K13930	34
+tr|S6C9X8|S6C9X8_LACCA			181		
+tr|S6BWA9|S6BWA9_LACCA	K03536	rnpA; ribonuclease P protein component [EC:3.1.26.5]	128		
+tr|S6C1R6|S6C1R6_LACCA	K02996	RP-S9; small subunit ribosomal protein S9	205		
+tr|S6CJ60|S6CJ60_LACCA			331		
+tr|S6C8N4|S6C8N4_LACCA	K01182	IMA; oligo-1,6-glucosidase [EC:3.2.1.10]	488		
+tr|S6CJC6|S6CJC6_LACCA	K02029	ABC.PA.P; polar amino acid transport system permease protein	240		
+tr|S6BP29|S6BP29_LACCA			190		
+tr|S6BUH4|S6BUH4_LACCA			120		
+tr|S6BR11|S6BR11_LACCA			142		
+tr|S6BP25|S6BP25_LACCA			320		
+tr|S6CAC6|S6CAC6_LACCA	K03723	mfd; transcription-repair coupling factor (superfamily II helicase) [EC:3.6.4.-]	1235		
+tr|S6C7R3|S6C7R3_LACCA	K03654	recQ; ATP-dependent DNA helicase RecQ [EC:3.6.4.12]	313		
+tr|S6BW03|S6BW03_LACCA			119		
+tr|S6CAE7|S6CAE7_LACCA			15	K01840	4
+tr|S6CJP9|S6CJP9_LACCA	K10947	padR; PadR family transcriptional regulator, regulatory protein PadR	106		
+tr|S6C2B6|S6C2B6_LACCA			15	K01969	1
+tr|S6CA91|S6CA91_LACCA	K06131	clsA_B; cardiolipin synthase A/B [EC:2.7.8.-]	463		
+tr|S6CB21|S6CB21_LACCA	K03665	hflX; GTPase	407		
+tr|S6CIR8|S6CIR8_LACCA			20	K04564	2
+tr|S6C8U9|S6C8U9_LACCA			220		
+tr|S6CBF8|S6CBF8_LACCA			14	K01937	4
+tr|S6CA49|S6CA49_LACCA	K07124	uncharacterized protein	234		
+tr|S6CJB8|S6CJB8_LACCA	K01607	pcaC; 4-carboxymuconolactone decarboxylase [EC:4.1.1.44]	120		
+tr|S6C8A8|S6C8A8_LACCA	K02899	RP-L27; large subunit ribosomal protein L27	155		
+tr|S6C6F0|S6C6F0_LACCA			299		
+tr|S6C6D9|S6C6D9_LACCA			16	K00764	1
+tr|S6CA20|S6CA20_LACCA	K03549	kup; KUP system potassium uptake protein	107		
+tr|S6CA42|S6CA42_LACCA			20	K00951	6
+tr|S6C9N9|S6C9N9_LACCA	K01409	KAE1; N6-L-threonylcarbamoyladenine synthase [EC:2.3.1.234]	451		
+tr|S6CAB4|S6CAB4_LACCA	K03046	rpoC; DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]	1851		
+tr|S6CJ38|S6CJ38_LACCA			193		
+tr|S6C6E3|S6C6E3_LACCA			55		
+tr|S6C7G0|S6C7G0_LACCA			107		
+tr|S6CC70|S6CC70_LACCA	K03424	tatD; TatD DNase family protein [EC:3.1.21.-]	281		
+tr|S6C2E1|S6C2E1_LACCA	K00848	rhaB; rhamnulokinase [EC:2.7.1.5]	103		
+tr|S6BTL4|S6BTL4_LACCA					
+tr|S6C8T5|S6C8T5_LACCA			128		
+tr|S6BW95|S6BW95_LACCA	K02004	ABC.CD.P; putative ABC transport system permease protein	201		
+tr|S6C8M4|S6C8M4_LACCA			15	K06911	4
+tr|S6C099|S6C099_LACCA	K06180	rluD; 23S rRNA pseudouridine1911/1915/1917 synthase [EC:5.4.99.23]	157	K06177	41
+tr|S6CBU6|S6CBU6_LACCA			152		
+tr|S6CJV8|S6CJV8_LACCA			76	K01071	24
+tr|S6BZ67|S6BZ67_LACCA			167	K11622	22
+tr|S6CJ53|S6CJ53_LACCA			65		
+tr|S6BX55|S6BX55_LACCA	K05311	cggR; central glycolytic genes regulator	325		
+tr|S6CIZ3|S6CIZ3_LACCA	K01223	E3.2.1.86B; 6-phospho-beta-glucosidase [EC:3.2.1.86]	707		
+tr|S6BNP6|S6BNP6_LACCA	K05823	E3.5.1.47; N-acetyldiaminopimelate deacetylase [EC:3.5.1.47]	419		
+tr|S6BV60|S6BV60_LACCA			238		
+tr|S6BQV0|S6BQV0_LACCA			274		
+tr|S6C922|S6C922_LACCA			106		
+tr|S6CAJ9|S6CAJ9_LACCA			16	K04566	3
+tr|S6C6L7|S6C6L7_LACCA	K02036	pstB; phosphate transport system ATP-binding protein [EC:3.6.3.27]	379		
+tr|S6C966|S6C966_LACCA			23	K03466	1
+tr|S6CKA6|S6CKA6_LACCA	K00640	cysE; serine O-acetyltransferase [EC:2.3.1.30]	182		
+tr|S6CK45|S6CK45_LACCA			337	K08139	30
+tr|S6BWZ4|S6BWZ4_LACCA			128	K18138	4
+tr|S6CCM6|S6CCM6_LACCA			287		
+tr|S6C268|S6C268_LACCA	K01867	WARS; tryptophanyl-tRNA synthetase [EC:6.1.1.2]	489		
+tr|S6CJK4|S6CJK4_LACCA	K07584	ysxB; uncharacterized protein	79		
+tr|S6BXW8|S6BXW8_LACCA	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	233		
+tr|S6CJ43|S6CJ43_LACCA			17	K03086	1
+tr|S6CJ67|S6CJ67_LACCA	K07023	putative hydrolases of HD superfamily	277		
+tr|S6C8I8|S6C8I8_LACCA	K08602	pepF; oligoendopeptidase F [EC:3.4.24.-]	651		
+tr|S6CJN4|S6CJN4_LACCA			200	K01153	4
+tr|S6CJ57|S6CJ57_LACCA	K07816	E2.7.6.5X; putative GTP pyrophosphokinase [EC:2.7.6.5]	295		
+tr|S6BXX6|S6BXX6_LACCA			18	K07778	2
+tr|S6CC86|S6CC86_LACCA			23	K02014	1
+tr|S6CC84|S6CC84_LACCA	K03823	pat; phosphinothricin acetyltransferase [EC:2.3.1.183]	65		
+tr|S6C8J2|S6C8J2_LACCA			17	K06287	1
+tr|S6C8P7|S6C8P7_LACCA	K01442	E3.5.1.24; choloylglycine hydrolase [EC:3.5.1.24]	149		
+tr|S6C7K7|S6C7K7_LACCA					
+tr|S6BTY0|S6BTY0_LACCA			18	K02787/K02788	2
+tr|S6BS94|S6BS94_LACCA			151		
+tr|S6BUR9|S6BUR9_LACCA			21	K01893	6
+tr|S6BPW0|S6BPW0_LACCA			19	K05577	6
+tr|S6C9H1|S6C9H1_LACCA			18	K03799	1
+tr|S6CK84|S6CK84_LACCA			14	K00639	2
+tr|S6CJ49|S6CJ49_LACCA			20	K03043	1
+tr|S6CAW9|S6CAW9_LACCA			12	K05813	8
+tr|S6C7U6|S6C7U6_LACCA	K00656	E2.3.1.54; formate C-acetyltransferase [EC:2.3.1.54]	1032		
+tr|S6C9Y9|S6C9Y9_LACCA	K02343	DPO3G; DNA polymerase III subunit gamma/tau [EC:2.7.7.7]	548		
+tr|S6BVT2|S6BVT2_LACCA			55	K02004	3
+tr|S6BYQ6|S6BYQ6_LACCA	K07042	ybeY; probable rRNA maturation factor	142		
+tr|S6CJ06|S6CJ06_LACCA			184		
+tr|S6CJC4|S6CJC4_LACCA	K01926	rex; redox-sensing transcriptional repressor	170		
+tr|S6C300|S6C300_LACCA	K00009	mtlD; mannitol-1-phosphate 5-dehydrogenase [EC:1.1.1.17]	420		
+tr|S6CAU8|S6CAU8_LACCA			17	K01867	2
+tr|S6CAN9|S6CAN9_LACCA	K03624	greA; transcription elongation factor GreA	191		
+tr|S6CB17|S6CB17_LACCA	K03657	uvrD; DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]	380		
+tr|S6BTV8|S6BTV8_LACCA	K00756	pdp; pyrimidine-nucleoside phosphorylase [EC:2.4.2.2]	454		
+tr|S6BPD0|S6BPD0_LACCA	K07010	putative glutamine amidotransferase	162		
+tr|S6BQR6|S6BQR6_LACCA			148		
+tr|S6BTR2|S6BTR2_LACCA	K00003	E1.1.1.3; homoserine dehydrogenase [EC:1.1.1.3]	253		
+tr|S6CCS8|S6CCS8_LACCA	K03217	yidC; YidC/Oxa1 family membrane protein insertase	246		
+tr|S6CK99|S6CK99_LACCA	K08969	mtnE; aminotransferase [EC:2.6.1.-]	122		
+tr|S6CA75|S6CA75_LACCA			196		
+tr|S6C9D8|S6C9D8_LACCA			287		
+tr|S6BSU4|S6BSU4_LACCA			260	K02523	4
+tr|S6BV39|S6BV39_LACCA	K03282	mscL; large conductance mechanosensitive channel	128		
+tr|S6C7W4|S6C7W4_LACCA			36	K03189	2
+tr|S6C7F7|S6C7F7_LACCA			407		
+tr|S6C7N3|S6C7N3_LACCA			24	K01006	1
+tr|S6BTW7|S6BTW7_LACCA	K01104	E3.1.3.48; protein-tyrosine phosphatase [EC:3.1.3.48]	131		
+tr|S6BQ85|S6BQ85_LACCA	K01560	E3.8.1.2; 2-haloacid dehalogenase [EC:3.8.1.2]	176		
+tr|S6BR92|S6BR92_LACCA	K01223	E3.2.1.86B; 6-phospho-beta-glucosidase [EC:3.2.1.86]	413		
+tr|S6C501|S6C501_LACCA			137		
+tr|S6CA90|S6CA90_LACCA	K02948	RP-S11; small subunit ribosomal protein S11	211		
+tr|S6BTY4|S6BTY4_LACCA			16	K12972	2
+tr|S6BRX3|S6BRX3_LACCA			143	K01874	4
+tr|S6CK83|S6CK83_LACCA	K03502	DPO5C; DNA polymerase V	151		
+tr|S6C6R5|S6C6R5_LACCA	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	351		
+tr|S6C9I6|S6C9I6_LACCA	K00925	ackA; acetate kinase [EC:2.7.2.1]	370		
+tr|S6C511|S6C511_LACCA	K15975	glyoxalase family protein	395		
+tr|S6BRA4|S6BRA4_LACCA			18	K00789	1
+tr|S6C875|S6C875_LACCA	K11749	rseP; regulator of sigma E protease [EC:3.4.24.-]	377		
+tr|S6CAH0|S6CAH0_LACCA			221		
+tr|S6CIW1|S6CIW1_LACCA			136		
+tr|S6CJR3|S6CJR3_LACCA	K01866	YARS; tyrosyl-tRNA synthetase [EC:6.1.1.1]	563		
+tr|S6CJY0|S6CJY0_LACCA			356		
+tr|S6BXL1|S6BXL1_LACCA	K00600	glyA; glycine hydroxymethyltransferase [EC:2.1.2.1]	524		
+tr|S6CKA0|S6CKA0_LACCA			147		
+tr|S6C1Q0|S6C1Q0_LACCA			657		
+tr|S6BWL1|S6BWL1_LACCA	K01776	murI; glutamate racemase [EC:5.1.1.3]	278		
+tr|S6CJT9|S6CJT9_LACCA			317		
+tr|S6C351|S6C351_LACCA			19	K00335	2
+tr|S6BNZ2|S6BNZ2_LACCA			264	K06609	122
+tr|S6CIY5|S6CIY5_LACCA			160		
+tr|S6C2I2|S6C2I2_LACCA			114		
+tr|S6CJE9|S6CJE9_LACCA			73	K19223	3
+tr|S6C1H5|S6C1H5_LACCA			219		
+tr|S6CJI2|S6CJI2_LACCA	K01876	DARS; aspartyl-tRNA synthetase [EC:6.1.1.12]	768		
+tr|S6CJ00|S6CJ00_LACCA			242		
+tr|S6C273|S6C273_LACCA	K03657	uvrD; DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]	292		
+tr|S6BV81|S6BV81_LACCA			729		
+tr|S6C2P0|S6C2P0_LACCA	K04771	degP; serine protease Do [EC:3.4.21.107]	355		
+tr|S6CA56|S6CA56_LACCA			13	K05337	3
+tr|S6C8J9|S6C8J9_LACCA	K03784	deoD; purine-nucleoside phosphorylase [EC:2.4.2.1]	284		
+tr|S6C1Y0|S6C1Y0_LACCA			77	K19784	4
+tr|S6BW57|S6BW57_LACCA			15	K03656	2
+tr|S6CB01|S6CB01_LACCA			199		
+tr|S6C9F8|S6C9F8_LACCA	K03550	ruvA; holliday junction DNA helicase RuvA [EC:3.6.4.12]	171		
+tr|S6BYJ8|S6BYJ8_LACCA	K01893	NARS; asparaginyl-tRNA synthetase [EC:6.1.1.22]	599		
+tr|S6C9T1|S6C9T1_LACCA			108		
+tr|S6CAK2|S6CAK2_LACCA	K03602	xseB; exodeoxyribonuclease VII small subunit [EC:3.1.11.6]	69		
+tr|S6C2S0|S6C2S0_LACCA			311		
+tr|S6CJC5|S6CJC5_LACCA	K03569	mreB; rod shape-determining protein MreB and related proteins	462		
+tr|S6CIZ8|S6CIZ8_LACCA	K01819	E5.3.1.26; galactose-6-phosphate isomerase [EC:5.3.1.26]	206		
+tr|S6BVW2|S6BVW2_LACCA			192		
+tr|S6BYV6|S6BYV6_LACCA	K09748	rimP; ribosome maturation factor RimP	182		
+tr|S6C9I8|S6C9I8_LACCA			165		
+tr|S6CAF7|S6CAF7_LACCA	K02495	hemN; oxygen-independent coproporphyrinogen III oxidase [EC:1.3.99.22]	429		
+tr|S6BWQ5|S6BWQ5_LACCA			12	K00027	6
+tr|S6C8W9|S6C8W9_LACCA			284		
+tr|S6CJ30|S6CJ30_LACCA			22	K01897	1
+tr|S6BW10|S6BW10_LACCA	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	125		
+tr|S6CA82|S6CA82_LACCA	K00013	hisD; histidinol dehydrogenase [EC:1.1.1.23]	440		
+tr|S6C0Z7|S6C0Z7_LACCA	K07052	uncharacterized protein	65		
+tr|S6CAY4|S6CAY4_LACCA	K01443	nagA; N-acetylglucosamine-6-phosphate deacetylase [EC:3.5.1.25]	415		
+tr|S6C8W1|S6C8W1_LACCA			19	K00766	6
+tr|S6C9Y2|S6C9Y2_LACCA	K00761	upp; uracil phosphoribosyltransferase [EC:2.4.2.9]	320		
+tr|S6CJ03|S6CJ03_LACCA	K05832	ABC.X4.P; putative ABC transport system permease protein	221		
+tr|S6CJG4|S6CJG4_LACCA	K02825	pyrR; pyrimidine operon attenuation protein / uracil phosphoribosyltransferase [EC:2.4.2.9]	234		
+tr|S6CK05|S6CK05_LACCA	K20344	blpA; ATP-binding cassette, subfamily C, bacteriocin exporter	69	K06147	39
+tr|S6CJG9|S6CJG9_LACCA	K02086	dnaD; DNA replication protein	143		
+tr|S6CJ04|S6CJ04_LACCA			596		
+tr|S6CJV9|S6CJV9_LACCA	K00943	tmk; dTMP kinase [EC:2.7.4.9]	230		
+tr|S6CA02|S6CA02_LACCA			249		
+tr|S6BR96|S6BR96_LACCA			331		
+tr|S6C678|S6C678_LACCA			17	K03149	1
+tr|S6C258|S6C258_LACCA			20	K15828	2
+tr|S6C1J7|S6C1J7_LACCA			165	K05989	20
+tr|S6BNY8|S6BNY8_LACCA	K03624	greA; transcription elongation factor GreA	75	K04760	21
+tr|S6BT57|S6BT57_LACCA			28	K00677	1
+tr|S6CB02|S6CB02_LACCA			19	K03111	1
+tr|S6CB40|S6CB40_LACCA	K00688	E2.4.1.1; starch phosphorylase [EC:2.4.1.1]	828		
+tr|S6BW74|S6BW74_LACCA			62	K00721	2
+tr|S6CJ89|S6CJ89_LACCA			365		
+tr|S6BYJ0|S6BYJ0_LACCA			16	K01790	1
+tr|S6CBB0|S6CBB0_LACCA			121		
+tr|S6C0X8|S6C0X8_LACCA			171		
+tr|S6C9M2|S6C9M2_LACCA			433		
+tr|S6BR05|S6BR05_LACCA	K18672	dacA; diadenylate cyclase [EC:2.7.7.85]	313		
+tr|S6BTS4|S6BTS4_LACCA			250		
+tr|S6BUM8|S6BUM8_LACCA			16	K03306	2
+tr|S6BRF8|S6BRF8_LACCA	K02115	ATPF1G; F-type H+-transporting ATPase subunit gamma	338		
+tr|S6BXC0|S6BXC0_LACCA			143		
+tr|S6BVZ4|S6BVZ4_LACCA	K19350	lsa; lincosamide and streptogramin A transport system ATP-binding/permease protein	404		
+tr|S6BQQ5|S6BQQ5_LACCA			198		
+tr|S6BPT9|S6BPT9_LACCA	K00917	lacC; tagatose 6-phosphate kinase [EC:2.7.1.144]	316		
+tr|S6CAU3|S6CAU3_LACCA			232		
+tr|S6C1C8|S6C1C8_LACCA			496		
+tr|S6C0H7|S6C0H7_LACCA	K10040	ABC.GLN1.P; putative glutamine transport system permease protein	257		
+tr|S6CJ40|S6CJ40_LACCA			684		
+tr|S6BVV7|S6BVV7_LACCA			701		
+tr|S6C8H0|S6C8H0_LACCA	K07258	dacC; D-alanyl-D-alanine carboxypeptidase (penicillin-binding protein 5/6) [EC:3.4.16.4]	333		
+tr|S6CB45|S6CB45_LACCA			18	K03531	3
+tr|S6C8L2|S6C8L2_LACCA	K02793	PTS-Man-EIIA; PTS system, mannose-specific IIA component [EC:2.7.1.191]	27	K02793/K02794	12
+tr|S6BRV3|S6BRV3_LACCA			126		
+tr|S6BVA1|S6BVA1_LACCA			48	K03217	2
+tr|S6BV92|S6BV92_LACCA	K01223	E3.2.1.86B; 6-phospho-beta-glucosidase [EC:3.2.1.86]	125	K05350	32
+tr|S6C7Y7|S6C7Y7_LACCA	K10773	NTH; endonuclease III [EC:4.2.99.18]	181		
+tr|S6C4W9|S6C4W9_LACCA	K03320	amt; ammonium transporter, Amt family	154		
+tr|S6C5R8|S6C5R8_LACCA	K07223	putative iron-dependent peroxidase	187		
+tr|S6BSD8|S6BSD8_LACCA	K00655	plsC; 1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51]	188		
+tr|S6CK87|S6CK87_LACCA			19	K08351	4
+tr|S6CBU4|S6CBU4_LACCA			18	K09159	1
+tr|S6C9Z3|S6C9Z3_LACCA	K02864	RP-L10; large subunit ribosomal protein L10	188		
+tr|S6CJM4|S6CJM4_LACCA			20	K00758	1
+tr|S6BZ02|S6BZ02_LACCA	K01783	rpe; ribulose-phosphate 3-epimerase [EC:5.1.3.1]	243		
+tr|S6BWR8|S6BWR8_LACCA			25	K01358	5
+tr|S6BYR1|S6BYR1_LACCA	K09773	ppsR; [pyruvate, water dikinase]-phosphate phosphotransferase / [pyruvate, water dikinase] kinase [EC:2.7.4.28 2.7.11.33]	271		
+tr|S6C1A7|S6C1A7_LACCA			430		
+tr|S6C2D2|S6C2D2_LACCA	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	135		
+tr|S6C0U4|S6C0U4_LACCA			140		
+tr|S6CIT1|S6CIT1_LACCA			146		
+tr|S6C8V9|S6C8V9_LACCA			160		
+tr|S6C9K4|S6C9K4_LACCA			105		
+tr|S6C8D2|S6C8D2_LACCA			66		
+tr|S6BPY1|S6BPY1_LACCA			789		
+tr|S6BPQ0|S6BPQ0_LACCA			283		
+tr|S6BRZ3|S6BRZ3_LACCA	K02621	parC; topoisomerase IV subunit A [EC:5.99.1.-]	949		
+tr|S6C0T9|S6C0T9_LACCA	K00841	patA; aminotransferase [EC:2.6.1.-]	371	K00832	40
+tr|S6BRN7|S6BRN7_LACCA	K08724	pbpB; penicillin-binding protein 2B	470	K12556	49
+tr|S6CA59|S6CA59_LACCA			114	K01874	13
+tr|S6CJ16|S6CJ16_LACCA	K02346	DPO4; DNA polymerase IV [EC:2.7.7.7]	342		
+tr|S6BVL6|S6BVL6_LACCA			12	K19506	10
+tr|S6CAV4|S6CAV4_LACCA			306		
+tr|S6BVQ1|S6BVQ1_LACCA			126		
+tr|S6CIX5|S6CIX5_LACCA			19	K02049	2
+tr|S6C171|S6C171_LACCA			37	K08482	1
+tr|S6C8J7|S6C8J7_LACCA			77		
+tr|S6C8J0|S6C8J0_LACCA			324		
+tr|S6CBR5|S6CBR5_LACCA	K01520	dut; dUTP pyrophosphatase [EC:3.6.1.23]	183		
+tr|S6BQG1|S6BQG1_LACCA			262		
+tr|S6C5N5|S6C5N5_LACCA			154		
+tr|S6BSI7|S6BSI7_LACCA	K03601	xseA; exodeoxyribonuclease VII large subunit [EC:3.1.11.6]	417		
+tr|S6BUV6|S6BUV6_LACCA	K03040	rpoA; DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]	485		
+tr|S6C253|S6C253_LACCA			166		
+tr|S6CJM9|S6CJM9_LACCA	K01589	purK; 5-(carboxyamino)imidazole ribonucleotide synthase [EC:6.3.4.18]	374		
+tr|S6BWA1|S6BWA1_LACCA			210		
+tr|S6CK20|S6CK20_LACCA	K07171	mazF; mRNA interferase MazF [EC:3.1.-.-]	71		
+tr|S6C9Y1|S6C9Y1_LACCA	K00857	tdk; thymidine kinase [EC:2.7.1.21]	287		
+tr|S6CJM7|S6CJM7_LACCA			122		
+tr|S6C1R1|S6C1R1_LACCA			1010		
+tr|S6BYL9|S6BYL9_LACCA			19	K02556	2
+tr|S6BYW9|S6BYW9_LACCA	K18890	mdlB; ATP-binding cassette, subfamily B, multidrug efflux pump	640		
+tr|S6C2Q5|S6C2Q5_LACCA	K09963	uncharacterized protein	356		
+tr|S6CIT2|S6CIT2_LACCA	K01304	pcp; pyroglutamyl-peptidase [EC:3.4.19.3]	301		
+tr|S6BV76|S6BV76_LACCA			16	K16264	1
+tr|S6BT25|S6BT25_LACCA	K00286	proC; pyrroline-5-carboxylate reductase [EC:1.5.1.2]	209		
+tr|S6CJQ1|S6CJQ1_LACCA			182		
+tr|S6CJY8|S6CJY8_LACCA	K16210	togT; oligogalacturonide transporter	459		
+tr|S6CC57|S6CC57_LACCA	K03048	rpoE; DNA-directed RNA polymerase subunit delta	129		
+tr|S6CK26|S6CK26_LACCA	K02068	ABC.X2.A; putative ABC transport system ATP-binding protein	180		
+tr|S6CBG4|S6CBG4_LACCA			146		
+tr|S6C8G6|S6C8G6_LACCA			20	K07347	2
+tr|S6CBH3|S6CBH3_LACCA			858		
+tr|S6BZU5|S6BZU5_LACCA	K06950	uncharacterized protein	198		
+tr|S6C9E6|S6C9E6_LACCA			214		
+tr|S6CIU0|S6CIU0_LACCA	K00851	E2.7.1.12; gluconokinase [EC:2.7.1.12]	619		
+tr|S6CAY1|S6CAY1_LACCA			13	K04066	2
+tr|S6C8B9|S6C8B9_LACCA	K02939	RP-L9; large subunit ribosomal protein L9	168		
+tr|S6C9T8|S6C9T8_LACCA			21	K01992	2
+tr|S6C9U3|S6C9U3_LACCA	K10112	msmX; multiple sugar transport system ATP-binding protein	248	K17240	26
+tr|S6CJF3|S6CJF3_LACCA			222		
+tr|S6C9J9|S6C9J9_LACCA			18	K07386	4
+tr|S6C8D9|S6C8D9_LACCA	K00925	ackA; acetate kinase [EC:2.7.2.1]	429		
+tr|S6CBI3|S6CBI3_LACCA			52	K05575	3
+tr|S6C9Q8|S6C9Q8_LACCA	K00432	gpx; glutathione peroxidase [EC:1.11.1.9]	203		
+tr|S6CJB2|S6CJB2_LACCA	K11717	sufS; cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]	387		
+tr|S6CAT8|S6CAT8_LACCA			279		
+tr|S6C2L8|S6C2L8_LACCA	K01104	E3.1.3.48; protein-tyrosine phosphatase [EC:3.1.3.48]	162		
+tr|S6C0R4|S6C0R4_LACCA			56		
+tr|S6CAC4|S6CAC4_LACCA			238		
+tr|S6C975|S6C975_LACCA			31	K09824	1
+tr|S6C2X8|S6C2X8_LACCA			120	K07497	4
+tr|S6CJL5|S6CJL5_LACCA			233		
+tr|S6BX25|S6BX25_LACCA	K09812	ftsE; cell division transport system ATP-binding protein	289		
+tr|S6CB63|S6CB63_LACCA	K15583	oppD; oligopeptide transport system ATP-binding protein	470		
+tr|S6C1M6|S6C1M6_LACCA			243		
+tr|S6CBW0|S6CBW0_LACCA	K15554	ssuC; sulfonate transport system permease protein	314		
+tr|S6BP00|S6BP00_LACCA	K03335	iolE; inosose dehydratase [EC:4.2.1.44]	388		
+tr|S6C5S2|S6C5S2_LACCA			245		
+tr|S6C7S4|S6C7S4_LACCA			225		
+tr|S6BS70|S6BS70_LACCA			343		
+tr|S6C5P4|S6C5P4_LACCA	K10009	ABC.CYST.P; cystine transport system permease protein	228		
+tr|S6BRI0|S6BRI0_LACCA	K09013	sufC; Fe-S cluster assembly ATP-binding protein	347		
+tr|S6C5S4|S6C5S4_LACCA	K02761	PTS-Cel-EIIC; PTS system, cellobiose-specific IIC component	433		
+tr|S6C970|S6C970_LACCA			22	K01844	1
+tr|S6BRR6|S6BRR6_LACCA			15	K00836	2
+tr|S6BQI4|S6BQI4_LACCA			21	K03686	1
+tr|S6BV40|S6BV40_LACCA	K02990	RP-S6; small subunit ribosomal protein S6	138		
+tr|S6BNT7|S6BNT7_LACCA			103		
+tr|S6BQH9|S6BQH9_LACCA			15	K03118	1
+tr|S6BP70|S6BP70_LACCA	K11733	lysP; lysine-specific permease	523		
+tr|S6BTF7|S6BTF7_LACCA	K04086	clpL; ATP-dependent Clp protease ATP-binding subunit ClpL	916		
+tr|S6C8Y9|S6C8Y9_LACCA	K03217	yidC; YidC/Oxa1 family membrane protein insertase	172		
+tr|S6CC67|S6CC67_LACCA	K16264	czcD; cobalt-zinc-cadmium efflux system protein	279		
+tr|S6BP49|S6BP49_LACCA	K02768	PTS-Fru-EIIA; PTS system, fructose-specific IIA component [EC:2.7.1.202]	349	K02793/K02794/K02795	56
+	K02769	PTS-Fru-EIIB; PTS system, fructose-specific IIB component [EC:2.7.1.202]			
+	K02770	PTS-Fru-EIIC; PTS system, fructose-specific IIC component			
+tr|S6CJH2|S6CJH2_LACCA			274		
+tr|S6CCG9|S6CCG9_LACCA			22	K02120	4
+tr|S6BXY6|S6BXY6_LACCA			63		
+tr|S6BQM4|S6BQM4_LACCA	K01869	LARS; leucyl-tRNA synthetase [EC:6.1.1.4]	1194		
+tr|S6BQK0|S6BQK0_LACCA			17	K10220	4
+tr|S6CB72|S6CB72_LACCA			23	K03242	4
+tr|S6BW78|S6BW78_LACCA	K02775	PTS-Gat-EIIC; PTS system, galactitol-specific IIC component	479		
+tr|S6C9C6|S6C9C6_LACCA	K15581	oppB; oligopeptide transport system permease protein	367		
+tr|S6BUQ6|S6BUQ6_LACCA			16	K01940	1
+tr|S6C7B4|S6C7B4_LACCA	K09015	sufD; Fe-S cluster assembly protein SufD	167	K07033	19
+tr|S6BUY6|S6BUY6_LACCA			14	K19577	3
+tr|S6C674|S6C674_LACCA			26	K07014	1
+tr|S6CIZ1|S6CIZ1_LACCA			137		
+tr|S6BT37|S6BT37_LACCA			23	K11104	7
+tr|S6C0A5|S6C0A5_LACCA	K01646	citD; citrate lyase subunit gamma (acyl carrier protein)	92		
+tr|S6C8N7|S6C8N7_LACCA			166	K06147	19
+tr|S6CJZ1|S6CJZ1_LACCA			316		
+tr|S6C1F5|S6C1F5_LACCA			16	K00161	1
+tr|S6CIV1|S6CIV1_LACCA	K02795	PTS-Man-EIIC; PTS system, mannose-specific IIC component	274		
+tr|S6CB97|S6CB97_LACCA	K01962	accA; acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2]	222	K01962/K01963	24
+tr|S6CAF0|S6CAF0_LACCA	K07462	recJ; single-stranded-DNA-specific exonuclease [EC:3.1.-.-]	524		
+tr|S6CIQ5|S6CIQ5_LACCA	K02338	DPO3B; DNA polymerase III subunit beta [EC:2.7.7.7]	420		
+tr|S6C9J1|S6C9J1_LACCA			15	K10439	1
+tr|S6BVY7|S6BVY7_LACCA	K07862	sstT; serine/threonine transporter	197		
+tr|S6BNQ8|S6BNQ8_LACCA	K02314	dnaB; replicative DNA helicase [EC:3.6.4.12]	557		
+tr|S6BSB6|S6BSB6_LACCA	K03686	dnaJ; molecular chaperone DnaJ	457		
+tr|S6BP22|S6BP22_LACCA			261		
+tr|S6BTJ8|S6BTJ8_LACCA			139	K10710	29
+tr|S6CA57|S6CA57_LACCA			391		
+tr|S6CJK6|S6CJK6_LACCA	K00791	miaA; tRNA dimethylallyltransferase [EC:2.5.1.75]	259		
+tr|S6BTY8|S6BTY8_LACCA			53	K03811	2
+tr|S6C312|S6C312_LACCA	K08969	mtnE; aminotransferase [EC:2.6.1.-]	372		
+tr|S6CA99|S6CA99_LACCA			395	K00812	40
+tr|S6CJZ7|S6CJZ7_LACCA	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	235	K11631	27
+tr|S6C9Q7|S6C9Q7_LACCA	K19302	bcrC; undecaprenyl-diphosphatase [EC:3.6.1.27]	102		
+tr|S6CJ01|S6CJ01_LACCA			54	K02051	2
+tr|S6CJB5|S6CJB5_LACCA	K01752	E4.3.1.17; L-serine dehydratase [EC:4.3.1.17]	248		
+tr|S6C1Z5|S6C1Z5_LACCA			18	K00789	1
+tr|S6CJV3|S6CJV3_LACCA			25	K03820	2
+tr|S6CJU1|S6CJU1_LACCA	K03778	ldhA; D-lactate dehydrogenase [EC:1.1.1.28]	230		
+tr|S6BS59|S6BS59_LACCA			15	K00937	1
+tr|S6BUX7|S6BUX7_LACCA	K02982	RP-S3; small subunit ribosomal protein S3	333		
+tr|S6BNU0|S6BNU0_LACCA			116		
+tr|S6BQH0|S6BQH0_LACCA			16	K01113	1
+tr|S6C186|S6C186_LACCA	K00805	hepST; heptaprenyl diphosphate synthase [EC:2.5.1.30]	191		
+tr|S6C0N5|S6C0N5_LACCA	K02761	PTS-Cel-EIIC; PTS system, cellobiose-specific IIC component	427		
+tr|S6BW19|S6BW19_LACCA	K00965	galT; UDPglucose--hexose-1-phosphate uridylyltransferase [EC:2.7.7.12]	546		
+tr|S6C9U1|S6C9U1_LACCA	K07729	putative transcriptional regulator	68		
+tr|S6C0D3|S6C0D3_LACCA			46	K07979	5
+tr|S6BWX0|S6BWX0_LACCA			468		
+tr|S6BZY0|S6BZY0_LACCA			22	K19125	1
+tr|S6CA15|S6CA15_LACCA	K11754	folC; dihydrofolate synthase / folylpolyglutamate synthase [EC:6.3.2.12 6.3.2.17]	269		
+tr|S6CK90|S6CK90_LACCA			19	K02427	3
+tr|S6C856|S6C856_LACCA			106		
+tr|S6C710|S6C710_LACCA	K03810	mviM; virulence factor	190		
+tr|S6BSK5|S6BSK5_LACCA	K01581	E4.1.1.17; ornithine decarboxylase [EC:4.1.1.17]	504		
+tr|S6BR33|S6BR33_LACCA			19	K00790	1
+tr|S6BRM9|S6BRM9_LACCA	K03610	minC; septum site-determining protein MinC	81		
+tr|S6C985|S6C985_LACCA			13	K00281	8
+tr|S6BRZ6|S6BRZ6_LACCA	K15986	ppaC; manganese-dependent inorganic pyrophosphatase [EC:3.6.1.1]	335		
+tr|S6BSY5|S6BSY5_LACCA	K01952	purL; phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	86		
+tr|S6C0R7|S6C0R7_LACCA			112		
+tr|S6CK34|S6CK34_LACCA	K05845	opuC; osmoprotectant transport system substrate-binding protein	459		
+	K05846	opuBD; osmoprotectant transport system permease protein			
+tr|S6BTH9|S6BTH9_LACCA	K15582	oppC; oligopeptide transport system permease protein	362		
+tr|S6BRU0|S6BRU0_LACCA	K02029	ABC.PA.P; polar amino acid transport system permease protein	425		
+	K02030	ABC.PA.S; polar amino acid transport system substrate-binding protein			
+tr|S6CK80|S6CK80_LACCA			848		
+tr|S6BX18|S6BX18_LACCA			427		
+tr|S6BVK4|S6BVK4_LACCA					
+tr|S6BYN2|S6BYN2_LACCA			21	K00441	1
+tr|S6C1E4|S6C1E4_LACCA			399		
+tr|S6BX14|S6BX14_LACCA	K00563	rlmA1; 23S rRNA (guanine745-N1)-methyltransferase [EC:2.1.1.187]	189		
+tr|S6C101|S6C101_LACCA	K01926	rex; redox-sensing transcriptional repressor	270		
+tr|S6CCC8|S6CCC8_LACCA	K02760	PTS-Cel-EIIB; PTS system, cellobiose-specific IIB component [EC:2.7.1.196 2.7.1.205]	61		
+tr|S6C6C7|S6C6C7_LACCA			16	K06213	3
+tr|S6CA79|S6CA79_LACCA	K07316	mod; adenine-specific DNA-methyltransferase [EC:2.1.1.72]	476		
+tr|S6BSH1|S6BSH1_LACCA	K12132	prkC; eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]	470	K08884	53
+tr|S6CAP5|S6CAP5_LACCA			224		
+tr|S6C5Q3|S6C5Q3_LACCA	K18891	patA; ATP-binding cassette, subfamily B, multidrug efflux pump	485	K06147	80
+tr|S6BTS9|S6BTS9_LACCA	K00805	hepST; heptaprenyl diphosphate synthase [EC:2.5.1.30]	211		
+tr|S6C7B0|S6C7B0_LACCA	K02073	metQ; D-methionine transport system substrate-binding protein	224		
+tr|S6CK89|S6CK89_LACCA			215		
+tr|S6C9B5|S6C9B5_LACCA	K01104	E3.1.3.48; protein-tyrosine phosphatase [EC:3.1.3.48]	250		
+tr|S6CA25|S6CA25_LACCA			22	K07133	1
+tr|S6C5H8|S6C5H8_LACCA			69	K03088	2
+tr|S6CA10|S6CA10_LACCA			130		
+tr|S6BV83|S6BV83_LACCA	K11041	eta; exfoliative toxin A/B	210		
+tr|S6CK86|S6CK86_LACCA	K07483	transposase	53		
+tr|S6BUZ1|S6BUZ1_LACCA	K02992	RP-S7; small subunit ribosomal protein S7	275		
+tr|S6CAI8|S6CAI8_LACCA	K15524	mngB; mannosylglycerate hydrolase [EC:3.2.1.170]	155	K01191	11
+tr|S6CAL7|S6CAL7_LACCA			375		
+tr|S6C5U4|S6C5U4_LACCA			12	K07473	10
+tr|S6BSJ2|S6BSJ2_LACCA	K01262	pepP; Xaa-Pro aminopeptidase [EC:3.4.11.9]	266		
+tr|S6BVE5|S6BVE5_LACCA	K01684	dgoD; galactonate dehydratase [EC:4.2.1.6]	568		
+tr|S6CAI5|S6CAI5_LACCA	K07052	uncharacterized protein	23		
+tr|S6C5V3|S6C5V3_LACCA			123		
+tr|S6C585|S6C585_LACCA	K03311	TC.LIVCS; branched-chain amino acid:cation transporter, LIVCS family	165		
+tr|S6C5U7|S6C5U7_LACCA	K01989	ABC.X4.S; putative ABC transport system substrate-binding protein	244		
+tr|S6C6C9|S6C6C9_LACCA			23	K01198	1
+tr|S6C0X0|S6C0X0_LACCA			54	K07496	2
+tr|S6BVL1|S6BVL1_LACCA	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	223		
+tr|S6BRS1|S6BRS1_LACCA	K00954	E2.7.7.3A; pantetheine-phosphate adenylyltransferase [EC:2.7.7.3]	163		
+tr|S6C065|S6C065_LACCA			170		
+tr|S6CBN3|S6CBN3_LACCA	K07533	prsA; foldase protein PrsA [EC:5.2.1.8]	187		
+tr|S6CAW4|S6CAW4_LACCA	K00602	purH; phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10]	609		
+tr|S6C8Z4|S6C8Z4_LACCA	K07574	yhbY; RNA-binding protein	90		
+tr|S6BSR3|S6BSR3_LACCA	K00969	nadD; nicotinate-nucleotide adenylyltransferase [EC:2.7.7.18]	224		
+tr|S6BWP0|S6BWP0_LACCA	K03768	PPIB; peptidyl-prolyl cis-trans isomerase B (cyclophilin B) [EC:5.2.1.8]	245		
+tr|S6C7F4|S6C7F4_LACCA			151	K03695	4
+tr|S6BY21|S6BY21_LACCA	K02221	yggT; YggT family protein	70		
+tr|S6CA74|S6CA74_LACCA	K07467	rstA1; phage replication initiation protein	296		
+tr|S6CJY7|S6CJY7_LACCA			256		
+tr|S6CJ33|S6CJ33_LACCA			23	K01448	1
+tr|S6CAX3|S6CAX3_LACCA	K02028	ABC.PA.A; polar amino acid transport system ATP-binding protein [EC:3.6.3.21]	313		
+tr|S6C972|S6C972_LACCA			77		
+tr|S6BVL3|S6BVL3_LACCA	K02794	PTS-Man-EIIB; PTS system, mannose-specific IIB component [EC:2.7.1.191]	12		
+tr|S6CCC6|S6CCC6_LACCA	K01625	eda; 2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase [EC:4.1.2.14 4.1.3.42]	134		
+tr|S6C2R1|S6C2R1_LACCA			279		
+tr|S6C9P8|S6C9P8_LACCA			280		
+tr|S6CJG2|S6CJG2_LACCA	K07035	uncharacterized protein	122		
+tr|S6BW48|S6BW48_LACCA			25	K06204	1
+tr|S6CJW5|S6CJW5_LACCA	K00798	MMAB; cob(I)alamin adenosyltransferase [EC:2.5.1.17]	105		
+tr|S6C0S2|S6C0S2_LACCA			320		
+tr|S6C8I3|S6C8I3_LACCA	K06605	iolH; myo-inositol catabolism protein IolH	309		
+tr|S6BVM3|S6BVM3_LACCA			88		
+tr|S6CAY8|S6CAY8_LACCA			235		
+tr|S6CJJ0|S6CJJ0_LACCA	K02600	nusA; N utilization substance protein A	502		
+tr|S6BVC7|S6BVC7_LACCA			120		
+tr|S6C9R0|S6C9R0_LACCA			23	K06198	2
+tr|S6C332|S6C332_LACCA			38	K07482	2
+tr|S6C9W7|S6C9W7_LACCA			19	K06163	5
+tr|S6CBC2|S6CBC2_LACCA	K17810	asl; D-aspartate ligase [EC:6.3.1.12]	439		
+tr|S6C9Q2|S6C9Q2_LACCA			366		
+tr|S6CA09|S6CA09_LACCA			35	K03474	2
+tr|S6CBS3|S6CBS3_LACCA			66		
+tr|S6BVK2|S6BVK2_LACCA			113	K02821	22
+tr|S6CAK5|S6CAK5_LACCA	K02356	efp; elongation factor P	269		
+tr|S6C9H8|S6C9H8_LACCA			133		
+tr|S6C9Z4|S6C9Z4_LACCA	K01919	gshA; glutamate--cysteine ligase [EC:6.3.2.2]	145		
+tr|S6BWP4|S6BWP4_LACCA			108		
+tr|S6CA45|S6CA45_LACCA			16	K06187	1
+tr|S6BWW3|S6BWW3_LACCA			78		
+tr|S6BYF4|S6BYF4_LACCA					
+tr|S6CA38|S6CA38_LACCA	K02238	comEC; competence protein ComEC	134		
+tr|S6CA60|S6CA60_LACCA	K00974	cca; tRNA nucleotidyltransferase (CCA-adding enzyme) [EC:2.7.7.72 3.1.3.- 3.1.4.-]	344		
+tr|S6CJX5|S6CJX5_LACCA	K03549	kup; KUP system potassium uptake protein	545		
+tr|S6C8I6|S6C8I6_LACCA			21	K00059	1
+tr|S6CJ05|S6CJ05_LACCA			163	K09684	7
+tr|S6CJ39|S6CJ39_LACCA			22	K03811	1
+tr|S6BVW9|S6BVW9_LACCA	K03311	TC.LIVCS; branched-chain amino acid:cation transporter, LIVCS family	370		
+tr|S6CB47|S6CB47_LACCA	K16509	spxA; regulatory protein spx	83		
+tr|S6CBR2|S6CBR2_LACCA	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	181	K20459	38
+tr|S6BXJ8|S6BXJ8_LACCA	K08659	pepDA; dipeptidase [EC:3.4.-.-]	384		
+tr|S6CJA9|S6CJA9_LACCA	K02114	ATPF1E; F-type H+-transporting ATPase subunit epsilon	142		
+tr|S6CAV8|S6CAV8_LACCA			17	K02445	1
+tr|S6BVI1|S6BVI1_LACCA			157		
+tr|S6BP06|S6BP06_LACCA			220		
+tr|S6BS63|S6BS63_LACCA			547		
+tr|S6C648|S6C648_LACCA			164		
+tr|S6BQJ4|S6BQJ4_LACCA			133		
+tr|S6C9Z1|S6C9Z1_LACCA			19	K07407	1
+tr|S6BQZ3|S6BQZ3_LACCA	K11070	potC; spermidine/putrescine transport system permease protein	330		
+tr|S6C5L5|S6C5L5_LACCA			21	K03798	4
+tr|S6C7S8|S6C7S8_LACCA			57	K01652	2
+tr|S6BT16|S6BT16_LACCA	K05832	ABC.X4.P; putative ABC transport system permease protein	266		
+tr|S6C7H4|S6C7H4_LACCA			19	K05358	2
+tr|S6BTV3|S6BTV3_LACCA	K16012	cydC; ATP-binding cassette, subfamily C, bacterial CydC	514		
+tr|S6BV74|S6BV74_LACCA			491		
+tr|S6CK09|S6CK09_LACCA	K02876	RP-L15; large subunit ribosomal protein L15	188		
+tr|S6CJI5|S6CJI5_LACCA	K04095	fic; cell filamentation protein	161		
+tr|S6CB22|S6CB22_LACCA			101		
+tr|S6BVU7|S6BVU7_LACCA			67	K01136	4
+tr|S6CA19|S6CA19_LACCA			24	K03286	2
+tr|S6CBP6|S6CBP6_LACCA	K03073	secE; preprotein translocase subunit SecE	43		
+tr|S6C876|S6C876_LACCA	K03629	recF; DNA replication and repair protein RecF	392		
+tr|S6CC16|S6CC16_LACCA	K02931	RP-L5; large subunit ribosomal protein L5	294		
+tr|S6CK10|S6CK10_LACCA	K02994	RP-S8; small subunit ribosomal protein S8	222		
+tr|S6CAL0|S6CAL0_LACCA	K03713	glnR; MerR family transcriptional regulator, glutamine synthetase repressor	88		
+tr|S6CJ42|S6CJ42_LACCA			131		
+tr|S6CIV6|S6CIV6_LACCA	K02004	ABC.CD.P; putative ABC transport system permease protein	262		
+tr|S6CCE3|S6CCE3_LACCA	K01421	yhgE; putative membrane protein	566		
+tr|S6C884|S6C884_LACCA	K02035	ABC.PE.S; peptide/nickel transport system substrate-binding protein	466		
+tr|S6CAG2|S6CAG2_LACCA	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	173		
+tr|S6CCN7|S6CCN7_LACCA			17	K04088	2
+tr|S6C527|S6C527_LACCA	K00681	ggt; gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13]	619		
+tr|S6BSF0|S6BSF0_LACCA	K09787	uncharacterized protein	130		
+tr|S6C645|S6C645_LACCA	K07105	uncharacterized protein	145		
+tr|S6CAM4|S6CAM4_LACCA	K02775	PTS-Gat-EIIC; PTS system, galactitol-specific IIC component	403		
+tr|S6C705|S6C705_LACCA			154		
+tr|S6BVV3|S6BVV3_LACCA	K08094	hxlB; 6-phospho-3-hexuloisomerase [EC:5.3.1.27]	200		
+tr|S6C9B0|S6C9B0_LACCA			16	K03076	2
+tr|S6BYC1|S6BYC1_LACCA	K07304	msrA; peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]	239		
+tr|S6CJW2|S6CJW2_LACCA	K08161	mdtG; MFS transporter, DHA1 family, multidrug resistance protein	398		
+tr|S6CJK3|S6CJK3_LACCA	K03625	nusB; N utilization substance protein B	89		
+tr|S6BVU5|S6BVU5_LACCA			19	K03305	2
+tr|S6C695|S6C695_LACCA			136		
+tr|S6BRT3|S6BRT3_LACCA	K12410	npdA; NAD-dependent deacetylase [EC:3.5.1.-]	114		
+tr|S6BQX6|S6BQX6_LACCA			156	K06977	34
+tr|S6CA37|S6CA37_LACCA			16	K04564	1
+tr|S6CJ80|S6CJ80_LACCA			160		
+tr|S6C7M0|S6C7M0_LACCA	K03588	ftsW; cell division protein FtsW	251		
+tr|S6BWN0|S6BWN0_LACCA			201		
+tr|S6C2S3|S6C2S3_LACCA	K02029	ABC.PA.P; polar amino acid transport system permease protein	473		
+	K02030	ABC.PA.S; polar amino acid transport system substrate-binding protein			
+tr|S6C931|S6C931_LACCA	K01533	copB; Cu2+-exporting ATPase [EC:3.6.3.4]	738		
+tr|S6BQ44|S6BQ44_LACCA			189		
+tr|S6C0Y9|S6C0Y9_LACCA			66		
+tr|S6BXC8|S6BXC8_LACCA	K01207	nagZ; beta-N-acetylhexosaminidase [EC:3.2.1.52]	248		
+tr|S6CJ91|S6CJ91_LACCA	K07386	pepO; putative endopeptidase [EC:3.4.24.-]	401		
+tr|S6CJW9|S6CJW9_LACCA			347		
+tr|S6CA29|S6CA29_LACCA	K09955	uncharacterized protein	455		
+tr|S6CJU8|S6CJU8_LACCA	K00426	cydB; cytochrome d ubiquinol oxidase subunit II [EC:1.10.3.14]	342		
+tr|S6C8C2|S6C8C2_LACCA	K09963	uncharacterized protein	266		
+tr|S6BWU4|S6BWU4_LACCA			55	K01356	8
+tr|S6BXK8|S6BXK8_LACCA	K01928	murE; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase [EC:6.3.2.13]	506		
+tr|S6CAL6|S6CAL6_LACCA			646		
+tr|S6BV58|S6BV58_LACCA	K02004	ABC.CD.P; putative ABC transport system permease protein	318		
+tr|S6CA21|S6CA21_LACCA	K03589	ftsQ; cell division protein FtsQ	112		
+tr|S6C9Z9|S6C9Z9_LACCA			16	K03446	8
+tr|S6C8R3|S6C8R3_LACCA			249		
+tr|S6CJR0|S6CJR0_LACCA			125		
+tr|S6C0Q5|S6C0Q5_LACCA	K02160	accB; acetyl-CoA carboxylase biotin carboxyl carrier protein	113		
+tr|S6BP79|S6BP79_LACCA	K07024	uncharacterized protein	160		
+tr|S6BRJ7|S6BRJ7_LACCA	K15580	oppA; oligopeptide transport system substrate-binding protein	347		
+tr|S6C7C2|S6C7C2_LACCA			206		
+tr|S6C993|S6C993_LACCA	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	134		
+tr|S6BP55|S6BP55_LACCA			18	K08289	1
+tr|S6BT20|S6BT20_LACCA	K01916	nadE; NAD+ synthase [EC:6.3.1.5]	381		
+tr|S6C6T3|S6C6T3_LACCA			17	K09014	3
+tr|S6CBF2|S6CBF2_LACCA			111		
+tr|S6BRI5|S6BRI5_LACCA			18	K01990	1
+tr|S6BW25|S6BW25_LACCA	K01223	E3.2.1.86B; 6-phospho-beta-glucosidase [EC:3.2.1.86]	271		
+tr|S6CCI4|S6CCI4_LACCA	K02795	PTS-Man-EIIC; PTS system, mannose-specific IIC component	333		
+tr|S6C877|S6C877_LACCA	K02357	tsf; elongation factor Ts	347		
+tr|S6BSC5|S6BSC5_LACCA			107		
+tr|S6C962|S6C962_LACCA			164		
+tr|S6CA24|S6CA24_LACCA	K02040	pstS; phosphate transport system substrate-binding protein	310		
+tr|S6CCC9|S6CCC9_LACCA	K02761	PTS-Cel-EIIC; PTS system, cellobiose-specific IIC component	174		
+tr|S6CB20|S6CB20_LACCA	K02799	PTS-Mtl-EIIB; PTS system, mannitol-specific IIB component [EC:2.7.1.197]	569		
+	K02800	PTS-Mtl-EIIC; PTS system, mannitol-specific IIC component			
+tr|S6BW06|S6BW06_LACCA	K07507	mgtC; putative Mg2+ transporter-C (MgtC) family protein	176		
+tr|S6CBD0|S6CBD0_LACCA	K07192	FLOT; flotillin	379		
+tr|S6CIQ7|S6CIQ7_LACCA	K00425	cydA; cytochrome d ubiquinol oxidase subunit I [EC:1.10.3.14]	314		
+tr|S6CJC8|S6CJC8_LACCA	K01925	murD; UDP-N-acetylmuramoylalanine--D-glutamate ligase [EC:6.3.2.9]	454		
+tr|S6CIW2|S6CIW2_LACCA	K02073	metQ; D-methionine transport system substrate-binding protein	199		
+tr|S6CBI0|S6CBI0_LACCA	K06158	ABCF3; ATP-binding cassette, subfamily F, member 3	674		
+tr|S6CIT9|S6CIT9_LACCA			149		
+tr|S6CBY8|S6CBY8_LACCA			15	K06158	1
+tr|S6CJZ5|S6CJZ5_LACCA			61	K00712	40
+tr|S6C9P3|S6C9P3_LACCA			22	K00031	3
+tr|S6BW21|S6BW21_LACCA	K01220	E3.2.1.85; 6-phospho-beta-galactosidase [EC:3.2.1.85]	533		
+tr|S6BT85|S6BT85_LACCA			19	K01735	3
+tr|S6C515|S6C515_LACCA			78		
+tr|S6C595|S6C595_LACCA	K02761	PTS-Cel-EIIC; PTS system, cellobiose-specific IIC component	199		
+tr|S6C6J7|S6C6J7_LACCA	K03466	ftsK; DNA segregation ATPase FtsK/SpoIIIE, S-DNA-T family	595		
+tr|S6CAF9|S6CAF9_LACCA	K01635	lacD; tagatose 1,6-diphosphate aldolase [EC:4.1.2.40]	384		
+tr|S6C9N3|S6C9N3_LACCA	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	181		
+tr|S6C9I3|S6C9I3_LACCA			15	K07006	11
+tr|S6BPJ7|S6BPJ7_LACCA			19	K02493	1
+tr|S6BP61|S6BP61_LACCA	K19956	sorE; L-sorbose 1-phosphate reductase [EC:1.1.1.-]	54		
+tr|S6BQT7|S6BQT7_LACCA	K01358	clpP; ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]	281		
+tr|S6CCS2|S6CCS2_LACCA			15	K08139	1
+tr|S6C529|S6C529_LACCA			12	K15987	1
+tr|S6C623|S6C623_LACCA			441		
+tr|S6BT30|S6BT30_LACCA			211		
+tr|S6C6Y9|S6C6Y9_LACCA	K03816	xpt; xanthine phosphoribosyltransferase [EC:2.4.2.22]	234		
+tr|S6BNR6|S6BNR6_LACCA			26	K03118	1
+tr|S6C522|S6C522_LACCA			22	K07089	2
+tr|S6BRM5|S6BRM5_LACCA			123		
+tr|S6C8A2|S6C8A2_LACCA	K01778	dapF; diaminopimelate epimerase [EC:5.1.1.7]	256		
+tr|S6CAB9|S6CAB9_LACCA			414	K05540	45
+tr|S6BVZ8|S6BVZ8_LACCA	K03316	TC.CPA1; monovalent cation:H+ antiporter, CPA1 family	239		
+tr|S6BY90|S6BY90_LACCA			138		
+tr|S6CC35|S6CC35_LACCA	K03798	ftsH; cell division protease FtsH [EC:3.4.24.-]	812		
+tr|S6CIY1|S6CIY1_LACCA			18	K01753	1
+tr|S6C9W6|S6C9W6_LACCA			289		
+tr|S6CAV3|S6CAV3_LACCA			234		
+tr|S6C7Z8|S6C7Z8_LACCA	K01823	idi; isopentenyl-diphosphate Delta-isomerase [EC:5.3.3.2]	282		
+tr|S6CJU9|S6CJU9_LACCA			14	K08310	3
+tr|S6BRA0|S6BRA0_LACCA			167	K01446	21
+tr|S6CK81|S6CK81_LACCA			115		
+tr|S6BTZ3|S6BTZ3_LACCA	K02760	PTS-Cel-EIIB; PTS system, cellobiose-specific IIB component [EC:2.7.1.196 2.7.1.205]	113		
+tr|S6C0Z3|S6C0Z3_LACCA	K03555	mutS; DNA mismatch repair protein MutS	976		
+tr|S6C980|S6C980_LACCA	K01992	ABC-2.P; ABC-2 type transport system permease protein	218		
+tr|S6CAY0|S6CAY0_LACCA	K05833	ABC.X4.A; putative ABC transport system ATP-binding protein	243		
+tr|S6CJL3|S6CJL3_LACCA	K06948	yqeH; 30S ribosome assembly GTPase	471		
+tr|S6C2F8|S6C2F8_LACCA	K02759	PTS-Cel-EIIA; PTS system, cellobiose-specific IIA component [EC:2.7.1.196 2.7.1.205]	116		
+tr|S6C6M6|S6C6M6_LACCA	K01835	pgm; phosphoglucomutase [EC:5.4.2.2]	676		
+tr|S6BPC5|S6BPC5_LACCA	K01624	FBA; fructose-bisphosphate aldolase, class II [EC:4.1.2.13]	355		
+tr|S6C4T0|S6C4T0_LACCA	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	249		
+tr|S6BPK7|S6BPK7_LACCA			365		
+tr|S6C5J2|S6C5J2_LACCA			14	K01915	9
+tr|S6CA13|S6CA13_LACCA			60		
+tr|S6CIS4|S6CIS4_LACCA			17	K02033	3
+tr|S6CCP3|S6CCP3_LACCA			293		
+tr|S6CK11|S6CK11_LACCA	K02961	RP-S17; small subunit ribosomal protein S17	138		
+tr|S6BNP3|S6BNP3_LACCA					
+tr|S6BV32|S6BV32_LACCA	K02909	RP-L31; large subunit ribosomal protein L31	146		
+tr|S6BVJ3|S6BVJ3_LACCA	K02082	agaS; tagatose-6-phosphate ketose/aldose isomerase [EC:5.-.-.-]	457		
+tr|S6BY41|S6BY41_LACCA			53	K07289	2
+tr|S6BYS6|S6BYS6_LACCA			18	K07032	1
+tr|S6C2W5|S6C2W5_LACCA			187	K07497	16
+tr|S6CJZ8|S6CJZ8_LACCA			642		
+tr|S6CIU3|S6CIU3_LACCA			168		
+tr|S6BVN0|S6BVN0_LACCA			250		
+tr|S6CJ07|S6CJ07_LACCA			18	K01546	2
+tr|S6C1Y6|S6C1Y6_LACCA			15	K13052	4
+tr|S6C0T1|S6C0T1_LACCA	K00872	thrB1; homoserine kinase [EC:2.7.1.39]	200		
+tr|S6BXX2|S6BXX2_LACCA			114		
+tr|S6C8T9|S6C8T9_LACCA			110		
+tr|S6C1S7|S6C1S7_LACCA			139		
+tr|S6BXH3|S6BXH3_LACCA	K03704	cspA; cold shock protein (beta-ribbon, CspA family)	118		
+tr|S6CJ86|S6CJ86_LACCA			17	K01919	2
+tr|S6CCC4|S6CCC4_LACCA			24	K00833	1
+tr|S6BX70|S6BX70_LACCA	K02025	ABC.MS.P; multiple sugar transport system permease protein	316		
+tr|S6CJR9|S6CJR9_LACCA			218		
+tr|S6CB25|S6CB25_LACCA	K08317	ybdH; uncharacterized oxidoreductase [EC:1.1.-.-]	305		
+tr|S6CIR4|S6CIR4_LACCA			18	K04643	2
+tr|S6CJI6|S6CJI6_LACCA	K03976	ybaK; Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase [EC:3.1.1.-]	145		
+tr|S6CJS1|S6CJS1_LACCA	K15634	gpmB; probable phosphoglycerate mutase [EC:5.4.2.12]	15		
+tr|S6C9J7|S6C9J7_LACCA	K07570	GSP13; general stress protein 13	90		
+tr|S6CA93|S6CA93_LACCA	K00526	E1.17.4.1B; ribonucleoside-diphosphate reductase beta chain [EC:1.17.4.1]	501		
+tr|S6BWC3|S6BWC3_LACCA			82	K07492	4
+tr|S6BWK7|S6BWK7_LACCA	K03367	dltA; D-alanine--poly(phosphoribitol) ligase subunit 1 [EC:6.1.1.13]	525		
+tr|S6CJ98|S6CJ98_LACCA	K03488	licT; beta-glucoside operon transcriptional antiterminator	169		
+tr|S6CJX0|S6CJX0_LACCA			162		
+tr|S6CBE9|S6CBE9_LACCA			286		
+tr|S6C8G0|S6C8G0_LACCA	K07009	uncharacterized protein	196		
+tr|S6CJH6|S6CJH6_LACCA			13	K19221	10
+tr|S6BY71|S6BY71_LACCA			16	K06147	7
+tr|S6CCC0|S6CCC0_LACCA	K00848	rhaB; rhamnulokinase [EC:2.7.1.5]	225		
+tr|S6CCC2|S6CCC2_LACCA			22	K00981	2
+tr|S6CBU3|S6CBU3_LACCA			17	K02027	1
+tr|S6CJ61|S6CJ61_LACCA	K03742	pncC; nicotinamide-nucleotide amidase [EC:3.5.1.42]	362		
+tr|S6C9V3|S6C9V3_LACCA			653		
+tr|S6BP33|S6BP33_LACCA	K01220	E3.2.1.85; 6-phospho-beta-galactosidase [EC:3.2.1.85]	540		
+tr|S6CAV9|S6CAV9_LACCA			167		
+tr|S6CJT3|S6CJT3_LACCA			175		
+tr|S6BTK2|S6BTK2_LACCA	K01788	nanE; N-acylglucosamine-6-phosphate 2-epimerase [EC:5.1.3.9]	262		
+tr|S6CIU8|S6CIU8_LACCA			167		
+tr|S6C0L6|S6C0L6_LACCA	K00059	fabG; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	237		
+tr|S6CAG6|S6CAG6_LACCA			18	K03574	5
+tr|S6C6F4|S6C6F4_LACCA			24	K00041	1
+tr|S6CJ96|S6CJ96_LACCA			11	K02567	9
+tr|S6CIX8|S6CIX8_LACCA			478		
+tr|S6CB15|S6CB15_LACCA	K00867	coaA; type I pantothenate kinase [EC:2.7.1.33]	346		
+tr|S6C205|S6C205_LACCA			169		
+tr|S6CAZ6|S6CAZ6_LACCA			150		
+tr|S6C1V1|S6C1V1_LACCA	K02904	RP-L29; large subunit ribosomal protein L29	92		
+tr|S6BRI4|S6BRI4_LACCA			23	K03092	1
+tr|S6BT94|S6BT94_LACCA			17	K02419	2
+tr|S6C8B3|S6C8B3_LACCA			226		
+tr|S6BSJ8|S6BSJ8_LACCA			13	K01869	1
+tr|S6CCH1|S6CCH1_LACCA			363		
+tr|S6CAA4|S6CAA4_LACCA	K02906	RP-L3; large subunit ribosomal protein L3	305		
+tr|S6BQB5|S6BQB5_LACCA			194	K07741	53
+tr|S6BQ81|S6BQ81_LACCA			20	K00324	1
+tr|S6BRH5|S6BRH5_LACCA	K01439	dapE; succinyl-diaminopimelate desuccinylase [EC:3.5.1.18]	222		
+tr|S6C1S9|S6C1S9_LACCA			25	K02053	1
+tr|S6C4Y0|S6C4Y0_LACCA			266	K07481	85
+tr|S6CBU8|S6CBU8_LACCA	K02954	RP-S14; small subunit ribosomal protein S14	138		
+tr|S6BXE6|S6BXE6_LACCA			20	K01720	3
+tr|S6C347|S6C347_LACCA	K07483	transposase	24		
+tr|S6C9Y0|S6C9Y0_LACCA	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	793		
+tr|S6CB06|S6CB06_LACCA			17	K03439	1
+tr|S6CJE6|S6CJE6_LACCA	K02337	DPO3A1; DNA polymerase III subunit alpha [EC:2.7.7.7]	851		
+tr|S6C2Z3|S6C2Z3_LACCA			13	K00135	2
+tr|S6CBH7|S6CBH7_LACCA			312		
+tr|S6BRT6|S6BRT6_LACCA	K03545	tig; trigger factor	511		
+tr|S6CK85|S6CK85_LACCA			530		
+tr|S6CA62|S6CA62_LACCA			21	K03546	2
+tr|S6BWL4|S6BWL4_LACCA	K03442	mscS; small conductance mechanosensitive channel	200		
+tr|S6CIT4|S6CIT4_LACCA	K06942	ychF; ribosome-binding ATPase	531		
+tr|S6C9B4|S6C9B4_LACCA			21	K03885	1
+tr|S6BVA0|S6BVA0_LACCA			34	K02029	1
+tr|S6BVX5|S6BVX5_LACCA	K03449	MFS.CP; MFS transporter, CP family, cyanate transporter	242		
+tr|S6C0A9|S6C0A9_LACCA	K03300	TC.CITMHS; citrate-Mg2+:H+ or citrate-Ca2+:H+ symporter, CitMHS family	470		
+tr|S6BZ11|S6BZ11_LACCA	K07001	NTE family protein	68		
+tr|S6C038|S6C038_LACCA	K01641	E2.3.3.10; hydroxymethylglutaryl-CoA synthase [EC:2.3.3.10]	410		
+tr|S6BZ26|S6BZ26_LACCA	K02888	RP-L21; large subunit ribosomal protein L21	132		
+tr|S6BX78|S6BX78_LACCA	K02342	DPO3E; DNA polymerase III subunit epsilon [EC:2.7.7.7]	172		
+tr|S6CJN8|S6CJN8_LACCA			17	K02863	2
+tr|S6C9Q3|S6C9Q3_LACCA			192		
+tr|S6CC23|S6CC23_LACCA	K02892	RP-L23; large subunit ribosomal protein L23	122		
+tr|S6BRP4|S6BRP4_LACCA	K04074	divIVA; cell division initiation protein	159		
+tr|S6BRC4|S6BRC4_LACCA			18	K00820	1
+tr|S6C9J2|S6C9J2_LACCA			22	K11690	2
+tr|S6BP83|S6BP83_LACCA	K02796	PTS-Man-EIID; PTS system, mannose-specific IID component	150		
+tr|S6CAN5|S6CAN5_LACCA			15	K00848	2
+tr|S6CCG6|S6CCG6_LACCA	K08093	hxlA; 3-hexulose-6-phosphate synthase [EC:4.1.2.43]	143		
+tr|S6C9L4|S6C9L4_LACCA	K01246	tag; DNA-3-methyladenine glycosylase I [EC:3.2.2.20]	192		
+tr|S6C735|S6C735_LACCA	K02493	hemK; release factor glutamine methyltransferase [EC:2.1.1.297]	180		
+tr|S6CCM3|S6CCM3_LACCA			24	K07117	2
+tr|S6CBZ7|S6CBZ7_LACCA			109		
+tr|S6C7J1|S6C7J1_LACCA			72		
+tr|S6CJL4|S6CJL4_LACCA			212		
+tr|S6CAC9|S6CAC9_LACCA			179		
+tr|S6CAU1|S6CAU1_LACCA	K02887	RP-L20; large subunit ribosomal protein L20	134		
+tr|S6C9L7|S6C9L7_LACCA			284		
+tr|S6BVT7|S6BVT7_LACCA			14	K00615	3
+tr|S6CJ95|S6CJ95_LACCA	K07058	membrane protein	201		
+tr|S6CB35|S6CB35_LACCA	K01190	lacZ; beta-galactosidase [EC:3.2.1.23]	799		
+tr|S6BZ15|S6BZ15_LACCA	K13789	GGPS; geranylgeranyl diphosphate synthase, type II [EC:2.5.1.1 2.5.1.10 2.5.1.29]	228		
+tr|S6CB65|S6CB65_LACCA	K02356	efp; elongation factor P	206		
+tr|S6CK62|S6CK62_LACCA			404		
+tr|S6CJQ6|S6CJQ6_LACCA			531		
+tr|S6CCB2|S6CCB2_LACCA			20	K00135	1
+tr|S6CJD1|S6CJD1_LACCA			482		
+tr|S6C0P0|S6C0P0_LACCA			18	K07306	1
+tr|S6CJH8|S6CJH8_LACCA					
+tr|S6CJ62|S6CJ62_LACCA	K02240	comFA; competence protein ComFA	217		
+tr|S6BQ42|S6BQ42_LACCA			14	K01133	4
+tr|S6BPH7|S6BPH7_LACCA			23	K03561	1
+tr|S6C9K3|S6C9K3_LACCA			84	K06148	45
+tr|S6C4R8|S6C4R8_LACCA	K02469	gyrA; DNA gyrase subunit A [EC:5.99.1.3]	1189		
+tr|S6C0G8|S6C0G8_LACCA			36	K10012	2
+tr|S6BSA7|S6BSA7_LACCA			18	K01479	13
+tr|S6C2V6|S6C2V6_LACCA			226		
+tr|S6BPS6|S6BPS6_LACCA			181		
+tr|S6C532|S6C532_LACCA			19	K00036	2
+tr|S6BTC0|S6BTC0_LACCA			134		
+tr|S6BYZ7|S6BYZ7_LACCA	K03655	recG; ATP-dependent DNA helicase RecG [EC:3.6.4.12]	707		
+tr|S6CJ20|S6CJ20_LACCA			117		
+tr|S6CA14|S6CA14_LACCA	K06286	ezrA; septation ring formation regulator	270		
+tr|S6CJH9|S6CJH9_LACCA			16	K00252	3
+tr|S6C9M8|S6C9M8_LACCA	K13678	cpoA; 1,2-diacylglycerol-3-alpha-glucose alpha-1,2-galactosyltransferase [EC:2.4.1.-]	335		
+tr|S6CK04|S6CK04_LACCA			273		
+tr|S6BVA2|S6BVA2_LACCA			29	K03790	8
+tr|S6C1W3|S6C1W3_LACCA			17	K13256	4
+tr|S6CA58|S6CA58_LACCA	K02945	RP-S1; small subunit ribosomal protein S1	458		
+tr|S6CB79|S6CB79_LACCA			55		
+tr|S6CB84|S6CB84_LACCA			525		
+tr|S6CA61|S6CA61_LACCA	K11068	hlyIII; hemolysin III	190		
+tr|S6CAK8|S6CAK8_LACCA			15	K00324	2
+tr|S6CJ15|S6CJ15_LACCA	K00773	tgt; queuine tRNA-ribosyltransferase [EC:2.4.2.29]	616		
+tr|S6CAD6|S6CAD6_LACCA	K01151	nfo; deoxyribonuclease IV [EC:3.1.21.2]	385		
+tr|S6C1L1|S6C1L1_LACCA	K15555	ssuB; sulfonate transport system ATP-binding protein [EC:3.6.3.-]	180		
+tr|S6CJ28|S6CJ28_LACCA			14	K01608	2
+tr|S6CAY6|S6CAY6_LACCA			220		
+tr|S6CJ73|S6CJ73_LACCA			14	K00652	4
+tr|S6CJV2|S6CJV2_LACCA			26	K03642	1
+tr|S6C161|S6C161_LACCA			16	K06876	3
+tr|S6CC20|S6CC20_LACCA	K02878	RP-L16; large subunit ribosomal protein L16	234		
+tr|S6CBP4|S6CBP4_LACCA			23	K06180	1
+tr|S6C9G8|S6C9G8_LACCA			133		
+tr|S6C9W5|S6C9W5_LACCA			329		
+tr|S6BVI7|S6BVI7_LACCA			119		
+tr|S6CIZ2|S6CIZ2_LACCA	K07223	putative iron-dependent peroxidase	147		
+tr|S6CJR8|S6CJR8_LACCA			230		
+tr|S6C8F6|S6C8F6_LACCA			89		
+tr|S6CK17|S6CK17_LACCA	K04083	hslO; molecular chaperone Hsp33	306		
+tr|S6CAX2|S6CAX2_LACCA			129		
+tr|S6BVM9|S6BVM9_LACCA			167		
+tr|S6CA26|S6CA26_LACCA	K01515	nudF; ADP-ribose pyrophosphatase [EC:3.6.1.13]	124		
+tr|S6CJS8|S6CJS8_LACCA			1043		
+tr|S6BY57|S6BY57_LACCA	K02237	comEA; competence protein ComEA	113		
+tr|S6C1D3|S6C1D3_LACCA			23	K20344	18
+tr|S6CJJ8|S6CJJ8_LACCA	K03621	plsX; glycerol-3-phosphate acyltransferase PlsX [EC:2.3.1.15]	353		
+tr|S6BUG0|S6BUG0_LACCA	K01834	PGAM; 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11]	228		
+tr|S6BTD9|S6BTD9_LACCA			130		
+tr|S6C5R2|S6C5R2_LACCA	K03293	TC.AAT; amino acid transporter, AAT family	264		
+tr|S6BQ79|S6BQ79_LACCA	K02440	GLPF; glycerol uptake facilitator protein	273		
+tr|S6BUX1|S6BUX1_LACCA	K02895	RP-L24; large subunit ribosomal protein L24	143		
+tr|S6C886|S6C886_LACCA	K02902	RP-L28; large subunit ribosomal protein L28	94		
+tr|S6BUW6|S6BUW6_LACCA	K02881	RP-L18; large subunit ribosomal protein L18	175		
+tr|S6BQC6|S6BQC6_LACCA			18	K01790	1
+tr|S6C7K5|S6C7K5_LACCA	K12574	rnj; ribonuclease J [EC:3.1.-.-]	796		
+tr|S6BQV5|S6BQV5_LACCA	K00927	PGK; phosphoglycerate kinase [EC:2.7.2.3]	589		
+tr|S6C544|S6C544_LACCA			23	K00347	2
+tr|S6BQ49|S6BQ49_LACCA	K03647	nrdI; protein involved in ribonucleotide reduction	133		
+tr|S6CAF6|S6CAF6_LACCA			114		
+tr|S6BTA9|S6BTA9_LACCA			238		
+tr|S6CCH4|S6CCH4_LACCA			187		
+tr|S6BPA8|S6BPA8_LACCA			21	K10237	1
+tr|S6BTK9|S6BTK9_LACCA			19	K10542	3
+tr|S6BTI5|S6BTI5_LACCA	K00782	lldG; L-lactate dehydrogenase complex protein LldG	178		
+tr|S6C6N4|S6C6N4_LACCA			233		
+tr|S6C590|S6C590_LACCA			155		
+tr|S6C304|S6C304_LACCA	K07024	uncharacterized protein	151		
+tr|S6C5T4|S6C5T4_LACCA	K01635	lacD; tagatose 1,6-diphosphate aldolase [EC:4.1.2.40]	385		
+tr|S6BPM3|S6BPM3_LACCA			237		
+tr|S6BR70|S6BR70_LACCA			16	K11749	7
+tr|S6BTP3|S6BTP3_LACCA			18	K03975	1
+tr|S6CC13|S6CC13_LACCA	K02988	RP-S5; small subunit ribosomal protein S5	239		
+tr|S6CAX7|S6CAX7_LACCA	K01744	aspA; aspartate ammonia-lyase [EC:4.3.1.1]	413		
+tr|S6C9Z8|S6C9Z8_LACCA	K04486	E3.1.3.15B; histidinol-phosphatase (PHP family) [EC:3.1.3.15]	158		
+tr|S6CB04|S6CB04_LACCA			18	K01908	2
+tr|S6BX41|S6BX41_LACCA	K03702	uvrB; excinuclease ABC subunit B	990		
+tr|S6C2G7|S6C2G7_LACCA	K02775	PTS-Gat-EIIC; PTS system, galactitol-specific IIC component	428		
+tr|S6BSL7|S6BSL7_LACCA			112		
+tr|S6CIY2|S6CIY2_LACCA			111	K02495	3
+tr|S6CIQ6|S6CIQ6_LACCA	K03111	ssb; single-strand DNA-binding protein	81		
+tr|S6C0E1|S6C0E1_LACCA			113	K01073	12
+tr|S6BY76|S6BY76_LACCA			121		
+tr|S6C9X1|S6C9X1_LACCA	K00938	E2.7.4.2; phosphomevalonate kinase [EC:2.7.4.2]	349		
+tr|S6C8P3|S6C8P3_LACCA	K19802	ycjG; L-Ala-D/L-Glu epimerase [EC:5.1.1.20]	169		
+tr|S6CJT2|S6CJT2_LACCA	K02371	fabK; enoyl-[acyl-carrier protein] reductase II [EC:1.3.1.9]	343		
+tr|S6C2R8|S6C2R8_LACCA	K17073	lysX1; putative lysine transport system substrate-binding protein	529		
+	K17074	lysX2; putative lysine transport system permease protein			
+tr|S6C9U8|S6C9U8_LACCA	K11071	potB; spermidine/putrescine transport system permease protein	371		
+tr|S6BWT7|S6BWT7_LACCA	K19005	ltaS; lipoteichoic acid synthase [EC:2.7.8.20]	714		
+tr|S6C9Q1|S6C9Q1_LACCA			148	K07283	4
+tr|S6C9I5|S6C9I5_LACCA			26	K01239	1
+tr|S6C2S5|S6C2S5_LACCA			121		
+tr|S6CJB4|S6CJB4_LACCA			26	K02004	2
+tr|S6CJ18|S6CJ18_LACCA			31	K00145	1
+tr|S6CBT1|S6CBT1_LACCA			124		
+tr|S6BX06|S6BX06_LACCA	K00858	ppnK; NAD+ kinase [EC:2.7.1.23]	301		
+tr|S6C9S3|S6C9S3_LACCA	K02037	pstC; phosphate transport system permease protein	402		
+tr|S6BVF8|S6BVF8_LACCA	K03492	ydhQ; GntR family transcriptional regulator	125		
+tr|S6C6F9|S6C6F9_LACCA			22	K01507	5
+tr|S6C821|S6C821_LACCA			458		
+tr|S6BUH0|S6BUH0_LACCA	K09384	uncharacterized protein	315		
+tr|S6C1K7|S6C1K7_LACCA			29	K03588	1
+tr|S6BVU1|S6BVU1_LACCA			188	K13583	5
+tr|S6C9F9|S6C9F9_LACCA	K04072	adhE; acetaldehyde dehydrogenase / alcohol dehydrogenase [EC:1.2.1.10 1.1.1.1]	1066		
+tr|S6CJS3|S6CJS3_LACCA	K18928	lldE; L-lactate dehydrogenase complex protein LldE	308		
+tr|S6CJX2|S6CJX2_LACCA			169		
+tr|S6C844|S6C844_LACCA	K07305	msrB; peptide-methionine (R)-S-oxide reductase [EC:1.8.4.12]	165	K12267	40
+tr|S6C9G0|S6C9G0_LACCA			150		
+tr|S6C5V6|S6C5V6_LACCA			346		
+tr|S6CAA9|S6CAA9_LACCA	K03086	SIG1; RNA polymerase primary sigma factor	552		
+tr|S6CBT0|S6CBT0_LACCA			16	K11537	2
+tr|S6CIR5|S6CIR5_LACCA			170	K11085	9
+tr|S6CK01|S6CK01_LACCA			1172		
+tr|S6CIQ9|S6CIQ9_LACCA			16	K01971	1
+tr|S6CIV5|S6CIV5_LACCA			156	K02099	14
+tr|S6C183|S6C183_LACCA	K03734	apbE; FAD:protein FMN transferase [EC:2.7.1.180]	206		
+tr|S6BYB3|S6BYB3_LACCA			333		
+tr|S6CJQ9|S6CJQ9_LACCA			342		
+tr|S6C956|S6C956_LACCA	K01989	ABC.X4.S; putative ABC transport system substrate-binding protein	317		
+tr|S6C9J5|S6C9J5_LACCA	K08659	pepDA; dipeptidase [EC:3.4.-.-]	341		
+tr|S6CK78|S6CK78_LACCA			56		
+tr|S6BV17|S6BV17_LACCA			296		
+tr|S6C668|S6C668_LACCA			9	K16786/K16787	5
+tr|S6CAJ1|S6CAJ1_LACCA			21	K01687	2
+tr|S6BUE5|S6BUE5_LACCA	K09698	gltX; nondiscriminating glutamyl-tRNA synthetase [EC:6.1.1.24]	601		
+tr|S6C2M6|S6C2M6_LACCA			267		
+tr|S6C8G3|S6C8G3_LACCA	K03496	parA; chromosome partitioning protein	364		
+tr|S6CAB1|S6CAB1_LACCA	K02950	RP-S12; small subunit ribosomal protein S12	242		
+tr|S6CJX4|S6CJX4_LACCA	K01372	BLMH; bleomycin hydrolase [EC:3.4.22.40]	559		
+tr|S6CA03|S6CA03_LACCA	K03885	ndh; NADH dehydrogenase [EC:1.6.99.3]	613		
+tr|S6BY53|S6BY53_LACCA			102		
+tr|S6BY15|S6BY15_LACCA	K02563	murG; UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227]	368		
+tr|S6CJ19|S6CJ19_LACCA			54		
+tr|S6CBE7|S6CBE7_LACCA	K18939	lmrA; TetR/AcrR family transcriptional regulator, lmrAB and yxaGH operons repressor	126		
+tr|S6CK14|S6CK14_LACCA			105		
+tr|S6CIS0|S6CIS0_LACCA			203		
+tr|S6CJ93|S6CJ93_LACCA	K02759	PTS-Cel-EIIA; PTS system, cellobiose-specific IIA component [EC:2.7.1.196 2.7.1.205]	81		
+tr|S6BVM5|S6BVM5_LACCA			17	K02011	1
+tr|S6CAA1|S6CAA1_LACCA	K02890	RP-L22; large subunit ribosomal protein L22	175		
+tr|S6BUZ6|S6BUZ6_LACCA			18	K04759	1
+tr|S6CAI9|S6CAI9_LACCA			274		
+tr|S6C5H2|S6C5H2_LACCA	K10254	ohyA; oleate hydratase [EC:4.2.1.53]	551		
+tr|S6C9Y7|S6C9Y7_LACCA			155		
+tr|S6C1S1|S6C1S1_LACCA					
+tr|S6C5J5|S6C5J5_LACCA			363		
+tr|S6C0J7|S6C0J7_LACCA	K04041	fbp3; fructose-1,6-bisphosphatase III [EC:3.1.3.11]	724		
+tr|S6BXD7|S6BXD7_LACCA			66	K06911	2
+tr|S6CBT7|S6CBT7_LACCA			23	K07706	9
+tr|S6BV35|S6BV35_LACCA			160		
+tr|S6CJR4|S6CJR4_LACCA	K03734	apbE; FAD:protein FMN transferase [EC:2.7.1.180]	166		
+tr|S6BW04|S6BW04_LACCA			324		
+tr|S6C2R4|S6C2R4_LACCA	K02796	PTS-Man-EIID; PTS system, mannose-specific IID component	442		
+tr|S6CIZ7|S6CIZ7_LACCA	K07090	uncharacterized protein	181		
+tr|S6BVN7|S6BVN7_LACCA			32	K18842	1
+tr|S6BVH0|S6BVH0_LACCA			72		
+tr|S6C9W0|S6C9W0_LACCA	K07407	E3.2.1.22B; alpha-galactosidase [EC:3.2.1.22]	368		
+tr|S6CJZ9|S6CJZ9_LACCA			15	K06888	2
+tr|S6BXF5|S6BXF5_LACCA			186		
+tr|S6CK40|S6CK40_LACCA			213		
+tr|S6BPB8|S6BPB8_LACCA			350		
+tr|S6C885|S6C885_LACCA	K02078	acpP; acyl carrier protein	89		
+tr|S6C9Z5|S6C9Z5_LACCA			326		
+tr|S6CA95|S6CA95_LACCA	K02933	RP-L6; large subunit ribosomal protein L6	237		
+tr|S6CAK3|S6CAK3_LACCA			233		
+tr|S6C2R6|S6C2R6_LACCA			217		
+tr|S6BXU3|S6BXU3_LACCA	K02071	metN; D-methionine transport system ATP-binding protein	372		
+tr|S6CB16|S6CB16_LACCA	K06889	uncharacterized protein	204		
+tr|S6CJ11|S6CJ11_LACCA	K12952	ctpE; cation-transporting ATPase E [EC:3.6.3.-]	616		
+tr|S6C7Q6|S6C7Q6_LACCA	K00243	uncharacterized protein	280		
+tr|S6C190|S6C190_LACCA			105		
+tr|S6C9S4|S6C9S4_LACCA			314		
+tr|S6C9A8|S6C9A8_LACCA			205		
+tr|S6CAG7|S6CAG7_LACCA	K02838	frr; ribosome recycling factor	234		
+tr|S6C938|S6C938_LACCA			23	K03924	1
+tr|S6CBN0|S6CBN0_LACCA	K00564	rsmC; 16S rRNA (guanine1207-N2)-methyltransferase [EC:2.1.1.172]	83		
+tr|S6C1Z0|S6C1Z0_LACCA	K00016	LDH; L-lactate dehydrogenase [EC:1.1.1.27]	405	K00024	43
+tr|S6BYJ4|S6BYJ4_LACCA	K03700	recU; recombination protein U	227		
+tr|S6C2T7|S6C2T7_LACCA			152	K06904	32
+tr|S6CJX9|S6CJX9_LACCA			14	K01151	5
+tr|S6C293|S6C293_LACCA	K19265	gpr; L-glyceraldehyde 3-phosphate reductase [EC:1.1.1.-]	327		
+tr|S6CA47|S6CA47_LACCA	K00882	fruK; 1-phosphofructokinase [EC:2.7.1.56]	310		
+tr|S6CIS8|S6CIS8_LACCA			126	K02005	3
+tr|S6CJ41|S6CJ41_LACCA			59		
+tr|S6CC56|S6CC56_LACCA			19	K04754	1
+tr|S6BV88|S6BV88_LACCA			105	K03892	10
+tr|S6BVA8|S6BVA8_LACCA	K07478	ycaJ; putative ATPase	586		
+tr|S6C9P1|S6C9P1_LACCA			110	K03111	4
+tr|S6CJE5|S6CJE5_LACCA	K02911	RP-L32; large subunit ribosomal protein L32	51		
+tr|S6BYS0|S6BYS0_LACCA			17	K06901	3
+tr|S6CAD1|S6CAD1_LACCA	K03584	recO; DNA repair protein RecO (recombination protein O)	219		
+tr|S6CBV7|S6CBV7_LACCA	K10947	padR; PadR family transcriptional regulator, regulatory protein PadR	111		
+tr|S6C2W0|S6C2W0_LACCA			21	K02035	1
+tr|S6C2W4|S6C2W4_LACCA			19	K01737	2
+tr|S6BV97|S6BV97_LACCA			405		
+tr|S6CJF7|S6CJF7_LACCA			23	K01892	1
+tr|S6C105|S6C105_LACCA			216	K14742	21
+tr|S6C642|S6C642_LACCA			150		
+tr|S6C554|S6C554_LACCA	K00140	mmsA; malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.18 1.2.1.27]	677		
+tr|S6C7I2|S6C7I2_LACCA	K03531	ftsZ; cell division protein FtsZ	483		
+tr|S6CCK5|S6CCK5_LACCA			85		
+tr|S6C811|S6C811_LACCA			305		
+tr|S6BUJ5|S6BUJ5_LACCA			105		
+tr|S6BT90|S6BT90_LACCA			18	K07082	2
+tr|S6BRY1|S6BRY1_LACCA	K03797	E3.4.21.102; carboxyl-terminal processing protease [EC:3.4.21.102]	353		
+tr|S6BP19|S6BP19_LACCA	K03100	lepB; signal peptidase I [EC:3.4.21.89]	124		
+tr|S6CA97|S6CA97_LACCA	K02874	RP-L14; large subunit ribosomal protein L14	198		
+tr|S6CCJ9|S6CCJ9_LACCA			388		
+tr|S6BTI7|S6BTI7_LACCA	K02759	PTS-Cel-EIIA; PTS system, cellobiose-specific IIA component [EC:2.7.1.196 2.7.1.205]	121		
+tr|S6C989|S6C989_LACCA	K03455	TC.KEF; monovalent cation:H+ antiporter-2, CPA2 family	429		
+tr|S6BQC0|S6BQC0_LACCA			21	K03798	5
+tr|S6C6T5|S6C6T5_LACCA			19	K01962	2
+tr|S6C620|S6C620_LACCA			365		
+tr|S6C883|S6C883_LACCA			15	K09475	2
+tr|S6BPI7|S6BPI7_LACCA			23	K04567	1
+tr|S6BQN8|S6BQN8_LACCA	K03734	apbE; FAD:protein FMN transferase [EC:2.7.1.180]	327		
+tr|S6CA35|S6CA35_LACCA	K20344	blpA; ATP-binding cassette, subfamily C, bacteriocin exporter	383	K12292	52
+tr|S6BUR5|S6BUR5_LACCA			165		
+tr|S6CAH4|S6CAH4_LACCA	K00937	ppk; polyphosphate kinase [EC:2.7.4.1]	717		
+tr|S6C563|S6C563_LACCA	K03339	iolJ; 6-phospho-5-dehydro-2-deoxy-D-gluconate aldolase [EC:4.1.2.29]	229	K01624	49
+tr|S6CA70|S6CA70_LACCA	K02004	ABC.CD.P; putative ABC transport system permease protein	274		
+tr|S6C538|S6C538_LACCA			201		
+tr|S6BWH1|S6BWH1_LACCA	K01259	pip; proline iminopeptidase [EC:3.4.11.5]	238		
+tr|S6BNN5|S6BNN5_LACCA	K07024	uncharacterized protein	165		
+tr|S6C2Z7|S6C2Z7_LACCA			309		
+tr|S6CJH7|S6CJH7_LACCA			488		
+tr|S6BVH2|S6BVH2_LACCA	K01807	rpiA; ribose 5-phosphate isomerase A [EC:5.3.1.6]	258		
+tr|S6CJS7|S6CJS7_LACCA	K07448	mrr; restriction system protein	181		
+tr|S6BTB5|S6BTB5_LACCA			58	K16554	2
+tr|S6C2G2|S6C2G2_LACCA	K15524	mngB; mannosylglycerate hydrolase [EC:3.2.1.170]	450	K01191	65
+tr|S6CB30|S6CB30_LACCA			164	K09809	14
+tr|S6BRP1|S6BRP1_LACCA	K03590	ftsA; cell division protein FtsA	442		
+tr|S6CJE4|S6CJE4_LACCA			593		
+tr|S6C8X6|S6C8X6_LACCA	K03294	TC.APA; basic amino acid/polyamine antiporter, APA family	511		
+tr|S6C5M0|S6C5M0_LACCA			18	K01818	1
+tr|S6BQM9|S6BQM9_LACCA	K14155	patB; cystathione beta-lyase [EC:4.4.1.8]	365		
+tr|S6CA69|S6CA69_LACCA	K02622	parE; topoisomerase IV subunit B [EC:5.99.1.-]	913		
+tr|S6CJ83|S6CJ83_LACCA			17	K02462	1
+tr|S6CBP8|S6CBP8_LACCA	K03734	apbE; FAD:protein FMN transferase [EC:2.7.1.180]	154		
+tr|S6BU32|S6BU32_LACCA	K02341	DPO3D2; DNA polymerase III subunit delta' [EC:2.7.7.7]	209		
+tr|S6BYT5|S6BYT5_LACCA	K00759	APRT; adenine phosphoribosyltransferase [EC:2.4.2.7]	249		
+tr|S6C8Q3|S6C8Q3_LACCA			65		
+tr|S6BWZ0|S6BWZ0_LACCA			20	K03453	2
+tr|S6C018|S6C018_LACCA	K01945	purD; phosphoribosylamine--glycine ligase [EC:6.3.4.13]	301		
+tr|S6BNQ4|S6BNQ4_LACCA			18	K10009	2
+tr|S6C8Z7|S6C8Z7_LACCA	K06999	phospholipase/carboxylesterase	153		
+tr|S6C9Y5|S6C9Y5_LACCA	K03569	mreB; rod shape-determining protein MreB and related proteins	444		
+tr|S6C519|S6C519_LACCA			109		
+tr|S6CA48|S6CA48_LACCA	K02077	ABC.ZM.S; zinc/manganese transport system substrate-binding protein	200		
+tr|S6CK41|S6CK41_LACCA	K07150	uncharacterized protein	208		
+tr|S6BVF6|S6BVF6_LACCA	K06606	iolI; 2-keto-myo-inositol isomerase [EC:5.3.99.11]	198		
+tr|S6BT61|S6BT61_LACCA	K05964	citX; holo-ACP synthase [EC:2.7.7.61]	34		
+tr|S6CJR7|S6CJR7_LACCA			308		
+tr|S6C8B5|S6C8B5_LACCA			59		
+tr|S6C0J1|S6C0J1_LACCA	K00700	glgB; 1,4-alpha-glucan branching enzyme [EC:2.4.1.18]	582		
+tr|S6BWX5|S6BWX5_LACCA			18	K02528	2
+tr|S6CBA4|S6CBA4_LACCA	K00648	fabH; 3-oxoacyl-[acyl-carrier-protein] synthase III [EC:2.3.1.180]	270		
+tr|S6C336|S6C336_LACCA	K05340	glcU; glucose uptake protein	256		
+tr|S6BWI5|S6BWI5_LACCA			180		
+tr|S6CJB0|S6CJB0_LACCA			21	K01006	2
+tr|S6CCA2|S6CCA2_LACCA	K15634	gpmB; probable phosphoglycerate mutase [EC:5.4.2.12]	89		
+tr|S6C8C8|S6C8C8_LACCA			26	K01687	2
+tr|S6CJT6|S6CJT6_LACCA			190		
+tr|S6CK13|S6CK13_LACCA	K02946	RP-S10; small subunit ribosomal protein S10	189		
+tr|S6BW43|S6BW43_LACCA			30	K03446	2
+tr|S6C1P1|S6C1P1_LACCA			16	K00091	1
+tr|S6CJQ8|S6CJQ8_LACCA			211		
+tr|S6CK19|S6CK19_LACCA	K01056	PTH1; peptidyl-tRNA hydrolase, PTH1 family [EC:3.1.1.29]	193		
+tr|S6CJU2|S6CJU2_LACCA	K01953	asnB; asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]	659		
+tr|S6CK64|S6CK64_LACCA			122		
+tr|S6CB24|S6CB24_LACCA			130		
+tr|S6C6H5|S6C6H5_LACCA			506		
+tr|S6C9A6|S6C9A6_LACCA			194		
+tr|S6BUA7|S6BUA7_LACCA	K02935	RP-L7; large subunit ribosomal protein L7/L12	133		
+tr|S6CCP0|S6CCP0_LACCA			59		
+tr|S6C2T3|S6C2T3_LACCA	K03282	mscL; large conductance mechanosensitive channel	113		
+tr|S6CJ75|S6CJ75_LACCA	K02026	ABC.MS.P1; multiple sugar transport system permease protein	338		
+tr|S6C8D1|S6C8D1_LACCA	K06901	pbuG; putative MFS transporter, AGZA family, xanthine/uracil permease	581		
+tr|S6CK75|S6CK75_LACCA	K03924	moxR; MoxR-like ATPase [EC:3.6.3.-]	329		
+tr|S6C651|S6C651_LACCA			177		
+tr|S6C196|S6C196_LACCA			18	K01992	7
+tr|S6C6Y5|S6C6Y5_LACCA			20	K02468	2
+tr|S6BXG9|S6BXG9_LACCA			458		
+tr|S6C878|S6C878_LACCA	K03111	ssb; single-strand DNA-binding protein	186		
+tr|S6C909|S6C909_LACCA	K00864	glpK; glycerol kinase [EC:2.7.1.30]	724		
+tr|S6CB05|S6CB05_LACCA	K01910	citC; [citrate (pro-3S)-lyase] ligase [EC:6.2.1.22]	246		
+tr|S6C9T4|S6C9T4_LACCA	K00134	GAPDH; glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]	512		
+tr|S6BY12|S6BY12_LACCA	K03438	mraW; 16S rRNA (cytosine1402-N4)-methyltransferase [EC:2.1.1.199]	374		
+tr|S6CB29|S6CB29_LACCA	K02914	RP-L34; large subunit ribosomal protein L34	74		
+tr|S6CJ50|S6CJ50_LACCA			15	K02337	2
+tr|S6C000|S6C000_LACCA			20	K04043	2
+tr|S6C541|S6C541_LACCA			93		
+tr|S6C6S7|S6C6S7_LACCA			278		
+tr|S6BQD0|S6BQD0_LACCA			16	K01897	1
+tr|S6CAN1|S6CAN1_LACCA	K01628	fucA; L-fuculose-phosphate aldolase [EC:4.1.2.17]	23		
+tr|S6CJ34|S6CJ34_LACCA			17	K02057	1
+tr|S6C027|S6C027_LACCA			19	K01190	1
+tr|S6BVJ6|S6BVJ6_LACCA	K02796	PTS-Man-EIID; PTS system, mannose-specific IID component	291		
+tr|S6CJQ4|S6CJQ4_LACCA	K01259	pip; proline iminopeptidase [EC:3.4.11.5]	287		
+tr|S6CJM0|S6CJM0_LACCA			311		
+tr|S6BP10|S6BP10_LACCA					
+tr|S6CJM1|S6CJM1_LACCA			18	K10003	1
+tr|S6C157|S6C157_LACCA			19	K01890	1
+tr|S6CAZ8|S6CAZ8_LACCA			27	K03790	13
+tr|S6BXG0|S6BXG0_LACCA			102		
+tr|S6BRK3|S6BRK3_LACCA			17	K00833	1
+tr|S6CK55|S6CK55_LACCA			505		
+tr|S6C882|S6C882_LACCA	K02860	rimM; 16S rRNA processing protein RimM	163		
+tr|S6BQ93|S6BQ93_LACCA					
+tr|S6BTT7|S6BTT7_LACCA			13	K00820	4
+tr|S6C6M9|S6C6M9_LACCA	K06958	rapZ; RNase adapter protein RapZ	383		
+tr|S6BUY1|S6BUY1_LACCA	K02926	RP-L4; large subunit ribosomal protein L4	283		
+tr|S6C5T1|S6C5T1_LACCA			17	K01589	2
+tr|S6C7T5|S6C7T5_LACCA	K03667	hslU; ATP-dependent HslUV protease ATP-binding subunit HslU	557		
+tr|S6C6D6|S6C6D6_LACCA			18	K03088	1
+tr|S6BQQ1|S6BQQ1_LACCA			215		
+tr|S6BP16|S6BP16_LACCA			102		
+tr|S6CIY6|S6CIY6_LACCA	K18892	patB; ATP-binding cassette, subfamily B, multidrug efflux pump	547	K06147	82
+tr|S6BX66|S6BX66_LACCA			15	K02533	3
+tr|S6CCD8|S6CCD8_LACCA	K18581	ugl; unsaturated chondroitin disaccharide hydrolase [EC:3.2.1.180]	416		
+tr|S6C7E6|S6C7E6_LACCA			160		
+tr|S6BRQ3|S6BRQ3_LACCA	K00566	mnmA; tRNA-specific 2-thiouridylase [EC:2.8.1.-]	548		
+tr|S6CK27|S6CK27_LACCA	K02528	ksgA; 16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase [EC:2.1.1.182]	289		
+tr|S6C1A2|S6C1A2_LACCA	K01006	ppdK; pyruvate, orthophosphate dikinase [EC:2.7.9.1]	943		
+tr|S6C229|S6C229_LACCA	K00948	PRPS; ribose-phosphate pyrophosphokinase [EC:2.7.6.1]	471		
+tr|S6CB23|S6CB23_LACCA			228		
+tr|S6BW27|S6BW27_LACCA			155		
+tr|S6C9X7|S6C9X7_LACCA			87	K15051	5
+tr|S6BQS0|S6BQS0_LACCA	K02038	pstA; phosphate transport system permease protein	411		
+tr|S6BQY5|S6BQY5_LACCA	K00075	murB; UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98]	346		
+tr|S6C5V5|S6C5V5_LACCA			349		
+tr|S6C9D0|S6C9D0_LACCA	K09963	uncharacterized protein	349		
+tr|S6BS15|S6BS15_LACCA			568		
+tr|S6C7W1|S6C7W1_LACCA	K00817	hisC; histidinol-phosphate aminotransferase [EC:2.6.1.9]	247		
+tr|S6CJV6|S6CJV6_LACCA	K07979	ytrA; GntR family transcriptional regulator	83		
+tr|S6C2K8|S6C2K8_LACCA			133		
+tr|S6C9H3|S6C9H3_LACCA	K03739	dltB; membrane protein involved in D-alanine export	464		
+tr|S6CCB0|S6CCB0_LACCA	K02796	PTS-Man-EIID; PTS system, mannose-specific IID component	11		
+tr|S6BT07|S6BT07_LACCA	K00626	E2.3.1.9; acetyl-CoA C-acetyltransferase [EC:2.3.1.9]	388		
+tr|S6C6G7|S6C6G7_LACCA			18	K17103	1
+tr|S6BPP4|S6BPP4_LACCA	K03704	cspA; cold shock protein (beta-ribbon, CspA family)	112		
+tr|S6BR58|S6BR58_LACCA	K07024	uncharacterized protein	143		
+tr|S6BUD0|S6BUD0_LACCA			216	K20379	31
+tr|S6C5D8|S6C5D8_LACCA	K19157	yafQ; mRNA interferase YafQ [EC:3.1.-.-]	36		
+tr|S6BR86|S6BR86_LACCA	K00963	UGP2; UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9]	430		
+tr|S6C593|S6C593_LACCA			169		
+tr|S6BNI8|S6BNI8_LACCA	K02470	gyrB; DNA gyrase subunit B [EC:5.99.1.3]	887		
+tr|S6C969|S6C969_LACCA	K01575	alsD; acetolactate decarboxylase [EC:4.1.1.5]	180		
+tr|S6C8B2|S6C8B2_LACCA			29	K00790	1
+tr|S6CJ32|S6CJ32_LACCA			18	K02337	2
+tr|S6CAH6|S6CAH6_LACCA	K02884	RP-L19; large subunit ribosomal protein L19	182		
+tr|S6CJW4|S6CJW4_LACCA	K00135	gabD; succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2.1.79 1.2.1.20]	398		
+tr|S6BX44|S6BX44_LACCA	K09762	uncharacterized protein	387		
+tr|S6CJB6|S6CJB6_LACCA			15	K03811	7
+tr|S6CA63|S6CA63_LACCA			67		
+tr|S6CIX7|S6CIX7_LACCA			22	K02688	2
+tr|S6BS30|S6BS30_LACCA			17	K01061	2
+tr|S6BS79|S6BS79_LACCA			17	K01868	1
+tr|S6C7P1|S6C7P1_LACCA	K03544	clpX; ATP-dependent Clp protease ATP-binding subunit ClpX	599		
+tr|S6CK91|S6CK91_LACCA			372		
+tr|S6C5U1|S6C5U1_LACCA	K03575	mutY; A/G-specific adenine glycosylase [EC:3.2.2.-]	337		
+tr|S6C7V7|S6C7V7_LACCA	K01814	hisA; phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase [EC:5.3.1.16]	200		
+tr|S6C5P1|S6C5P1_LACCA			59		
+tr|S6BT12|S6BT12_LACCA	K01439	dapE; succinyl-diaminopimelate desuccinylase [EC:3.5.1.18]	182		
+tr|S6C9E2|S6C9E2_LACCA			31	K12063	2
+tr|S6BVA4|S6BVA4_LACCA	K07024	uncharacterized protein	160		
+tr|S6CCL8|S6CCL8_LACCA	K00864	glpK; glycerol kinase [EC:2.7.1.30]	215		
+tr|S6C9M4|S6C9M4_LACCA			187		
+tr|S6CKA4|S6CKA4_LACCA			359		
+tr|S6C7L6|S6C7L6_LACCA			27	K00016	4
+tr|S6BUL8|S6BUL8_LACCA	K15553	ssuA; sulfonate transport system substrate-binding protein	275		
+tr|S6BVG8|S6BVG8_LACCA	K03534	rhaM; L-rhamnose mutarotase [EC:5.1.3.32]	138		
+tr|S6BV72|S6BV72_LACCA	K00928	lysC; aspartate kinase [EC:2.7.2.4]	439		
+tr|S6C658|S6C658_LACCA			110		
+tr|S6BVX0|S6BVX0_LACCA	K02761	PTS-Cel-EIIC; PTS system, cellobiose-specific IIC component	140		
+tr|S6C879|S6C879_LACCA	K03294	TC.APA; basic amino acid/polyamine antiporter, APA family	417		
+tr|S6CIY0|S6CIY0_LACCA			30	K02591	1
+tr|S6BVA6|S6BVA6_LACCA			288		
+tr|S6BY44|S6BY44_LACCA	K00162	PDHB; pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1]	501		
+tr|S6CK96|S6CK96_LACCA			157		
+tr|S6CAV1|S6CAV1_LACCA	K03466	ftsK; DNA segregation ATPase FtsK/SpoIIIE, S-DNA-T family	488		
+tr|S6C9Z0|S6C9Z0_LACCA	K09014	sufB; Fe-S cluster assembly protein SufB	680		
+tr|S6CA54|S6CA54_LACCA	K05896	scpA; segregation and condensation protein A	167		
+tr|S6BQD8|S6BQD8_LACCA			457		
+tr|S6BUB9|S6BUB9_LACCA	K01531	mgtA; Mg2+-importing ATPase [EC:3.6.3.2]	793		
+tr|S6C5N7|S6C5N7_LACCA			31	K03555	1
+tr|S6C9K0|S6C9K0_LACCA	K01223	E3.2.1.86B; 6-phospho-beta-glucosidase [EC:3.2.1.86]	633		
+tr|S6CIR9|S6CIR9_LACCA			168		
+tr|S6CCF7|S6CCF7_LACCA			14	K01338	2
+tr|S6CKA5|S6CKA5_LACCA			128		
+tr|S6BV44|S6BV44_LACCA			300		
+tr|S6BWS2|S6BWS2_LACCA			19	K02493	1
+tr|S6BYK3|S6BYK3_LACCA	K16899	addB; ATP-dependent helicase/nuclease subunit B [EC:3.1.-.- 3.6.4.12]	557		
+tr|S6CBW6|S6CBW6_LACCA			36	K00689	1
+tr|S6CIX4|S6CIX4_LACCA			152		
+tr|S6BW08|S6BW08_LACCA			16	K05846	1
+tr|S6C9U6|S6C9U6_LACCA	K01142	E3.1.11.2; exodeoxyribonuclease III [EC:3.1.11.2]	362		
+tr|S6CIW3|S6CIW3_LACCA			19	K02005	1
+tr|S6BXA7|S6BXA7_LACCA	K07407	E3.2.1.22B; alpha-galactosidase [EC:3.2.1.22]	210		
+tr|S6CCD3|S6CCD3_LACCA	K01813	rhaA; L-rhamnose isomerase [EC:5.3.1.14]	530		
+tr|S6CJK7|S6CJK7_LACCA	K19225	gluP; rhomboid protease GluP [EC:3.4.21.105]	166		
+tr|S6CAV0|S6CAV0_LACCA			24	K20266	2
+tr|S6CIY8|S6CIY8_LACCA			18	K07726	10
+tr|S6CJR5|S6CJR5_LACCA	K00975	glgC; glucose-1-phosphate adenylyltransferase [EC:2.7.7.27]	263		
+tr|S6BYW4|S6BYW4_LACCA	K07461	putative endonuclease	89		
+tr|S6CBQ9|S6CBQ9_LACCA	K00104	glcD; glycolate oxidase [EC:1.1.3.15]	362		
+tr|S6CAD9|S6CAD9_LACCA	K01448	E3.5.1.28B; N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]	247		
+tr|S6BWJ0|S6BWJ0_LACCA	K03210	yajC; preprotein translocase subunit YajC	76		
+tr|S6C042|S6C042_LACCA	K07448	mrr; restriction system protein	52		
+tr|S6BVM1|S6BVM1_LACCA			132		
+tr|S6CJX1|S6CJX1_LACCA	K01883	CARS; cysteinyl-tRNA synthetase [EC:6.1.1.16]	566		
+tr|S6CBT4|S6CBT4_LACCA			15	K00658	2
+tr|S6BY62|S6BY62_LACCA	K02956	RP-S15; small subunit ribosomal protein S15	137		
+tr|S6BVS4|S6BVS4_LACCA			19	K12251	2
+tr|S6CJI4|S6CJI4_LACCA	K03652	MPG; DNA-3-methyladenine glycosylase [EC:3.2.2.21]	156		
+tr|S6C1L9|S6C1L9_LACCA			18	K03595	1
+tr|S6C8C4|S6C8C4_LACCA	K00527	nrdD; ribonucleoside-triphosphate reductase [EC:1.17.4.2]	971		
+tr|S6CIZ6|S6CIZ6_LACCA	K10984	PTS-Gam-EIIB; PTS system, galactosamine-specific IIB component [EC:2.7.1.-]	203		
+tr|S6CCA5|S6CCA5_LACCA			413		
+tr|S6CJ02|S6CJ02_LACCA			18	K07118	5
+tr|S6CAZ0|S6CAZ0_LACCA	K11104	melB; melibiose permease	53		
+tr|S6BVB9|S6BVB9_LACCA	K06872	uncharacterized protein	118		
+tr|S6CAT4|S6CAT4_LACCA	K03437	spoU; RNA methyltransferase, TrmH family	222		
+tr|S6CJS6|S6CJS6_LACCA	K09703	uncharacterized protein	434		
+tr|S6C6H2|S6C6H2_LACCA			110		
+tr|S6CB42|S6CB42_LACCA			150		
+tr|S6C982|S6C982_LACCA			143	K07726	13
+tr|S6BYP6|S6BYP6_LACCA			17	K09019	2
+tr|S6CJR2|S6CJR2_LACCA			28	K01183	2
+tr|S6C1C4|S6C1C4_LACCA			123		
+tr|S6C9N4|S6C9N4_LACCA			124	K07741	24
+tr|S6CA52|S6CA52_LACCA	K00873	PK; pyruvate kinase [EC:2.7.1.40]	780		
+tr|S6BW79|S6BW79_LACCA			256		
+tr|S6BV49|S6BV49_LACCA	K00919	ispE; 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase [EC:2.7.1.148]	266	K16924	30
+tr|S6BWG4|S6BWG4_LACCA	K03284	corA; magnesium transporter	111		
+tr|S6CAE4|S6CAE4_LACCA			20	K02040	2
+tr|S6C0B3|S6C0B3_LACCA			138		
+tr|S6C021|S6C021_LACCA	K01952	purL; phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	842		
+tr|S6C6R2|S6C6R2_LACCA			23	K03695	1
+tr|S6BTA5|S6BTA5_LACCA	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	76	K11631	31
+tr|S6BSZ3|S6BSZ3_LACCA			22	K01903	1
+tr|S6C5F2|S6C5F2_LACCA			99	K00344	68
+tr|S6BTC8|S6BTC8_LACCA			177	K16698	40
+tr|S6C815|S6C815_LACCA			116		
+tr|S6C9H6|S6C9H6_LACCA	K07095	uncharacterized protein	131		
+tr|S6C900|S6C900_LACCA	K02520	infC; translation initiation factor IF-3	222		
+tr|S6BVL9|S6BVL9_LACCA			18	K06890	2
+tr|S6BYU8|S6BYU8_LACCA	K03705	hrcA; heat-inducible transcriptional repressor	317		
+tr|S6CJP1|S6CJP1_LACCA	K01610	E4.1.1.49; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]	550		
+tr|S6CK57|S6CK57_LACCA			33	K05685	1
+tr|S6CK28|S6CK28_LACCA			275		
+tr|S6CJT8|S6CJT8_LACCA	K06206	sfsA; sugar fermentation stimulation protein A	179		
+tr|S6BUQ2|S6BUQ2_LACCA			34	K01990	2
+tr|S6CCT5|S6CCT5_LACCA			139		
+tr|S6BQB0|S6BQB0_LACCA			192		
+tr|S6BPX4|S6BPX4_LACCA	K01989	ABC.X4.S; putative ABC transport system substrate-binding protein	161		
+tr|S6C7T1|S6C7T1_LACCA	K04096	smf; DNA processing protein	180		
+tr|S6BP13|S6BP13_LACCA			319		
+tr|S6BWU9|S6BWU9_LACCA			20	K12251	2
+tr|S6C5B0|S6C5B0_LACCA	K01809	manA; mannose-6-phosphate isomerase [EC:5.3.1.8]	360		
+tr|S6BP76|S6BP76_LACCA			156		
+tr|S6CA18|S6CA18_LACCA	K02030	ABC.PA.S; polar amino acid transport system substrate-binding protein	270		
+tr|S6C2D8|S6C2D8_LACCA	K03781	katE; catalase [EC:1.11.1.6]	612		
+tr|S6CAW3|S6CAW3_LACCA			356		
+tr|S6CBX3|S6CBX3_LACCA			129		
+tr|S6BWV8|S6BWV8_LACCA			18	K03427	2
+tr|S6CIQ8|S6CIQ8_LACCA			15	K02004	5
+tr|S6BX61|S6BX61_LACCA	K12573	rnr; ribonuclease R [EC:3.1.-.-]	727		
+tr|S6C691|S6C691_LACCA			16	K14682	2
+tr|S6BQ07|S6BQ07_LACCA	K01356	lexA; repressor LexA [EC:3.4.21.88]	214		
+tr|S6C906|S6C906_LACCA			22	K07114	1
+tr|S6BTW1|S6BTW1_LACCA			263		
+tr|S6C7J8|S6C7J8_LACCA	K15634	gpmB; probable phosphoglycerate mutase [EC:5.4.2.12]	168		
+tr|S6CAP3|S6CAP3_LACCA			25	K03827	3
+tr|S6C6C3|S6C6C3_LACCA	K00841	patA; aminotransferase [EC:2.6.1.-]	375	K00832	36
+tr|S6C5N2|S6C5N2_LACCA			289		
+tr|S6C618|S6C618_LACCA			347		
+tr|S6BXW1|S6BXW1_LACCA	K01752	E4.3.1.17; L-serine dehydratase [EC:4.3.1.17]	322		
+tr|S6C8F2|S6C8F2_LACCA			124		
+tr|S6CIT0|S6CIT0_LACCA			330		
+tr|S6BVS8|S6BVS8_LACCA			22	K03111	17
+tr|S6C0Q0|S6C0Q0_LACCA	K01421	yhgE; putative membrane protein	434		
+tr|S6C974|S6C974_LACCA	K01643	citF; citrate lyase subunit alpha / citrate CoA-transferase [EC:2.8.3.10]	671		
+tr|S6C663|S6C663_LACCA			17	K02035	1
+tr|S6BVJ9|S6BVJ9_LACCA	K01624	FBA; fructose-bisphosphate aldolase, class II [EC:4.1.2.13]	298		
+tr|S6CB03|S6CB03_LACCA	K01571	oadA; oxaloacetate decarboxylase, alpha subunit [EC:4.1.1.3]	603		
+tr|S6CJ55|S6CJ55_LACCA	K06183	rsuA; 16S rRNA pseudouridine516 synthase [EC:5.4.99.19]	173		
+tr|S6BZ32|S6BZ32_LACCA	K01915	glnA; glutamine synthetase [EC:6.3.1.2]	658		
+tr|S6C1W8|S6C1W8_LACCA			199		
+tr|S6C9K7|S6C9K7_LACCA	K16013	cydD; ATP-binding cassette, subfamily C, bacterial CydD	553		
+tr|S6C5V0|S6C5V0_LACCA	K20534	gtrB; polyisoprenyl-phosphate glycosyltransferase [EC:2.4.-.-]	339		
+tr|S6BQ98|S6BQ98_LACCA			118		
+tr|S6BST7|S6BST7_LACCA	K06890	uncharacterized protein	141		
+tr|S6BX89|S6BX89_LACCA	K00820	glmS; glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16]	694		
+tr|S6CCT7|S6CCT7_LACCA					
+tr|S6BVD7|S6BVD7_LACCA			112	K03655	4
+tr|S6BPW7|S6BPW7_LACCA			56	K03086	5
+tr|S6BRW5|S6BRW5_LACCA			139		
+tr|S6BW38|S6BW38_LACCA			15	K02313	3
+tr|S6C8E0|S6C8E0_LACCA	K07313	pphA; serine/threonine protein phosphatase 1 [EC:3.1.3.16]	77		
+tr|S6BUC2|S6BUC2_LACCA	K00525	E1.17.4.1A; ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]	57		
+tr|S6C056|S6C056_LACCA	K03710	GntR family transcriptional regulator	297		
+tr|S6C713|S6C713_LACCA			15	K03544	3
+tr|S6BVJ1|S6BVJ1_LACCA			186		
+tr|S6CJM6|S6CJM6_LACCA	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	226	K11635	25
+tr|S6BNR2|S6BNR2_LACCA			192		
+tr|S6BW99|S6BW99_LACCA	K02073	metQ; D-methionine transport system substrate-binding protein	244		
+tr|S6BWQ2|S6BWQ2_LACCA			22	K03111	17
+tr|S6CK49|S6CK49_LACCA			106	K12373	19
+tr|S6C4X7|S6C4X7_LACCA	K05822	dapH; tetrahydrodipicolinate N-acetyltransferase [EC:2.3.1.89]	106	K00674	92
+tr|S6BS27|S6BS27_LACCA	K01938	fhs; formate--tetrahydrofolate ligase [EC:6.3.4.3]	682		
+tr|S6CJR1|S6CJR1_LACCA	K10040	ABC.GLN1.P; putative glutamine transport system permease protein	269		
+tr|S6CJG1|S6CJG1_LACCA	K01515	nudF; ADP-ribose pyrophosphatase [EC:3.6.1.13]	84		
+tr|S6C6V7|S6C6V7_LACCA			293		
+tr|S6C0W7|S6C0W7_LACCA	K00425	cydA; cytochrome d ubiquinol oxidase subunit I [EC:1.10.3.14]	563		
+tr|S6BQP8|S6BQP8_LACCA			53	K02003	2
+tr|S6C9V5|S6C9V5_LACCA			15	K03704	2
+tr|S6CK30|S6CK30_LACCA	K00016	LDH; L-lactate dehydrogenase [EC:1.1.1.27]	255		
+tr|S6C8X2|S6C8X2_LACCA	K00297	metF; methylenetetrahydrofolate reductase (NADPH) [EC:1.5.1.20]	300		
+tr|S6BW17|S6BW17_LACCA	K01551	arsA; arsenite-transporting ATPase [EC:3.6.3.16]	661		
+tr|S6CA41|S6CA41_LACCA			228		
+tr|S6C952|S6C952_LACCA			22	K01574	8
+tr|S6CJ31|S6CJ31_LACCA			133	K06928	4
+tr|S6BZV7|S6BZV7_LACCA	K07015	uncharacterized protein	182		
+tr|S6C9P6|S6C9P6_LACCA			17	K00962	2
+tr|S6CJL8|S6CJL8_LACCA	K00859	coaE; dephospho-CoA kinase [EC:2.7.1.24]	170		
+tr|S6C2A6|S6C2A6_LACCA			167		
+tr|S6CK43|S6CK43_LACCA			301		
+tr|S6C9Y8|S6C9Y8_LACCA	K02072	metI; D-methionine transport system permease protein	212		
+tr|S6C9F6|S6C9F6_LACCA			227		
+tr|S6CIY9|S6CIY9_LACCA			122		
+tr|S6CJT1|S6CJT1_LACCA	K02372	fabZ; 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59]	169		
+tr|S6BX33|S6BX33_LACCA	K02039	phoU; phosphate transport system protein	250		
+tr|S6C2V1|S6C2V1_LACCA			208		
+tr|S6C9R9|S6C9R9_LACCA			231	K05808	28
+tr|S6BYV2|S6BYV2_LACCA	K02834	rbfA; ribosome-binding factor A	121		
+tr|S6C9J4|S6C9J4_LACCA			309		
+tr|S6BXB5|S6BXB5_LACCA	K06209	pheB; chorismate mutase [EC:5.4.99.5]	125		
+tr|S6CB19|S6CB19_LACCA	K02004	ABC.CD.P; putative ABC transport system permease protein	26		
+tr|S6CJF0|S6CJF0_LACCA			359		
+tr|S6BXJ2|S6BXJ2_LACCA			324		
+tr|S6BWV4|S6BWV4_LACCA			358		
+tr|S6C6A9|S6C6A9_LACCA			699		
+tr|S6C626|S6C626_LACCA	K07568	queA; S-adenosylmethionine:tRNA ribosyltransferase-isomerase [EC:2.4.99.17]	532		
+tr|S6BUJ9|S6BUJ9_LACCA			29	K00962	1
+tr|S6CK82|S6CK82_LACCA	K03488	licT; beta-glucoside operon transcriptional antiterminator	114	K02531	23
+tr|S6BUN0|S6BUN0_LACCA			17	K11900	1
+tr|S6C7P3|S6C7P3_LACCA	K02028	ABC.PA.A; polar amino acid transport system ATP-binding protein [EC:3.6.3.21]	319		
+tr|S6C9C0|S6C9C0_LACCA			182		
+tr|S6C5T7|S6C5T7_LACCA	K03547	sbcD; exonuclease SbcD	256		
+tr|S6CAE2|S6CAE2_LACCA	K00790	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase [EC:2.5.1.7]	537		
+tr|S6BRY5|S6BRY5_LACCA	K03470	rnhB; ribonuclease HII [EC:3.1.26.4]	220		
+tr|S6BSS2|S6BSS2_LACCA	K02916	RP-L35; large subunit ribosomal protein L35	94		
+tr|S6C6I9|S6C6I9_LACCA	K06201	cutC; copper homeostasis protein	233		
+tr|S6BPI2|S6BPI2_LACCA			15	K04483	1
+tr|S6C6G3|S6C6G3_LACCA			222		
+tr|S6BQ01|S6BQ01_LACCA			13	K02986	2
+tr|S6C699|S6C699_LACCA			16	K03455	3
+tr|S6BRB4|S6BRB4_LACCA			18	K01990	1
+tr|S6BT47|S6BT47_LACCA	K11733	lysP; lysine-specific permease	590		
+tr|S6C912|S6C912_LACCA			107		
+tr|S6CAF2|S6CAF2_LACCA	K09685	purR; purine operon repressor	359		
+tr|S6C610|S6C610_LACCA			140		
+tr|S6C6Z7|S6C6Z7_LACCA			27	K07643	1
+tr|S6CA83|S6CA83_LACCA			19	K03546	1
+tr|S6C8Z5|S6C8Z5_LACCA			789		
+tr|S6CC33|S6CC33_LACCA	K03708	ctsR; transcriptional regulator of stress and heat shock response	131		
+tr|S6CJ08|S6CJ08_LACCA	K07088	uncharacterized protein	302		
+tr|S6C216|S6C216_LACCA	K01937	pyrG; CTP synthase [EC:6.3.4.2]	784		
+tr|S6CJY6|S6CJY6_LACCA	K19976	mntB; manganese/zinc transport system permease protein	346		
+tr|S6C0Y6|S6C0Y6_LACCA			141		
+tr|S6CAZ4|S6CAZ4_LACCA	K07118	uncharacterized protein	57		
+tr|S6C068|S6C068_LACCA			17	K00800	2
+tr|S6CIR7|S6CIR7_LACCA	K01534	zntA; Cd2+/Zn2+-exporting ATPase [EC:3.6.3.3 3.6.3.5]	535		
+tr|S6CJA6|S6CJA6_LACCA			277		
+tr|S6CBW2|S6CBW2_LACCA			19	K00796	3
+tr|S6CIT6|S6CIT6_LACCA	K01779	racD; aspartate racemase [EC:5.1.1.13]	219		
+tr|S6C9T9|S6C9T9_LACCA	K03664	smpB; SsrA-binding protein	205		
+tr|S6C0P6|S6C0P6_LACCA	K01338	lon; ATP-dependent Lon protease [EC:3.4.21.53]	891		
+tr|S6CA50|S6CA50_LACCA	K01119	cpdB; 2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase [EC:3.1.4.16 3.1.3.6]	420		
+tr|S6CJI0|S6CJI0_LACCA			15	K00901	5
+tr|S6CJ46|S6CJ46_LACCA			16	K00340	1
+tr|S6BXU0|S6BXU0_LACCA	K05837	rodA; rod shape determining protein RodA	428		
+tr|S6BVE3|S6BVE3_LACCA			406		
+tr|S6C1U7|S6C1U7_LACCA	K02954	RP-S14; small subunit ribosomal protein S14	113		
+tr|S6C9S7|S6C9S7_LACCA	K03701	uvrA; excinuclease ABC subunit A	1423		
+tr|S6CJ87|S6CJ87_LACCA			16	K00684	1
+tr|S6C073|S6C073_LACCA			17	K00525	2
+tr|S6BWN2|S6BWN2_LACCA			17	K03325	2
+tr|S6BUV1|S6BUV1_LACCA	K16785	ecfT; energy-coupling factor transport system permease protein	317		
+tr|S6BVD1|S6BVD1_LACCA	K01628	fucA; L-fuculose-phosphate aldolase [EC:4.1.2.17]	111		
+tr|S6BQ90|S6BQ90_LACCA			276		
+tr|S6BVC6|S6BVC6_LACCA			21	K20374	1
+tr|S6BPL6|S6BPL6_LACCA			199		
+tr|S6CCJ7|S6CCJ7_LACCA	K03817	rimL; ribosomal-protein-serine acetyltransferase [EC:2.3.1.-]	89		
+tr|S6CA32|S6CA32_LACCA			183		
+tr|S6BWZ8|S6BWZ8_LACCA			256		
+tr|S6BXW6|S6BXW6_LACCA			189		
+tr|S6CJ24|S6CJ24_LACCA			220		
+tr|S6BWD2|S6BWD2_LACCA			75		
+tr|S6C8Y7|S6C8Y7_LACCA			16	K01066	2
+tr|S6CAL3|S6CAL3_LACCA			154		
+tr|S6C9S1|S6C9S1_LACCA	K09811	ftsX; cell division transport system permease protein	273		
+tr|S6BWY6|S6BWY6_LACCA			168		
+tr|S6CCH7|S6CCH7_LACCA			18	K04043	2
+tr|S6BSW5|S6BSW5_LACCA	K01126	E3.1.4.46; glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46]	302		
+tr|S6CA64|S6CA64_LACCA			20	K03496	2
+tr|S6BUU8|S6BUU8_LACCA	K02004	ABC.CD.P; putative ABC transport system permease protein	223		
+tr|S6CA44|S6CA44_LACCA			416		
+tr|S6C7D1|S6C7D1_LACCA			209		
+tr|S6C5P7|S6C5P7_LACCA			19	K03543	2
+tr|S6C7N7|S6C7N7_LACCA	K01607	pcaC; 4-carboxymuconolactone decarboxylase [EC:4.1.1.44]	142		
+tr|S6BVZ2|S6BVZ2_LACCA			317		
+tr|S6BVI3|S6BVI3_LACCA					
+tr|S6C853|S6C853_LACCA			19	K02298	3
+tr|S6BXZ0|S6BXZ0_LACCA			109		
+tr|S6BZ21|S6BZ21_LACCA			155		
+tr|S6C1N3|S6C1N3_LACCA			51	K07496	2
+tr|S6C8W3|S6C8W3_LACCA	K01760	metC; cystathionine beta-lyase [EC:4.4.1.8]	287	K01739	35
+tr|S6BYL1|S6BYL1_LACCA	K06967	trmK; tRNA (adenine22-N1)-methyltransferase [EC:2.1.1.217]	168		
+tr|S6C199|S6C199_LACCA			22	K03758	9
+tr|S6CK33|S6CK33_LACCA	K03744	lemA; LemA protein	176		
+tr|S6CJI9|S6CJI9_LACCA			225		
+tr|S6BYG8|S6BYG8_LACCA	K07035	uncharacterized protein	152		
+tr|S6CJQ5|S6CJQ5_LACCA	K01629	rhaD; rhamnulose-1-phosphate aldolase [EC:4.1.2.19]	326		
+tr|S6BUK8|S6BUK8_LACCA			17	K06288	1
+tr|S6CCP8|S6CCP8_LACCA			307	K00854	18
+tr|S6CK76|S6CK76_LACCA			201		
+tr|S6CAM9|S6CAM9_LACCA			262		
+tr|S6C5M6|S6C5M6_LACCA			78		
+tr|S6BTF1|S6BTF1_LACCA			61	K00766	2
+tr|S6C688|S6C688_LACCA			17	K03722	2
+tr|S6C508|S6C508_LACCA					
+tr|S6BV90|S6BV90_LACCA			219		
+tr|S6CA04|S6CA04_LACCA	K06988	uncharacterized protein	215		
+tr|S6BSV8|S6BSV8_LACCA	K03698	cbf; 3'-5' exoribonuclease [EC:3.1.-.-]	370		
+tr|S6CJC9|S6CJC9_LACCA	K09772	sepF; cell division inhibitor SepF	109		
+tr|S6CC30|S6CC30_LACCA			558		
+tr|S6C2Y4|S6C2Y4_LACCA			21	K11733	1
+tr|S6CJZ6|S6CJZ6_LACCA			16	K00602	2
+tr|S6CBE4|S6CBE4_LACCA			701		
+tr|S6C0M1|S6C0M1_LACCA	K10823	oppF; oligopeptide transport system ATP-binding protein	413		
+tr|S6CJM8|S6CJM8_LACCA	K00764	purF; amidophosphoribosyltransferase [EC:2.4.2.14]	595		
+tr|S6BZY4|S6BZY4_LACCA	K10563	mutM; formamidopyrimidine-DNA glycosylase [EC:3.2.2.23 4.2.99.18]	272		
+tr|S6CJY2|S6CJY2_LACCA			12	K07089	5
+tr|S6CB60|S6CB60_LACCA			115		
+tr|S6CBZ1|S6CBZ1_LACCA			22	K00024	1
+tr|S6CAW7|S6CAW7_LACCA			107		
+tr|S6CJ76|S6CJ76_LACCA	K07024	uncharacterized protein	236		
+tr|S6C2C1|S6C2C1_LACCA			20	K01749	2
+tr|S6BWM1|S6BWM1_LACCA	K01126	E3.1.4.46; glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46]	82		
+tr|S6BVX2|S6BVX2_LACCA			190		
+tr|S6BYI2|S6BYI2_LACCA	K07078	uncharacterized protein	195		
+tr|S6BVG6|S6BVG6_LACCA	K03311	TC.LIVCS; branched-chain amino acid:cation transporter, LIVCS family	128		
+tr|S6C1F3|S6C1F3_LACCA			769	K01537	70
+tr|S6BYB6|S6BYB6_LACCA	K00287	folA; dihydrofolate reductase [EC:1.5.1.3]	125		
+tr|S6CJK1|S6CJK1_LACCA	K00942	E2.7.4.8; guanylate kinase [EC:2.7.4.8]	268		
+tr|S6BWN6|S6BWN6_LACCA	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	176		
+tr|S6C9W3|S6C9W3_LACCA			23	K10804	7
+tr|S6C921|S6C921_LACCA			176		
+tr|S6CCN0|S6CCN0_LACCA			399		
+tr|S6C911|S6C911_LACCA			209		
+tr|S6BRL9|S6BRL9_LACCA	K10947	padR; PadR family transcriptional regulator, regulatory protein PadR	108		
+tr|S6BQP1|S6BQP1_LACCA	K02954	RP-S14; small subunit ribosomal protein S14	114		
+tr|S6BPN8|S6BPN8_LACCA	K00016	LDH; L-lactate dehydrogenase [EC:1.1.1.27]	308		
+tr|S6BWY3|S6BWY3_LACCA			19	K00766	6
+tr|S6CJZ2|S6CJZ2_LACCA			19	K01156	2
+tr|S6CJA5|S6CJA5_LACCA			162		
+tr|S6CAT5|S6CAT5_LACCA	K00033	PGD; 6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343]	709		
+tr|S6C890|S6C890_LACCA			196		
+tr|S6C8B7|S6C8B7_LACCA			500		
+tr|S6BSG0|S6BSG0_LACCA			158	K02031	140
+tr|S6C9D2|S6C9D2_LACCA	K03581	recD; exodeoxyribonuclease V alpha subunit [EC:3.1.11.5]	157		
+tr|S6BQC4|S6BQC4_LACCA			37	K02315	13
+tr|S6C6W6|S6C6W6_LACCA	K03654	recQ; ATP-dependent DNA helicase RecQ [EC:3.6.4.12]	662		
+tr|S6BRW0|S6BRW0_LACCA	K06024	scpB; segregation and condensation protein B	162		
+tr|S6BNW1|S6BNW1_LACCA			124		
+tr|S6C7R8|S6C7R8_LACCA	K03530	hupB; DNA-binding protein HU-beta	153		
+tr|S6BQI9|S6BQI9_LACCA			17	K14447	1
+tr|S6C7S1|S6C7S1_LACCA	K15738	uup; ATP-binding cassette, subfamily F, uup	643		
+tr|S6CA22|S6CA22_LACCA			174		
+tr|S6C9D6|S6C9D6_LACCA			231		
+tr|S6BV27|S6BV27_LACCA			37	K02035	2
+tr|S6C9Z7|S6C9Z7_LACCA	K00712	tagE; poly(glycerol-phosphate) alpha-glucosyltransferase [EC:2.4.1.52]	311		
+tr|S6C7M6|S6C7M6_LACCA	K02340	DPO3D1; DNA polymerase III subunit delta [EC:2.7.7.7]	253		
+tr|S6BPR2|S6BPR2_LACCA	K03320	amt; ammonium transporter, Amt family	383		
+tr|S6CK93|S6CK93_LACCA			101	K01178	6
+tr|S6C929|S6C929_LACCA	K16511	mecA1_2; adapter protein MecA 1/2	154		
+tr|S6BSZ0|S6BSZ0_LACCA			243	K06609	113
+tr|S6BRQ1|S6BRQ1_LACCA			20	K04087	2
+tr|S6CA00|S6CA00_LACCA	K01426	E3.5.1.4; amidase [EC:3.5.1.4]	406		
+tr|S6C6X1|S6C6X1_LACCA			15	K03427	1
+tr|S6C6Q0|S6C6Q0_LACCA	K03928	yvaK; carboxylesterase [EC:3.1.1.1]	83		
+tr|S6BP51|S6BP51_LACCA	K12308	bgaB; beta-galactosidase [EC:3.2.1.23]	667		
+tr|S6C955|S6C955_LACCA			115		
+tr|S6CBQ1|S6CBQ1_LACCA	K00805	hepST; heptaprenyl diphosphate synthase [EC:2.5.1.30]	313		
+tr|S6BWP8|S6BWP8_LACCA			13	K00036	3
+tr|S6CIU4|S6CIU4_LACCA			537		
+tr|S6C8Z1|S6C8Z1_LACCA			189		
+tr|S6CAH8|S6CAH8_LACCA	K06872	uncharacterized protein	120		
+tr|S6C828|S6C828_LACCA			17	K01637	2
+tr|S6CK97|S6CK97_LACCA	K02564	nagB; glucosamine-6-phosphate deaminase [EC:3.5.99.6]	292		
+tr|S6C1K2|S6C1K2_LACCA			20	K02299	1
+tr|S6CIY7|S6CIY7_LACCA	K07862	sstT; serine/threonine transporter	216		
+tr|S6C9V7|S6C9V7_LACCA			15	K08300	1
+tr|S6C9B6|S6C9B6_LACCA	K00973	E2.7.7.24; glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24]	382		
+tr|S6C0R1|S6C0R1_LACCA			381	K00100	78
+tr|S6CB33|S6CB33_LACCA	K10039	ABC.GLN1.S; putative glutamine transport system substrate-binding protein	292		
+tr|S6CAD7|S6CAD7_LACCA			150		
+tr|S6C1B6|S6C1B6_LACCA			153	K07798	4
+tr|S6BR74|S6BR74_LACCA			169		
+tr|S6CJ74|S6CJ74_LACCA	K01838	pgmB; beta-phosphoglucomutase [EC:5.4.2.6]	193		
+tr|S6BWB5|S6BWB5_LACCA	K01190	lacZ; beta-galactosidase [EC:3.2.1.23]	350		
+tr|S6C881|S6C881_LACCA			75		
+tr|S6C5G9|S6C5G9_LACCA	K06978	uncharacterized protein	364		
+tr|S6CIX6|S6CIX6_LACCA			17	K01006	1
+tr|S6C9W8|S6C9W8_LACCA			289		
+tr|S6BR67|S6BR67_LACCA			275		
+tr|S6C0W2|S6C0W2_LACCA	K03488	licT; beta-glucoside operon transcriptional antiterminator	157		
+tr|S6CA11|S6CA11_LACCA	K06959	tex; protein Tex	819		
+tr|S6C1P5|S6C1P5_LACCA			24	K00571	8
+tr|S6C9F2|S6C9F2_LACCA	K00645	fabD; [acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39]	188		
+tr|S6BQE6|S6BQE6_LACCA			30	K02584	1
+tr|S6BTR9|S6BTR9_LACCA			17	K02563	1
+tr|S6C945|S6C945_LACCA	K07586	ygaC; uncharacterized protein	289		
+tr|S6C4R9|S6C4R9_LACCA	K05520	pfpI; protease I [EC:3.2.-.-]	203		
+tr|S6BPS0|S6BPS0_LACCA	K02759	PTS-Cel-EIIA; PTS system, cellobiose-specific IIA component [EC:2.7.1.196 2.7.1.205]	119		
+tr|S6BQH5|S6BQH5_LACCA	K06919	putative DNA primase/helicase	429		
+tr|S6BTU9|S6BTU9_LACCA			101		
+tr|S6C4X2|S6C4X2_LACCA			20	K03807	1
+tr|S6C5S9|S6C5S9_LACCA	K01785	galM; aldose 1-epimerase [EC:5.1.3.3]	178		
+tr|S6CAK7|S6CAK7_LACCA			359		
+tr|S6C6W0|S6C6W0_LACCA			16	K00942	2
+tr|S6C5R0|S6C5R0_LACCA			26	K09792	1
+tr|S6BP44|S6BP44_LACCA					
+tr|S6BS83|S6BS83_LACCA	K03595	era; GTPase	385		
+tr|S6C7B8|S6C7B8_LACCA			21	K01929	1
+tr|S6C5R5|S6C5R5_LACCA	K01674	cah; carbonic anhydrase [EC:4.2.1.1]	109		
+tr|S6CA53|S6CA53_LACCA			70	K00762	2
+tr|S6BPR6|S6BPR6_LACCA			415		
+tr|S6CA16|S6CA16_LACCA	K01372	BLMH; bleomycin hydrolase [EC:3.4.22.40]	293		
+tr|S6CCM8|S6CCM8_LACCA			20	K01154	1
+tr|S6BP93|S6BP93_LACCA	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	344		
+tr|S6C5E8|S6C5E8_LACCA	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	282		
+tr|S6BNT4|S6BNT4_LACCA	K09004	uncharacterized protein	14		
+tr|S6BW67|S6BW67_LACCA	K05833	ABC.X4.A; putative ABC transport system ATP-binding protein	293		
+tr|S6CA86|S6CA86_LACCA	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	225		
+tr|S6C919|S6C919_LACCA	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	296		
+tr|S6CJV4|S6CJV4_LACCA	K03572	mutL; DNA mismatch repair protein MutL	588		
+tr|S6CK47|S6CK47_LACCA	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	127		
+tr|S6C224|S6C224_LACCA	K03574	mutT; 8-oxo-dGTP diphosphatase [EC:3.6.1.55]	62		
+tr|S6C7P6|S6C7P6_LACCA	K03979	obgE; GTPase [EC:3.6.5.-]	506		
+tr|S6BUM4|S6BUM4_LACCA			13	K06207	3
+tr|S6CA77|S6CA77_LACCA			281		
+tr|S6C5C6|S6C5C6_LACCA	K19956	sorE; L-sorbose 1-phosphate reductase [EC:1.1.1.-]	417		
+tr|S6BPL1|S6BPL1_LACCA	K02424	fliY; cystine transport system substrate-binding protein	187		
+tr|S6CCR8|S6CCR8_LACCA			263		
+tr|S6BSA3|S6BSA3_LACCA			17	K02520	1
+tr|S6CAW5|S6CAW5_LACCA			19	K01494	2
+tr|S6C8X4|S6C8X4_LACCA	K03486	treR2; GntR family transcriptional regulator, trehalose operon transcriptional repressor	172		
+tr|S6BST5|S6BST5_LACCA	K03346	dnaB; replication initiation and membrane attachment protein	168		
+tr|S6BPA3|S6BPA3_LACCA	K19802	ycjG; L-Ala-D/L-Glu epimerase [EC:5.1.1.20]	104		
+tr|S6CAX1|S6CAX1_LACCA			18	K17488	2
+tr|S6CCL3|S6CCL3_LACCA			47	K03892	42
+tr|S6C9V9|S6C9V9_LACCA			258		
+tr|S6C5K1|S6C5K1_LACCA			621		
+tr|S6C9M5|S6C9M5_LACCA			355		
+tr|S6CAF4|S6CAF4_LACCA			22	K03781	2
+tr|S6CAJ6|S6CAJ6_LACCA	K04066	priA; primosomal protein N' (replication factor Y) (superfamily II helicase) [EC:3.6.4.-]	830		
+tr|S6CK50|S6CK50_LACCA	K09704	uncharacterized protein	378		
+tr|S6BV93|S6BV93_LACCA			39	K00970	1
+tr|S6CJH4|S6CJH4_LACCA			22	K03305	2
+tr|S6BW69|S6BW69_LACCA			261		
+tr|S6CC10|S6CC10_LACCA	K02518	infA; translation initiation factor IF-1	133		
+tr|S6BW41|S6BW41_LACCA			182		
+tr|S6CJ21|S6CJ21_LACCA	K08974	putative membrane protein	139		
+tr|S6CJS0|S6CJS0_LACCA			145		
+tr|S6CJ68|S6CJ68_LACCA			420		
+tr|S6CK03|S6CK03_LACCA			23	K04077	1
+tr|S6CAZ7|S6CAZ7_LACCA			17	K00281	1
+tr|S6C9H0|S6C9H0_LACCA			27	K03453	1
+tr|S6BVU6|S6BVU6_LACCA			15	K02548	3
+tr|S6CIW5|S6CIW5_LACCA	K01246	tag; DNA-3-methyladenine glycosylase I [EC:3.2.2.20]	183		
+tr|S6CIS3|S6CIS3_LACCA			192		
+tr|S6CJJ5|S6CJJ5_LACCA	K06960	uncharacterized protein	77		
+tr|S6BWD6|S6BWD6_LACCA	K07483	transposase	54		
+tr|S6C2Q9|S6C2Q9_LACCA	K02760	PTS-Cel-EIIB; PTS system, cellobiose-specific IIB component [EC:2.7.1.196 2.7.1.205]	126		
+Contaminant_TRYP_PIG			153	K01312	19
+Contaminant_Trypa1					
+Contaminant_Trypa2					
+Contaminant_Trypa3					
+Contaminant_Trypa4					
+Contaminant_Trypa5			17	K03701	1
+Contaminant_Trypa6					
+Contaminant_TRYP_BOVIN			153	K01312	19
+Contaminant_CTRA_BOVIN			135	K01312	16
+Contaminant_CTRB_BOVIN			131	K01312	15
+Contaminant_ALBU_HUMAN			20	K03685	1
+Contaminant_ALBU_BOVIN			16	K01494	2
+Contaminant_K2C1_HUMAN			38	K03546	5
+Contaminant_K22E_HUMAN			24	K03529	2
+Contaminant_K1C9_HUMAN			25	K03529	2
+Contaminant_K1C10_HUMAN			24	K03529	4
