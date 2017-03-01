@@ -2,5 +2,6 @@ Acetylation.filtered.q_0.001
 *.png
 GhostKoalaAnnotation
 SupplementaryTable1.txt
+ExtendedDataTable1.txt
 __pycache__
 .ipynb_checkpoints
