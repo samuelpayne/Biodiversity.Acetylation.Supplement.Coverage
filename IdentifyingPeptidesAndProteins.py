@@ -70,6 +70,17 @@ class Protein:
                     ToReturn.append(Peptide[i-1])
         return ToReturn
 
+    def GetNumPeptides(self):
+        #simple return
+        return len(self.Peptides)
+    def GetNumModPeptides(self,PTMChar):
+        #check each peptide, count, and return
+        Count = 0
+        for Peptide in self.Peptides.keys():
+            if PTMChar in Peptide:
+                Count += 1
+        return Count
+
 
 class Organism:
     def __init__(self, Name):
@@ -128,6 +139,23 @@ class Organism:
         #now go back and kill. Can't remove during a loop.
         for Accession in KillMeList:
             del self.Proteins[Accession]
+    def GetPeptideCount(self):
+        ### simple method to return the number of peptides that were identified
+        Count = 0
+        for Accession in self.Proteins.keys():
+            ProteinObject = self.Proteins[Accession]
+            Count += ProteinObject.GetNumPeptides()
+        return Count
+
+    def GetModifiedPeptideCount(self, PTMChar):
+        #counting just those peptides that have the specific PTM character
+        Count = 0
+        for Accession in self.Proteins.keys():
+            ProteinObject = self.Proteins[Accession]
+            Count += ProteinObject.GetNumModPeptides(PTMChar)
+        return Count
+
+
             
 
 

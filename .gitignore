@@ -1,5 +1,9 @@
 *.png
+Acetylation.DataPackage.1541
 SupplementaryTable1.txt
 ExtendedDataTable1.txt
+New.full
+new.zipped
+old.zipped
 __pycache__
 .ipynb_checkpoints

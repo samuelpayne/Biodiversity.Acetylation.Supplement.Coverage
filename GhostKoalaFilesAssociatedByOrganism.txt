@@ -20,6 +20,7 @@ Coprococcus comes ATCC 27758	coprococcus_comes.detailed.txt
 Cyanobacterium staneri HL-69	HL69_Cyanobacterium_staneri.detailed.txt
 Delftia acidovorans	delftia_acidovorans.detailed.txt
 Dorea longicatena DSM13814	Dorea_longicatena.detailed.txt
+Dorea formicigenerans	Dorea_formicigenerans.detailed.txt
 Erythrobacter HL-111	HL111_Erythrobacter.detailed.txt
 Faecalibacterium prausnitzii ATCC 27766	Faecalibacterium_prausnitzii.detailed.txt
 Fibrobacter succinogenes S85	Fibrobacter_succinogenes.detailed.txt
